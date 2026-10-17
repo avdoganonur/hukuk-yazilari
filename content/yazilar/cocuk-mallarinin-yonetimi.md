@@ -4,7 +4,7 @@ aciklama: "Ana ve babanın çocuğun mallarını yönetme ve kullanma hakkı, ge
 kisaca:
   - "Ana ve baba, velayet sürdükçe çocuğun mallarını yönetme hakkına sahiptir ve bununla yükümlüdür."
   - "Çocuk mallarının gelirleri öncelikle çocuğun bakımı, yetiştirilmesi ve eğitimi için harcanır."
-  - "Tazminat gibi sermaye ödemeleri olağan ihtiyaçlar ölçüsünde bakım için kısmen kullanılabilir; çocuğun diğer mallarına ise ancak zorunluluk varsa hâkimin izniyle başvurulabilir."
+  - "Tazminat gibi ödemeler bakım için kısmen kullanılabilir; çocuğun diğer mallarına ise ancak zorunluluk varsa hâkimin izniyle başvurulabilir."
   - "Mallar tehlikeye düşerse hâkim önlem alır, gerekirse yönetimi bir kayyıma devreder."
 tarih: 2026-10-18
 alan: aile-hukuku
