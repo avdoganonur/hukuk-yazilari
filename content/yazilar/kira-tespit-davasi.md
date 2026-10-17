@@ -51,7 +51,7 @@ Konut kiralarında bir dönem bu sınıra ek olarak geçici bir üst sınır da 
 
 ## Beş yıl dolduğunda hâkimin belirlemesi
 
-Uzun süren kira ilişkilerinde yalnızca TÜFE oranında yapılan artışlar, kiranın çevredeki benzer yerlerin gerisinde kalmasına yol açabilir. Kanun bunun için ayrı bir kural koyar. Beş yıldan uzun süreli ya da beş yıldan sonra yenilenen sözleşmelerde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak bedel hâkim tarafından belirlenir. Taraflar arasında bir artış anlaşması bulunması bu yola gidilmesine engel değildir (m. 344/3).
+Uzun süren kira ilişkilerinde yalnızca TÜFE oranında yapılan artışlar, kiranın çevredeki benzer yerlerin gerisinde kalmasına yol açabilir. Kanun uzun süren kira ilişkileri için ayrı bir kural koyar. Beş yıldan uzun süreli ya da beş yıldan sonra yenilenen sözleşmelerde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak bedel hâkim tarafından belirlenir. Taraflar arasında bir artış anlaşması bulunması bu yola gidilmesine engel değildir (m. 344/3).
 
 Bu belirlemede hâkim TÜFE'deki değişim oranına, kiralananın durumuna ve emsal kira bedellerine birlikte bakar ve hakkaniyete uygun bir bedel belirler. Emsal kira bedeli, aynı bölgedeki benzer nitelikteki taşınmazlar için ödenen kiradır. Beş yıllık dönemin sonunda belirlenen bu yeni bedel, sonraki yıllarda yine TÜFE sınırına göre artırılabilir; bir sonraki beş yılın sonunda ise aynı yola yeniden başvurulabilir.
 

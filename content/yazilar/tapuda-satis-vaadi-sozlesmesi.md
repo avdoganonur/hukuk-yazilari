@@ -40,11 +40,13 @@ dayanak:
   - ad: "1512 sayılı Noterlik Kanunu m. 89"
     not: "Satış vaadinin düzenleme şeklinde yapılması zorunluluğu"
   - ad: "2644 sayılı Tapu Kanunu m. 26"
-    not: "Satış vaadi şerhinin beş yıl sonra kendiliğinden terkini"
+    not: "Resmî senedin tapu görevlilerince düzenlenmesi, satış vaadi şerhinin beş yıl sonra kendiliğinden terkini"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2644&MevzuatTur=1&MevzuatTertip=3"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 12"
     not: "Taşınmazın bulunduğu yer mahkemesinin kesin yetkisi"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
+  - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 367"
+    not: "Taşınmaza ilişkin aynî hak kararlarının kesinleşmeden yerine getirilememesi"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 389"
     not: "İhtiyati tedbirin şartları"
 sss:
@@ -63,7 +65,7 @@ Taşınmaz alım satımında devir her zaman hemen yapılmaz. Bina henüz bitmem
 
 Türk Medeni Kanunu'na göre taşınmaz mülkiyetinin devrini amaçlayan sözleşmelerin geçerliliği resmî şekilde düzenlenmelerine bağlıdır (m. 706). Türk Borçlar Kanunu bunu satış vaadi için ayrıca açıkça söyler: taşınmaz satışı vaadi, geri alım ve alım sözleşmeleri resmî şekilde düzenlenmedikçe geçerli olmaz (m. 237). İleride bir sözleşme kurma borcu doğuran sözleşmelere önsözleşme denir. Kanunda aksi öngörülmedikçe önsözleşmenin geçerliliği, ileride kurulacak sözleşmenin şekline bağlıdır (m. 29). Satış vaadi de bu nedenle asıl satış gibi resmî şekle tâbidir.
 
-Satış vaadini resmî şekilde düzenleme görevi noterlere verilmiştir. Noterlik Kanunu, noterin görevleri arasında taşınmaz satış vaadi sözleşmesi yapmayı sayar (m. 60). Aynı Kanunun 89. maddesi de gayrimenkul satış vaadinin düzenleme şeklinde yapılmasını zorunlu tutar. Düzenleme şeklinde işlemde sözleşmeyi noter düzenler; noterin yalnızca dışarıda yazılıp getirilen bir metindeki imzaları onaylaması bu şartı karşılamaz.
+Resmî şekil, sözleşmenin kanunun yetkili kıldığı bir görevli tarafından düzenlenmesi demektir. Taşınmaz satışında resmî senedi tapu müdürlüğü görevlileri düzenler (Tapu Kanunu m. 26). Satış vaadini resmî şekilde düzenleme görevi ise noterlere verilmiştir. Noterlik Kanunu, noterin görevleri arasında taşınmaz satış vaadi sözleşmesi yapmayı sayar (m. 60). Aynı Kanunun 89. maddesi de gayrimenkul satış vaadinin düzenleme şeklinde yapılmasını zorunlu tutar. Düzenleme şeklinde işlemde sözleşmeyi noter düzenler; noterin yalnızca dışarıda yazılıp getirilen bir metindeki imzaları onaylaması bu şartı karşılamaz.
 
 Kanunda öngörülen şekle uyulmadan kurulan sözleşmeler hüküm doğurmaz (Türk Borçlar Kanunu m. 12). Uygulamada sık görülen "harici satış" ya da adi yazılı satış sözleşmeleri bu yüzden alıcıya tapuda devir isteme hakkı vermez.
 
@@ -80,6 +82,8 @@ Noter, taraflardan biri isterse ve harç ile giderleri öderse, satış vaadi s�
 ## Satıcı devirden kaçınırsa tescil davası
 
 Mülkiyetin kazanılmasına esas olacak bir hukuki sebebe dayanarak malikten tescil isteme hakkı bulunan kişi, malik kaçınırsa hâkimden mülkiyetin hükmen geçirilmesini isteyebilir (Türk Medeni Kanunu m. 716). Geçerli bir satış vaadine dayanan alıcı da bu yolla tapu iptali ve tescil davası açar. Taşınmazın bulunduğu yer mahkemesi kesin yetkilidir (Hukuk Muhakemeleri Kanunu m. 12).
+
+Mahkemenin tescil kararı, satıcının tapuda vermesi gereken iradenin yerine geçer. Mahkeme kararına dayanarak mülkiyeti kazanan kişi tescili doğrudan yaptırabilir (Türk Medeni Kanunu m. 716). Ancak taşınmaz üzerindeki aynî haklara ilişkin kararlar kesinleşmedikçe yerine getirilemez (Hukuk Muhakemeleri Kanunu m. 367); tapuda tescil için kararın kesinleşmesi beklenir.
 
 Satış vaadi karşılıklı borç doğuran bir sözleşmedir. Karşılıklı sözleşmelerde ifa isteyen taraf, sözleşmeye göre daha sonra ifa etme hakkı yoksa, kendi borcunu ifa etmiş ya da ifasını önermiş olmalıdır (Türk Borçlar Kanunu m. 97). Bu nedenle alıcı, kararlaştırılan bedeli ödediğini ya da ödemeye hazır olduğunu göstermelidir.
 

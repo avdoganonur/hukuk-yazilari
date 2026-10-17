@@ -46,7 +46,7 @@ sss:
   - soru: "Apartmanda bir daire lokantaya çevrildi; koku ve duman geliyor. Ne yapılabilir?"
     cevap: "Kütükte mesken olarak gösterilen bir bağımsız bölümde lokanta, pastane, fırın gibi gıda yerleri ancak kat malikleri kurulunun oybirliğiyle vereceği kararla açılabilir. Böyle bir karar yoksa ya da işletme izin verilen sınırları aşıp kat maliklerini rahatsız ediyorsa, sulh hukuk mahkemesinden hâkimin müdahalesi istenebilir. Koku ve duman, Türk Medeni Kanunu'nun açıkça saydığı taşkınlıklar arasındadır."
 ---
-Mülkiyet hakkı, sahibine malını dilediği gibi kullanma yetkisi verir, ama bu yetki hukuk düzeninin sınırları içindedir (TMK m. 683). Bu sınırların en sık tartışılanı komşuluk hukukudur. Gece yarısına kadar süren yüksek sesli müzik, sürekli sarsıntı yapan bir makine ya da alt kattaki işyerinden gelen koku, komşuluk hukukunun konusu olan rahatsızlıklardır.
+Mülkiyet hakkı, sahibine malını dilediği gibi kullanma yetkisi verir, ama bu yetki hukuk düzeninin sınırları içindedir (TMK m. 683). Komşuluk hukuku, bu sınırları komşular arasındaki ilişki için ayrıca çizer. Gece yarısına kadar süren yüksek sesli müzik, sürekli sarsıntı yapan bir makine ya da alt kattaki işyerinden gelen koku, komşuluk hukukunun konusu olan rahatsızlıklardır.
 
 ## Taşkın kullanım ve hoşgörü sınırı
 
@@ -66,7 +66,7 @@ Bu davalara kural olarak asliye hukuk mahkemesi bakar (Hukuk Muhakemeleri Kanunu
 
 ## Apartmanda rahatsızlık: Kat Mülkiyeti Kanunu
 
-Apartman ve sitelerde komşuluk ilişkisi Kat Mülkiyeti Kanunu ile ayrıca düzenlenir. Kanunun 18. maddesine göre kat malikleri, hem kendi bölümlerini hem ortak yerleri kullanırken doğruluk kurallarına uymak, özellikle birbirini rahatsız etmemek, birbirinin haklarını çiğnememek ve yönetim planına uymakla yükümlüdür. Bu yükümlülükler kiracılara, oturma (sükna) hakkı sahiplerine ve bağımsız bölümden sürekli yararlanan herkese de uygulanır. Bunlara uymayanlar kat malikiyle birlikte müteselsilen sorumludur. Yönetim planı da bütün kat maliklerini bağlayan bir sözleşme hükmündedir ve bağımsız bölümlerin kullanma maksadı ve şekli gibi konuları düzenler (m. 28). Planda yer alan kullanım kurallarına aykırı davranmak da 18. maddedeki yükümlülüğün ihlalidir.
+Apartman ve sitelerde komşuluk ilişkisi Kat Mülkiyeti Kanunu ile ayrıca düzenlenir. Kanunun 18. maddesine göre kat malikleri, hem kendi bölümlerini hem ortak yerleri kullanırken doğruluk kurallarına uymak, özellikle birbirini rahatsız etmemek, birbirinin haklarını çiğnememek ve yönetim planına uymakla yükümlüdür. Bu yükümlülükler kiracılara, oturma (sükna) hakkı sahiplerine ve bağımsız bölümden sürekli yararlanan herkese de uygulanır. Bunlara uymayanlar kat malikiyle birlikte müteselsilen sorumludur. Yönetim planı da bütün kat maliklerini bağlayan bir sözleşme hükmündedir ve yönetim tarzı ile kullanma amacı ve şekli gibi konuları düzenler (m. 28). Planda yer alan kullanım kurallarına aykırı davranmak da 18. maddedeki yükümlülüğün ihlalidir.
 
 Bir kat malikinin ya da onun bölümünde oturan kişinin bu borçlara uymaması yüzünden zarar gören kat maliki, binanın bulunduğu yerdeki sulh mahkemesine başvurarak hâkimin müdahalesini isteyebilir (m. 33). Hâkim ilgilileri dinledikten sonra kanuna, yönetim planına, bunlarda hüküm yoksa genel hükümlere ve hakkaniyete göre hemen karar verir ve kararın kısa bir süre içinde yerine getirilmesini ister. Belirlenen sürede karara uymayana aynı mahkeme idari para cezası verir.
 

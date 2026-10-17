@@ -42,7 +42,7 @@ sss:
   - soru: "Gecikme tazminatı nasıl hesaplanır?"
     cevap: "Gider ve avans payının tamamını ödemeyen kat maliki, ödemede geciktiği günler için aylık yüzde beş hesabıyla gecikme tazminatı öder. Örneğin bir aylık payını tam bir ay geç ödeyen kat maliki, o payın yüzde beşi kadar gecikme tazminatı öder; gecikme daha kısaysa tazminat gün hesabıyla küçülür."
   - soru: "Aidat tutarına itiraz etmek istiyorum. Ne yapabilirim?"
-    cevap: "Aidatı belirleyen kat malikleri kurulu kararına karşı sulh hukuk mahkemesinde iptal davası açılabilir. Toplantıya katılıp aykırı oy veren kat maliki karar tarihinden, toplantıya katılmayan kat maliki kararı öğrendiği tarihten itibaren bir ay içinde ve her hâlde karar tarihinden itibaren altı ay içinde dava açmalıdır. Yok ya da mutlak butlanla hükümsüz kararlar için bu süreler aranmaz."
+    cevap: "Aidatı belirleyen kat malikleri kurulu kararına karşı sulh hukuk mahkemesinde iptal davası açılabilir. Toplantıya katılıp aykırı oy veren kat maliki karar tarihinden, toplantıya katılmayan kat maliki kararı öğrendiği tarihten itibaren bir ay içinde ve her hâlde karar tarihinden itibaren altı ay içinde dava açmalıdır. Yok ya da mutlak butlanla hükümsüz kararlar için bu süreler aranmaz. Kat Mülkiyeti Kanunu'ndan kaynaklanan diğer uyuşmazlıklarda olduğu gibi, bu davadan önce de arabulucuya başvurmak dava şartıdır."
 ---
 Halk arasında aidat denen ödeme, Kat Mülkiyeti Kanunu'nda gider ve avans payı olarak geçer. Gider; kapıcı, ortak alanların bakımı, onarımı ve işletilmesi, sigorta ya da yönetici aylığı gibi kalemlerdir. Avans ise bu giderler için önceden toplanan paradır. Bir kat malikinin payını ödememesi, yükü öteki kat maliklerine bırakır. Kanun bu yüzden ödemeyen kat malikine karşı birden fazla yol tanır.
 
@@ -60,7 +60,7 @@ Gecikmenin bir bedeli de vardır. Payının tamamını ödemeyen kat maliki, gec
 
 İcra takibinde önemli bir kolaylık bulunur. Kesinleşen işletme projeleri ve kat malikleri kurulunun işletme giderleriyle ilgili kararları, İcra ve İflas Kanunu'nun 68. maddesinin birinci fıkrasında sayılan belgelerden kabul edilir. Borçlu ödeme emrine itiraz ederse, alacaklı itirazın kendisine tebliğinden itibaren altı ay içinde icra mahkemesinden itirazın kaldırılmasını isteyebilir. Borçlu itirazını haklı gösterecek bir belge sunamazsa mahkeme itirazı kaldırır ve takip devam eder.
 
-Alacak için dava yoluna gidilecekse iki kurala dikkat etmek gerekir. Kat Mülkiyeti Kanunu'nun uygulanmasından doğan her türlü uyuşmazlık sulh hukuk mahkemesinde görülür (Ek m. 1). 2023'ten bu yana bu uyuşmazlıklarda dava açmadan önce arabulucuya başvurmak da dava şartıdır (6325 sayılı Kanun m. 18/B).
+Alacak için dava yoluna gidilecekse iki kurala dikkat etmek gerekir. Kat Mülkiyeti Kanunu'nun uygulanmasından doğan her türlü uyuşmazlık sulh hukuk mahkemesinde görülür (Ek m. 1). 1 Eylül 2023'ten bu yana bu uyuşmazlıklarda dava açmadan önce arabulucuya başvurmak da dava şartıdır (6325 sayılı Kanun m. 18/B).
 
 ## Kiracı ve bölümde oturanların sorumluluğu
 
