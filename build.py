@@ -43,6 +43,8 @@ YASAK_IFADELER = [
 
 SITE = yaml.safe_load((KOK / "site.yaml").read_text(encoding="utf-8"))
 URL = SITE["url"].rstrip("/")
+# Site bir alt klasörde yayınlanıyorsa (ör. kullanıcı.github.io/depo) ön ek; kendi alan adında boş bırakılır.
+ON_EK = (SITE.get("on_ek") or "").rstrip("/")
 BUGUN = dt.datetime.now(TZ).date()
 
 
@@ -585,6 +587,8 @@ def yaz(yol: str, metin: str) -> None:
     if yol.endswith("/"):
         dosya = dosya / "index.html"
     dosya.parent.mkdir(parents=True, exist_ok=True)
+    if ON_EK and dosya.suffix == ".html":
+        metin = re.sub(r'(href|src)="/(?!/)', lambda m: f'{m.group(1)}="{ON_EK}/', metin)
     dosya.write_text(metin, encoding="utf-8")
 
 
@@ -627,7 +631,7 @@ def main() -> int:
     yaz("/sitemap.xml", site_haritasi(yayinda))
     yaz("/robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {URL}/sitemap.xml\n")
     alan_adi = URL.split("//", 1)[-1]
-    if not alan_adi.endswith("github.io"):
+    if not ON_EK and not alan_adi.endswith("github.io"):
         yaz("/CNAME", alan_adi + "\n")
     paylasim_gorselleri(yayinda)
     print(f"Site {CIKTI.relative_to(KOK)}/ klasörüne üretildi.")

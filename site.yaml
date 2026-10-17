@@ -2,6 +2,9 @@
 ad: "Av. Onur Doğan"
 alt_ad: "Kayseri Barosu"
 url: "https://avukatonurdogan.com"
+# Alan adı bağlanana kadar site avdoganonur.github.io/hukuk-yazilari adresinde yayınlanır.
+# Alan adı bağlanınca bu satırı boş bırakın: on_ek: ""
+on_ek: "/hukuk-yazilari"
 aciklama: "Kayseri Barosu'na kayıtlı Av. Onur Doğan'ın hukuk yazıları: hukuki sorulara sade cevaplar ve dayandıkları kanun maddeleri."
 
 yazar:
