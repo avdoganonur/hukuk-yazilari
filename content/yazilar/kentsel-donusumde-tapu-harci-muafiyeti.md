@@ -57,7 +57,7 @@ Aynı maddenin onuncu fıkrası ayrı bir kolaylık getirir. Riskli alanlarda, r
 - Kapsamdaki taşınmazların dönüşümden önceki ilk satışı, devri, tescili ve ipotek kurulması,
 - Dönüşüm sonucu yapılan yeni bağımsız bölümlerin malike, müteahhide ya da en az bir yıldır yapıyı kullanan kiracı veya sınırlı ayni hak sahibine ilk satışı, devri, tescili ve ipotek kurulması,
 - Kapsamdaki bir yapı dolayısıyla, aynı ya da başka bir parselde yeni yapı yapılması veya mevcut bir yapının satın alınması ya da ipotek kurulması,
-- Müteahhit, kamu kurumları, bunların iştirakleri ve gayrimenkul yatırım ortaklıklarının yeni yapılardaki ilk satış, devir, tescil ve ipotek işlemleri.
+- İşi yüklenen müteahhit, Bakanlık, Başkanlık, TOKİ, İller Bankası, İdare ve bunların iştirakleri ile gayrimenkul yatırım ortaklıklarının yeni yapılardaki ilk satış, devir, tescil ve ipotek işlemleri.
 
 Bu yapıların dönüşümüyle ilgili olarak kanun uyarınca yapılan diğer işlemler de istisnadan yararlanır. Sık görülen tablo şöyledir: dönüşümden önce arsa payları müteahhide devredilir, bina bittikten sonra yeni bağımsız bölümler maliklere tescil edilir. Kanun her iki aşamayı da, dönüşümden önceki ve sonraki "ilk satış, devir ve tescil" işlemleri olarak ayrı ayrı saymıştır.
 
@@ -75,6 +75,6 @@ Uygulamada istisnaya girdiği hâlde harç alınan ya da belgeler zamanında sun
 
 Kanun, vergilendirmede yapılan hatalar yüzünden haksız yere fazla vergi istenmesini veya alınmasını vergi hatası sayar. Mükellef, hatanın düzeltilmesini vergi dairesinden yazılı olarak isteyebilir. Talep yerinde görülürse düzeltme fişi düzenlenir ve fazla alınan tutar geri verilir. Düzeltme fişinin tebliğinden itibaren bir yıl içinde paranın geri alınması için başvurulmazsa iade hakkı düşer.
 
-Düzeltme talebi reddedilirse, ret yazısına karşı vergi mahkemesinde dava açılabilir. Vergi mahkemesinde dava açma süresi otuz gündür. Dava açma süresi geçtikten sonra reddedilen düzeltme talepleri için şikâyet yoluyla Hazine ve Maliye Bakanlığına başvurulabilir. Zamanaşımı süresi dolduktan sonra ortaya çıkan hatalar ise düzeltilemez; bu nedenle iade talebinin gecikmeden yapılması gerekir.
+Düzeltme talebi reddedilirse, ret yazısına karşı vergi mahkemesinde dava açılabilir. Vergi mahkemesinde dava açma süresi otuz gündür. Düzeltme talebi vergi mahkemesinde dava açma süresi geçtikten sonra yapılmış ve reddedilmişse, şikâyet yoluyla Hazine ve Maliye Bakanlığına başvurulabilir. Zamanaşımı süresi dolduktan sonra ortaya çıkan hatalar ise düzeltilemez; bu nedenle iade talebinin gecikmeden yapılması gerekir.
 
 Kentsel dönüşümde katma değer vergisi, emlak vergisi gibi başka vergilerin uygulanması ayrı düzenlemelere tabidir ve bu yazının konusu dışındadır.

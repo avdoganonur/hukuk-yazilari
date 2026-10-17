@@ -62,6 +62,7 @@ Adresi belli olmayanlara özel kanunlarına göre ilanla bildirim yapılmışsa,
 Hafta sonu ve resmî tatiller süreye dahildir. Ancak sürenin son günü tatil gününe rastlarsa süre, tatili izleyen ilk çalışma gününün bitimine kadar uzar.
 
 Kanundaki sürelerin bitişi yargının çalışmaya ara verdiği döneme (adli tatile) rastlarsa, süre ara vermenin sona erdiği günü izleyen tarihten itibaren yedi gün uzamış sayılır.
+
 Uzlaşma istenmişse ayrı bir kural uygulanır. Uzlaşma sağlanamadığında dava, uzlaşmanın vaki olmadığına ilişkin tutanağın tebliğinden itibaren açılır. Bu tarihte dava süresi bitmişse ya da on beş günden az kalmışsa, süre tutanağın tebliğinden itibaren on beş gün olarak uzar. Uzlaşma ve cezada indirim yolları başka bir yazıda ayrıntısıyla anlatılmıştır.
 
 ## İdareye başvuru ve görevsiz yerde açılan dava

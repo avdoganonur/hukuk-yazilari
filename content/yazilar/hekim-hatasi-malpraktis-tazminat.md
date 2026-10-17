@@ -55,7 +55,7 @@ sss:
   - soru: "Ölen hastanın yakınları neleri isteyebilir?"
     cevap: "Ölüm hâlinde cenaze giderleri, ölüm hemen gerçekleşmediyse tedavi giderleri ve çalışma gücü kaybı, ölenin desteğinden yoksun kalanların kaybı maddi tazminat olarak istenebilir. Ayrıca ölenin yakınları için manevi tazminata hükmedilebilir. Destekten yoksun kalma tazminatının nasıl hesaplandığı ayrı bir konudur."
 ---
-Tıbbi müdahale sonrası beklenmedik bir zarar ortaya çıktığında ilk soru genellikle şudur: kime karşı, nerede dava açılacak? Bu sorunun cevabı tedavinin nerede yapıldığına bağlıdır. Özel hastane ya da muayenehanede yapılan tedavide uyuşmazlık adli yargıda çözülür. Devlet hastanesi, şehir hastanesi ya da üniversite hastanesi gibi kamu kurumlarında ise dava idare mahkemesinde ve idareye karşı açılır. Yanlış yolu seçmek zaman kaybettirir; bazen de süre kaçırılır.
+Tıbbi müdahale sonrası beklenmedik bir zarar ortaya çıktığında ilk soru genellikle şudur: kime karşı, nerede dava açılacak? Bu sorunun cevabı tedavinin nerede yapıldığına bağlıdır. Özel hastane ya da muayenehanede yapılan tedavide uyuşmazlık adli yargıda çözülür. Devlet hastanesi, şehir hastanesi ya da devlet üniversitesi hastanesi gibi kamu kurumlarında ise dava idare mahkemesinde ve idareye karşı açılır. Yanlış yolu seçmek zaman kaybettirir; bazen de süre kaçırılır.
 
 ## Hekim neyi taahhüt eder, hata ne zaman doğar?
 
@@ -73,7 +73,7 @@ Hastane, tedaviyi kendi bünyesindeki hekim ve sağlık personeline yaptırır. 
 
 Aynı olay haksız fiil olarak da değerlendirilebilir. Bu durumda zararı ve kusuru ispat yükü zarar görendedir. Hastane ayrıca adam çalıştıran sıfatıyla, çalışanının işi sırasında verdiği zarardan sorumludur.
 
-Görevli mahkeme konusunda 6502 sayılı Kanun belirleyicidir. Kanun, ticari ya da mesleki amaçla hareket edenlerle tüketiciler arasında kurulan ve vekâlet sözleşmesini de kapsayan her türlü sözleşmeyi tüketici işlemi sayar ve bu işlemlerden doğan davalarda tüketici mahkemelerini görevli kılar. Dava, tüketicinin yerleşim yerindeki tüketici mahkemesinde de açılabilir. Tüketici mahkemesinde görülecek davalarda dava açmadan önce arabulucuya başvurmak dava şartıdır.
+Görevli mahkeme konusunda 6502 sayılı Kanun belirleyicidir. Kanun, ticari ya da mesleki amaçla hareket edenlerle tüketiciler arasında kurulan ve vekâlet sözleşmesini de kapsayan her türlü sözleşmeyi tüketici işlemi sayar ve bu işlemlerden doğan davalarda tüketici mahkemelerini görevli kılar. Dava, tüketicinin yerleşim yerindeki tüketici mahkemesinde de açılabilir. Tüketici hakem heyetinin görevine giren uyuşmazlıklar dışında, tüketici mahkemesinde görülecek davalarda dava açmadan önce arabulucuya başvurmak dava şartıdır.
 
 İstenebilecek kalemler kanunda sayılmıştır: bedensel zararda tedavi giderleri, kazanç kaybı, çalışma gücünün azalmasından ve ekonomik geleceğin sarsılmasından doğan kayıplar; ölüm hâlinde cenaze giderleri ve destekten yoksun kalma zararı. Bedensel bütünlüğün zedelenmesi, ağır bedensel zarar ya da ölüm hâlinde manevi tazminat da istenebilir.
 

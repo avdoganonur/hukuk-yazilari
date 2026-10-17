@@ -40,7 +40,7 @@ sss:
 ---
 Vergi incelemesi ya da bir yoklama sonunda mükellefe "vergi/ceza ihbarnamesi" tebliğ edilir. İhbarname, ikmalen veya re'sen tarh edilen vergiyi, varsa kesilen cezayı ve bunun gerekçesini gösteren belgedir. Kanun, ihbarnamede vergi mahkemesinde dava açma süresinin ve dava açma şeklinin de yazılmasını zorunlu tutar.
 
-İhbarname geldiği gün bir süre başlar ve neredeyse bütün yollar aynı otuz günlük süreye bağlıdır. Cezada indirim, uzlaşma ve dava birbirini dışlayan seçenekler olduğu için bu süre içinde hangisinin izleneceğine karar vermek gerekir.
+İhbarname tebliğ edildiğinde bir süre başlar ve neredeyse bütün yollar aynı otuz günlük süreye bağlıdır. Cezada indirim, uzlaşma ve dava birbirini dışlayan seçenekler olduğu için bu süre içinde hangisinin izleneceğine karar vermek gerekir.
 
 ## İhbarnamede ne var, ceza nasıl hesaplanır?
 
