@@ -50,7 +50,7 @@ Kanun bazı belgeleri de ilam gibi sayar. Mahkeme önünde yapılan sulhlar ve k
 
 ## Kararın kesinleşmesi gerekmez, istisnalar dışında
 
-Kural olarak hayır. Bir karara karşı istinafa ya da temyize gidilmesi, kararın icrasını durdurmaz. Para alacağına ilişkin bir karar, ilk derece mahkemesinin kararı verilir verilmez takibe konulabilir.
+Kural olarak kararın kesinleşmesi beklenmez. Bir karara karşı istinafa ya da temyize gidilmesi, kararın icrasını durdurmaz. Para alacağına ilişkin bir karar, ilk derece mahkemesinin kararı verilir verilmez takibe konulabilir.
 
 Bunun istisnaları kanunda sayılmıştır. Kişiler hukuku, aile hukuku ve taşınmaz üzerindeki ayni haklara ilişkin kararlar kesinleşmedikçe yerine getirilemez. Örneğin tapu iptali ve tescil kararı ya da boşanma hükmü kesinleşmeden uygulanmaz. Nafaka kararlarında ise kanun yoluna başvurulsa bile icranın geri bırakılmasına karar verilemez.
 

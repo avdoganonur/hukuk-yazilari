@@ -25,7 +25,7 @@ dayanak:
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 12"
     not: "Taşınmazın bulunduğu yer mahkemesinin yetkisi; irtifak davaları"
   - ad: "6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu m. 18/B"
-    not: "Komşu hakkından kaynaklanan uyuşmazlıklarda dava şartı arabuluculuk; taşınmaza ilişkin anlaşma belgesi"
+    not: "Komşu hakkından kaynaklanan uyuşmazlıklarda dava şartı arabuluculuk; taşınmaza ilişkin anlaşma belgesi ve icra edilebilirlik şerhi"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6325&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Komşumla anlaşırsak mahkemeye gitmeden geçit kurulabilir mi?"
@@ -63,7 +63,7 @@ Kanun ayrıca zorunlu geçidin iki tarafın menfaati gözetilerek belirleneceği
 
 Komşu geçit vermeye razı olmazsa malik, zorunlu geçit kurulması için dava açabilir. Görevli mahkeme asliye hukuk mahkemesidir. İrtifak haklarına ilişkin davalar, üzerinde irtifak kurulacak taşınmazın bulunduğu yer mahkemesinde açılır. Dava birden fazla taşınmazı ilgilendiriyorsa, taşınmazlardan birinin bulunduğu yerde diğerleri hakkında da açılabilir.
 
-Kanun zorunlu geçidi "komşu hakkı" başlığı altında düzenler. 2023 yılında Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'na eklenen hükümle, komşu hakkından kaynaklanan uyuşmazlıklarda dava açmadan önce arabulucuya başvurmak dava şartı hâline geldi. Bu nedenle mahkemeye gitmeden önce arabuluculuk aşamasından geçmek gerekir. Arabuluculukta anlaşma sağlanırsa geçidin yeri ve bedeli de bu anlaşmada belirlenebilir.
+2023 yılında Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'na eklenen hükümle, komşu hakkından kaynaklanan uyuşmazlıklarda dava açmadan önce arabulucuya başvurmak dava şartı hâline geldi. Türk Medeni Kanunu da zorunlu geçidi "komşu hakkı" başlığı altında düzenler. Arabuluculukta anlaşma sağlanırsa geçidin yeri ve bedeli de bu anlaşmada belirlenebilir.
 
 Davada en önemli delil, yerinde yapılan keşiftir. Mahkeme genellikle bilirkişilerle birlikte taşınmazları yerinde inceler; geçidin hangi komşudan, hangi güzergâhtan ve hangi genişlikte kurulacağını, buna karşılık ödenecek bedeli bilirkişi raporlarının da yardımıyla belirler. Davayı açmadan önce tapu kayıtlarını, varsa kadastro paftasını ve eski yol durumunu gösteren fotoğraf veya belgeleri toplamak işe yarar.
 

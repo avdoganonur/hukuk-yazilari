@@ -54,7 +54,7 @@ Beyanın verilmesi borcun ödendiği anlamına gelmez. Alacaklı mal beyanını 
 
 Süresinde mal beyanında bulunmayan borçlu, alacaklının istemi üzerine icra mahkemesi hâkimince beyanda bulununcaya kadar hapisle zorlanır. Buna tazyik hapsi denir. Bu karar için alacaklının icra mahkemesine başvurması gerekir; icra dairesi kendiliğinden hapis kararı veremez. Tazyik hapsi bir ceza değil, bir zorlama aracıdır; borçlu beyanda bulunduğu anda amacına ulaşmış olur. Kanuna göre bu hapis bir defaya mahsus verilir ve üç ayı geçemez.
 
-Ödeme emirlerinde borçluya, beyanda bulunmazsa ayrıca hapisle cezalandırılacağı da ihtar edilir. Ancak mal beyanında bulunmayan borçluya on gün disiplin hapsi öngören 337. maddenin birinci fıkrası, Anayasa Mahkemesinin 2008 yılında verdiği kararla iptal edilmiştir. Mahkeme, aynı davranış için hem tazyik hapsi hem disiplin hapsi verilmesini hukuk devleti ilkesine aykırı bulmuştur. Bugün beyanda hiç bulunmamanın kanundaki karşılığı tazyik hapsidir.
+Ödeme emirlerinde borçluya, beyanda bulunmazsa ayrıca hapisle cezalandırılacağı da ihtar edilir. Ancak mal beyanında bulunmayan borçluya on gün disiplin hapsi öngören 337. maddenin birinci fıkrası, Anayasa Mahkemesinin 2008 yılında verdiği kararla iptal edilmiştir. Bugün beyanda hiç bulunmamanın kanundaki karşılığı tazyik hapsidir.
 
 Süreç uygulamada şöyle işler: borçlu süresinde beyanda bulunmaz, alacaklı icra mahkemesine başvurarak tazyik hapsi ister, mahkeme kararını verir. Borçlu bu aşamada da icra dairesine giderek beyanda bulunursa hapis uygulanmaz ya da uygulanmaya başlanmışsa sona erer. Yani borçlunun elinde, beyanda bulunarak hapisten kurtulma imkânı her zaman vardır.
 

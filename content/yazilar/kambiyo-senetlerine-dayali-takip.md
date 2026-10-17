@@ -32,7 +32,7 @@ sss:
   - soru: "İtiraz ettim, yine de maaşıma haciz geldi. Bu normal mi?"
     cevap: "Evet. Borca ve imzaya itiraz kendiliğinden yalnızca satışı durdurur; haciz gibi diğer işlemler devam eder. Takibin bütünüyle durması için icra mahkemesinin geçici durdurma kararı vermesi ya da itirazı kabul etmesi gerekir."
   - soru: "Senedi gerçekten imzaladım ama parayı ödedim. Ne yapmalıyım?"
-    cevap: "Bu durumda imzaya değil borca itiraz edilir. Ödemenin resmî bir belgeyle ya da imzası alacaklı tarafından inkâr edilemeyecek bir belgeyle ispatlanması gerekir. Böyle bir belge yoksa icra mahkemesinde sonuç almak zorlaşır; menfi tespit ya da istirdat davası gibi genel mahkeme yolları ayrıca değerlendirilebilir."
+    cevap: "Bu durumda imzaya değil borca itiraz edilir. Ödemenin resmî bir belgeyle ya da imzası alacaklı tarafından kabul edilmiş bir belgeyle ispatlanması gerekir. Böyle bir belge yoksa icra mahkemesinde sonuç almak zorlaşır; menfi tespit ya da istirdat davası gibi genel mahkeme yolları ayrıca değerlendirilebilir."
   - soru: "Senedin zamanaşımına uğradığını nasıl ileri sürerim?"
     cevap: "Zamanaşımı da borca itiraz sebeplerindendir ve beş gün içinde icra mahkemesine bildirilir. Mahkeme, zamanaşımını senetteki tarihe göre inceler. Alacaklı zamanaşımının kesildiğini ya da durduğunu resmî veya imzası kabul edilmiş bir belgeyle ispatlayamazsa itiraz kabul edilir."
 ---
@@ -58,7 +58,7 @@ Borca itiraz, senetteki imzayı kabul eden ama borcun hiç doğmadığını, öd
 
 İcra mahkemesi tarafları en geç otuz gün içinde duruşmaya çağırır. Burada ispat kuralı sıkıdır. Borcun olmadığı, ödendiği ya da ertelendiği ancak resmî bir belgeyle veya imzası alacaklı tarafından kabul edilmiş bir belgeyle ispatlanırsa itiraz kabul edilir. Tanık dinletmek ya da elden yapılan bir ödemeyi anlatmak bu aşamada sonuç vermez. Zamanaşımı itirazında mahkeme senetteki tarihi esas alır; alacaklı zamanaşımının kesildiğini veya durduğunu yine resmî ya da imzası kabul edilmiş bir belgeyle gösteremezse itiraz kabul edilir.
 
-Borca itiraz, satış dışındaki takip işlemlerini durdurmaz. Borçlunun dilekçesine eklediği belgeler ödemeyi, süre verildiğini, zamanaşımını, borçlu olmadığını ya da icra dairesinin yetkisizliğini gösteriyorsa mahkeme esas hakkında karar verinceye kadar takibin geçici olarak durdurulmasına karar verebilir.
+Borca itiraz, satış dışındaki takip işlemlerini durdurmaz. Borçlunun dilekçesine eklediği belgeler ödemeyi, süre verildiğini, senedin metninden zamanaşımını, borçlu olmadığını ya da icra dairesinin yetkisizliğini gösteriyorsa mahkeme esas hakkında karar verinceye kadar takibin geçici olarak durdurulmasına karar verebilir.
 
 İtiraz kabul edilirse takip durur; ancak alacaklının genel mahkemede dava açma hakkı saklıdır. İtiraz reddedilirse borçlu bu karara karşı istinafa gidebilir. Bu başvuru tek başına hiçbir icra işlemini durdurmaz; takibin durması için borçlunun kanunda sayılan türden bir teminat göstermesi gerekir.
 
@@ -70,7 +70,7 @@ Senetteki imza borçluya ait değilse bu, beş gün içinde icra mahkemesine ver
 
 İmzaya itiraz da satış dışındaki işlemleri kendiliğinden durdurmaz. Mahkeme itirazı ciddi bulursa alacaklıya tebligat yapmadan, dosya üzerinden takibi geçici olarak durdurabilir. Ardından imza incelemesi yapılır; çoğu zaman bilirkişiye başvurulur.
 
-İmzanın borçluya ait olmadığı anlaşılırsa itiraz kabul edilir ve takip durur. Senedi kötü niyetle ya da ağır kusurla takibe koyan alacaklı, alacağın yüzde yirmisinden az olmamak üzere tazminata ve yüzde onu oranında para cezasına mahkûm edilir. Tersi durumda, yani imza borçluya aitse, borçlu alacağın yüzde onu oranında para cezası öder. Takip itiraz üzerine durdurulmuşsa buna ayrıca yüzde yirmiden az olmamak üzere inkâr tazminatı eklenir. Kendi imzasını inkâr etmenin bedeli bu nedenle ağırdır.
+İmzanın borçluya ait olmadığı anlaşılırsa itiraz kabul edilir ve takip durur. Senedi kötü niyetle ya da ağır kusurla takibe koyan alacaklı, alacağın yüzde yirmisinden az olmamak üzere tazminata ve yüzde onu oranında para cezasına mahkûm edilir. Tersi durumda, yani imza borçluya aitse ve takip itiraz üzerine geçici olarak durdurulmuşsa, borçlu alacağın yüzde yirmisinden az olmamak üzere inkâr tazminatına ve yüzde onu oranında para cezasına mahkûm edilir. Kendi imzasını inkâr etmenin bedeli bu nedenle ağırdır.
 
 İtirazın kabulü, alacaklının genel mahkemede dava açma hakkını ortadan kaldırmaz.
 

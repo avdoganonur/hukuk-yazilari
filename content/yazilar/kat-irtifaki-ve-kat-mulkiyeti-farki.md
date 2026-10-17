@@ -19,6 +19,8 @@ dayanak:
     not: "Kat mülkiyeti kütüğüne tescil, her bağımsız bölümün ayrı taşınmaz sayılması"
   - ad: "634 sayılı Kat Mülkiyeti Kanunu m. 14"
     not: "Kat irtifakının kurulması; kat mülkiyetine geçişte ayrıca yönetim planı istenmemesi"
+  - ad: "634 sayılı Kat Mülkiyeti Kanunu m. 15"
+    not: "Kat malikinin bağımsız bölümü üzerindeki hak ve yetkileri"
   - ad: "634 sayılı Kat Mülkiyeti Kanunu m. 17"
     not: "Kat irtifakı sahiplerinin hakları; üçte iki kullanımda kat mülkiyeti hükümlerinin uygulanması"
   - ad: "634 sayılı Kat Mülkiyeti Kanunu m. 26"
