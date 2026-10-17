@@ -1,6 +1,11 @@
 ---
 baslik: "Mala zarar verme suçu: cezası, şikâyet süresi ve nitelikli hâller"
 aciklama: "Başkasının aracına, evine ya da eşyasına zarar vermenin cezası, şikâyet ve uzlaştırma, ağırlaştırıcı hâller, zararı ödemenin cezaya etkisi."
+kisaca:
+  - "Başkasının malına kasten zarar veren, şikâyet üzerine dört aydan üç yıla kadar hapis veya adli para cezası alır."
+  - "Mağdur, fiili ve failin kim olduğunu öğrendiği günden itibaren altı ay içinde şikâyette bulunmalıdır."
+  - "Dikkatsizlikle verilen zarar suç değil, tazminat konusudur."
+  - "Kamu malı gibi nitelikli hâllerde ceza bir yıldan dört yıla kadar hapistir ve şikâyet aranmaz."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

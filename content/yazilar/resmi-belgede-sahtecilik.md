@@ -1,6 +1,10 @@
 ---
 baslik: "Resmî belgede sahtecilik suçu: sahte belge düzenlemenin ve kullanmanın cezası"
 aciklama: "Sahte kimlik, diploma, rapor ya da tapu gibi resmî belgeleri düzenleme, değiştirme, kullanma, yok etme ve resmî görevliye yalan beyanın cezaları."
+kisaca:
+  - "Resmî belgeyi sahte düzenlemenin, aldatacak şekilde değiştirmenin ya da sahte belgeyi kullanmanın cezası iki yıldan beş yıla kadar hapistir."
+  - "Belgeyi düzenlemeye yetkili kamu görevlisi bu suçu işlerse cezası üç yıldan sekiz yıla kadar hapistir."
+  - "Resmî belgede sahtecilik şikâyete bağlı değildir; şikâyetten vazgeçilse de soruşturma ve dava devam eder."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

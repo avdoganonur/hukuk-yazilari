@@ -19,7 +19,7 @@ Av. Onur Doğan'ın (Kayseri Barosu, Doğan Hukuk Bürosu) hukuk yazıları site
 ## Yazım
 - Önce Skill aracıyla "anthropic-skills:dogal-uslup" becerisini yükle ve uygula.
 - Okur hukukçu değil. Sade Türkçe; terimleri ilk geçtiği yerde açıkla. Kısa ve uzun cümleler karışık.
-- Metin + sss birlikte 900–1.200 kelime. 3–5 ara başlık (## ). Sonda 3–4 soruluk sss (bilgi bölümünde). Sona uyarı notu ekleme (site ekliyor).
+- Metin + sss birlikte 900–1.200 kelime. Bilgi bölümüne YAZIM-KURALLARI.md'deki gibi zorunlu `kisaca` alanını ekle (3 madde, yalnızca metindeki bilgiden). Paragraflar en fazla 3–4 cümle. 3–5 ara başlık (## ). Sonda 3–4 soruluk sss (bilgi bölümünde). Sona uyarı notu ekleme (site ekliyor).
 - Retorik soru ara başlığı, "Sonuç olarak/Özetle" ile başlayan özet paragrafı, gereksiz kalın yazı yok.
 - Reklam yasağı: övücü ifade, başarı, ücret, "hemen arayın/bize ulaşın", iletişim yönlendirmesi, müvekkil bilgisi yok.
 - dayanak: her kanun maddesi ayrı satır, ad biçimi "<sayı> sayılı <Kanun adı> m. <madde>". Her kanunun ilk satırına baglanti ekle: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=<no>&MevzuatTur=1&MevzuatTertip=<tertip>

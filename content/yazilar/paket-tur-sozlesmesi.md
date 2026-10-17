@@ -1,6 +1,11 @@
 ---
 baslik: "Paket tur ve tatil: tur iptal edilir, otel değişir ya da tatil kötü geçerse haklarınız"
 aciklama: "Paket tur sözleşmesinde fiyat ve program değişikliği, turun iptali, tüketicinin kendi iptali, tur sırasındaki eksiklikler ve boşa geçen tatil tazminatı."
+kisaca:
+  - "Söz verilen otelin değişmesi gibi esaslı değişikliklerde ya da tur iptalinde tüketici tazminat ödemeden sözleşmeden dönebilir."
+  - "Sözleşmeden dönülürse firma ödenen bedelin tamamını kesintisiz iade eder; yönetmelik en geç on dört günlük süre öngörür."
+  - "Tur sırasındaki eksiklik otele ya da firmaya derhâl bildirilmeli; giderilmezse bedel indirimi istenebilir."
+  - "Tüketici zararının yanında boşa harcanan tatil zamanı için de uygun bir tazminat isteyebilir."
 tarih: 2026-10-17
 alan: tuketici-hukuku
 dayanak:

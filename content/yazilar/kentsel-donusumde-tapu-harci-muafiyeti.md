@@ -1,6 +1,11 @@
 ---
 baslik: "Kentsel dönüşümde tapu harcı ve vergi muafiyetleri: kimler, hangi işlemlerde yararlanır?"
 aciklama: "6306 sayılı Kanun kapsamında tapu harcı, noter harcı, damga vergisi, belediye harçları ve veraset vergisi istisnası; yersiz alınan harcın iadesi."
+kisaca:
+  - "6306 sayılı Kanun kapsamındaki işlemler tapu ve noter harcı, belediye harçları, damga vergisi ve veraset ve intikal vergisinden istisnadır."
+  - "İstisna için işlemin taraflarından birinin kanunda sayılan kişilerden olması ve işlemin kanunda sayılan türlerden olması gerekir."
+  - "Yeni dairenin malik adına tescilinden sonra yapılan ikinci el satışlar istisna kapsamında değildir."
+  - "Yersiz alınan harç için vergi dairesine düzeltme başvurusu yapılır, ret hâlinde tebliğden itibaren otuz gün içinde dava açılabilir."
 tarih: 2026-10-17
 alan: vergi-hukuku
 dayanak:

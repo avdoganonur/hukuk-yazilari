@@ -1,6 +1,11 @@
 ---
 baslik: "Vergi hatalarında düzeltme: hesap hatası, yanlış vergilendirme ve başvuru"
 aciklama: "Vergi Usul Kanunu kapsamında hesap ve vergilendirme hatalarının ayrımı, yazılı düzeltme talebi, şikâyet yolu ve sürelerin temel çerçevesi."
+kisaca:
+  - "Vergi hatası, hesap ya da vergilendirme hatası nedeniyle haksız yere fazla veya eksik vergi istenmesi ya da alınmasıdır."
+  - "Düzeltme vergi dairesinden yazıyla istenir; talep taahhütlü posta yoluyla da gönderilebilir."
+  - "Başvuruda hangi verginin, hangi dönemin ve hangi hesabın yanlış olduğu somut olarak gösterilmelidir."
+  - "Düzeltme başvurusu ile dava açmak farklı yollardır; dava süreleri ayrıca değerlendirilmelidir."
 tarih: 2026-10-17
 alan: vergi-hukuku
 dayanak:

@@ -2,6 +2,10 @@
 baslik: Yola çıkışı olmayan taşınmaz için zorunlu geçit hakkı
 aciklama: Zorunlu geçit hakkının şartları, komşu taşınmazın seçimi, tam bedel, diğer geçit hakları ve irtifakın
   sona ermesi.
+kisaca:
+  - "Taşınmazından genel yola çıkmak için yeterli geçidi olmayan malik, tam bir bedel karşılığında komşusundan geçit hakkı isteyebilir."
+  - "Hak önce önceki mülkiyet ve yol durumuna göre en uygun komşuya, sonra en az zarar görecek olana karşı kullanılır."
+  - "Zorunlu geçit iki tarafın menfaati gözetilerek belirlenir; kanun yalnızca mesafeye dayanan bir seçim öngörmez."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

@@ -2,6 +2,11 @@
 baslik: Alacağın devri için borçlunun izni gerekir mi?
 aciklama: Alacağın devrinde yazılı şekil, borçluya bildirim, iyiniyetli ödeme, savunmalar, bağlı haklar ve devredenin
   garanti sorumluluğu.
+kisaca:
+  - "Kanun, sözleşme veya işin niteliği engel olmadıkça alacak, borçlunun rızası aranmadan devredilebilir."
+  - "Sözleşmeyle yapılan alacak devrinin geçerliliği yazılı şekle bağlıdır."
+  - "Devir bildirilmemişse borçlu, önceki alacaklıya iyiniyetle ödeme yaparak borcundan kurtulur."
+  - "Borçlu, devri öğrendiği sırada devredene karşı sahip olduğu savunmaları yeni alacaklıya karşı da ileri sürebilir."
 tarih: 2026-10-17
 alan: borclar-hukuku
 dayanak:

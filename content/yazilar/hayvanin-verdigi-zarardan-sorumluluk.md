@@ -2,6 +2,11 @@
 baslik: Hayvanın verdiği zarardan kim sorumludur?
 aciklama: Hayvan bulunduranın sorumluluğu, gerekli özenin ispatı, ürkütmede rücu, zarar hesabı ve taşınmazdaki zarara
   ilişkin özel hüküm.
+kisaca:
+  - "Hayvanın verdiği zarardan, bakımını ve yönetimini sürekli veya geçici olarak üstlenen kişi sorumludur."
+  - "Zararı önlemek için gerekli özeni gösterdiğini ispat eden hayvan bulunduran sorumlu olmaz."
+  - "Hayvan başkası tarafından ürkütüldüyse, hayvanı bulunduranın ürküten kişiye rücu hakkı saklıdır."
+  - "Hayvan başkasının taşınmazında zarar verirse zilyet onu alıkoyabilir, ancak sahibine derhal bilgi vermelidir."
 tarih: 2026-10-17
 alan: tazminat-hukuku
 dayanak:

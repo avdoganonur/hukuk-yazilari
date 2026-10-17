@@ -1,6 +1,11 @@
 ---
 baslik: "Toplu işçi çıkarma: hangi sayıda işçi, hangi bildirim, hangi süreler?"
 aciklama: "İş Kanunu'na göre toplu işçi çıkarma sayılan durumlar, işverenin otuz gün önceden yapması gereken bildirim, sendikayla görüşme ve işçinin hakları."
+kisaca:
+  - "Toplu işçi çıkarma, işletme gerekleriyle bir ay içinde kanundaki sayıda işçinin çıkarılmasıdır; 20'den az işçili işyerleri kapsam dışıdır."
+  - "Fesih bildirimleri, işverenin bölge müdürlüğüne bildiriminden otuz gün sonra hüküm doğurur."
+  - "İş güvencesi kapsamındaki işçi, toplu çıkarma sırasında da işe iade davası açabilir."
+  - "İşveren altı ay içinde aynı iş için işçi alacaksa nitelikleri uygun eski işçileri tercihen işe çağırır."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

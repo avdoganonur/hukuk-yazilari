@@ -1,6 +1,11 @@
 ---
 baslik: "Şüphelinin ifade sırasında hakları: susma, avukat ve tutanak"
 aciklama: "Ceza soruşturmasında ifade alma sırasında suçlamayı öğrenme, susma, müdafi yardımı, lehe delil isteme ve tutanağı inceleme hakları."
+kisaca:
+  - "İfade sırasında kişiye yüklenen suç anlatılır ve suçlama hakkında açıklama yapmama hakkı olduğu söylenir."
+  - "Susma hakkı kimlik sorularını kapsamaz; şüpheli kimlik sorularını doğru cevaplamakla yükümlüdür."
+  - "Müdafi seçebilecek durumda olmadığını beyan eden şüpheliye, istemi hâlinde müdafi görevlendirilir."
+  - "Kollukta müdafi bulunmadan alınan ifade, hâkim veya mahkeme önünde doğrulanmadıkça hükme esas alınamaz."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Fazla mesai: haftalık süre, zamlı ücret ve serbest zaman"
 aciklama: "Fazla çalışma ile fazla sürelerle çalışmanın farkı, yüzde 50 ve yüzde 25 zamlı ücret, serbest zaman, ara dinlenmesi ve denkleştirme."
+kisaca:
+  - "Haftalık kırk beş saati aşan her fazla çalışma saati için normal saat ücreti yüzde elli artırılarak ödenir."
+  - "Sözleşmedeki süreyi aşan ve kırk beş saate kadar kalan fazla sürelerle çalışmada artış yüzde yirmi beştir."
+  - "İşçi isterse zamlı ücret yerine fazla çalışmanın her saati için bir saat otuz dakika serbest zaman kullanabilir."
+  - "Serbest zaman altı ay içinde, çalışma süreleri içerisinde ve ücrette kesinti olmadan kullanılır."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

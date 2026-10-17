@@ -1,6 +1,11 @@
 ---
 baslik: "Mirasçılıktan çıkarma (ıskat): hangi sebeplerle yapılır, nasıl itiraz edilir?"
 aciklama: "Saklı paylı mirasçının vasiyetnameyle mirastan çıkarılması: kanundaki iki sebep, sebebin yazılması şartı, ispat yükü, altsoya etkisi ve aciz hâlinde ıskat."
+kisaca:
+  - "Saklı paylı mirasçı ancak ağır bir suç ya da aile hukukundan doğan yükümlülüklerin önemli ölçüde ihlali sebebiyle çıkarılabilir."
+  - "Çıkarma sebebi vasiyetnamede yazılmamışsa, çıkarılmak istenen kişi saklı payını alır."
+  - "İtiraz hâlinde sebebin varlığını, çıkarmadan yararlanan mirasçı ya da vasiyet alacaklısı ispat etmek zorundadır."
+  - "Bir babanın oğlunu mirastan çıkarması torunlarını mirastan mahrum bırakmaz; altsoy saklı payını isteyebilir."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

@@ -1,6 +1,10 @@
 ---
 baslik: "Askerlik borçlanması: kimler yapabilir, nasıl başvurulur, emekliliğe etkisi ne olur?"
 aciklama: "Askerlikte geçen sürenin sigortalılığa sayılması için borçlanma şartları, başvuru ve ödeme süresi, sigorta başlangıç tarihine ve aylığa etkisi."
+kisaca:
+  - "Sigortalı olan kişi, er veya erbaş olarak ya da yedek subay veya yedek astsubay okulunda geçen süreyi borçlanabilir."
+  - "Borç tebliğden itibaren bir ay içinde ödenmezse borçlanma düşer ve yeniden başvurmak gerekir."
+  - "Askerlik sigorta girişinden önce yapılmışsa sigortalılık başlangıcı, borçlanılan gün sayısı kadar geriye götürülür."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

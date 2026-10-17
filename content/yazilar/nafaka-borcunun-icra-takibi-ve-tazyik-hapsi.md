@@ -1,6 +1,11 @@
 ---
 baslik: "Nafaka ödenmezse: icra takibi ve üç aya kadar tazyik hapsi"
 aciklama: "Mahkemenin hükmettiği nafaka ödenmediğinde ilamlı icra takibi, nafaka alacağının haciz ve sıradaki öncelikleri ve İİK m. 344'teki tazyik hapsi."
+kisaca:
+  - "Ödenmeyen nafaka ilamlı icra yoluyla takip edilir ve borçluya yedi gün içinde ödeme yapması ihtar edilir."
+  - "Nafaka kararına uymayan borçlu hakkında, alacaklının şikâyeti üzerine üç aya kadar tazyik hapsine karar verilir."
+  - "Şikâyet hakkı, ödememenin öğrenildiği tarihten itibaren üç ay ve her hâlde ödememeden itibaren bir yıl geçince düşer."
+  - "Hapis uygulanırken borçlu kararın gereğini yerine getirirse tahliye edilir."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

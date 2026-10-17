@@ -2,6 +2,11 @@
 baslik: 'İcra dosyasının borçlusu değilim: haciz ihbarnamesine nasıl cevap verilir?'
 aciklama: İİK 89 kapsamında üçüncü kişiye gönderilen haciz ihbarnameleri, yedi günlük itirazlar, menfi tespit davası
   ve belge sunma süresi.
+kisaca:
+  - "Haciz ihbarnamesine itiraz, tebliğden itibaren yedi gün içinde icra dairesine yazılı veya sözlü olarak bildirilmelidir."
+  - "İlk ihbarnameye süresinde itiraz edilmezse mal üçüncü kişinin elinde, borç da onun üzerinde sayılır."
+  - "İkinci ihbarname de cevapsız kalırsa yapılan bildirim üzerine menfi tespit davası on beş gün içinde açılabilir."
+  - "Davanın açıldığını gösteren belge, bildirim tarihinden itibaren yirmi gün içinde icra dairesine verilmelidir."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

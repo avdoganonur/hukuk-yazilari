@@ -1,6 +1,11 @@
 ---
 baslik: "Güveni kötüye kullanma suçu: emanet edilen malı geri vermemenin cezası"
 aciklama: "Emanet edilen malın satılması, kullanılması ya da inkâr edilmesi hâlinde TCK 155: cezalar, nitelikli hâl, taşıt artırımı, şikâyet ve uzlaştırma."
+kisaca:
+  - "Saklamak veya belirli bir şekilde kullanmak üzere teslim edilen malı amacı dışında kullanan ya da teslimi inkâr eden kişi bu suçu işler."
+  - "Basit hâlin cezası altı aydan iki yıla kadar hapis ve adli para cezasıdır; şikâyet altı ay içinde yapılmalıdır."
+  - "Ödünç verilen paranın geri ödenmemesi çoğu zaman bu suçu oluşturmaz; bu bir alacak sorunudur."
+  - "Malın geri verilmesi veya zararın giderilmesi cezayı ortadan kaldırmaz, ancak indirim sağlar."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

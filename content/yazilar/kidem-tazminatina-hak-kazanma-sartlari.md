@@ -1,6 +1,11 @@
 ---
 baslik: "Kıdem tazminatına kimler hak kazanır? Şartlar ve ödenmeyen hâller"
 aciklama: "Kıdem tazminatı için gereken bir yıllık çalışma, tazminatın ödendiği ve ödenmediği fesih hâlleri, işyeri devrinde kıdemin korunması."
+kisaca:
+  - "Kıdem tazminatı için aynı işverende en az bir tam yıl çalışmış olmak gerekir."
+  - "İşveren feshinde kural olarak tazminat ödenir, ahlak ve iyiniyet kurallarına aykırı davranış nedeniyle yapılan fesihte ödenmez."
+  - "İstifa kural olarak tazminat hakkı vermez, haklı nedenle fesih, askerlik ve emeklilik gibi kanunda sayılan hâller istisnadır."
+  - "Kıdem tazminatı alacağında zamanaşımı, sözleşmenin sona ermesinden itibaren beş yıldır."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

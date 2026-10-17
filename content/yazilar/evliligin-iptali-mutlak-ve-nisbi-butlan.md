@@ -2,6 +2,10 @@
 baslik: Evliliğin iptali hangi şartlarda istenebilir?
 aciklama: Evliliğin iptalinde mutlak ve nisbî butlan sebepleri, dava hakkı, hak düşürücü süreler ve kararın eşlere
   ve çocuklara etkisi.
+kisaca:
+  - "Evliliğin iptali, evlenme sırasında bulunan ve kanunun özel olarak düzenlediği sakatlıklara dayanır."
+  - "Nisbî butlanda iptal hakkı, sebebin öğrenilmesinden başlayarak altı ay ve her durumda evlenmeden itibaren beş yıl geçmekle düşer."
+  - "Batıl evlilik yalnızca hâkim kararıyla sona erer; bu evlilikten doğan çocuklar evlilik içinde doğmuş sayılır."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

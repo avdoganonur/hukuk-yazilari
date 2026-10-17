@@ -2,6 +2,11 @@
 baslik: Mirasçılıktan çıkarma hangi şartlarda geçerlidir?
 aciklama: Mirasçılıktan çıkarmada kanuni sebepler, tasarrufta sebep gösterilmesi, ispat yükü, altsoyun hakları ve
   aciz belgesine bağlı özel durum.
+kisaca:
+  - "Saklı paylı mirasçı, ancak ağır suç ya da aile hukukundan doğan yükümlülüklerin önemli ölçüde ihlali sebebiyle çıkarılabilir."
+  - "Çıkarma sebebi ölüme bağlı tasarrufta belirtilmelidir; itirazda sebebi çıkarmadan yararlanan kişi ispatlar."
+  - "Sebep belirtilmemiş ya da ispatlanamamışsa tasarruf, mirasçının saklı payı dışında yerine getirilir."
+  - "Çıkarılan kişinin altsoyu, o kişi mirasbırakandan önce ölmüş gibi saklı payını isteyebilir."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

@@ -1,6 +1,10 @@
 ---
 baslik: "Aile konutu şerhi: eşiniz evi sizin rızanız olmadan satabilir mi?"
 aciklama: "Aile konutu üzerindeki işlemlerde eşin açık rızası, tapuya aile konutu şerhi koydurma, kiralık aile konutu ve rıza verilmezse hâkime başvuru."
+kisaca:
+  - "Eşlerden biri, diğer eşin açık rızası olmadan aile konutunu devredemez, kira sözleşmesini feshedemez ve konut üzerindeki hakları sınırlayamaz."
+  - "Malik olmayan eş, dava açmadan tapu müdürlüğüne başvurarak tapuya aile konutu şerhi konmasını isteyebilir."
+  - "Şerh konulduktan sonra evi satın alan ya da üzerinde ipotek kuran kişi, konutun aile konutu olduğunu bilmediğini söyleyemez."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

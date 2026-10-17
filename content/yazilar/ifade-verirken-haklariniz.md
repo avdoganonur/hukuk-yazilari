@@ -1,6 +1,11 @@
 ---
 baslik: "Şüpheli olarak ifade verirken hangi haklarınız var?"
 aciklama: "Kollukta ya da savcılıkta şüpheli olarak ifade verirken susma hakkı, avukat yardımı, yasak sorgu yöntemleri ve ifade tutanağının imzalanması."
+kisaca:
+  - "Kimlik sorularına doğru cevap vermek zorunludur, yüklenen suç hakkında ise açıklama yapmamak kanuni bir haktır."
+  - "Avukat tutacak durumda değilseniz ve avukat yardımı istiyorsanız baro size bir müdafi görevlendirir."
+  - "Avukat yokken kollukta alınan ifade, hâkim veya mahkeme önünde doğrulanmadıkça hükme esas alınamaz."
+  - "Tutanağı imzalamadan önce baştan sona okuyun; eksik ya da yanlış yazılan kısmın düzeltilmesini isteyin."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Çek ve senede dayalı icra takibi: borca ve imzaya itiraz nasıl yapılır?"
 aciklama: "Kambiyo senetlerine özgü haciz yolunda ödeme emri, on günlük ödeme ve beş günlük itiraz süresi, borca ve imzaya itiraz, para cezası ve tazminat riski."
+kisaca:
+  - "Çek ve senede dayalı takipte borçluya, borcu on gün içinde ödemesi için ödeme emri gönderilir."
+  - "Borca ve imzaya itiraz beş gün içinde, icra dairesine değil dilekçeyle icra mahkemesine yapılır."
+  - "Borcun olmadığı ya da ödendiği ancak resmî belge veya imzası alacaklıca kabul edilmiş belgeyle ispatlanabilir."
+  - "İtiraz kendiliğinden yalnızca satışı durdurur; haciz gibi diğer işlemler devam eder."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

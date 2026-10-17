@@ -1,6 +1,10 @@
 ---
 baslik: "Boşanma yerine ayrılık kararı: şartları, süresi ve süre bitince ne olur"
 aciklama: "Ayrılık kararı nedir, kim isteyebilir, hâkim hangi hâlde boşanma yerine ayrılığa karar verir, ayrılık süresi dolunca eşleri ne bekler?"
+kisaca:
+  - "Ayrılık istemek için de bir boşanma sebebine dayanmak ve bu sebebi ispat etmek gerekir."
+  - "Ayrılığa bir yıldan üç yıla kadar karar verilir; eşler bu sürede evli kalır ve başkasıyla evlenemez."
+  - "Süre bitince boşanma kendiliğinden gerçekleşmez; ortak hayat kurulmamışsa eşlerden biri boşanma davası açmalıdır."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

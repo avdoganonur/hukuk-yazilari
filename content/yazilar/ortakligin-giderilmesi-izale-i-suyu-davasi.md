@@ -1,6 +1,11 @@
 ---
 baslik: "Ortaklığın giderilmesi (izale-i şuyu) davası: ortak taşınmaz nasıl paylaşılır?"
 aciklama: "Ortak taşınmazda paylaşma hakkı, dava öncesi zorunlu arabuluculuk, sulh hukuk mahkemesinde aynen bölme ya da açık artırmayla satış."
+kisaca:
+  - "Paylı mülkiyette her paydaş malın paylaşılmasını isteyebilir; ortaklığı sürdürme yükümlülüğü varsa bu hak kullanılamaz."
+  - "Dava açmadan önce arabulucuya başvurmak zorunludur; başvurulmadan açılan dava usulden reddedilir."
+  - "Davaya, taşınmazın değeri ne olursa olsun, taşınmazın bulunduğu yerdeki sulh hukuk mahkemesi bakar."
+  - "Hâkim önce aynen bölmeyi değerlendirir; mal önemli değer kaybına uğramadan bölünemiyorsa açık artırmayla satışa karar verilir."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "İş kazasında işverenin sorumluluğu: hangi tazminatlar istenebilir?"
 aciklama: "İşverenin işçiyi koruma ve iş güvenliği borcu, iş kazasında istenebilecek maddi ve manevi tazminat kalemleri, kusur, zamanaşımı ve arabuluculuk."
+kisaca:
+  - "İşveren iş sağlığı ve güvenliği için gerekli her türlü önlemi almakla yükümlüdür; dışarıdan hizmet alması sorumluluğunu kaldırmaz."
+  - "Yaralanan işçi tedavi giderlerini, kazanç ve çalışma gücü kaybını ve manevi tazminatı işverenden isteyebilir."
+  - "İşçinin kazada kusuru varsa hâkim tazminatı indirebilir veya tamamen kaldırabilir."
+  - "İş kazası tazminat davalarında arabulucuya gitmek şart değildir; dava doğrudan iş mahkemesinde açılabilir."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

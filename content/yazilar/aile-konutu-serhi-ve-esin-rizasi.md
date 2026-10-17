@@ -1,6 +1,10 @@
 ---
 baslik: "Aile konutu: eşin rızası, tapu şerhi ve kiralık evde koruma"
 aciklama: "Aile konutunun devri, kira sözleşmesinin sona erdirilmesi, eşin açık rızası ve tapuya aile konutu şerhi verilmesine ilişkin temel kurallar."
+kisaca:
+  - "Aile konutunun devri, kira sözleşmesinin feshi ve konut üzerindeki hakların sınırlanması için diğer eşin açık rızası gerekir."
+  - "Malik olmayan eş tapu müdürlüğünden aile konutu şerhi isteyebilir; şerh ona evde kendiliğinden mülkiyet payı vermez."
+  - "Kira sözleşmesinde adı olmayan eş, kiralayana bildirimle sözleşmeye taraf olabilir ve diğer eşle müteselsilen sorumlu olur."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

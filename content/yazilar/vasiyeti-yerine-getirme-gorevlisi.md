@@ -1,6 +1,10 @@
 ---
 baslik: "Vasiyeti yerine getirme görevlisi: kim atanır, ne yapar, nasıl denetlenir?"
 aciklama: "Vasiyetnameyle atanan vasiyeti yerine getirme görevlisinin görevi kabulü, tereke üzerindeki yetkileri, sulh hâkiminin izni, denetimi ve sorumluluğu."
+kisaca:
+  - "Görevi kendisine bildirilen kişi on beş gün içinde kabul etmediğini sulh hâkimine bildirmezse görevi kabul etmiş sayılır."
+  - "Mirasbırakan bu konuda taahhütte bulunmamışsa tereke mallarının devri için sulh hâkiminin izni gerekir."
+  - "Görevli sulh hâkiminin denetimindedir ve özensiz davranışından doğan zarardan vekil gibi sorumludur."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

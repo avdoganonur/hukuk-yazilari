@@ -1,6 +1,11 @@
 ---
 baslik: "Kiraladığım evde rutubet, kombi arızası, su sızıntısı var: kiracının hakları neler?"
 aciklama: "Kiralanan evdeki ayıp için kiracının ev sahibinden onarım, kira indirimi ve tazminat isteme hakkı, kendi yaptırma imkânı ve sözleşmeyi feshetmesi."
+kisaca:
+  - "Ev sahibi, kiralananı kullanıma elverişli teslim etmek ve sözleşme süresince bu durumda tutmak zorundadır."
+  - "Sonradan çıkan ayıpta kiracı onarım, kira bedelinden ayıpla orantılı indirim ve zararının giderilmesini isteyebilir."
+  - "Ayıp uygun sürede giderilmezse kiracı onu ev sahibi hesabına giderttirip bedelini kiradan indirebilir."
+  - "Kullanımı önemli ölçüde engelleyen ayıp verilen sürede giderilmezse kiracı sözleşmeyi feshedebilir."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

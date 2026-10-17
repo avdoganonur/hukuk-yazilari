@@ -1,6 +1,11 @@
 ---
 baslik: "Hekim hatası (malpraktis): tazminat kimden, hangi mahkemede ve ne zamana kadar istenir?"
 aciklama: "Tıbbi hata nedeniyle tazminat: özel hastane ve kamu hastanesi ayrımı, görevli mahkeme, idareye başvuru, ispat ve zamanaşımı süreleri."
+kisaca:
+  - "Hekim iyileşmeyi garanti etmez; gerekli özen gösterilmişse tıbben bilinen bir komplikasyon tek başına tazminat doğurmaz."
+  - "Özel hastane ya da muayenehanedeki tedaviden doğan uyuşmazlık adli yargıda çözülür."
+  - "Kamu hastanesindeki hatada dava hekime değil idareye karşı, idare mahkemesinde açılır; önce idareye başvurmak gerekir."
+  - "İdareye, eylemi öğrenmeden itibaren bir yıl ve her hâlde eylem tarihinden itibaren beş yıl içinde başvurulmalıdır."
 tarih: 2026-10-17
 alan: tazminat-hukuku
 dayanak:

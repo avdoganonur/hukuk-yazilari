@@ -1,6 +1,10 @@
 ---
 baslik: "Nafakanın artırılması, azaltılması ve kaldırılması"
 aciklama: "Yoksulluk ve iştirak nafakasının değişen koşullara göre artırılması, azaltılması ya da kaldırılması; kendiliğinden sona erdiği hâller ve dava süreci."
+kisaca:
+  - "Tarafların mali durumu değişir ya da hakkaniyet gerektirirse aylık nafakanın artırılması veya azaltılması istenebilir."
+  - "Aylık yoksulluk nafakası, alan eşin yeniden evlenmesi ya da taraflardan birinin ölümüyle kendiliğinden kalkar."
+  - "Nafaka ödeyen kişi ödemeyi kendiliğinden kesmemeli, dava açmalıdır; karar değişmedikçe ödenmeyen nafaka borca dönüşür."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

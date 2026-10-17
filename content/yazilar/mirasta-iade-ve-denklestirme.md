@@ -1,6 +1,11 @@
 ---
 baslik: "Mirasta denkleştirme (iade): sağlıkta verilen mallar paylaşmada nasıl hesaba katılır?"
 aciklama: "Mirasbırakanın sağlığında bir mirasçıya verdiği para, ev ya da sermayenin paylaşmada denkleştirilmesi: kimler yükümlü, istisnalar ve değer hesabı."
+kisaca:
+  - "Mirasbırakanın altsoyuna karşılıksız yaptığı malvarlığı devri gibi kazandırmalar, aksini açıkça belirtmemişse denkleştirilir."
+  - "Kazandırmayı alan mirasçı malı terekeye aynen geri verir ya da değerini miras payından düşürtür."
+  - "Hesapta bağış tarihindeki değer değil, denkleştirme anındaki değer esas alınır."
+  - "Olağan hediyeler ve geleneğe uygun evlenme giderleri denkleştirmeye tabi değildir."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

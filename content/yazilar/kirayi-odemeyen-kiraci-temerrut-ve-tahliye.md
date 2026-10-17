@@ -1,6 +1,11 @@
 ---
 baslik: "Kirayı ödemeyen kiracı: temerrüt ihtarı ve tahliye yolları"
 aciklama: "Kira ödenmediğinde otuz günlük temerrüt ihtarı, iki haklı ihtar nedeniyle tahliye davası ve icra yoluyla tahliye: şartlar, süreler, itiraz."
+kisaca:
+  - "Konut ve çatılı işyeri kiralarında ödenmeyen kira için kiracıya yazılı ihtarla en az otuz gün ödeme süresi verilir."
+  - "Bu sürede ödeme yapılmazsa ev sahibi sözleşmeyi feshedebilir, kiracı çıkmazsa sulh hukuk mahkemesinde tahliye davası açılır."
+  - "Bir kira yılında iki haklı ihtara sebep olan kiracıya karşı, kira yılının bitiminden itibaren bir ay içinde tahliye davası açılabilir."
+  - "İcra yoluyla tahliyede kiracının itiraz süresi yedi gün, ödeme süresi otuz gündür ve bu yolda arabulucuya gitmek gerekmez."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

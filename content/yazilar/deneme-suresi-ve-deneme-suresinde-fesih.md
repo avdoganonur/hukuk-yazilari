@@ -1,6 +1,10 @@
 ---
 baslik: "Deneme süresi en fazla ne kadar olur, bu sürede işten çıkarılan işçinin hakları nelerdir?"
 aciklama: "İş sözleşmesindeki deneme süresinin üst sınırı, toplu sözleşmeyle uzatılması, bildirimsiz ve tazminatsız fesih ile çalışılan günlerin ücreti."
+kisaca:
+  - "Deneme süresi ancak taraflar iş sözleşmesine bir deneme kaydı koymuşsa söz konusu olur."
+  - "Deneme süresi en çok iki ay olabilir; toplu iş sözleşmesiyle en fazla dört aya kadar uzatılabilir."
+  - "Bu sürede taraflar bildirim süresi olmadan ve tazminat ödemeden feshedebilir; çalışılan günlerin ücreti saklıdır."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

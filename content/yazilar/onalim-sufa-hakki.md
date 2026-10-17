@@ -1,6 +1,11 @@
 ---
 baslik: "Önalım (şufa) hakkı: paydaş payını satarsa diğer paydaşlar ne yapabilir?"
 aciklama: "Paylı taşınmazda payın üçüncü kişiye satışında diğer paydaşların önalım hakkı, üç ay ve bir yıllık süreler, dava ve yatırılacak rayiç bedel."
+kisaca:
+  - "Paydaş payını üçüncü kişiye satarsa diğer paydaşlar, alıcıya karşı dava açarak önalım hakkını kullanabilir."
+  - "Hak, satışın bildirildiği tarihten başlayarak üç ay ve her hâlde satışın üzerinden bir yıl geçmekle düşer."
+  - "25 Aralık 2025'ten önce yapılmış satışlarda eski hükümler uygulanır; o hükümlere göre üst sınır iki yıldır."
+  - "Davada tapudaki fiyat değil, hâkimin belirlediği rayiç bedel verilen kesin süre içinde nakden yatırılmalıdır."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

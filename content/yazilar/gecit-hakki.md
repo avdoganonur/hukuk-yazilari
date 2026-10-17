@@ -1,6 +1,10 @@
 ---
 baslik: "Yolu olmayan arsa veya tarla için zorunlu geçit hakkı nasıl istenir?"
 aciklama: "Genel yola çıkışı olmayan taşınmazın maliki komşusundan bedel karşılığında geçit isteyebilir: şartlar, geçidin kimden istendiği, dava ve sona erme."
+kisaca:
+  - "Taşınmazından genel yola çıkmak için yeterli geçidi bulunmayan malik, tam bir bedel karşılığında komşusundan geçit isteyebilir."
+  - "Komşu razı olmazsa dava asliye hukuk mahkemesinde açılır; dava açmadan önce arabulucuya başvurmak dava şartıdır."
+  - "Geçidin artık hiçbir yararı kalmamışsa, yüklü taşınmazın maliki geçidin tapudan silinmesini isteyebilir."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

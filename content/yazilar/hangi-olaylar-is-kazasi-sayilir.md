@@ -1,6 +1,10 @@
 ---
 baslik: "Hangi olaylar iş kazası sayılır, işveren kazayı nereye ve ne zaman bildirir?"
 aciklama: "Kanuna göre iş kazası sayılan beş durum, işyeri kavramının genişliği, servis kazaları ve işverenin kolluğa ve SGK'ya bildirim süreleri."
+kisaca:
+  - "İşyerinde bulunurken, işveren adına iş yaparken, görevle gönderilmişken ve işveren servisindeyken yaşanan kazalar iş kazası sayılabilir."
+  - "Kendi aracıyla, toplu taşımayla ya da yürüyerek işe giderken geçirilen kaza servis kazası durumuna girmez."
+  - "İşveren kazayı derhâl kolluğa, en geç kazadan sonraki üç iş günü içinde SGK'ya bildirir."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

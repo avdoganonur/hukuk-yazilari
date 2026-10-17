@@ -1,6 +1,10 @@
 ---
 baslik: "Yurt dışında alınan boşanma kararı Türkiye'de nasıl tanınır?"
 aciklama: "Yabancı boşanma kararının nüfusa doğrudan tescili, tanıma davasının şartları, başvurulacak mahkeme ve gereken belgeler."
+kisaca:
+  - "Tanınmayan ya da tescil edilmeyen yabancı boşanma kararıyla kişi Türk nüfus kayıtlarında evli görünmeye devam eder."
+  - "Kesinleşmiş ve Türk kamu düzenine açıkça aykırı olmayan karar, eşlerin birlikte başvurusuyla nüfusa doğrudan tescil edilebilir."
+  - "Doğrudan tescil yapılamazsa aile mahkemesinde tanıma davası açılır; tanımada karşılıklılık şartı aranmaz."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

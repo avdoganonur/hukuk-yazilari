@@ -2,6 +2,11 @@
 baslik: Üst hakkı nedir, sona erince yapı kime kalır?
 aciklama: Üst hakkının kapsamı, devri, tapu kaydı, süre sınırları, sona ermede yapı bedeli ve erken devir isteminin
   şartları.
+kisaca:
+  - "Üst hakkı, başkasının arazisinin altında veya üstünde yapı yapma ya da mevcut yapıyı koruma yetkisi veren bir irtifak hakkıdır."
+  - "Aksi kararlaştırılmadıkça üst hakkı devredilebilir ve mirasçılara geçer."
+  - "Hak sona erince yapılar arazi malikine kalır ve aksi kararlaştırılmadıkça malik bunun için bedel ödemez."
+  - "Bağımsız üst hakkı en çok yüz yıl için kurulabilir; en az otuz yıl için kurulan hak sürekli niteliktedir."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Yıllık izin kaç gün? Kıdeme ve yaşa göre süreler, bölerek kullanma ve yol izni"
 aciklama: "İş Kanunu'na göre yıllık ücretli izin süreleri, iznin bölünerek kullanılması, yol izni, izin ücreti ve izindeyken başka işte çalışma yasağı."
+kisaca:
+  - "Deneme süresi dahil en az bir yıl çalışan işçi yıllık ücretli izne hak kazanır ve bu haktan vazgeçilemez."
+  - "İzin süresi kıdeme göre en az 14, 20 ya da 26 gündür; bu süreler sözleşmeyle artırılabilir."
+  - "On sekiz yaş ve altındaki ile elli yaş ve üstündeki işçilerin izni yirmi günden az olamaz."
+  - "İzin işverence bölünemez; taraflar anlaşırsa bölünebilir, ancak bölümlerden biri on günden az olamaz."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

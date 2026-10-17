@@ -1,6 +1,10 @@
 ---
 baslik: "Vergi dairesinden ödeme emri geldi: itiraz süresi ve hangi sebeplerle dava açılır?"
 aciklama: "Amme alacağı için gönderilen ödeme emrine on beş gün içinde vergi mahkemesinde itiraz, ileri sürülebilecek sebepler, mal bildirimi ve tahsilatın durması."
+kisaca:
+  - "Ödeme emrine, tebliğ tarihinden itibaren on beş gün içinde yetkili vergi mahkemesinde dava açılarak itiraz edilir."
+  - "İtiraz yalnızca borcun olmadığı, kısmen ödendiği ya da zamanaşımına uğradığı sebepleriyle yapılabilir."
+  - "Dava açmak tahsilatı kendiliğinden durdurmaz; dilekçede ayrıca yürütmenin durdurulması istenmelidir."
 tarih: 2026-10-17
 alan: vergi-hukuku
 dayanak:

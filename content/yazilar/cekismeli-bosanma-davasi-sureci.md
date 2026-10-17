@@ -1,6 +1,10 @@
 ---
 baslik: "Çekişmeli boşanma davası nasıl ilerler? Dilekçeden kesinleşmeye süreç"
 aciklama: "Eşler anlaşamadığında açılan boşanma davasında dilekçeler, ön inceleme, geçici önlemler, tanıklar, karar, istinaf ve kesinleşme."
+kisaca:
+  - "Çekişmeli boşanmada hâkim eşlerin beyanlarıyla yetinmez, boşanma sebebinin ispatlanmasını arar."
+  - "Dava sürerken hâkim, eşlerin barınması, geçimi ve çocukların bakımı için geçici önlemleri kendiliğinden alır."
+  - "Karara karşı tebliğden itibaren iki hafta içinde istinafa başvurulabilir; karar kesinleşene kadar eşler hukuken evli sayılır."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

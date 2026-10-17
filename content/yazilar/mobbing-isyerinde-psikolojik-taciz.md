@@ -1,6 +1,11 @@
 ---
 baslik: "Mobbing (işyerinde psikolojik taciz): işçinin hakları ve ispat"
 aciklama: "İşyerinde psikolojik tacize karşı işverenin yükümlülüğü, işçinin haklı nedenle fesih ve tazminat hakları, fesih süresi ve ispat için öneriler."
+kisaca:
+  - "İşveren, işçilerin psikolojik tacize uğramamaları için gerekli önlemleri almakla yükümlüdür."
+  - "Mobbing davranışı İş Kanunu m. 24'teki hâllere uyuyorsa işçi derhal fesih yapabilir; en az bir yıllık çalışması varsa kıdem tazminatı alır."
+  - "Bu fesih hakkı, davranışın öğrenildiği günden başlayarak altı iş günü içinde kullanılmalıdır."
+  - "Konuşmayı rıza olmadan gizlice kaydetmek suç olabilir; yazılı kayıtlar ve tanıklar çoğu zaman daha güvenli delillerdir."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

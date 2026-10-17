@@ -1,6 +1,10 @@
 ---
 baslik: "Yurt dışı hizmet borçlanması: kimler yapabilir, nasıl başvurulur, aylık ne zaman bağlanır?"
 aciklama: "Yurt dışında çalışarak geçen sürelerin Türkiye'de emeklilik için değerlendirilmesi: şartlar, ödeme süresi, statü, aylık bağlanması ve kesilmesi."
+kisaca:
+  - "Yurt dışında on sekiz yaşından sonra ve Türk vatandaşı olarak geçen belgelendirilmiş sigortalılık süreleri borçlanılabilir."
+  - "Başvuru SGK'ya yapılır; borç, tebliğ tarihinden itibaren üç ay içinde ödenmelidir."
+  - "Aylık için yurda kesin dönüş, borcun tamamının ödenmesi ve ödemeden sonra yazılı istekte bulunulması gerekir."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

@@ -1,6 +1,10 @@
 ---
 baslik: "Ölüm aylığı: hangi şartlarla bağlanır, eş, çocuk ve anne-babaya ne kadar ödenir?"
 aciklama: "Ölen sigortalının yakınlarına ölüm aylığı bağlanma şartları, eşin, çocukların ve anne-babanın payları, aylığın başlaması ve kesilmesi."
+kisaca:
+  - "Ölüm aylığı için ölen kişi adına en az 1800 gün prim bildirilmiş olması ya da kanundaki diğer şartlardan biri gerekir."
+  - "Dul eş aylığın yüzde 50'sini, çocukların her biri yüzde 25'ini alır; payların toplamı sigortalının aylığını geçemez."
+  - "Aylık kendiliğinden bağlanmaz; hak sahiplerinin SGK'ya yazılı istekte bulunması gerekir."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

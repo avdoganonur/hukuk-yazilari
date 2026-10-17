@@ -1,6 +1,11 @@
 ---
 baslik: "Malullük aylığı: kimler malul sayılır, aylık bağlanması için hangi şartlar aranır?"
 aciklama: "Çalışma gücünü kaybeden sigortalının malul sayılması, yüzde 60 ölçütü, sigortalılık süresi ve prim günü şartları, aylığın başlaması ve kesilmesi."
+kisaca:
+  - "Çalışma gücünün ya da meslekte kazanma gücünün en az yüzde 60'ını kaybeden sigortalı malul sayılır; bunu Kurum Sağlık Kurulu tespit eder."
+  - "Aylık için en az on yıllık sigortalılık ve 1800 gün prim gerekir; başkasının bakımına muhtaç olanlarda 1800 gün yeterlidir."
+  - "Sigortalı olarak ilk kez çalışmaya başlamadan önce var olan hastalık ya da engellilik nedeniyle malullük aylığı alınamaz."
+  - "Rapor yazılı istekten önce alınmışsa aylık istek tarihine göre başladığından, başvuruyu geciktirmek aylık kaybına yol açar."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

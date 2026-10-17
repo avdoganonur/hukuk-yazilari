@@ -1,6 +1,11 @@
 ---
 baslik: "Genel haciz yoluyla ilamsız takipte ödeme emrine itiraz"
 aciklama: "Genel haciz yoluyla ilamsız icrada yedi günlük itiraz süresi, kısmi itiraz, imzaya itiraz ve itirazın takip üzerindeki etkisi."
+kisaca:
+  - "Ödeme emrine, tebliğden itibaren yedi gün içinde icra dairesine dilekçeyle veya sözlü olarak itiraz edilir."
+  - "Yedi günlük süre iş günü değildir; son gün resmî tatile rastlarsa süre tatili izleyen günde biter."
+  - "Alacaklıyla görüşmek ya da mesaj göndermek icra dairesine itirazın yerine geçmez."
+  - "Süresinde itiraz takibi durdurur, ancak borcun bulunmadığına ilişkin kesin hüküm oluşturmaz."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

@@ -1,6 +1,10 @@
 ---
 baslik: "Çalışma koşullarında esaslı değişiklik: işveren koşulları tek başına değiştirebilir mi?"
 aciklama: "İşverenin çalışma koşullarını değiştirmek için yapması gereken yazılı bildirim, işçinin altı iş günlük kabul süresi ve kabul etmeyen işçinin hakları."
+kisaca:
+  - "İşveren çalışma koşullarında esaslı bir değişikliği ancak işçiye yazılı olarak bildirerek yapabilir."
+  - "İşçinin altı iş günü içinde yazılı olarak kabul etmediği değişiklik işçiyi bağlamaz; susmak kabul anlamına gelmez."
+  - "Kabul etmeyen işçinin sözleşmesini feshetmek için işveren geçerli nedeni yazılı açıklamalı ve bildirim süresine uymalıdır."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

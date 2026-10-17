@@ -1,6 +1,11 @@
 ---
 baslik: "İhbar süresi ve ihbar tazminatı: kim, ne zaman, ne kadar öder?"
 aciklama: "Belirsiz süreli iş sözleşmesinde kıdeme göre bildirim süreleri, ihbar tazminatının hesabı, iş arama izni ve kötüniyet tazminatı."
+kisaca:
+  - "Bildirim süresi, işçinin çalışma süresine göre iki, dört, altı veya sekiz haftadır."
+  - "Bildirim süresine uymayan taraf, bu süreye ait ücret tutarında ihbar tazminatı öder."
+  - "Kendi isteğiyle ayrılan işçi işverenden ihbar tazminatı isteyemez; haklı nedenle fesihte bildirim süresi beklenmez."
+  - "İşveren bildirim süresinde işçiye günde en az iki saat ücretli iş arama izni vermek zorundadır."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

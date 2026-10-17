@@ -1,6 +1,11 @@
 ---
 baslik: "İhtiyaç nedeniyle tahliye davası: şartlar, süreler ve yeni malikin durumu"
 aciklama: "Ev sahibinin kendisi ya da yakınlarının konut veya işyeri ihtiyacı için açtığı tahliye davası: kimler için açılır, süreler, yeni malik ve üç yıllık yasak."
+kisaca:
+  - "Dava, ev sahibinin kendisi, eşi, altsoyu, üstsoyu ya da bakmakla yükümlü olduğu kişilerin gerçek ihtiyacı için açılabilir."
+  - "Belirli süreli sözleşmede dava, kira süresinin sonundan başlayarak bir ay içinde açılır."
+  - "Davadan önce arabulucuya başvurmak zorunludur; dava değerine bakılmaksızın sulh hukuk mahkemesinde görülür."
+  - "Tahliyeden sonra ev sahibi haklı sebep olmadan taşınmazı üç yıl geçmeden eski kiracısından başkasına kiralayamaz."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

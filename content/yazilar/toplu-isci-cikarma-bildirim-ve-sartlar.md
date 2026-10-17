@@ -2,6 +2,10 @@
 baslik: Toplu işçi çıkarma hangi şartlarda gerçekleşir?
 aciklama: Toplu işçi çıkarmada çalışan sayısı eşikleri, otuz günlük bildirim, sendika temsilcileriyle görüşme, kapanma
   ve yeniden işe alım.
+kisaca:
+  - "20 ile 100 işçili işyerinde en az 10, 101 ile 300 işçide en az yüzde on, 301 ve üzerinde en az 30 işçinin bir ay içinde çıkarılması aranır."
+  - "İşveren en az otuz gün önceden sendika temsilcilerine, bölge müdürlüğüne ve Türkiye İş Kurumuna yazılı bildirim yapar."
+  - "Toplu çıkarma usulü, iş güvencesini düzenleyen 18 ila 21. maddelerin uygulanmasını engellemek için kullanılamaz."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

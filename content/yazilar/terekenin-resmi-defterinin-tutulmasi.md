@@ -1,6 +1,10 @@
 ---
 baslik: "Terekenin resmî defteri: borçları belli olmayan bir mirası kabul etmeden önce ne yapılır?"
 aciklama: "Resmî defter tutulmasını kimlerin, hangi sürede isteyebileceği, sulh mahkemesindeki süreç, defter süresince takip yasağı ve deftere göre kabulün sonuçları."
+kisaca:
+  - "Mirası reddetmeye hakkı olan her mirasçı, bir ay içinde sulh hukuk mahkemesinden resmî defter tutulmasını isteyebilir."
+  - "Defter tutulduğu sürece ölen kişinin borçları için icra takibi yapılamaz ve zamanaşımı işlemez."
+  - "Defter bitince süresi içinde beyanda bulunmayan mirasçı, mirası deftere göre kabul etmiş sayılır."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

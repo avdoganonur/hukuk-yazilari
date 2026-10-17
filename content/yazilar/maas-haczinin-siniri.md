@@ -1,6 +1,11 @@
 ---
 baslik: "Maaş haczi: maaşın ne kadarı kesilebilir, nafaka alacağında ne değişir?"
 aciklama: "Maaş ve ücret haczinde kesilebilecek oran, birden fazla haciz olduğunda sıra, işverenin yükümlülükleri ve nafaka alacağına tanınan ayrıcalıklar."
+kisaca:
+  - "İş Kanunu'na tabi işçinin ücretinden nafaka dışındaki borçlar için yapılacak kesinti dörtte birdir."
+  - "Birden fazla haciz varsa hacizler sıraya konur; öndeki haczin kesintisi bitmeden sonraki için kesintiye geçilmez."
+  - "Nafaka için yapılan kesinti dörtte birlik sınırla bağlı değildir ve nafaka alacaklısı sırada öne çıkar."
+  - "Kanuna aykırı kesintiye karşı, işlemin öğrenildiği tarihten itibaren yedi gün içinde icra mahkemesine şikâyet yapılabilir."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Kefil olmak: kefalet ne zaman geçerli olur, kefil hangi borçtan ne kadar sorumludur?"
 aciklama: "Kefalette el yazısı ve azami miktar şartı, eşin yazılı rızası, adi ve müteselsil kefalet farkı, kefilin sorumluluk sınırı ve on yıllık süre."
+kisaca:
+  - "Kefil, sorumlu olacağı azami miktarı ve kefalet tarihini kendi el yazısıyla yazmazsa kefalet geçerli olmaz."
+  - "Evli kişi, kanundaki istisnalar dışında eşinin yazılı rızası olmadan kefil olamaz."
+  - "Adi kefalette alacaklı kural olarak önce borçluya başvurur, müteselsil kefalette ise borçluyu takip etmeden kefile gidebilir."
+  - "Gerçek kişinin verdiği kefalet, sözleşmenin kurulmasından itibaren on yıl geçince kendiliğinden sona erer."
 tarih: 2026-10-17
 alan: borclar-hukuku
 dayanak:

@@ -1,6 +1,10 @@
 ---
 baslik: "Kiracı evi başkasına kiraya verebilir mi? Alt kira ve kira sözleşmesinin devri"
 aciklama: "Alt kira, kullanım hakkının devri ve kira ilişkisinin devri arasındaki fark, kiraya verenin yazılı rızası ve devreden kiracının sorumluluğu."
+kisaca:
+  - "Konut ve çatılı işyeri kiracısı, kiraya verenin yazılı rızası olmadan kiralananı başkasına kiralayamaz ve kullanım hakkını devredemez."
+  - "İşyeri kiralarında kiraya veren, haklı sebep olmadıkça kira ilişkisinin devrine rıza göstermekten kaçınamaz."
+  - "İşyeri kirasını devreden kiracı, sözleşmenin bitimine kadar ve en fazla iki yıl süreyle devralanla birlikte müteselsilen sorumlu olur."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

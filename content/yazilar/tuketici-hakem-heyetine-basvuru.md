@@ -1,6 +1,11 @@
 ---
 baslik: "Tüketici hakem heyeti mi, tüketici mahkemesi mi? Nereye ve nasıl başvurulur"
 aciklama: "Tüketici uyuşmazlığında hakem heyeti ile mahkeme arasındaki ayrım, parasal sınırın işleyişi, kararlara itiraz süresi ve dava öncesi arabuluculuk."
+kisaca:
+  - "Kanundaki parasal sınırın altındaki uyuşmazlıklarda tüketici hakem heyetine başvuru zorunludur; üstündekiler mahkemede görülür."
+  - "Parasal sınır her yıl yeniden değerleme oranında artırıldığı için başvuru yılında geçerli sınıra bakmak gerekir."
+  - "Hakem heyeti kararına tebliğden itibaren iki hafta içinde tüketici mahkemesine itiraz edilebilir."
+  - "Tüketici mahkemesinde dava açmadan önce arabulucuya başvurulmuş olması dava şartıdır."
 tarih: 2026-10-17
 alan: tuketici-hukuku
 dayanak:

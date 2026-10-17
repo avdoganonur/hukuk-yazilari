@@ -1,6 +1,11 @@
 ---
 baslik: "Yasal mirasçılar ve miras payları: zümre sistemi ve sağ kalan eşin payı"
 aciklama: "Vasiyetname yoksa miras kime, hangi oranda kalır: çocuklar, anne-baba ve büyükanne-büyükbaba zümreleri, halefiyet ve sağ kalan eşin payı."
+kisaca:
+  - "Önceki zümrede tek bir mirasçı bile varsa sonraki zümre mirastan pay alamaz."
+  - "Ölenin bir çocuğu ya da torunu varsa anne, baba ve kardeşler mirasçı olmaz."
+  - "Sağ kalan eş, altsoyla birlikte mirasın dörtte birini, ana ve baba zümresiyle birlikte yarısını alır."
+  - "Eşin mirasçı olması için evliliğin ölüm anında sürmesi gerekir; boşanan eşler birbirine mirasçı olamaz."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

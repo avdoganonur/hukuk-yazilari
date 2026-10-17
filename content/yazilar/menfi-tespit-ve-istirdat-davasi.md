@@ -1,6 +1,11 @@
 ---
 baslik: "Menfi tespit ve istirdat davası: haksız icra takibine karşı borçlunun yolları"
 aciklama: "Haksız icra takibine karşı borçlu olmadığını tespit ettirme ve ödenen parayı geri isteme: dava zamanı, takibin durdurulması, teminat, süre ve tazminat."
+kisaca:
+  - "Menfi tespit davası icra takibinden önce de takip sırasında da açılabilir ve ayrı bir dava açma süresi yoktur."
+  - "Takipten önce açılan davada takibin durdurulması için alacağın yüzde on beşinden az olmayan teminat gerekir."
+  - "Takipten sonra açılan davada takip durdurulamaz; teminatla yalnızca paranın alacaklıya ödenmemesi istenebilir."
+  - "Borçlu olmadığı parayı ödemek zorunda kalan kişi, ödeme tarihinden itibaren bir yıl içinde istirdat davası açabilir."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

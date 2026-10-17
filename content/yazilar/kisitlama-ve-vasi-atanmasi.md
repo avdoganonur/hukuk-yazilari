@@ -1,6 +1,11 @@
 ---
 baslik: "Kısıtlama ve vasi atanması: bir yakınınız kendi işlerini göremiyorsa ne yapılır?"
 aciklama: "Bir yetişkinin vesayet altına alınma sebepleri, sulh hukuk mahkemesindeki süreç, sağlık kurulu raporu, vasi seçimi ve kısıtlamanın kaldırılması."
+kisaca:
+  - "Kısıtlama, ergin bir kişinin mahkeme kararıyla vesayet altına alınması ve işlerinin bir vasi tarafından yürütülmesidir."
+  - "Akıl hastalığı veya akıl zayıflığı sebebiyle kısıtlama kararı ancak resmî sağlık kurulu raporu üzerine verilebilir."
+  - "Vasi, taşınmaz satışı gibi önemli işlemlerde sulh hukuk mahkemesinin iznini almak zorundadır."
+  - "Kısıtlamanın sebebi ortadan kalkınca mahkeme vesayetin kaldırılmasına karar verir."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

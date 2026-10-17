@@ -1,6 +1,11 @@
 ---
 baslik: "Konut dokunulmazlığının ihlali: izinsiz eve girmenin cezası nedir?"
 aciklama: "Bir başkasının evine, bahçesine ya da işyerine rızası olmadan girmenin veya çıkmamanın cezası, gece ve cebirle işlenmesi, şikâyet ve uzlaştırma."
+kisaca:
+  - "Başkasının konutuna rızasına aykırı giren ya da rızayla girip çıkmayan kişiye şikâyet üzerine altı aydan iki yıla kadar hapis verilir."
+  - "Kiracının oturduğu daire kiracının konutudur, ev sahibinin onun rızası olmadan girmesi bu suçu oluşturabilir."
+  - "Fiil cebir ya da tehdit kullanılarak veya gece vakti işlenirse ceza bir yıldan üç yıla kadar hapistir."
+  - "Şikâyete bağlı hâllerde şikâyet, fiili ve failin kim olduğunu öğrenmeden itibaren altı ay içinde yapılmalıdır."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

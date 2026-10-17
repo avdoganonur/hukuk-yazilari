@@ -2,6 +2,11 @@
 baslik: Telafi çalışması hangi durumlarda ve ne kadar yaptırılabilir?
 aciklama: Telafi çalışmasının nedenleri, dört aylık süre, günlük çalışma sınırları ve tatil günlerinde çalıştırma
   yasağı.
+kisaca:
+  - "Telafi çalışması yalnızca İş Kanunu'nun 64. maddesinde sayılan nedenlerle çalışılmayan süreler için yaptırılabilir."
+  - "İşveren, çalışılmayan süreler için dört ay içinde telafi çalışması yaptırabilir."
+  - "Telafi çalışması günde üç saati ve günlük en çok çalışma süresini aşamaz; tatil günlerinde yaptırılamaz."
+  - "Kanuna uygun telafi çalışması fazla çalışma veya fazla sürelerle çalışma sayılmaz."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Sosyal medyada hakaret: suç ne zaman oluşur, şikâyet nasıl yapılır?"
 aciklama: "Paylaşım, yorum ya da mesajla işlenen hakaret suçunun cezası, aleniyet artırımı, şikâyet süresi, önödeme ve uzlaştırma yasağı."
+kisaca:
+  - "İnternette yapılan hakaret de TCK m. 125'e göre değerlendirilir; cezası üç aydan iki yıla kadar hapis veya adli para cezasıdır."
+  - "Herkese açık bir hesaptan yapılan paylaşım gibi alenen işlenen hakarette ceza altıda bir oranında artırılır."
+  - "Şikâyet, fail öğrenildikten sonra altı ay içinde ve her hâlde fiilden itibaren iki yıl içinde yapılmalıdır."
+  - "Hakaret suçunda uzlaştırma yolu kapatılmıştır; kamu görevlisine hakaret dışındaki hâllerde önödeme uygulanır."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

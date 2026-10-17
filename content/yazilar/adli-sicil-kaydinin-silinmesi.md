@@ -1,6 +1,10 @@
 ---
 baslik: "Adli sicil (sabıka) kaydı ve arşiv kaydı ne zaman silinir?"
 aciklama: "Sabıka kaydının arşive alınması, arşiv kaydının beş, on beş ya da otuz yıl sonra silinmesi, kendiliğinden silinme hâlleri ve kaydı kimlerin görebileceği."
+kisaca:
+  - "Cezanın infazı tamamlanınca kayıt adli sicilden silinir ve arşive alınır."
+  - "Hak yoksunluğu doğurmayan mahkûmiyetlerde arşiv kaydı, arşive alınma şartlarının oluştuğu tarihten itibaren beş yıl geçince silinir."
+  - "Hak yoksunluğu doğuran mahkûmiyetlerde bu süre, yasaklanmış hakların geri verilmesi kararı alınmışsa on beş, alınmamışsa otuz yıldır."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "İhtiyati haciz: şartları, teminat, itiraz ve takip süresi"
 aciklama: "Alacaklının borçlunun mallarını önceden haczettirmesi: hangi alacaklar için istenir, teminat, on günlük infaz ve yedi günlük takip süreleri, itiraz."
+kisaca:
+  - "İhtiyati haciz, rehinle güvence altına alınmamış ve vadesi gelmiş bir para alacağı için istenir."
+  - "Alacaklı kararın verildiği tarihten itibaren on gün içinde infazını istemezse karar kendiliğinden kalkar."
+  - "Dava veya takipten önce haciz yaptıran alacaklı, yedi gün içinde takip başlatmalı ya da dava açmalıdır."
+  - "Kendisi dinlenmeden hakkında karar verilen borçlu, yedi gün içinde kararı veren mahkemeye itiraz edebilir."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

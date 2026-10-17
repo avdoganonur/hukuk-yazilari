@@ -1,6 +1,10 @@
 ---
 baslik: "Muris muvazaası: tapuda satış gösterilen bağışlara karşı mirasçıların hakkı"
 aciklama: "Mirasbırakanın mirasçılardan mal kaçırmak için tapuda satış gösterdiği bağışlar, mirasçıların iptal davası, ispat ve tenkis davasıyla farkı."
+kisaca:
+  - "Mirasbırakanın tapuda satış gibi gösterip aslında bağışladığı taşınmazlar için mirasçılar tapu iptali ve tescil davası açabilir."
+  - "Dava mirasbırakanın ölümünden sonra açılabilir; saklı paylı olma şartı aranmaz ve muvazaa tanık dahil her türlü delille ispatlanabilir."
+  - "Yargıtay kararlarında bu davanın zamanaşımına bağlı olmadığı belirtilir; ancak beklemek ispatı güçleştirir."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

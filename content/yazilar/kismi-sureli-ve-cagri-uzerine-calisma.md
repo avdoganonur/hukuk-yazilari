@@ -1,6 +1,11 @@
 ---
 baslik: "Yarı zamanlı (part-time) ve çağrı üzerine çalışan işçinin hakları"
 aciklama: "Kısmi süreli iş sözleşmesinin tanımı, tam süreli işçiyle eşit davranma, çağrı üzerine çalışmada yirmi saat, dört gün ve dört saat kuralları."
+kisaca:
+  - "Kısmi süreli işçi, yalnızca sözleşmesi kısmi süreli olduğu için tam süreli emsal işçiden farklı işleme tabi tutulamaz."
+  - "Ücret ve paraya ilişkin bölünebilir haklar, kısmi süreli işçiye çalıştığı süreyle orantılı ödenir."
+  - "Çağrı üzerine çalışmada süre belirlenmemişse haftalık yirmi saat kararlaştırılmış sayılır ve işçi çağrılmasa da ücrete hak kazanır."
+  - "İşveren, aksi kararlaştırılmadıkça çağrıyı işçinin çalışacağı zamandan en az dört gün önce yapmak zorundadır."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Boşanmada mal paylaşımı: edinilmiş mallara katılma rejiminde kim neyi alır?"
 aciklama: "Boşanmada edinilmiş mal ile kişisel mal ayrımı, katılma alacağının hesabı, mal kaçırmaya karşı koruma ve sürelerle ilgili kanunun söyledikleri."
+kisaca:
+  - "Eşler başka bir mal rejimi seçmemişse aralarında edinilmiş mallara katılma rejimi uygulanır."
+  - "Evlenirken sahip olunan mallar ile miras ya da bağış gibi karşılıksız yoldan edinilenler kişisel maldır ve paylaşıma girmez."
+  - "Her eş, diğer eşin edinilmiş mallarından borçlar düşüldükten sonra kalan artık değerin yarısını isteyebilir."
+  - "Boşanma davasında mal rejimi dava tarihinden geçerli olarak sona erer; sonra edinilen mallar hesaba girmez."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

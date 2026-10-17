@@ -1,6 +1,11 @@
 ---
 baslik: "İdari işleme karşı iptal davası: süre, idareye başvuru ve yürütmenin durdurulması"
 aciklama: "Hukuka aykırı bir idari işleme karşı iptal davası kimlerce, hangi sürede açılır; idareye başvurunun süreye etkisi ve yürütmeyi durdurma şartları."
+kisaca:
+  - "İptal davası, özel bir süre yoksa işlemin yazılı bildirimini izleyen günden itibaren altmış gün içinde açılır."
+  - "İdareye yapılan başvuruya otuz gün içinde cevap verilmezse istek reddedilmiş sayılır."
+  - "Üst makama başvuru işlemeye başlamış dava süresini durdurur, sıfırlamaz."
+  - "Dava açmak işlemi kendiliğinden durdurmaz; bunun için dilekçede yürütmenin durdurulması da istenmelidir."
 tarih: 2026-10-17
 alan: vergi-hukuku
 dayanak:

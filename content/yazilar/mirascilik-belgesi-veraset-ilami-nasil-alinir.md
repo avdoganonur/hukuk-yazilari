@@ -1,6 +1,11 @@
 ---
 baslik: "Mirasçılık belgesi (veraset ilamı) nasıl alınır: noterden mi, sulh hukuk mahkemesinden mi?"
 aciklama: "Mirasçılık belgesinin ne işe yaradığı, notere ve sulh hukuk mahkemesine başvuru, noterin belge veremediği hâller ve belgeye itiraz yolları."
+kisaca:
+  - "Mirasçılık belgesini sulh hukuk mahkemesi ya da noter verir ve mirasçılardan birinin başvurması yeterlidir."
+  - "Yargılama gerekiyorsa, nüfus kayıtları yetmiyorsa ya da belgeyi yabancılar istiyorsa noter belge veremez."
+  - "Belgenin geçersizliği her zaman ileri sürülebilir; eksik ya da yanlış mirasçı gösterilmişse iptali istenebilir."
+  - "Belgeyi kullanarak tereke işlerine karışan mirasçı artık mirası reddedemez."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "İdarenin verdiği zarar için tam yargı davası nasıl açılır?"
 aciklama: "İdari işlem ya da eylem yüzünden zarar görenlerin açacağı tam yargı davası: işlem ve eylem ayrımı, idareye ön başvuru, bir ve beş yıllık süreler."
+kisaca:
+  - "Tam yargı davası, idari işlem ya da eylem yüzünden zarar görenlerin zararlarının tazmini için açtığı davadır."
+  - "İdari işlemden doğan zararda dava, özel bir süre yoksa yazılı bildirimden itibaren altmış gün içinde açılır."
+  - "Eylemden doğan zararda önce idareye, öğrenmeden itibaren bir yıl ve her hâlde eylem tarihinden itibaren beş yıl içinde başvurulur."
+  - "İdare otuz gün içinde cevap vermezse bu sürenin bittiği tarihten itibaren dava açma süresi işlemeye başlar."
 tarih: 2026-10-17
 alan: vergi-hukuku
 dayanak:

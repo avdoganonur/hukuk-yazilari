@@ -1,6 +1,11 @@
 ---
 baslik: "Komşu gürültüsü, koku ve duman: komşuluk hukukunda haklar ve açılabilecek davalar"
 aciklama: "Gürültü, koku, duman gibi taşkın kullanımlara karşı Türk Medeni Kanunu ve Kat Mülkiyeti Kanunu'ndaki haklar, açılabilecek davalar ve arabuluculuk şartı."
+kisaca:
+  - "Hoş görülebilecek dereceyi aşan gürültü, koku, duman veya sarsıntıyla komşuları rahatsız etmek yasaktır."
+  - "Taşkın kullanımdan zarar gören ya da zarar tehlikesiyle karşılaşan kişi, eski hâle getirme, tehlikenin giderilmesi ve tazminat isteyebilir."
+  - "Komşu hakkı ve Kat Mülkiyeti Kanunu'ndan doğan uyuşmazlıklarda dava açmadan önce arabulucuya başvurmak zorunludur."
+  - "Apartmanda bu yüzden zarar gören kat maliki, sulh hukuk mahkemesinden hâkimin müdahalesini isteyebilir."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Kamulaştırma bedeline itiraz: bedel tespiti davası ve kamulaştırmaya karşı iptal davası"
 aciklama: "Taşınmazı kamulaştırılan malikin hakları: uzlaşma görüşmesi, bedel tespiti ve tescil davası, bilirkişi değerlemesi ve 30 günlük iptal davası süresi."
+kisaca:
+  - "Uzlaşma görüşmesinde teklif edilen bedel kabul edilirse sonradan kamulaştırmaya ya da bedeline itiraz davası açılamaz."
+  - "Anlaşma olmazsa idare asliye hukuk mahkemesinde bedel tespiti ve tescil davası açar; malik davalı konumundadır."
+  - "Malik, değere ilişkin savunma ve delillerini davetiyenin tebliğinden itibaren on gün içinde yazılı olarak bildirmelidir."
+  - "Kamulaştırma işleminin kendisine karşı iptal davası, tebligattan itibaren otuz gün içinde idari yargıda açılır."
 tarih: 2026-10-17
 alan: vergi-hukuku
 dayanak:

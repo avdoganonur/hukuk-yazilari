@@ -1,6 +1,11 @@
 ---
 baslik: "El yazılı vasiyetname: yazım, tarih, imza ve geçerlilik koşulları"
 aciklama: "El yazılı vasiyetnamenin baştan sona el yazısıyla hazırlanması, tarih ve imza koşulları, saklanması, geri alınması ve ölümden sonra teslimi."
+kisaca:
+  - "El yazılı vasiyetname baştan sona mirasbırakanın el yazısıyla yazılmalı, yıl, ay ve gün gösterilmeli ve imzalanmalıdır."
+  - "Bilgisayarda hazırlanmış bir metnin yalnızca imzalanması, onu el yazılı vasiyetnameye dönüştürmez."
+  - "Vasiyet yapabilmek için ayırt etme gücüne sahip olmak ve on beş yaşını doldurmuş bulunmak gerekir."
+  - "Ölümden sonra bulunan vasiyetname, geçerli olup olmadığına bakılmaksızın hemen sulh hâkimine teslim edilmelidir."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

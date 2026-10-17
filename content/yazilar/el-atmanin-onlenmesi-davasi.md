@@ -1,6 +1,11 @@
 ---
 baslik: "Taşınmazıma başkası müdahale ediyor: el atmanın önlenmesi davası nasıl açılır?"
 aciklama: "Arsasına, tarlasına veya evine haksız müdahale edilen malikin açabileceği el atmanın önlenmesi davası, zilyetlik davalarıyla farkı, süreler ve görevli mahkeme."
+kisaca:
+  - "Taşınmazına haksız müdahale edilen malik, el atmanın önlenmesi davasıyla müdahalenin sona erdirilmesini isteyebilir."
+  - "Mülkiyete dayanan bu dava asliye hukuk mahkemesinde, taşınmazın bulunduğu yerde açılır."
+  - "Zilyetlik davaları fiil ve failin öğrenilmesinden itibaren iki ay ve her hâlde fiilin üzerinden bir yıl içinde açılmalıdır."
+  - "Tapuda bir malike kayıtlı taşınmazı başkasının yıllarca kullanması, ona bu yolla mülkiyet kazandırmaz."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

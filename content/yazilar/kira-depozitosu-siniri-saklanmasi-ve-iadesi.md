@@ -1,6 +1,11 @@
 ---
 baslik: "Kira depozitosu: üç aylık sınır, bankada saklama ve iade"
 aciklama: "Konut ve çatılı işyeri kiralarında depozitonun sınırı, bankaya yatırılması, iadesi ve olağan yıpranma ile kiracı zararının ayrılması."
+kisaca:
+  - "Konut ve çatılı işyeri kiralarında sözleşmeyle kararlaştırılan güvence üç aylık kira bedelini aşamaz."
+  - "Para olarak verilen güvence, kiraya verenin onayı olmadan çekilemeyecek şekilde vadeli tasarruf hesabına yatırılır."
+  - "Kiraya veren üç ay içinde dava veya takibi bankaya yazılı bildirmezse banka, kiracının istemi üzerine güvenceyi geri verir."
+  - "Kiraya veren, olağan incelemeyle görülebilen eksiklikleri teslimde hemen yazılı bildirmezse kiracı sorumluluktan kurtulur."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Koşullu salıverilme ve denetimli serbestlik: hükümlü cezaevinden ne zaman çıkabilir?"
 aciklama: "Hapis cezasının ne kadarının cezaevinde geçeceği, koşullu salıverilme oranları, denetimli serbestlikle erken çıkış şartları ve geri gönderilme hâlleri."
+kisaca:
+  - "Süreli hapis cezalarında koşullu salıverilme için temel oran yarıdır, bazı suçlarda bu oran üçte ikidir."
+  - "Koşullu salıverilmeye bir yıl veya daha az kalan iyi hâlli hükümlünün talebi üzerine denetimli serbestliğe karar verilebilir."
+  - "Denetimli serbestliğe ayrılan hükümlü, cezaevinden çıktıktan sonra beş gün içinde denetimli serbestlik müdürlüğüne başvurmalıdır."
+  - "Denetim süresinde hapis cezası gerektiren kasıtlı bir suç işlenirse koşullu salıverilme kararı geri alınır."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

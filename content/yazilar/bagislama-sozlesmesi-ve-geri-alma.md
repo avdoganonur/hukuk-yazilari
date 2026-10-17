@@ -2,6 +2,10 @@
 baslik: Bağışlanan mal hangi şartlarda geri alınabilir?
 aciklama: Bağışlama sözleşmesinde yazılı ve resmî şekil, koşul ve yüklemeler, geri alma sebepleri ve bir yıllık
   sürenin başlangıcı.
+kisaca:
+  - "Bağışlama sözü yazılı şekle, taşınmaz ya da taşınmaz üzerindeki ayni hak bağışlama sözü ise resmî şekle bağlıdır."
+  - "Bağış; ağır suç, kanuni yükümlülüklerin önemli ölçüde ihlali ya da yüklemenin haklı sebep olmadan yerine getirilmemesi hâlinde geri alınabilir."
+  - "Bağışlayan, geri alma sebebini öğrendiği günden başlayarak bir yıl içinde bağışlamayı geri alabilir."
 tarih: 2026-10-17
 alan: borclar-hukuku
 dayanak:

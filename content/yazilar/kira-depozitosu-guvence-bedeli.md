@@ -1,6 +1,11 @@
 ---
 baslik: "Kira depozitosu (güvence bedeli): üst sınır, banka hesabı ve iade"
 aciklama: "Konut ve çatılı işyeri kiralarında depozitonun üç aylık kira sınırı, vadeli hesaba yatırılması, sözleşme bitince iadesi ve yapılabilecek kesintiler."
+kisaca:
+  - "Depozito ancak sözleşmede kararlaştırılmışsa istenebilir ve üç aylık kira bedelini aşamaz."
+  - "Para olarak verilen depozito, ev sahibinin onayı olmadan çekilemeyecek şekilde bankada vadeli hesaba yatırılır."
+  - "Ev sahibi sözleşme bitiminden sonraki üç ay içinde dava veya takibi bankaya bildirmezse banka, kiracının istemi üzerine parayı geri verir."
+  - "Kiracı, sözleşmeye uygun kullanımdan doğan olağan eskime ve yıpranmalardan sorumlu değildir."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

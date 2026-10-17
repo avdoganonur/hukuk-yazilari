@@ -1,6 +1,10 @@
 ---
 baslik: "Spor salonu, internet, dijital platform: abonelik nasıl iptal edilir, cayma bedeli ödenir mi?"
 aciklama: "Abonelik sözleşmesini gerekçesiz feshetme hakkı, fesih bildiriminin şekli, yedi günlük sonlandırma süresi, para iadesi ve taahhütlü aboneliklerde cayma bedeli."
+kisaca:
+  - "Belirsiz süreli ya da süresi bir yıldan uzun abonelikler gerekçesiz ve cezai şart ödenmeden feshedilebilir."
+  - "Fesih için kâğıt üzerinde ya da e-posta, kısa mesaj gibi kalıcı veri saklayıcısıyla bildirim yeterlidir."
+  - "Firma fesih talebini en geç yedi gün içinde yerine getirmeli, peşin ödenen tutarın kalanını on beş gün içinde kesintisiz iade etmelidir."
 tarih: 2026-10-17
 alan: tuketici-hukuku
 dayanak:

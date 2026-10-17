@@ -1,6 +1,10 @@
 ---
 baslik: "Bedensel zararda maddi ve manevi tazminatın temel kalemleri"
 aciklama: "Yaralanma halinde tedavi gideri, kazanç kaybı, çalışma gücü kaybı, ekonomik gelecek ve manevi tazminatın Türk Borçlar Kanunu'ndaki çerçevesi."
+kisaca:
+  - "Maddi tazminat; tedavi giderleri, kazanç kaybı, çalışma gücü kaybı ve ekonomik geleceğin sarsılmasından doğan kayıpları kapsar."
+  - "Ağır bedensel zarar hâlinde zarar görenin yakınlarına da manevi tazminat verilebilir."
+  - "Genel haksız fiilde zamanaşımı, zarar ve sorumlunun öğrenilmesinden itibaren iki yıl, her durumda fiilden itibaren on yıldır."
 tarih: 2026-10-17
 alan: tazminat-hukuku
 dayanak:

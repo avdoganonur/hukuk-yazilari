@@ -1,6 +1,11 @@
 ---
 baslik: "Devlet memuruna verilen disiplin cezasına nasıl itiraz edilir, dava açılabilir mi?"
 aciklama: "Memura verilen uyarmadan memurluktan çıkarmaya kadar disiplin cezaları, savunma hakkı, zamanaşımı, yedi günlük itiraz süresi ve idari yargı yolu."
+kisaca:
+  - "Savunması alınmadan memura disiplin cezası verilemez ve savunma süresi yedi günden az olamaz."
+  - "Uyarma, kınama, aylıktan kesme ve kademe ilerlemesinin durdurulması cezalarına tebliğden itibaren yedi gün içinde itiraz edilir."
+  - "Disiplin cezalarına karşı idare mahkemesinde yazılı bildirimden itibaren altmış gün içinde iptal davası açılabilir."
+  - "Dava açılmış olması tek başına cezanın uygulanmasını durdurmaz."
 tarih: 2026-10-17
 alan: vergi-hukuku
 dayanak:

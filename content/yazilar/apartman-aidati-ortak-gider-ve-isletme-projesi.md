@@ -1,6 +1,10 @@
 ---
 baslik: "Apartman aidatı: ortak gider paylaşımı, kiracı ve işletme projesi"
 aciklama: "Kat Mülkiyeti Kanunu'nda ortak giderlerin paylaşımı, malik ve kiracının sorumluluğu, gecikme tazminatı ve işletme projesinin güncel kuralları."
+kisaca:
+  - "Başka anlaşma yoksa kapıcı, kaloriferci, bahçıvan ve bekçi giderleri eşit; sigorta, bakım ve onarım gibi giderler arsa payı oranında paylaşılır."
+  - "Kat maliki, ortak yer ve tesislerden yararlanma ihtiyacı olmadığını ileri sürerek gider ve avans payından kaçınamaz."
+  - "Kiracının ortak gider borcundan sorumluluğu, ödemekle yükümlü olduğu kira miktarıyla sınırlıdır."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

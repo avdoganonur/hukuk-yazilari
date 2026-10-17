@@ -1,6 +1,11 @@
 ---
 baslik: "Evlenme yaşı kaçtır? Hâkim izni ve veli izniyle evlenme"
 aciklama: "Türk hukukunda evlenme yaşı, 16 yaşında hâkim izniyle evlenme, 18 yaşından küçüklerde veli izni ve iznin verilmemesi hâlinde başvuru yolu."
+kisaca:
+  - "Evlenme yaşı on yedidir; on sekiz yaşını doldurmamış kişi ancak yasal temsilcisinin izniyle evlenebilir."
+  - "On altı yaşını doldurmuş kişi, hâkimin olağanüstü durumlarda ve pek önemli bir sebeple vereceği izinle evlenebilir."
+  - "On altı yaşını doldurmamış kişinin evlenmesine kanun hiçbir koşulda izin vermez."
+  - "Yasal temsilci haklı bir sebep olmadan izin vermezse aile mahkemesine başvurulabilir."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "İlamsız icra takibi nasıl başlar: takip talebi ve ödeme emri"
 aciklama: "Mahkeme kararı olmadan icra takibi başlatmak: takip talebine yazılacaklar, yetkili icra dairesi, masraflar ve ödeme emrinin tebliği."
+kisaca:
+  - "Mahkeme kararı olmayan alacaklı, takip talebiyle doğrudan icra dairesine başvurabilir."
+  - "Takip talebinde senet, senet yoksa borcun sebebi yazılır; yazılı belge şart değildir."
+  - "Takip kural olarak borçlunun yerleşim yerindeki icra dairesinde başlatılabilir."
+  - "Borçlu, ödeme emrinin tebliğinden itibaren yedi gün içinde borcu öder ya da itiraz eder."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

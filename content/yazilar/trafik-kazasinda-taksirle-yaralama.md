@@ -1,6 +1,10 @@
 ---
 baslik: "Trafik kazasında taksirle yaralama: ceza, şikâyet ve uzlaştırma"
 aciklama: "Yaralanmalı trafik kazasında sürücünün cezai sorumluluğu, bilinçli taksir, kusur, şikâyet şartı ve uzlaşmanın tazminata etkisi."
+kisaca:
+  - "Taksirle yaralamanın temel cezası dört aydan iki yıla kadar hapis veya adli para cezasıdır."
+  - "Taksirle yaralama kural olarak şikâyete bağlıdır; şikâyet süresi fiilin ve failin öğrenildiği günden itibaren altı aydır."
+  - "Uzlaşma sağlanırsa, o anda tespit edilemeyen ya da sonradan çıkan zararlar dışında aynı suç için tazminat davası açılamaz."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

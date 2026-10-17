@@ -1,6 +1,10 @@
 ---
 baslik: "Çocuk teslimi ve kişisel ilişki kararına uyulmazsa ne yapılır?"
 aciklama: "2021 değişikliğiyle çocuk teslimi ve kişisel ilişki kararlarının yerine getirilmesi İcra ve İflas Kanunu'ndan Çocuk Koruma Kanunu'na taşındı."
+kisaca:
+  - "Çocuk teslimi ve kişisel ilişki kararları artık icra dairesince değil, adli destek ve mağdur hizmetleri müdürlüklerince yerine getirilir."
+  - "Başvuru çocuğun yerleşim yerindeki müdürlüğe yapılır ve bu işlemler harçlardan istisnadır."
+  - "Teslim emrine aykırı davranan kişi, bir ay içinde yapılacak şikâyet üzerine disiplin hapsiyle cezalandırılır."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

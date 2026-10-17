@@ -1,6 +1,10 @@
 ---
 baslik: "Gece çalışması: en fazla kaç saat çalışılır, vardiya nasıl değişir?"
 aciklama: "İş Kanunu'na göre gece döneminin sınırları, yedi buçuk saat kuralı ve istisnaları, vardiya değişiminde dinlenme süresi ve sağlık durumunun etkisi."
+kisaca:
+  - "İşçilerin gece çalışmaları yedi buçuk saati geçemez; on iki saatlik gece vardiyaları kural olarak kanuna aykırıdır."
+  - "Turizm, özel güvenlik, sağlık hizmeti ve sayılan petrol işlerinde işçinin yazılı onayıyla bu süre aşılabilir."
+  - "Postası değiştirilecek işçi, kesintisiz en az on bir saat dinlendirilmeden diğer postada çalıştırılamaz."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

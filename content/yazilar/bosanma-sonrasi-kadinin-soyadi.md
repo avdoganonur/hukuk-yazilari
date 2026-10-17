@@ -1,6 +1,10 @@
 ---
 baslik: "Boşanma sonrası kadının soyadı: eski eşin soyadını kullanmaya devam etmek mümkün mü?"
 aciklama: "Boşanan kadının evlenmeden önceki soyadına dönmesi, eski eşin soyadını kullanma izni için aranan şartlar ve bu iznin kaldırılması."
+kisaca:
+  - "Boşanan kadın kural olarak evlenmeden önceki soyadını yeniden alır; bunun için ayrı dava açmak gerekmez."
+  - "Eski eşin soyadını kullanmak için kadının menfaati olduğu ve bunun eski eşe zarar vermeyeceği ispatlanmalıdır."
+  - "İzin kadının istemi üzerine verilir; bu istemi boşanma davası sürerken ileri sürmek en güvenli yoldur."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

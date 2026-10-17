@@ -1,6 +1,10 @@
 ---
 baslik: "Anlaşmalı boşanma: şartlar, protokol ve duruşma"
 aciklama: "Anlaşmalı boşanmanın kanuni şartları, protokolde düzenlenmesi gereken konular, başvurulacak mahkeme ve duruşmada neler olduğu."
+kisaca:
+  - "Anlaşmalı boşanma için evliliğin en az bir yıl sürmüş olması gerekir."
+  - "Hâkim her iki eşi bizzat dinlemelidir; bu yüzden eşlerin duruşmaya kendilerinin gelmesi gerekir."
+  - "Hâkim protokolü uygun bulmalıdır; yaptığı değişiklikleri eşler kabul etmezse anlaşmalı boşanma kararı verilemez."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

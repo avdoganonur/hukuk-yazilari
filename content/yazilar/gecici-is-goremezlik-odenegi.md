@@ -1,6 +1,11 @@
 ---
 baslik: "Raporlu işçinin hakları: geçici iş göremezlik ödeneği ve iş sözleşmesine etkisi"
 aciklama: "İstirahat raporu alan işçiye SGK'nın ödediği geçici iş göremezlik ödeneğinin şartları, oranı ve uzun süren raporun iş sözleşmesine etkisi."
+kisaca:
+  - "Raporlu işçinin gelir kaybını işveren değil, SGK geçici iş göremezlik ödeneğiyle karşılar."
+  - "Hastalıkta ödenek iş göremezliğin üçüncü gününden, iş kazası ve meslek hastalığında raporun ilk gününden başlar."
+  - "Ödenek yatarak tedavide günlük kazancın yarısı, ayakta tedavide üçte ikisidir."
+  - "İş güvencesi kapsamındaki işçinin bekleme süresinde hastalık veya kaza nedeniyle devamsızlığı, fesih için geçerli sebep sayılmaz."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Tutuklama hangi şartlarda verilir, adli kontrol nedir, nasıl itiraz edilir?"
 aciklama: "Tutuklamanın şartları ve yasak olduğu hâller, adli kontrol yükümlülükleri, tutuklama ve adli kontrol kararlarına itirazın süresi ve mercii."
+kisaca:
+  - "Tutuklama için kuvvetli suç şüphesini gösteren somut deliller ile kaçma ya da delil karartma gibi bir tutuklama nedeni birlikte bulunmalıdır."
+  - "Tutuklama yerine yurt dışına çıkış yasağı, imza ya da konutu terk etmeme gibi adli kontrol yükümlülükleri uygulanabilir."
+  - "Tutuklama ve adli kontrol kararlarına, kararı öğrenme gününden itibaren iki hafta içinde itiraz edilebilir."
+  - "İtiraz kararın uygulanmasını kendiliğinden durdurmaz; ayrıca karar verilmedikçe kişi tutuklu kalır."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

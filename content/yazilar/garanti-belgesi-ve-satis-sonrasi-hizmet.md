@@ -1,6 +1,11 @@
 ---
 baslik: "Garanti belgesi ve servis: tamir uzarsa, cihaz tekrar bozulursa ne yapılır?"
 aciklama: "Garanti süresi, garanti belgesi, yetkili serviste azami tamir süresi, yedek cihaz, tekrar arızada değişim veya iade hakkı ve garanti sonrası servis yükümlülüğü."
+kisaca:
+  - "Garanti süresi malın teslim tarihinden itibaren başlar ve en az iki yıldır; bu sürede onarım ücretsizdir."
+  - "Yetkili servisteki tamir süresi ürünlerin büyük çoğunluğu için 20 iş günü, motorlu taşıtlar için 45 iş günüdür."
+  - "Onarılan mal garanti süresinde tekrar arızalanırsa ya da azami tamir süresi aşılırsa, bedel iadesi, indirim veya değişim istenebilir."
+  - "Garanti bittikten sonra da üretici ve ithalatçılar, kullanım ömrü boyunca bakım ve onarım hizmeti sağlamak zorundadır."
 tarih: 2026-10-17
 alan: tuketici-hukuku
 dayanak:

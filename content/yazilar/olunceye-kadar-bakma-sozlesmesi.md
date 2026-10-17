@@ -1,6 +1,10 @@
 ---
 baslik: "Ölünceye kadar bakma sözleşmesi: şekli, tarafların borçları ve sona ermesi"
 aciklama: "Bakım karşılığında mal devrini öngören sözleşmenin resmî şekli, bakım borcunun kapsamı, fesih yolları ve mirasçılarla nafaka alacaklılarının hakları."
+kisaca:
+  - "Ölünceye kadar bakma sözleşmesi, resmî memur ve iki tanık önünde yapılmadıkça geçerli olmaz."
+  - "Bakım borçlusu uygun gıda ve konut sağlamak, hastalıkta gerekli özenle bakmak ve tedavi ettirmekle yükümlüdür."
+  - "Borca aykırılık sözleşmenin devamını çekilmez hâle getirirse sözleşme önel verilmeden feshedilebilir."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

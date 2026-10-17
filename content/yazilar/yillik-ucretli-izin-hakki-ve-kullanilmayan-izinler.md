@@ -1,6 +1,11 @@
 ---
 baslik: "Yıllık ücretli izin: hak kazanma, kullanım ve kullanılmayan izinlerin ücreti"
 aciklama: "İş Kanunu kapsamında yıllık izne hak kazanma, izin süreleri, tatil günleri ve işten ayrılırken kullanılmayan izin ücretinin temel kuralları."
+kisaca:
+  - "Deneme süresi dahil en az bir yıl çalışan işçi yıllık ücretli izne hak kazanır ve bu haktan vazgeçilemez."
+  - "Sözleşme herhangi bir nedenle sona erdiğinde kullanılmayan izinlerin ücreti, sona erme tarihindeki ücret üzerinden ödenir."
+  - "İstifa, kullanılmayan izin ücreti hakkını tek başına ortadan kaldırmaz."
+  - "Kullanılmayan izin ücretine ilişkin zamanaşımı, iş sözleşmesinin sona ermesinden itibaren başlar."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

@@ -1,6 +1,10 @@
 ---
 baslik: "Velayeti almayan ebeveynin çocukla görüşme hakkı: kişisel ilişki nasıl düzenlenir?"
 aciklama: "Velayet kendisine verilmeyen ebeveynin çocukla kişisel ilişki hakkı, kanuni sınırları, karara uyulmamasının sonuçları ve yakınların görüşme hakkı."
+kisaca:
+  - "Velayeti almayan ana ya da baba, çocukla uygun kişisel ilişki kurulmasını isteme hakkına sahiptir."
+  - "Kişisel ilişki düzenlenirken çocuğun özellikle sağlık, eğitim ve ahlak bakımından yararları esas tutulur."
+  - "Velayet sahibi ebeveyn kişisel ilişki düzenlemesine uymazsa, çocuğun menfaatine aykırı olmamak kaydıyla velayet değiştirilebilir."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

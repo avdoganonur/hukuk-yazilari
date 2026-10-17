@@ -1,6 +1,11 @@
 ---
 baslik: "İstifa eden işçi kıdem tazminatı alabilir mi?"
 aciklama: "İstifa eden işçinin kıdem tazminatı alabildiği hâller: haklı nedenle fesih, askerlik, emeklilik, sigortalılık süresi ve prim günü, evlilik."
+kisaca:
+  - "İstifa kural olarak kıdem tazminatı hakkı vermez; ancak kanun bunun istisnalarını açıkça sayar."
+  - "Haklı nedenle fesih, muvazzaf askerlik, emeklilik ve kadın işçinin evlilikten itibaren bir yıl içinde ayrılması bu istisnalardandır."
+  - "Yaşlılık aylığı için gereken sigortalılık süresini ve prim gününü tamamlayan işçi, yaşı beklemeden ayrılıp kıdem tazminatı alabilir."
+  - "Her durumda işçinin aynı işverende en az bir tam yıl çalışmış olması gerekir."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

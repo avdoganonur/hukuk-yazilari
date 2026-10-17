@@ -2,6 +2,10 @@
 baslik: Eşin yaptığı borçtan diğer eş de sorumlu olur mu?
 aciklama: Evlilik birliğinin temsilinde sürekli ihtiyaçlar, yetki aşımı, eşlerin sorumluluğu ve hâkim tarafından
   alınabilecek ekonomik önlemler.
+kisaca:
+  - "Eşlerden her biri, ortak yaşam sürerken ailenin sürekli ihtiyaçları için evlilik birliğini temsil eder."
+  - "Temsil yetkisi kullanıldığında eşler üçüncü kişilere karşı müteselsilen sorumludur; yetkisiz işlemden ise eş kişisel olarak sorumludur."
+  - "Eşlerden biri temsil yetkisini aşarsa, diğer eş hâkimden bu yetkinin kaldırılmasını ya da sınırlanmasını isteyebilir."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

@@ -1,6 +1,10 @@
 ---
 baslik: "Tehdit suçu: cezası ne kadar, şikâyete bağlı mı?"
 aciklama: "Tehdit suçunun türleri ve cezaları, hangi tehdidin şikâyete bağlı olduğu, silahla tehdit, uzlaştırma ve kadına karşı tehdit."
+kisaca:
+  - "Hayata, vücuda veya cinsel dokunulmazlığa yönelik tehdidin cezası altı aydan iki yıla kadar hapistir."
+  - "Silahla ya da birden fazla kişi tarafından birlikte yapılan tehditte ceza iki yıldan yedi yıla kadar hapse çıkar."
+  - "Yalnızca malvarlığına zarar verme ya da başka bir kötülük yapma tehdidi şikâyete bağlıdır; şikâyet süresi altı aydır."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

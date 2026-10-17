@@ -1,6 +1,11 @@
 ---
 baslik: "İşe iade davası: kimler açabilir, süreler nasıl işler?"
 aciklama: "İşten çıkarılan işçinin işine dönmeyi isteyebilmesi için gereken şartlar, arabulucuya başvuru ve dava süreleri, kazanılırsa ödenecek tutarlar."
+kisaca:
+  - "İşe iade için işyerinde otuz veya daha fazla işçi, en az altı aylık kıdem ve belirsiz süreli sözleşme gerekir."
+  - "İşçi, fesih bildiriminin kendisine tebliğinden itibaren bir ay içinde arabulucuya başvurmalıdır."
+  - "Arabuluculukta anlaşma olmazsa son tutanaktan itibaren iki hafta içinde iş mahkemesinde dava açılabilir."
+  - "İşveren işçiyi işe başlatmazsa en az dört, en çok sekiz aylık ücreti tutarında tazminat öder."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

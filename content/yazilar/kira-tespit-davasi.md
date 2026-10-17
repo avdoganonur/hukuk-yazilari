@@ -1,6 +1,11 @@
 ---
 baslik: "Kira tespit davası: kira bedeli nasıl belirlenir, beş yıl kuralı ne anlama gelir?"
 aciklama: "Yenilenen kira dönemlerinde TÜFE sınırı, beş yıl dolunca kiranın hâkimce belirlenmesi, dava açma zamanı ve kararın hangi dönemden geçerli olduğu."
+kisaca:
+  - "Yenilenen kira dönemlerinde artış, bir önceki kira yılındaki TÜFE on iki aylık ortalamalara göre değişim oranını geçemez."
+  - "Beş yıldan uzun süreli ya da beş yıldan sonra yenilenen sözleşmelerde yeni kira bedelini hâkim, emsal kiraları da gözeterek belirler."
+  - "Dava yeni dönemin başlangıcından en geç otuz gün önce açılırsa belirlenen bedel o dönemin başından itibaren uygulanır."
+  - "Kira uyuşmazlıklarında dava açmadan önce arabulucuya başvurmak zorunludur."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

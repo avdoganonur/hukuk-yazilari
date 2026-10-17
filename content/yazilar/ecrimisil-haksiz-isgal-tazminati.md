@@ -1,6 +1,11 @@
 ---
 baslik: "Ecrimisil nedir? Başkasının taşınmazını haksız kullanmanın bedeli"
 aciklama: "Haksız işgal tazminatı olarak ecrimisil: kimden istenir, iyiniyetli ve kötüniyetli kullanıcı farkı, paylı mülkiyette durum ve zamanaşımı."
+kisaca:
+  - "Ecrimisil, başkasının taşınmazını sahibinin izni ya da geçerli bir sözleşme olmadan kullanmanın karşılığıdır."
+  - "Yargıtay'a göre ecrimisil en az, taşınmazın haksız kullanıldığı dönemde getirebileceği kira geliri kadardır."
+  - "Yargıtay uygulamasına göre paydaşlar, kural olarak kullanımdan alıkoyma koşulu olmadan birbirinden ecrimisil isteyemez."
+  - "Ecrimisil istemleri Yargıtay uygulamasında dava tarihinden geriye doğru beş yıllık zamanaşımına bağlı tutulur."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

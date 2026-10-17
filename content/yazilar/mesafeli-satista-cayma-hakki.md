@@ -1,6 +1,11 @@
 ---
 baslik: "İnternetten aldığım ürünü iade edebilir miyim? Cayma hakkı ve süresi"
 aciklama: "İnternetten ve uzaktan yapılan alışverişlerde on dört günlük cayma hakkı, sürenin başlangıcı, iade masrafı, para iadesi ve cayma hakkı olmayan ürünler."
+kisaca:
+  - "İnternetten alışverişte tüketici on dört gün içinde gerekçe göstermeden ve cezai şart ödemeden sözleşmeden cayabilir."
+  - "Mal satışında süre, malın tüketiciye ya da onun belirlediği kişiye teslim edildiği gün başlar."
+  - "Satıcı, ürün iade için belirtilen taşıyıcıya teslim edildikten sonra on dört gün içinde tahsil ettiği bütün ödemeleri geri verir."
+  - "Kişiye özel hazırlanan ya da çabuk bozulan ürünlerde, aksi kararlaştırılmadıkça cayma hakkı kullanılamaz."
 tarih: 2026-10-17
 alan: tuketici-hukuku
 dayanak:

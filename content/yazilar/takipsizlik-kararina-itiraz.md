@@ -2,6 +2,10 @@
 baslik: Takipsizlik kararına nasıl itiraz edilir?
 aciklama: Kovuşturmaya yer olmadığına dair karara itirazda iki haftalık süre, başvuru mercii, dilekçedeki deliller
   ve yeni delilin etkisi.
+kisaca:
+  - "Suçtan zarar gören, takipsizlik kararının kendisine tebliğinden itibaren iki hafta içinde itiraz edebilir."
+  - "İtiraz, kararı veren savcının yargı çevresindeki ağır ceza mahkemesinin bulunduğu yerdeki sulh ceza hâkimliğine yapılır."
+  - "İtiraz yerinde bulunursa savcı iddianame düzenler; reddedilirse itiraz eden giderlere mahkûm edilir."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

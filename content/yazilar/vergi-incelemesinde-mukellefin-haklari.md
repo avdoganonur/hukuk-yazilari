@@ -2,6 +2,11 @@
 baslik: Vergi incelemesinde mükellefin hakları ve dikkat edilecek işlemler
 aciklama: Vergi incelemesinde yazılı bildirim, inceleme yeri, defter ve belge sunma, inceleme süreleri ve tutanaklara
   itirazın temel kuralları.
+kisaca:
+  - "Vergi incelemeleri esas itibarıyla dairede yapılır; mükellef isterse ve yer uygunsa işyerinde de yapılabilir."
+  - "İncelemenin zamanının önceden bildirilmesi zorunlu değildir, ancak konusu ve başlandığı yazıyla bildirilir."
+  - "Tam inceleme en fazla bir yıl, sınırlı inceleme en fazla altı ay içinde bitirilmelidir; ek süre verilebilir."
+  - "Mükellefin itiraz ve açıklamaları tutanağa geçirilir ve tutanağın bir örneği kendisine bırakılır."
 tarih: 2026-10-17
 alan: vergi-hukuku
 dayanak:

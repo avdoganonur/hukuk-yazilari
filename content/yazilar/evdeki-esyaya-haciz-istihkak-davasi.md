@@ -1,6 +1,10 @@
 ---
 baslik: "Borcu olmayan kişinin eşyasına haciz: istihkak iddiası ve istihkak davası"
 aciklama: "Borçluya ait olmayan bir mal haczedildiğinde istihkak iddiası, yedi günlük süreler, mülkiyet karinesi ve davayı kimin açması gerektiği."
+kisaca:
+  - "Haczedilen mal size aitse, haczi öğrendiğiniz tarihten itibaren yedi gün içinde istihkak iddiasında bulunmalısınız."
+  - "Borçlunun da yaşadığı evdeki eşya kural olarak borçlunun elinde sayılır ve malın size ait olduğunu ispat yükü sizdedir."
+  - "Mal üçüncü kişinin elindeyse dava açma yükü alacaklıya geçer; alacaklı yedi gün içinde dava açmazsa iddia kabul edilmiş sayılır."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

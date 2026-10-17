@@ -1,6 +1,10 @@
 ---
 baslik: "Taşınmaz satış vaadi sözleşmesi: şekli, tapuya şerhi ve tescil davası"
 aciklama: "Taşınmaz satış vaadinin noterde düzenleme şeklinde yapılması, tapuya şerh, satıcı kaçınırsa tescil davası, zamanaşımı ve adi yazılı vaadin sonucu."
+kisaca:
+  - "Taşınmaz satış vaadi noterde düzenleme şeklinde yapılmazsa geçerli olmaz ve tescil davasına dayanak olamaz."
+  - "Tapuya şerh verilen vaat, sonradan hak kazananlara karşı da ileri sürülebilir; beş yıl içinde satış yapılmazsa şerh silinir."
+  - "Satıcı devirden kaçınırsa alıcı tescil davası açar; bu dava için on yıllık genel zamanaşımı uygulanır."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

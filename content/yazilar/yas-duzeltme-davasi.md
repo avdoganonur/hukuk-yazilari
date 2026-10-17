@@ -1,6 +1,10 @@
 ---
 baslik: "Yaş düzeltme davası: nüfustaki doğum tarihi nasıl değiştirilir?"
 aciklama: "Nüfus kaydındaki yanlış doğum tarihini düzeltmek için açılan dava: maddi hata ile dava ayrımı, görevli mahkeme, deliller ve emeklilikteki etkisi."
+kisaca:
+  - "Nüfustaki doğum tarihi, maddi hata dışında ancak kesinleşmiş bir mahkeme kararıyla düzeltilebilir."
+  - "Dava, davacının yerleşim yeri adresinin bulunduğu yerdeki asliye hukuk mahkemesinde açılır; bir süre öngörülmemiştir."
+  - "Sigortalılık başladıktan sonra yapılan yaş düzeltmeleri, emekli aylığının bağlanmasında ve hesaplanmasında dikkate alınmaz."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

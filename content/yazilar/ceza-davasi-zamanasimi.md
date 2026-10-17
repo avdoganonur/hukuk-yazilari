@@ -1,6 +1,10 @@
 ---
 baslik: "Ceza davasında dava zamanaşımı: süreler nasıl hesaplanır, ne zaman kesilir?"
 aciklama: "Türk Ceza Kanunu'na göre dava zamanaşımı süreleri, sürenin başladığı an, zamanaşımını durduran ve kesen işlemler, kesilmeyle uzayan azami süre."
+kisaca:
+  - "Dava zamanaşımı, mahkemenin vereceği ceza değil, suçun kanunda yazılı cezasının üst sınırına göre hesaplanır."
+  - "Beş yıldan fazla olmamak üzere hapis veya adli para cezası gerektiren suçlarda dava zamanaşımı 8 yıldır."
+  - "Kesen işlemlerle süre yeniden başlar, ama kanundaki sürenin en fazla yarısı kadar uzayabilir."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

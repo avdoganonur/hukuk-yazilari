@@ -1,6 +1,10 @@
 ---
 baslik: "Kasten yaralama suçu: basit yaralama, nitelikli hâller ve şikâyet"
 aciklama: "Kasten yaralamanın güncel cezaları, basit tıbbi müdahaleyle giderilebilen yaralama, şikâyet aranmayan hâller, ağır sonuçlar ve uzlaştırma."
+kisaca:
+  - "Kasten yaralamanın temel hâlinde ceza bir yıl altı aydan üç yıla kadar hapistir ve şikâyet aranmaz."
+  - "Basit tıbbi müdahaleyle giderilebilen hafif yaralama şikâyete bağlıdır; şikâyet süresi fiil ve failin öğrenilmesinden itibaren altı aydır."
+  - "Eşe, çocuğa, anne ya da babaya, kardeşe karşı veya silahla işlenen yaralamada ceza yarı oranında artırılır ve şikâyet aranmaz."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

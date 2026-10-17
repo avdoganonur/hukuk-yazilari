@@ -1,6 +1,11 @@
 ---
 baslik: "Apartmanda ortak yerler: çatı, bodrum ve koridorda kim, neyi, hangi kararla yapabilir?"
 aciklama: "Kat Mülkiyeti Kanunu'na göre ortak yerler, kullanım hakkı, değişiklik için gereken çoğunluklar ve kurala uymayan komşuya karşı yollar."
+kisaca:
+  - "Merdiven, sahanlık, çatı ve sığınak gibi yerler sözleşmede ne yazarsa yazsın ortak yer sayılır."
+  - "Ortak yerlerde inşaat, onarım, tesis yapmak ve dış cepheyi farklı renge boyatmak için kat maliklerinin beşte dördünün yazılı rızası gerekir."
+  - "Dış duvar ve çatının reklam için kiralanması ile çatıya kat ilavesi bütün kat maliklerinin oybirliğini ister."
+  - "Kurala uymayan malike karşı sulh hukuk mahkemesinden hâkimin müdahalesi istenebilir."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

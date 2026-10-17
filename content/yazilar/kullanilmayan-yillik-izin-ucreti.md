@@ -1,6 +1,11 @@
 ---
 baslik: "Kullanılmayan yıllık izinlerin ücreti: işten ayrılınca nasıl hesaplanır, ne zamana kadar istenir?"
 aciklama: "İş sözleşmesi sona erince kullanılmamış yıllık izin günlerinin ücreti, hesaplamada esas alınan ücret ve beş yıllık zamanaşımının başladığı an."
+kisaca:
+  - "İş sözleşmesi hangi sebeple sona ererse ersin, kullanılmayan yıllık izinlerin ücreti işçiye ödenir."
+  - "Hesapta, izin hakkının doğduğu yılın değil, sözleşmenin sona erdiği tarihteki ücret esas alınır."
+  - "Zamanaşımı beş yıldır ve iş sözleşmesinin sona erdiği tarihten itibaren işlemeye başlar."
+  - "İzin ücreti için dava açmadan önce arabulucuya başvurmak zorunludur."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

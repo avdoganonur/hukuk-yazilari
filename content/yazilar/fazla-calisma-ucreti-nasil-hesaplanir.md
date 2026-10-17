@@ -1,6 +1,11 @@
 ---
 baslik: "Fazla çalışma ücreti nasıl hesaplanır? Haftalık 45 saat, zamlı ücret ve serbest zaman"
 aciklama: "Haftalık kırk beş saati aşan çalışmanın yüzde elli, fazla sürelerle çalışmanın yüzde yirmi beş zamlı ödenmesi, yıllık sınır ve serbest zaman hakkı."
+kisaca:
+  - "Haftalık kırk beş saati aşan her saat için normal saat ücretinin yüzde elli fazlası ödenir."
+  - "Sözleşmedeki süre kırk beş saatin altındaysa, bu süreyi aşıp kırk beş saate kadar yapılan çalışma yüzde yirmi beş zamlı ödenir."
+  - "Fazla çalışmanın toplamı bir yılda iki yüz yetmiş saati geçemez ve işçinin onayı alınmalıdır."
+  - "Ödenmeyen fazla çalışma ücretinde zamanaşımı beş yıldır; dava açmadan önce arabulucuya başvurmak zorunludur."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

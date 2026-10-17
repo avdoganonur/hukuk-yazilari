@@ -1,6 +1,11 @@
 ---
 baslik: "Trafik kazasında araç değer kaybı: kimden ve nasıl istenir?"
 aciklama: "Kazadan sonra onarılan aracın piyasa değerindeki düşüşün kimden, hangi şartlarla istenebileceği, trafik sigortasının karşılamadığı hâller ve süreler."
+kisaca:
+  - "Değer kaybı, onarılan aracın piyasa değerindeki düşüştür ve onarım masrafından ayrı bir zarar kalemidir."
+  - "Şartları varsa değer kaybı, kazaya yol açan aracın işleteninden ya da o aracın zorunlu trafik sigortasından istenebilir."
+  - "Sigortaya dava açmadan önce yazılı başvuru yapılmalı; şirket 15 gün içinde cevap vermezse dava ya da tahkim yolu açılır."
+  - "Talepler, zararın ve tazminat yükümlüsünün öğrenilmesinden itibaren iki yıl, her hâlde kazadan itibaren on yıl içinde zamanaşımına uğrar."
 tarih: 2026-10-17
 alan: tazminat-hukuku
 dayanak:

@@ -1,6 +1,10 @@
 ---
 baslik: "Adli para cezası: nasıl hesaplanır, taksitle ödenebilir mi, ödenmezse ne olur?"
 aciklama: "Adli para cezasının gün sayısı üzerinden hesaplanması, mehil ve taksit imkânı, ödeme emri ve ödenmeyen cezanın hapse çevrilmesi."
+kisaca:
+  - "Adli para cezası, mahkemenin belirlediği gün sayısının bir gün karşılığı tutarla çarpılmasıyla hesaplanır."
+  - "Hâkim bir yılı geçmeyen mehil verebilir ya da cezanın iki yılı aşmayan sürede en az dört taksitle ödenmesine karar verebilir."
+  - "Ödenmeyen kısım hapse çevrilir; hükümlü önce kamuya yararlı işte çalıştırılır ve iki saat çalışma bir güne sayılır."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

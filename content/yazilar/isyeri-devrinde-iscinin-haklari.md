@@ -1,6 +1,11 @@
 ---
 baslik: "İşyeri devredilince işçinin hakları: kıdem, alacaklar ve fesih"
 aciklama: "İşyeri satılınca ya da el değiştirince iş sözleşmesinin yeni işverene geçmesi, kıdemin korunması, eski ve yeni işverenin sorumluluğu ve devir nedeniyle fesih."
+kisaca:
+  - "İşyeri devredildiğinde iş sözleşmeleri bütün hak ve borçlarıyla birlikte yeni işverene kendiliğinden geçer."
+  - "Kıdem devirle sıfırlanmaz; hizmet süresine bağlı haklarda işçinin eski işverende işe başladığı tarih esas alınır."
+  - "Devirden önce doğan borçlardan eski ve yeni işveren birlikte sorumludur; eski işverenin sorumluluğu iki yılla sınırlıdır."
+  - "İşveren iş sözleşmesini sırf işyerinin devredilmesi nedeniyle feshedemez."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

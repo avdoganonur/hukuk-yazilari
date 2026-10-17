@@ -1,6 +1,10 @@
 ---
 baslik: "Saklı pay ve tenkis davası: vasiyet ya da bağışla dışarıda bırakılan mirasçı ne isteyebilir?"
 aciklama: "Saklı paylı mirasçılar ve oranları, saklı payı zedeleyen vasiyet ve bağışlara karşı tenkis davası, tenkiste sıra ve bir yıllık, on yıllık süreler."
+kisaca:
+  - "Altsoy, ana ve baba ile eşin saklı payı vardır; kardeşlerin saklı payı 2007'de kaldırılmıştır."
+  - "Saklı payı zedelenen mirasçı, tasarruf edilebilir kısmı aşan vasiyet ve bağışların tenkisini dava edebilir."
+  - "Tenkis davası, saklı payın zedelendiğini öğrenmeden başlayarak bir yıl ve her hâlde on yıl içinde açılmalıdır."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

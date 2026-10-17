@@ -1,6 +1,11 @@
 ---
 baslik: "İşçilik alacaklarında zamanaşımı: süreler ve başlangıç tarihleri"
 aciklama: "Kıdem, ihbar, ücret, fazla çalışma ve yıllık izin ücreti alacaklarında beş yıllık zamanaşımı, sürenin başladığı an ve arabuluculukta durması."
+kisaca:
+  - "Kıdem, ihbar, kötüniyet tazminatı ve yıllık izin ücretinde zamanaşımı beş yıldır ve sözleşmenin sona erdiği tarihten başlar."
+  - "Ücret ve fazla çalışma alacaklarında süre, her ayın alacağı için o ayın ücretinin ödenmesi gereken günden ayrı ayrı işler."
+  - "Arabulucuya başvurudan son tutanağa kadar zamanaşımı durur; süre sonra kaldığı yerden devam eder."
+  - "Hâkim zamanaşımını kendiliğinden dikkate almaz; işverenin bunu ileri sürmesi gerekir."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

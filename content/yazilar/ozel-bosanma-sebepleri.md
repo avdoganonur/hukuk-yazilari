@@ -1,6 +1,11 @@
 ---
 baslik: "Özel boşanma sebepleri: zina, hayata kast, terk ve diğerleri"
 aciklama: "Zina, hayata kast ve onur kırıcı davranış, suç ve haysiyetsiz hayat, terk ve akıl hastalığı: şartlar ve dava açma süreleri."
+kisaca:
+  - "Zina ile hayata kast ve onur kırıcı davranışta dava, öğrenmeden itibaren altı ay ve her hâlde beş yıl içinde açılmalıdır."
+  - "Affeden eşin zina ya da hayata kast ve onur kırıcı davranış sebebiyle dava hakkı yoktur."
+  - "Terkte ayrılık en az altı ay sürmeli ve hâkim ya da noter aracılığıyla yapılan ihtar sonuçsuz kalmalıdır."
+  - "Akıl hastalığında hastalığın geçmesine olanak bulunmadığı resmî sağlık kurulu raporuyla tespit edilmelidir."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

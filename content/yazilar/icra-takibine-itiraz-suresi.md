@@ -1,6 +1,11 @@
 ---
 baslik: "Ödeme emrine itiraz: süre kaç gün, itiraz nasıl yapılır?"
 aciklama: "İlamsız icra takibinde ödeme emrine yedi gün içinde itiraz, itirazın şekli, imza ve kısmi itiraz, süre kaçırılırsa gecikmiş itiraz yolu."
+kisaca:
+  - "Ödeme emrine, tebliğ tarihinden itibaren yedi gün içinde icra dairesine itiraz edilir."
+  - "Borcun bir kısmına itirazda itiraz edilen kısım ve tutarı açıkça gösterilmezse hiç itiraz edilmemiş sayılır."
+  - "Senetteki imza size ait değilse bunu ayrıca ve açıkça yazmalısınız; aksi hâlde imza takip bakımından kabul edilmiş sayılır."
+  - "Süresinde yapılan itiraz takibi durdurur; süresi geçtikten sonra yapılan itiraz durdurmaz."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Mahkeme kararına dayalı (ilamlı) icra takibi nasıl yapılır?"
 aciklama: "İlamlı takipte icra emri ve yedi günlük süre, kesinleşmesi gereken kararlar, icranın geri bırakılması, teminat ve kararın bozulması hâlinde iade."
+kisaca:
+  - "İlamlı takipte icra emri, borçludan borcu yedi gün içinde ödemesini ister."
+  - "İstinaf ve temyiz, para alacağına ilişkin kararın icrasını kendiliğinden durdurmaz."
+  - "Kişiler hukuku, aile hukuku ve taşınmaz üzerindeki ayni haklara ilişkin kararlar kesinleşmeden yerine getirilemez."
+  - "Borçlu yedi gün içinde icra mahkemesine başvurup borcun ödendiğini, süre verildiğini ya da zamanaşımını ileri sürebilir."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

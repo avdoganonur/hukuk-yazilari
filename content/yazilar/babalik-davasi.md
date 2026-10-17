@@ -1,6 +1,10 @@
 ---
 baslik: "Babalık davası: kimler açabilir, ne zamana kadar açılabilir?"
 aciklama: "Evlilik dışında doğan çocukla baba arasında soybağı kurmak için açılan babalık davası: davacılar, süreler, karine, genetik inceleme ve ananın hakları."
+kisaca:
+  - "Babalık davasını ana ve çocuk açabilir; dava babaya, baba ölmüşse mirasçılarına karşı açılır."
+  - "Ananın dava hakkı doğumdan başlayarak bir yıl geçmekle düşer; çocuğun davası için yürürlükteki metinde bir süre yer almaz."
+  - "Davalı hâkimin öngördüğü genetik incelemeye rıza göstermezse hâkim, beklenen sonucu onun aleyhine doğmuş sayabilir."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

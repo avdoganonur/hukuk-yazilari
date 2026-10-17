@@ -1,6 +1,11 @@
 ---
 baslik: "Haksız fiilden doğan tazminatta zamanaşımı: iki yıl, on yıl ve ceza zamanaşımı"
 aciklama: "Haksız fiil nedeniyle tazminat isteyen kişinin uyması gereken iki ve on yıllık süreler, ceza zamanaşımının etkisi, zamanaşımının kesilmesi ve durması."
+kisaca:
+  - "Haksız fiil tazminatı, zarar ve zarar verenin öğrenilmesinden itibaren iki yılda, her hâlde fiilden itibaren on yılda zamanaşımına uğrar."
+  - "Fiil, ceza kanunlarında daha uzun zamanaşımı öngörülen bir suçsa bu daha uzun süre uygulanır."
+  - "Borcun ikrarı, dava açılması veya icra takibi zamanaşımını keser ve yeni bir süre işlemeye başlar."
+  - "Hâkim zamanaşımını kendiliğinden dikkate alamaz; davalının bunu ileri sürmesi gerekir."
 tarih: 2026-10-17
 alan: tazminat-hukuku
 dayanak:

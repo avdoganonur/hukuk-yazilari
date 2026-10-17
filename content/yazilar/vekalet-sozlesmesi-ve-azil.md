@@ -1,6 +1,10 @@
 ---
 baslik: "Vekâlet sözleşmesi: vekil neden sorumludur, azil ve istifa nasıl olur?"
 aciklama: "Türk Borçlar Kanunu'na göre vekilin talimata uyma, özen ve hesap verme borçları, vekâlet verenin borçları, azil, istifa ve vekâletin kendiliğinden sona ermesi."
+kisaca:
+  - "Vekil talimata uymak, işi sadakat ve özenle yürütmek ve istendiğinde hesap vermek zorundadır."
+  - "Dava açmak, sulh olmak, bağışlama yapmak ya da taşınmazı devretmek gibi işlemler için özel yetki gerekir."
+  - "Taraflar vekâleti sebep göstermeden her zaman sona erdirebilir; uygun olmayan zamanda sona erdiren zararı karşılar."
 tarih: 2026-10-17
 alan: borclar-hukuku
 dayanak:
