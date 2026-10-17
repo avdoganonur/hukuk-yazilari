@@ -17,6 +17,8 @@ dayanak:
     not: "Aldatma nedeniyle sözleşmeyle bağlı olmama"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 37"
     not: "Korkutma nedeniyle sözleşmeyle bağlı olmama"
+  - ad: "6098 sayılı Türk Borçlar Kanunu m. 38"
+    not: "Korkutmanın koşulları"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 39"
     not: "İrade bozukluğunun bir yıl içinde bildirilmesi"
 sss:
@@ -71,6 +73,6 @@ Bu kurallar yalnızca ücret ve benzeri alacaklarla sınırlı değildir. Hizmet
 
 Kanundaki bütün şartları taşıyan bir ibraname de her zaman son söz değildir. İbraname de bir sözleşmedir ve Türk Borçlar Kanunu'nun irade bozukluğuna ilişkin genel kuralları ona da uygulanır. Aldatılarak ya da korkutularak sözleşme yapan taraf, sözleşmeyle bağlı değildir.
 
-Korkutma, kişinin kendisinin veya yakınlarının kişilik haklarına ya da malvarlığına yönelik ağır ve yakın bir tehlike doğduğuna haklı olarak inanması hâlinde gerçekleşir. Aldatılan ya da korkutulan taraf, aldatmayı öğrendiği veya korkutmanın etkisi ortadan kalktığı andan itibaren bir yıl içinde sözleşmeyle bağlı olmadığını bildirmez ya da verdiğini geri istemezse sözleşmeyi onamış sayılır. Böyle bir iddiada ispat yükünün kimde olduğu ve hangi delillerin kullanılacağı somut olaya göre ayrıca değerlendirilmelidir.
+Korkutma, kişinin kendisinin veya yakınlarının kişilik haklarına ya da malvarlığına yönelik ağır ve yakın bir zarar tehlikesinin doğduğuna haklı olarak inanması hâlinde gerçekleşir. Aldatılan ya da korkutulan taraf, aldatmayı öğrendiği veya korkutmanın etkisi ortadan kalktığı andan itibaren bir yıl içinde sözleşmeyle bağlı olmadığını bildirmez ya da verdiğini geri istemezse sözleşmeyi onamış sayılır. Böyle bir iddiada ispat yükünün kimde olduğu ve hangi delillerin kullanılacağı somut olaya göre ayrıca değerlendirilmelidir.
 
 İbraname imzalamanız istendiğinde belgeyi imzalamadan önce okuyun, bir örneğini isteyin ve hesabınıza yatan tutarlarla karşılaştırın. Belgede yazan rakamlar size yapılan ödemelerle uyuşmuyorsa ya da işten ayrılalı henüz bir ay olmamışsa, bu durumu not edin. Banka dekontlarını ve ödemelerin hangi alacak kalemi için yapıldığını gösteren açıklamaları da saklayın; ileride bir uyuşmazlık çıkarsa ödenen ile hak edilen arasındaki farkı ancak bu belgelerle ortaya koyabilirsiniz.

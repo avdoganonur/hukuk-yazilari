@@ -32,7 +32,7 @@ dayanak:
     not: "Konut finansmanında erken ödeme ve erken ödeme tazminatı"
 sss:
   - soru: "Cayma bildirimini nasıl yapmalıyım?"
-    cevap: "Kanun belirli bir biçim saymaz; önemli olan bildirimin on dört günlük süre içinde bankaya ulaştırılmasıdır. İleride ispat sorunu yaşamamak için bildirimi yazılı ya da kayıt bırakan bir yolla yapmak ve bir örneğini saklamak yerinde olur. Kredinin tamamını bu süre içinde geri öderseniz ayrıca bildirim yapmanız gerekmez."
+    cevap: "Önemli olan bildirimin on dört günlük süre içinde bankaya yöneltilmiş olmasıdır. İleride ispat sorunu yaşamamak için bildirimi yazılı ya da kayıt bırakan bir yolla yapmak ve bir örneğini saklamak yerinde olur. Kredinin tamamını bu süre içinde geri öderseniz ayrıca bildirim yapmanız gerekmez."
   - soru: "Krediyi erken kapatırken bankanın hesapladığı tutar fazla görünüyor. Ne yapabilirim?"
     cevap: "Bankadan erken kapama tutarının dökümünü yazılı olarak isteyin; faizin hangi tarihe kadar, hangi masrafların neden eklendiğini görmek yararlıdır. Kanun, erken ödenen miktara göre faiz ve diğer maliyet unsurlarında indirim yapılmasını zorunlu tutar. Uyuşmazlık çözülmezse tüketici hakem heyetine ya da tüketici mahkemesine başvurulabilir; bu yol ayrı bir yazının konusudur."
   - soru: "Ara ödeme yaparsam taksitlerim mi azalır, vadem mi kısalır?"
@@ -94,4 +94,4 @@ Erken ödemenin tersi de sık yaşanır. Belirli süreli kredide banka kalan bor
 - Tüketici birbirini izleyen en az iki taksidi ödememiş olmalıdır.
 - Banka tüketiciye en az otuz gün süre veren bir muacceliyet uyarısı göndermiş olmalıdır.
 
-Muaccel kılınan, yani vadesi öne çekilen taksitler hesaplanırken faiz, komisyon ve benzeri masraflar dikkate alınmaz. Bu nedenle bir taksidi kaçıran tüketicinin borcun tamamıyla bir anda karşılaşması kanunen mümkün değildir.
+Muaccel kılınan, yani vadesi öne çekilen taksitler hesaplanırken faiz, komisyon ve benzeri masraflar dikkate alınmaz. Birbirini izleyen en az iki taksit şartı nedeniyle, belirli süreli kredide tek bir taksidi kaçıran tüketiciden borcun tamamı muaccel kılınarak istenemez.
