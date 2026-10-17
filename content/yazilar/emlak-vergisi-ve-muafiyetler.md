@@ -18,6 +18,8 @@ dayanak:
     not: "Daimi muafiyetler"
   - ad: "1319 sayılı Emlak Vergisi Kanunu m. 8"
     not: "Tek meskene ilişkin indirim yetkisi ve şartları"
+  - ad: "1319 sayılı Emlak Vergisi Kanunu m. 9"
+    not: "Mükellefiyetin başlaması ve bitmesi"
   - ad: "1319 sayılı Emlak Vergisi Kanunu m. 12"
     not: "Arazi vergisinin konusu"
   - ad: "1319 sayılı Emlak Vergisi Kanunu m. 13"

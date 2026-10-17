@@ -3,7 +3,7 @@ baslik: "Ruhsatsız yapıya imar para cezası ve yıkım kararı: dava nasıl ve
 aciklama: "Belediyenin ruhsatsız ya da ruhsata aykırı yapı için verdiği imar para cezası ve yıkım kararına karşı idare mahkemesinde dava, süre ve yürütmeyi durdurma."
 kisaca:
   - "Ruhsatsız yapı tespit edilince inşaat mühürlenir ve yapı tatil zaptı yapıya asılarak tebliğ edilmiş sayılır."
-  - "Yapı sahibine yapıyı ruhsata uygun hâle getirmesi için en çok bir ay süre tanınır; aksi hâlde encümen yıkım kararı verir."
+  - "Yapı sahibine yapıyı ruhsata uygun hâle getirmesi için en çok bir ay süre tanınır; aksi hâlde belediye encümeni veya il idare kurulu yıkım kararı verir."
   - "Para cezası ve yıkım kararına karşı yazılı bildirimden itibaren 60 gün içinde idare mahkemesinde dava açılır."
   - "Dava açmak yıkımı kendiliğinden durdurmaz; bunun için mahkemeden yürütmenin durdurulması istenmelidir."
 tarih: 2026-10-18
@@ -49,7 +49,7 @@ Durdurma, yapı tatil zaptının yapı yerine asılmasıyla yapı sahibine tebli
 
 Yapı sahibine, tebliğden itibaren en çok bir ay içinde yapıyı ruhsata uygun hâle getirmesi ya da ruhsat alması için süre tanınır. Bu sürede aykırılık giderilir veya ruhsat alınırsa mühür kaldırılır ve inşaata izin verilir. Yapıyı mevzuata uygun hâle getirmek için idarenin yazılı izniyle yapılan işler mühür bozma suçu oluşturmaz; izinsiz çalışma ise bu suçu gündeme getirebilir.
 
-Aksi durumda ruhsat iptal edilir. Ruhsatsız ya da ruhsata aykırı yapı, belediye encümeni veya il idare kurulu kararıyla yıktırılır ve masrafı yapı sahibinden alınır. İdare, yapının ruhsata bağlanamayacağını ya da aykırılığın giderilemeyeceğini tespit ederse bir ayı beklemeden ruhsatı iptal edebilir.
+Aksi durumda ruhsat iptal edilir. Ruhsatsız ya da ruhsata aykırı yapı, belediye encümeni veya il idare kurulu kararıyla yıktırılır ve masrafı yapı sahibinden alınır. İdare, yapının ruhsata bağlanamayacağını ya da aykırılığın giderilemeyeceğini tespit ederse bir ay beklenmeden ruhsat iptal edilir.
 
 Yıkım masrafı yapı sahibinden alınır. Bu nedenle yıkım kararının uygulanması, para cezasından ayrı bir mali yük de doğurur.
 

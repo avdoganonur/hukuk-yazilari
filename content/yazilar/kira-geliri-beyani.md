@@ -67,7 +67,7 @@ Konut kirası için kanun bir istisna tanır. Bir takvim yılında konut kirası
 - Ticari, zirai veya mesleki kazancını yıllık beyannameyle bildirmek zorunda olanlar, yani esnaf, tüccar ve serbest meslek sahipleri istisnadan yararlanamaz.
 - İstisna tutarının üzerinde hasılat elde edenlerden ücret, kira ve diğer gelirlerinin brüt toplamı gelir vergisi tarifesinin üçüncü dilimindeki ücret tutarını aşanlar da istisnadan yararlanamaz.
 
-İşyeri kirasında durum farklıdır. Şirketler, esnaf, serbest meslek sahipleri ve kamu idareleri gibi kiracılar, kira öderken mal sahibi adına vergi kesintisi yapmak zorundadır. Buna tevkifat ya da stopaj denir.
+İşyeri kirasında durum farklıdır. Şirketler, gerçek usulde vergilendirilen tüccar ve serbest meslek erbabı ile kamu idareleri gibi kiracılar, kira öderken mal sahibi adına vergi kesintisi yapmak zorundadır. Buna tevkifat ya da stopaj denir.
 
 Kesinti yapılmış işyeri kirası, kanunda belirtilen ve her yıl güncellenen sınırları aşmıyorsa beyan edilmez. Sınır aşılırsa kira yıllık beyannameye eklenir ve kesilen vergi, beyanname üzerinden hesaplanan vergiden düşülür.
 

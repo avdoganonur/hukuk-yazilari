@@ -83,7 +83,7 @@ Bu istisna yalnızca kartın kötüye kullanılması suçu için geçerlidir. Bi
 
 Bilişim sistemine girme suçu için kanunda şikâyet şartı öngörülmemiştir. Bu nedenle savcılık suçu öğrendiğinde kendiliğinden soruşturma başlatır. Mağdurun sonradan şikâyetinden vazgeçmesi soruşturmayı veya davayı sona erdirmez.
 
-Şikâyete bağlı suçlarda aranan altı aylık şikâyet süresi de bu suç için geçerli değildir; suç, zamanaşımı dolmadıkça soruşturulabilir. Bu suç, Ceza Muhakemesi Kanunu'nda uzlaştırmaya tabi olarak sayılan suçlar arasında da yer almaz; suça sürüklenen çocuklar için ayrı kurallar vardır.
+Şikâyete bağlı suçlarda aranan altı aylık şikâyet süresi de bu suç için geçerli değildir; suç, zamanaşımı dolmadıkça soruşturulabilir. Bu suç, Ceza Muhakemesi Kanunu'nda uzlaştırmaya tabi olarak sayılan suçlar arasında da yer almaz; adli süreçteki çocuklar için ayrı kurallar vardır.
 
 Hesabına ya da cihazına izinsiz girildiğini düşünen kişi Cumhuriyet başsavcılığına şikâyette bulunabilir. Şikâyetten önce delillerin korunması önemlidir. Hesap güvenliğini sağlamak için şifreyi değiştirmek ve iki aşamalı doğrulamayı açmak gerekir, ancak giriş kayıtlarının bu sırada kaybolmamasına dikkat edilmelidir.
 
