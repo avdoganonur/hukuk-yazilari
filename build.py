@@ -215,6 +215,7 @@ def sayfa(*, baslik: str, aciklama: str, yol: str, icerik: str, aktif: str = "",
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(sayfa_basligi)}</title>
 <meta name="description" content="{e(aciklama)}">
+<meta name="author" content="{e(y['unvan'])} {e(y['ad'])}">
 <link rel="canonical" href="{tam_url(yol)}">
 <meta property="og:site_name" content="{e(SITE['ad'])}">
 <meta property="og:locale" content="tr_TR">
@@ -255,10 +256,11 @@ def sayfa(*, baslik: str, aciklama: str, yol: str, icerik: str, aktif: str = "",
   <div class="kap alt-izgara">
     <div>
       <p class="alt-ad">{e(y['unvan'])} {e(y['ad'])}</p>
-      <p>{e(y['baro'])}, sicil no {e(y['sicil'])}<br>{e(y['buro'])}</p>
+      <p>{e(y['baro'])}<br>{e(y['buro'])}</p>
     </div>
     <div>
       <p>{adres}</p>
+      <p><a href="{e(y['konum']['harita'])}" rel="noopener">Haritada göster</a></p>
     </div>
     <div>
       <p><a href="tel:{e(y['telefon_uluslararasi'])}">{e(y['telefon'])}</a>{eposta}</p>
@@ -267,6 +269,7 @@ def sayfa(*, baslik: str, aciklama: str, yol: str, icerik: str, aktif: str = "",
   </div>
   <p class="kap alt-not">Bu sitedeki yazılar genel bilgilendirme amaçlıdır ve hukuki danışmanlık yerine geçmez.</p>
 </footer>
+<script>document.querySelectorAll("[data-harita-ac]").forEach(function(b){{b.addEventListener("click",function(){{var k=b.closest(".harita"),f=document.createElement("iframe");f.src=k.getAttribute("data-src");f.title="Doğan Hukuk Bürosu konumu";f.loading="lazy";f.referrerPolicy="no-referrer-when-downgrade";f.allowFullscreen=true;k.querySelector(".harita-yer").replaceChildren(f);b.remove();}});}});</script>
 </body>
 </html>
 """
@@ -335,11 +338,44 @@ def konu_menusu(yazilar: list[dict], aktif: str = "") -> str:
     return "<ul>" + "".join(ogeler) + "</ul>"
 
 
+def kisi_jsonld() -> dict:
+    y = SITE["yazar"]
+    return {
+        "@context": "https://schema.org", "@type": "Person", "name": f"{y['unvan']} {y['ad']}",
+        "jobTitle": "Avukat", "url": tam_url("/hakkinda/"),
+        "memberOf": {"@type": "Organization", "name": y["baro"]},
+        "worksFor": {"@type": "Organization", "name": y["buro"], "url": URL + "/"},
+    }
+
+
+def buro_jsonld() -> dict:
+    y = SITE["yazar"]
+    adres = y["adres"]
+    posta = re.match(r"(\d{5})\s+(.+?)\s*/\s*(.+)", adres[-1])
+    return {
+        "@context": "https://schema.org", "@type": "Attorney", "name": y["buro"],
+        "url": URL + "/", "telephone": y["telefon_uluslararasi"], "image": tam_url("/og/site.png"),
+        "address": {
+            "@type": "PostalAddress", "streetAddress": ", ".join(adres[:-1]),
+            "postalCode": posta.group(1) if posta else "", "addressLocality": posta.group(2) if posta else "",
+            "addressRegion": posta.group(3) if posta else "", "addressCountry": "TR",
+        },
+        "geo": {"@type": "GeoCoordinates", "latitude": y["konum"]["enlem"], "longitude": y["konum"]["boylam"]},
+        "hasMap": y["konum"]["harita"],
+        "openingHoursSpecification": [
+            {"@type": "OpeningHoursSpecification",
+             "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "09:00", "closes": "18:00"},
+            {"@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "10:00", "closes": "14:00"},
+        ],
+        "employee": {"@type": "Person", "name": f"{y['unvan']} {y['ad']}", "jobTitle": "Avukat"},
+    }
+
+
 def site_jsonld() -> dict:
     y = SITE["yazar"]
     return {
         "@context": "https://schema.org", "@type": "WebSite", "name": SITE["ad"],
-        "url": URL + "/", "inLanguage": "tr",
+        "alternateName": y["buro"], "url": URL + "/", "inLanguage": "tr",
         "publisher": {"@type": "Person", "name": f"{y['unvan']} {y['ad']}", "jobTitle": "Avukat"},
     }
 
@@ -349,8 +385,8 @@ def ana_sayfa(yazilar: list[dict]) -> str:
     tum = '<p class="tum"><a href="/yazilar/">Tüm yazılar</a></p>' if len(yazilar) > 10 else ""
     icerik = f"""<section class="giris kap">
   <div class="giris-metin">
-    <h1>Hukuki sorulara sade cevaplar</h1>
-    <p class="giris-acik">Hukukçu olmayan okurlar için, günlük hayatta sık karşılaşılan hukuki soruları cevaplayan yazılar. Her yazıda, cevabın dayandığı kanun maddeleri ayrıca gösterilir.</p>
+    <h1>Doğan Hukuk Bürosu</h1>
+    <p class="giris-acik">Doğan Hukuk Bürosu, Kayseri Barosu'na kayıtlı Av. Onur Doğan tarafından Kocasinan / Kayseri'de yürütülmektedir. Bu sitede yayımlanan yazılar, güncel mevzuat esas alınarak hazırlanan genel bilgilendirme metinleridir; her yazıda dayanılan kanun hükümleri ayrıca belirtilir.</p>
   </div>
   <nav class="konular" aria-labelledby="konular-b">
     <h2 id="konular-b">Konular</h2>
@@ -362,8 +398,8 @@ def ana_sayfa(yazilar: list[dict]) -> str:
   {liste(son)}
   {tum}
 </section>"""
-    return sayfa(baslik=f"{SITE['ad']}, {SITE['alt_ad']} – hukuk yazıları", baslik_tam=True,
-                 aciklama=SITE["aciklama"], yol="/", icerik=icerik, jsonld=[site_jsonld()])
+    return sayfa(baslik=f"{SITE['ad']} | Kayseri Avukat – {SITE['yazar']['buro']}", baslik_tam=True,
+                 aciklama=SITE["aciklama"], yol="/", icerik=icerik, jsonld=[site_jsonld(), buro_jsonld()])
 
 
 def tum_yazilar(yazilar: list[dict]) -> str:
@@ -446,7 +482,7 @@ def yazi_sayfasi(yazi: dict, tumu: list[dict]) -> str:
       <p class="uyari">Bu yazı genel bilgilendirme amaçlıdır; somut durumunuz için bir avukattan hukuki destek almanız önerilir.</p>
       <footer class="yazar">
         <p class="yazar-ad">{e(y['unvan'])} {e(y['ad'])}</p>
-        <p>{e(y['baro'])}'na kayıtlı avukat, sicil no {e(y['sicil'])}. {e(y['buro'])}, Kocasinan / Kayseri.</p>
+        <p>{e(y['baro'])}'na kayıtlı avukat. {e(y['buro'])}, Kocasinan / Kayseri.</p>
       </footer>
     </div>
   </div>
@@ -464,11 +500,17 @@ def yazi_sayfasi(yazi: dict, tumu: list[dict]) -> str:
         "image": tam_url(f"/og/{yazi['slug']}.png"),
         "articleSection": yazi["alan_ad"], "wordCount": yazi["kelime"],
     }
+    kirinti = {
+        "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Ana sayfa", "item": URL + "/"},
+            {"@type": "ListItem", "position": 2, "name": yazi["alan_ad"], "item": tam_url(f"/konu/{yazi['alan']}/")},
+            {"@type": "ListItem", "position": 3, "name": yazi["baslik"], "item": tam_url(yazi["yol"])},
+        ]}
     return sayfa(baslik=yazi["baslik"], aciklama=yazi["aciklama"], yol=yazi["yol"], icerik=icerik,
-                 aktif="yazilar", og_gorsel=f"/og/{yazi['slug']}.png", og_tur="article", jsonld=[ld])
+                 aktif="yazilar", og_gorsel=f"/og/{yazi['slug']}.png", og_tur="article", jsonld=[ld, kirinti])
 
 
-def md_sayfa(dosya: str, yol: str, aktif: str = "") -> str:
+def md_sayfa(dosya: str, yol: str, aktif: str = "", jsonld: list | None = None) -> str:
     metin = (SAYFALAR / dosya).read_text(encoding="utf-8")
     m = re.match(r"\A---\s*\n(.*?)\n---\s*\n(.*)\Z", metin, re.S)
     bilgi = yaml.safe_load(m.group(1))
@@ -477,7 +519,8 @@ def md_sayfa(dosya: str, yol: str, aktif: str = "") -> str:
   <h1>{e(bilgi['baslik'])}</h1>
   <div class="yazi-govde">{govde}</div>
 </article>"""
-    return sayfa(baslik=bilgi["baslik"], aciklama=bilgi["aciklama"], yol=yol, icerik=icerik, aktif=aktif)
+    return sayfa(baslik=bilgi["baslik"], aciklama=bilgi["aciklama"], yol=yol, icerik=icerik, aktif=aktif,
+                 jsonld=jsonld)
 
 
 def bulunamadi() -> str:
@@ -575,7 +618,7 @@ def paylasim_gorselleri(yazilar: list[dict]) -> None:
         d.text((1104 - d.textlength(alan_adi, font=alt_f), 551), alan_adi, font=alt_f, fill=mor)
         img.save(dosya, optimize=True)
 
-    ciz("Hukuki sorulara sade cevaplar", "Hukuk yazıları", hedef / "site.png")
+    ciz("Doğan Hukuk Bürosu", "Kayseri", hedef / "site.png")
     for y in yazilar:
         ciz(y["baslik"], y["alan_ad"], hedef / f"{y['slug']}.png")
 
@@ -624,7 +667,7 @@ def main() -> int:
         yaz(f"/konu/{anahtar}/", konu_sayfasi(anahtar, ad, [y for y in yayinda if y["alan"] == anahtar], yayinda))
     for y in yayinda:
         yaz(y["yol"], yazi_sayfasi(y, yayinda))
-    yaz("/hakkinda/", md_sayfa("hakkinda.md", "/hakkinda/", "hakkinda"))
+    yaz("/hakkinda/", md_sayfa("hakkinda.md", "/hakkinda/", "hakkinda", [kisi_jsonld(), buro_jsonld()]))
     yaz("/yasal-uyari/", md_sayfa("yasal-uyari.md", "/yasal-uyari/"))
     yaz("/404.html", bulunamadi())
     yaz("/rss.xml", rss(yayinda))

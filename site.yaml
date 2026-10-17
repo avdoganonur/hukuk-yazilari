@@ -5,13 +5,12 @@ url: "https://avukatonurdogan.com"
 # Alan adı bağlanana kadar site avdoganonur.github.io/hukuk-yazilari adresinde yayınlanır.
 # Alan adı bağlanınca bu satırı boş bırakın: on_ek: ""
 on_ek: ""
-aciklama: "Kayseri Barosu'na kayıtlı Av. Onur Doğan'ın hukuk yazıları: hukuki sorulara sade cevaplar ve dayandıkları kanun maddeleri."
+aciklama: "Kayseri Barosu'na kayıtlı Av. Onur Doğan ve Doğan Hukuk Bürosu'nun hukuk yazıları: hukuki sorulara sade cevaplar ve dayandıkları kanun maddeleri."
 
 yazar:
   ad: "Onur Doğan"
   unvan: "Av."
   baro: "Kayseri Barosu"
-  sicil: "3169"
   buro: "Doğan Hukuk Bürosu"
   adres:
     - "Hacı Saki Mah. Çimen Sok."
@@ -20,6 +19,11 @@ yazar:
   telefon: "0530 304 34 52"
   telefon_uluslararasi: "+905303043452"
   eposta: ""
+  calisma_saatleri: "Pazartesi–Cuma 09.00–18.00, Cumartesi 10.00–14.00"
+  konum:
+    enlem: 38.7241265
+    boylam: 35.479026
+    harita: "https://www.google.com/maps/search/?api=1&query=Do%C4%9Fan%20Hukuk%20B%C3%BCrosu&query_place_id=ChIJfbQfdhATKxURBrVeaaIpU4g"
 
 # Yazı alanları. Anahtar, yazıların "alan" alanında kullanılır.
 alanlar:

@@ -18,4 +18,5 @@ Yazılardan, kaynak gösterilerek ve bağlantı verilerek kısa alıntı yapıla
 - Sitede iletişim formu, üyelik ya da yorum bölümü yoktur; ziyaretçilerden kişisel bilgi istenmez.
 - Ziyaretçileri izleyen analiz ya da reklam araçları kullanılmaz.
 - Yazı tipleri dahil bütün dosyalar sitenin kendi sunucusundan yüklenir; sayfa açılırken başka hizmetlere istek gönderilmez.
+- Hakkında sayfasındaki harita, yalnızca "Haritayı göster" düğmesine basıldığında Google Haritalar'dan yüklenir. Bu durumda Google, kendi gizlilik koşullarına göre bağlantı bilgilerinizi işleyebilir.
 - Site, GitHub Pages hizmeti üzerinde barındırılır. Barındırma hizmetini sağlayan şirket, güvenlik amacıyla ziyaretçilerin IP adresi gibi teknik kayıtlarını tutabilir.

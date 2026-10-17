@@ -287,7 +287,17 @@ a:hover { text-decoration-thickness: 2px; }
 /* Metin gövdesi */
 
 .yazi-govde { max-width: 38em; }
-.yazi-govde p { margin: 0 0 1.1em; }
+.yazi-govde p { margin: 0 0 1.15em; }
+.yazi-govde p, .yazi-govde li, .cevap p {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  hyphenate-limit-chars: 7 3 3;
+  text-wrap: pretty;
+}
+@media (max-width: 30em) {
+  .yazi-govde li { text-align: left; }
+}
 .yazi-govde h2 {
   margin: 2.2em 0 0.6em;
   font-size: 1.5rem; line-height: 1.25; font-weight: 600; letter-spacing: -0.01em;
@@ -344,6 +354,37 @@ a:hover { text-decoration-thickness: 2px; }
 .duz-sayfa { padding-block: 2.75rem 4rem; }
 @media (min-width: 56em) { .duz-sayfa { padding-block: 4rem 5rem; } }
 .duz-sayfa h1 { margin-bottom: 2rem; }
+
+/* Hakkında: büro bilgileri ve harita */
+
+.yazi-govde dl {
+  display: grid; grid-template-columns: minmax(8rem, 11rem) minmax(0, 1fr);
+  margin: 0 0 1.5em; border-top: 1px solid var(--cizgi);
+}
+.yazi-govde dt, .yazi-govde dd {
+  margin: 0; padding: 0.7rem 0; border-bottom: 1px solid var(--cizgi); line-height: 1.5;
+}
+.yazi-govde dt { font-family: var(--sans); font-size: 0.875rem; font-weight: 600; color: var(--ikincil); padding-right: 1rem; padding-top: 0.85rem; }
+@media (max-width: 30em) {
+  .yazi-govde dl { grid-template-columns: 1fr; }
+  .yazi-govde dt { border-bottom: 0; padding-bottom: 0; }
+  .yazi-govde dd { padding-top: 0.15rem; }
+}
+
+.harita { margin: 0.5em 0 1.5em; }
+.harita-yer {
+  position: relative; display: grid; place-items: center; align-content: center; gap: 0.5rem;
+  min-height: 18rem; padding: 1.5rem; text-align: center;
+  background: var(--mor-acik);
+  border: 1px solid var(--cizgi); border-radius: 4px; overflow: hidden;
+}
+.harita-yer iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.harita-ikon { width: 2.25rem; height: 2.25rem; fill: var(--mor); }
+.yazi-govde .harita-adres { margin: 0; text-align: center; font-weight: 600; line-height: 1.45; }
+.yazi-govde .harita-not { margin: 0; text-align: center; font-family: var(--sans); font-size: 0.8125rem; color: var(--ikincil); max-width: 26em; }
+.yazi-govde .harita-dugmeler { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 0.9rem 0 0; text-align: left; }
+.dugme { border: 0; cursor: pointer; }
+.dugme-ikincil { background: transparent; color: var(--mor); box-shadow: inset 0 0 0 1.5px var(--mor); }
 
 /* Alt bölüm */
 
