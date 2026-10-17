@@ -29,7 +29,7 @@ sss:
   - soru: "Tapuda şerh yoksa aile konutu korunmaz mı?"
     cevap: "Korunur. Açık rıza şartı, konutun aile konutu olmasından doğar ve tapuda şerh bulunmasa da geçerlidir. Şerhin önemi üçüncü kişiler bakımındandır: şerh yoksa, evi satın alan ya da üzerinde hak kazanan kişi tapu kaydına iyiniyetle güvendiğini ileri sürebilir."
   - soru: "Eşim evi benim rızam olmadan sattı. Ne yapabilirim?"
-    cevap: "Rızası alınmadan aile konutu devredilen eşin tapu iptali ve tescil davası açabildiği Yargıtay kararlarında kabul edilmektedir. Davada alıcının konutun aile konutu olduğunu bilip bilmediği ya da bilmesi gerekip gerekmediği önem taşır. Tapuda aile konutu şerhi varsa alıcı bu kaydı bilmediğini ileri süremez."
+    cevap: "Kanun aile konutunun devrini diğer eşin açık rızasına bağlar; rızanız alınmadan yapılan devre karşı dava yoluna gidebilirsiniz. Davada alıcının konutun aile konutu olduğunu bilip bilmediği ya da bilmesi gerekip gerekmediği önem taşır. Tapuda aile konutu şerhi varsa alıcı bu kaydı bilmediğini ileri süremez."
   - soru: "Evimiz kirada ve sözleşme eşimin adına. Ev sahibi sözleşmeyi yalnızca eşime bildirerek feshedebilir mi?"
     cevap: "Kiralayana bildirimde bulunarak sözleşmenin tarafı hâline geldiyseniz hayır. Bu durumda kiralayan, fesih bildirimini ve ödeme süresi veren fesih ihtarını hem eşinize hem size ayrı ayrı bildirmek zorundadır. Bu güvenceden yararlanmak için bildirimi kiralayana yazılı ve ispatlanabilir bir yolla yapmak yerinde olur."
 ---

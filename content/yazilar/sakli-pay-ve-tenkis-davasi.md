@@ -71,7 +71,7 @@ Son bent özellikle önemlidir. Mirasçılarından mal kaçırmak amacıyla yıl
 
 Saklı paylarının karşılığını alamayan mirasçılar, tasarruf edilebilir kısmı aşan tasarrufların tenkisini dava edebilir (m. 560). Tenkis tasarrufu tümden ortadan kaldırmaz; yalnızca saklı payı zedeleyen kısmı indirir. Mirasbırakanın tasarruf ehliyetinin bulunmaması, yanılma, aldatma ya da korkutma altında işlem yapması veya vasiyetnamenin kanuni şekle uymaması gibi sebeplerle tasarrufun bütünüyle ortadan kaldırılması isteniyorsa, başvurulacak yol ayrı bir dava olan iptal davasıdır (m. 557).
 
-Davada karşı taraf, kendisine kazandırma yapılan kişidir. Bu kişi iyiniyetliyse, yalnızca mirasın geçtiği anda elinde kalanı geri vermekle yükümlüdür (m. 566). Kazandırma saklı paylı başka bir mirasçıya yapılmışsa, onun kendi saklı payını aşan kısmı orantılı olarak tenkis edilir (m. 561).
+Davada karşı taraf, kendisine kazandırma yapılan kişidir. Bu kişi iyiniyetliyse, yalnızca mirasın geçtiği anda elinde kalanı geri vermekle yükümlüdür (m. 566). Kazandırma ölüme bağlı tasarrufla saklı paylı başka bir mirasçıya yapılmışsa, onun kendi saklı payını aşan kısmı orantılı olarak tenkis edilir (m. 561).
 
 Tenkis belli bir sırayla yapılır (m. 570). Önce vasiyet gibi ölüme bağlı tasarruflar indirilir. Bu yetmezse sağlararası kazandırmalara geçilir ve en yeni tarihliden en eskiye doğru gidilir. Kamu tüzel kişilerine ve kamuya yararlı dernek ve vakıflara yapılan kazandırmalar en son sırada tenkis edilir.
 

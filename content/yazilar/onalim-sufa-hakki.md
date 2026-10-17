@@ -32,7 +32,7 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6325&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Satıştan noter aracılığıyla haberdar edilmedim. Hakkım devam ediyor mu?"
-    cevap: "Üç aylık süre, satışın size bildirildiği tarihten başlar. Noter bildirimi yapılmadıysa bu süre işlemeye başlamaz; ancak kanundaki üst sınır yine geçerlidir. Önalım hakkı her hâlde satışın üzerinden bir yıl geçmekle düşer. 25 Aralık 2025'ten önce yapılmış satışlarda ise değişiklikten önceki hükümler uygulanır; o hükümlere göre bu üst sınır iki yıldır."
+    cevap: "Üç aylık süre, satışın size bildirildiği tarihten başlar. Noter bildirimi yapılmadıysa bu süre işlemeye başlamaz; ancak kanundaki üst sınır yine geçerlidir. Önalım hakkı her hâlde satışın üzerinden bir yıl geçmekle düşer. Satışı tapu kaydından ya da çevreden öğrenen paydaşın bu üst sınırı gözeterek davranması gerekir. 25 Aralık 2025'ten önce yapılmış satışlarda ise değişiklikten önceki hükümler uygulanır; o hükümlere göre bu üst sınır iki yıldır."
   - soru: "Payımı diğer paydaşlardan birine satarsam önalım hakkı doğar mı?"
     cevap: "Hayır. Kanun yasal önalım hakkını, payın üçüncü bir kişiye satılması hâline bağlar. Paydaşlar arasındaki satışta diğer paydaşlar bu hakkı kullanamaz."
   - soru: "Önalım hakkından önceden vazgeçebilir miyim?"
@@ -40,7 +40,7 @@ sss:
   - soru: "Önalım davası hangi mahkemede açılır, önce arabulucuya gitmek gerekir mi?"
     cevap: "Kanunda başka bir mahkeme görevlendirilmediği için malvarlığı haklarına ilişkin bu davaya asliye hukuk mahkemesi bakar. Taşınmazın bulunduğu yer mahkemesi kesin yetkilidir. Taşınmaz uyuşmazlıklarında dava şartı arabuluculuğu düzenleyen 6325 sayılı Kanunun 18/B maddesi kira, ortaklığın giderilmesi, kat mülkiyeti ve komşu hakkı uyuşmazlıklarını sayar; önalım davası bunlar arasında yer almaz."
 ---
-Paylı bir taşınmazın paydaşlarından biri payını yabancı birine sattığında, diğer paydaşlar hiç tanımadıkları biriyle ortak olmak zorunda kalabilir. Kanun bu durumda onlara önalım hakkı tanır. Önalım hakkı, üçüncü kişiye satılan payı alıcının yerine geçerek satın alma hakkıdır. Eski hukuk dilindeki adı şufadır. Hak, mahkemede alıcıya karşı açılan bir davayla kullanılır.
+Paylı bir taşınmazın paydaşlarından biri payını yabancı birine sattığında, diğer paydaşlar hiç tanımadıkları biriyle ortak olmak zorunda kalabilir. Kanun bu durumda onlara önalım hakkı tanır; amaç, paydaşların istemediği bir yabancının ortaklığa girmesinin önüne geçmektir. Önalım hakkı, üçüncü kişiye satılan payı alıcının yerine geçerek satın alma hakkıdır. Eski hukuk dilindeki adı şufadır. Hak, mahkemede alıcıya karşı açılan bir davayla kullanılır.
 
 Bu konuda 24 Aralık 2025 tarihli ve 7571 sayılı Kanunla önemli değişiklikler yapıldı; değişiklikler 25 Aralık 2025'te yürürlüğe girdi. Aşağıdaki bilgiler Türk Medeni Kanunu'nun güncel metnine göredir.
 

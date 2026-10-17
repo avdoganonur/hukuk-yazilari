@@ -11,6 +11,8 @@ dayanak:
     not: "Derhal fesih hakkını kullanma süresi"
   - ad: "4857 sayılı İş Kanunu m. 17"
     not: "Bildirim süreleri ve ihbar tazminatı"
+  - ad: "4857 sayılı İş Kanunu m. 18"
+    not: "İş güvencesinin kapsamı"
   - ad: "4857 sayılı İş Kanunu m. 19"
     not: "Savunma alınması ve ahlak ve iyiniyet hâllerindeki istisna"
   - ad: "4857 sayılı İş Kanunu m. 20"
@@ -34,7 +36,7 @@ sss:
   - soru: "Tutuklanan işçinin sözleşmesi hemen feshedilebilir mi?"
     cevap: "Hayır. İşveren, gözaltı ya da tutukluluk nedeniyle devamsızlık, işçinin kıdemine göre belirlenen bildirim süresini aşarsa derhal fesih yapabilir. Örneğin altı aydan bir buçuk yıla kadar çalışmış bir işçi için bu süre dört haftadır. Bu sebeple yapılan fesih, ahlak ve iyiniyet hâllerinden olmadığı için kıdem tazminatı hakkını ortadan kaldırmaz."
   - soru: "Haklı nedenle fesihten önce savunmamın alınması gerekmez mi?"
-    cevap: "Kanuna göre belirsiz süreli sözleşmeyle çalışan işçinin sözleşmesi, davranışı ya da verimiyle ilgili nedenlerle savunması alınmadan feshedilemez. Kanun bu kuralın tek istisnası olarak ahlak ve iyiniyet kurallarına uymayan hâllere dayanan derhal fesihleri gösterir; bu fesihlerde savunma alma şartı aranmaz."
+    cevap: "Kanuna göre iş güvencesi kapsamındaki, yani otuz veya daha fazla işçi çalıştırılan bir işyerinde en az altı aylık kıdemi bulunan ve belirsiz süreli sözleşmeyle çalışan işçinin sözleşmesi, davranışı ya da verimiyle ilgili nedenlerle savunması alınmadan feshedilemez. Kanun bu kuralın tek istisnası olarak ahlak ve iyiniyet kurallarına uymayan hâllere dayanan derhal fesihleri gösterir; bu fesihlerde savunma alma şartı aranmaz."
 ---
 İşveren, belirsiz süreli bir iş sözleşmesini kural olarak bildirim süresine uyarak sona erdirir. Bildirim süresi, fesihten önce karşı tarafa tanınması gereken ve işçinin kıdemine göre iki ile sekiz hafta arasında değişen süredir (İş Kanunu m. 17). Bazı durumlarda ise iş ilişkisinin bu süre boyunca devam etmesi işverenden beklenemez. Kanun bu durumları 25. maddede sayar ve işverene sözleşmeyi bildirim süresini beklemeden, belirli süreli sözleşmelerde de sürenin bitmesini beklemeden feshetme hakkı tanır. Buna haklı nedenle derhal fesih denir.
 
@@ -62,7 +64,7 @@ Kanunun en ayrıntılı düzenlediği grup budur. Madde şu davranışları saya
 - Yapmakla yükümlü olduğu görevler hatırlatıldığı hâlde yapmamakta ısrar etmek.
 - Kendi isteği ya da savsaması yüzünden işin güvenliğini tehlikeye düşürmek veya işyerindeki ya da eli altındaki makine, tesisat ve eşyaya otuz günlük ücretiyle ödeyemeyeceği ölçüde zarar vermek.
 
-Belirsiz süreli sözleşmeyle çalışan bir işçinin sözleşmesi, davranışı ya da verimiyle ilgili nedenlerle kural olarak savunması alınmadan feshedilemez. Bu gruptaki sebeplere dayanan derhal fesihler bu kuralın istisnasıdır (m. 19). Uyuşmazlık mahkemeye taşınırsa, fesih sebebi olan olayın gerçekleştiğini ispat etmek ona dayanan işverene düşer (Türk Medeni Kanunu m. 6).
+İş güvencesi kapsamında (m. 18) belirsiz süreli sözleşmeyle çalışan bir işçinin sözleşmesi, davranışı ya da verimiyle ilgili nedenlerle kural olarak savunması alınmadan feshedilemez. Bu gruptaki sebeplere dayanan derhal fesihler bu kuralın istisnasıdır (m. 19). Uyuşmazlık mahkemeye taşınırsa, fesih sebebi olan olayın gerçekleştiğini ispat etmek ona dayanan işverene düşer (Türk Medeni Kanunu m. 6).
 
 ## Altı iş günü ve bir yıl: fesih hakkının süresi
 

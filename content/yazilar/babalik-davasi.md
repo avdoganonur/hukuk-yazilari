@@ -44,7 +44,7 @@ Bu davanın önemi yalnızca nüfus kaydıyla sınırlı değildir. Çocuğun ba
 
 ## Davayı kimler açabilir ve kime karşı açılır
 
-Çocuk ile baba arasındaki soybağının mahkemece belirlenmesini ana ve çocuk isteyebilir (m. 301). Bu iki dava hakkı birbirinden bağımsızdır; biri kullanılmasa ya da düşse bile diğeri devam eder. Kanun, ergin olmayan, yani on sekiz yaşını doldurmamış çocuk adına davanın kayyım tarafından açılabileceğini öngörür. Kayyım, belirli bir iş için çocuğu temsil etmek üzere atanan kişidir.
+Çocuk ile baba arasındaki soybağının mahkemece belirlenmesini ana ve çocuk isteyebilir (m. 301). Bu iki dava hakkı birbirinden bağımsızdır; biri kullanılmasa ya da düşse bile diğeri devam eder. Ergin olmayan, yani on sekiz yaşını doldurmamış çocuk adına dava, ona atanan kayyım tarafından açılabilir; kanunun ihbara ilişkin hükmü de kayyımın açtığı davayı ayrıca anar. Kayyım, belirli bir iş için çocuğu temsil etmek üzere atanan kişidir.
 
 Dava babaya karşı açılır. Baba ölmüşse davalı, onun mirasçılarıdır. Kanun, davanın Cumhuriyet savcısına ve Hazineye ihbar edilmesini, yani davadan haberdar edilmelerini ister. Dava ana tarafından açılmışsa kayyıma, kayyım tarafından açılmışsa anaya da ihbar edilir.
 
