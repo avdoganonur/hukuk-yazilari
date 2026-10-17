@@ -31,7 +31,7 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6306&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Mirasçıların her biri ayrı beyanname mi vermeli?"
-    cevap: "Hayır, zorunlu değil. Kanun beyannamenin her mükellef için ayrı ayrı ya da birlikte verilmesine izin verir. Uygulamada mirasçılar çoğunlukla tek beyanname verir; vergi ise her mirasçının payı üzerinden ayrı hesaplanır."
+    cevap: "Hayır, zorunlu değil. Kanun beyannamenin her mükellef için ayrı ayrı ya da birlikte verilmesine izin verir. Birlikte verilse de mükellef, mal edinen her mirasçının kendisidir ve istisna tutarı her mirasçının payına ayrı ayrı uygulanır."
   - soru: "Dört aylık süreyi kaçırırsam ne olur?"
     cevap: "Vergi Usul Kanunu'na göre veraset ve intikal vergisinde, beyanname süresinin bitiminden itibaren on beş gün beklenir. Beyanname bu süre içinde verilirse vergi ziyaı olmamış sayılır. Bu süre de geçerse idare mükellefe tebliğ etmek şartıyla yeniden on beş günlük süre verir; bu sürede verilen beyanname için de aynı kural geçerlidir. Bu süreler de kaçırılırsa ceza riski doğar."
   - soru: "Bankadaki parayı çekebilmek için verginin ödenmesi gerekir mi?"
