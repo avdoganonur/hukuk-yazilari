@@ -67,7 +67,7 @@ Teminat, asıl davadaki hükmün kesinleşmesinden veya tedbir kararının kalkm
 
 ## Uygulama ve dava açma süreleri
 
-Tedbir kararı alındıktan sonra iki süreye dikkat etmek gerekir. Kararın uygulanması, tedbir isteyen tarafa tefhim veya tebliğinden itibaren bir hafta içinde talep edilmelidir. Tefhim, kararın duruşmada taraflara okunarak bildirilmesidir. Bu süre kaçırılırsa, süresinde dava açılmış olsa bile tedbir kararı kendiliğinden kalkar (m. 393). Uygulama, kararı veren mahkemenin yargı çevresindeki ya da tedbir konusu mal veya hakkın bulunduğu yerdeki icra dairesinden istenir.
+Tedbir kararı alındıktan sonra iki süreye dikkat etmek gerekir. Kararın uygulanması, tedbir isteyen tarafa tefhim veya tebliğinden itibaren bir hafta içinde talep edilmelidir. Tefhim, kararın duruşmada taraflara okunarak bildirilmesidir. Bu süre kaçırılırsa, süresinde dava açılmış olsa bile tedbir kararı kendiliğinden kalkar (m. 393). Uygulama, kararı veren mahkemenin yargı çevresindeki ya da tedbir konusu mal veya hakkın bulunduğu yerdeki icra dairesinden istenir. Kararı uygulayan memur bir tutanak düzenler; tedbir konusu ve bulunduğu yer bu tutanakta gösterilir, tedbirle ilgili iddialar da tutanağa geçirilir. Tutanağın bir örneği, uygulamada hazır bulunmayan taraflara tebliğ edilir.
 
 Tedbir dava açılmadan önce alınmışsa, tedbir talep eden kararın uygulanmasını istediği tarihten itibaren iki hafta içinde esas davayı açmalıdır. Dava açıldığını gösteren belgeyi kararı uygulayan memura vererek dosyaya koydurtmalı ve karşılığında bir belge almalıdır. Bu yapılmazsa tedbir kendiliğinden kalkar (m. 397). Kararda aksi belirtilmedikçe tedbir, nihai karar kesinleşinceye kadar devam eder.
 

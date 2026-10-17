@@ -32,7 +32,7 @@ sss:
   - soru: "Çaldığı malı geri veren kişiye ceza verilmez mi?"
     cevap: "Ceza verilir ama indirilir. Malın tamamen geri verilmesi ya da zararın tamamen karşılanması kovuşturma başlamadan önce olursa cezanın üçte ikisine kadarı, kovuşturma başladıktan sonra ve hükümden önce olursa yarısına kadarı indirilir. Kısmen iade ya da tazminde indirim için ayrıca mağdurun rızası aranır."
   - soru: "Babamın parasını izinsiz aldım, hakkımda dava açılır mı?"
-    cevap: "Hırsızlık üstsoyun, yani anne, baba, büyükanne ve büyükbabanın zararına işlenmişse ilgili akraba hakkında cezaya hükmolunmaz. Aynı kural ayrılık kararı bulunmayan eş, altsoy, kayın hısımları, evlat edinen ile evlatlık ve aynı evde yaşayan kardeşler için de geçerlidir. Bu kural yağma için uygulanmaz."
+    cevap: "Hırsızlık üstsoyun, yani anne, baba, büyükanne ve büyükbabanın zararına işlenmişse ilgili akraba hakkında cezaya hükmolunmaz. Aynı kural ayrılık kararı bulunmayan eş, altsoy, üstsoy ve altsoy derecesindeki kayın hısımları, evlat edinen ile evlatlık ve aynı evde yaşayan kardeşler için de geçerlidir. Bu kural yağma için uygulanmaz."
   - soru: "Arabayı gezmek için alıp geri bıraktım, bu da hırsızlık mı?"
     cevap: "Malın geçici olarak kullanılıp sahibine iade edilmek üzere alınması kullanma hırsızlığıdır. Bu durumda soruşturma şikâyete bağlıdır ve ceza yarısına kadar indirilir. Mal suç işlemek için kullanılmışsa bu indirim uygulanmaz."
   - soru: "Hırsızlık şikâyetten vazgeçilince düşer mi?"
