@@ -22,7 +22,7 @@ sss:
   - soru: "Arabuluculukta anlaşamazsak dava açmak için ne kadar süremiz var?"
     cevap: "Kanun, kira uyuşmazlıklarında son tutanaktan sonra dava açmak için ayrı bir süre öngörmez. Ancak uyuşmazlığın kendi süreleri geçerliliğini korur; örneğin kira bedelinin belirlenmesi davasında kararın hangi dönemden uygulanacağı, davanın açıldığı tarihe bağlıdır. Arabuluculuk bürosuna başvurulduğu tarihten son tutanağın düzenlendiği tarihe kadar zamanaşımı durur ve hak düşürücü süre işlemez."
   - soru: "Kira ödenmediği için icra dairesinden tahliye takibi başlatacağım. Önce arabulucuya gitmem gerekir mi?"
-    cevap: "Hayır. İcra ve İflas Kanunu'na göre kiralanan taşınmazların ilamsız icra yoluyla tahliyesine ilişkin hükümler, dava şartı arabuluculuğun dışında bırakılmıştır. Aynı uyuşmazlık için icra takibi yerine dava açılacaksa, önce arabulucuya başvurmak gerekir."
+    cevap: "Hayır. 6325 sayılı Kanun m. 18/B, kiralanan taşınmazların İcra ve İflas Kanunu'na göre ilamsız icra yoluyla tahliyesine ilişkin hükümleri dava şartı arabuluculuğun dışında bırakmıştır. Aynı uyuşmazlık için icra takibi yerine dava açılacaksa, önce arabulucuya başvurmak gerekir."
   - soru: "Karşı tarafa ulaşılamazsa süreç nasıl sonuçlanır?"
     cevap: "Arabulucu, elindeki bilgilerle her türlü iletişim vasıtasını kullanarak taraflara ulaşmaya çalışır. Taraflara ulaşılamaz ya da taraflar katılmadığı için görüşme yapılamazsa arabuluculuk faaliyetini sona erdirir ve son tutanağı düzenler; bu tutanakla dava açılabilir. Bu durumda iki saatlik arabuluculuk ücreti Adalet Bakanlığı bütçesinden ödenir ve yargılama giderlerinden sayılır."
 ---
