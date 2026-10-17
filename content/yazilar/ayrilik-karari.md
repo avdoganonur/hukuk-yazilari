@@ -23,6 +23,8 @@ dayanak:
     not: "Boşanan eşlerin mirasçılığı"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 182"
     not: "Ayrılık kararında çocuklarla ilgili düzenleme"
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 184"
+    not: "Boşanma ve ayrılık davalarında yargılama kuralları"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 197"
     not: "Ortak hayata ara verme ve hâkimin önlemleri"
 sss:
@@ -43,6 +45,8 @@ Kanuna göre boşanma davası açmaya hakkı olan eş, dilerse boşanma, dilerse
 
 Kanun ayrılık davasını da boşanma davasıyla aynı yere bağlamıştır. Yetkili mahkeme, eşlerden birinin yerleşim yeri ya da eşlerin davadan önce son altı aydır birlikte oturdukları yer mahkemesidir (m. 168). Dava açılınca hâkim, dava süresince eşlerin barınması, geçimi, mallarının yönetimi ve çocukların bakımı için gerekli geçici önlemleri kendiliğinden alır (m. 169). Bu önlemler ayrılık davasında da uygulanır.
 
+Boşanma yargılamasının özel kuralları ayrılık davası için de geçerlidir. Hâkim, davanın dayandığı olguların varlığına vicdanen kanaat getirmedikçe bunları ispatlanmış sayamaz; tarafların ikrarı, yani bir olguyu kabul etmeleri hâkimi bağlamaz. Ayrılığın fer'î sonuçlarına, örneğin çocukların durumuna ilişkin anlaşmalar da hâkim onaylamadıkça geçerli olmaz (m. 184).
+
 ## Hâkim ne zaman ayrılığa karar verir
 
 Boşanma sebebi ispatlanırsa hâkim, boşanmaya ya da ayrılığa karar verir. Kanun burada iki sınır koyar (m. 170):
@@ -54,7 +58,7 @@ Boşanma sebebi ispatlanırsa hâkim, boşanmaya ya da ayrılığa karar verir. 
 
 ## Ayrılığın süresi ve sonuçları
 
-Ayrılığa bir yıldan üç yıla kadar bir süre için karar verilebilir. Bu süre ayrılık kararının kesinleşmesiyle işlemeye başlar (m. 171). Süreyi bu sınırlar içinde hâkim belirler. Karar bir üst mahkemeye taşınırsa süre, kararın kesinleştiği tarihten itibaren hesaplanır.
+Ayrılığa bir yıldan üç yıla kadar bir süre için karar verilebilir. Bu süre ayrılık kararının kesinleşmesiyle işlemeye başlar (m. 171). Süreyi bu sınırlar içinde hâkim belirler. Karar bir üst mahkemeye taşınırsa süre, kanun yolu incelemesi sonuçlanıp karar kesinleştiği tarihten itibaren hesaplanır. Kanun yoluna gidilmezse kesinleşme, başvuru süreleri dolduğunda gerçekleşir.
 
 Ayrılık kararı evliliği sona erdirmez. Eşler hukuken evli kalır, başkasıyla evlenemez ve kadının soyadı değişmez. Boşanan eşlerin birbirine yasal mirasçı olamayacağına dair kural (m. 181) boşanmaya özgü olduğu için ayrılık süresince uygulanmaz.
 

@@ -60,6 +60,8 @@ Borca itiraz, senetteki imzayı kabul eden ama borcun hiç doğmadığını, öd
 
 Borca itiraz, satış dışındaki takip işlemlerini durdurmaz. Borçlunun dilekçesine eklediği belgeler ödemeyi, süre verildiğini, zamanaşımını, borçlu olmadığını ya da icra dairesinin yetkisizliğini gösteriyorsa mahkeme esas hakkında karar verinceye kadar takibin geçici olarak durdurulmasına karar verebilir.
 
+İtiraz kabul edilirse takip durur; ancak alacaklının genel mahkemede dava açma hakkı saklıdır. İtiraz reddedilirse borçlu bu karara karşı istinafa gidebilir. Bu başvuru tek başına hiçbir icra işlemini durdurmaz; takibin durması için borçlunun kanunda sayılan türden bir teminat göstermesi gerekir.
+
 Sonucun parasal yükü de vardır. Takip geçici olarak durdurulmuş, sonra itiraz reddedilmişse borçlu, alacaklının istemi üzerine takip konusu alacağın yüzde yirmisinden az olmamak üzere tazminata mahkûm edilir. İtiraz esasa ilişkin nedenlerle kabul edilir ve alacaklının kötü niyeti ya da ağır kusuru varsa bu kez alacaklı aynı oranda tazminat öder.
 
 ## İmzaya itiraz

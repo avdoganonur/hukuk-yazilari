@@ -70,7 +70,7 @@ Kiracının olağan kullanım için gereken temizlik ve bakım giderlerini kendi
 
 ## Kira indirimi ve tazminat
 
-Ayıp kiralananın kullanımını etkiliyorsa kiracı, kira bedelinden ayıpla orantılı bir indirim isteyebilir. İndirim, ayıbın kiraya veren tarafından öğrenildiği tarihten ayıbın giderildiği tarihe kadar geçen süre için istenir. Bu yüzden ayıbı ev sahibine bir an önce ve ispatlanabilir bir yolla (ihtarname, e-posta, mesaj) bildirmek, indirimin başlangıç tarihini de belirler. Örneğin evin iki odasından biri rutubet yüzünden kullanılamıyorsa, kullanım kaybı oranında bir indirim gündeme gelir; oranı taraflar anlaşamazsa mahkeme belirler.
+Ayıp kiralananın kullanımını etkiliyorsa kiracı, kira bedelinden ayıpla orantılı bir indirim isteyebilir. İndirim, ayıbın kiraya veren tarafından öğrenildiği tarihten ayıbın giderildiği tarihe kadar geçen süre için istenir. Bu yüzden ayıbı ev sahibine bir an önce ve ispatlanabilir bir yolla (ihtarname, e-posta, mesaj) bildirmek, indirimin başlangıç tarihini de belirler. Örneğin evin iki odasından biri rutubet yüzünden kullanılamıyorsa, kullanım kaybı oranında bir indirim gündeme gelir; oranı taraflar anlaşamazsa mahkeme belirler. Oran üzerinde anlaşmadan kirayı kendiliğinden eksik ödemek, ev sahibine temerrüt iddiası için zemin hazırlayabilir. Bu yüzden indirim talebini yazılı olarak iletmek, anlaşma sağlanamazsa da arabuluculuk yoluna gitmek daha güvenlidir.
 
 Kiraya veren ayrıca kiralananın ayıplı olmasından doğan zararları kiracıya ödemekle yükümlüdür. Bu sorumluluktan kurtulmak için kusuru olmadığını kendisi ispat etmelidir. Tavan akması yüzünden zarar gören bir televizyon ya da halı, bu kapsamda istenebilecek zararlara örnektir.
 

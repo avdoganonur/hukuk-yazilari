@@ -19,6 +19,8 @@ dayanak:
     not: "İşin üçüncü kişiye gördürülmesi"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 508"
     not: "Hesap verme ve alınanları teslim"
+  - ad: "6098 sayılı Türk Borçlar Kanunu m. 509"
+    not: "Edinilen hakların vekâlet verene geçişi"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 510"
     not: "Vekâlet verenin gider ve zarar karşılama borcu"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 511"
@@ -60,6 +62,8 @@ Vekilin ilk borcu talimata uymaktır (m. 505). Vekil, vekâlet verenin açık ta
 Vekil işi kural olarak kendisi yapar. Yetki verilmişse ya da durum zorunlu kılıyor veya teamül izin veriyorsa işi başkasına gördürebilir. Yetkisi olmadan işi başkasına bırakan vekil, o kişinin fiilinden kendisi yapmış gibi sorumludur. Başkasına vekâlet verme yetkisi varsa yalnızca o kişiyi seçerken ve ona talimat verirken gerekli özeni göstermekle yükümlüdür (m. 507).
 
 Üçüncü borç hesap vermektir (m. 508). Vekil, vekâlet verenin istemesi üzerine yürüttüğü işin hesabını vermek ve vekâletle ilgili olarak aldıklarını ona teslim etmek zorundadır. Teslimde geciktirdiği paranın faizini de öder. Satış bedelini tahsil edip uzun süre vermeyen vekil hem asıl parayı hem faizini ödemekle yükümlü olur.
+
+Vekil kendi adına ama vekâlet veren hesabına iş yapmışsa, bu işlerden doğan üçüncü kişilerdeki alacaklar, vekâlet veren vekile karşı bütün borçlarını ödediği anda kendiliğinden vekâlet verene geçer (m. 509). Vekil iflas etse bile vekâlet veren bu alacağın kendisine geçtiğini iflas masasına karşı ileri sürebilir.
 
 Birden fazla kişi vekâleti birlikte üstlenmişse, ifadan müteselsil, yani her biri borcun tamamından sorumludur (m. 511).
 

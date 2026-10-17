@@ -9,6 +9,8 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6502&MevzuatTur=1&MevzuatTertip=5"
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 57"
     not: "İhtiyari (ek) garanti"
+  - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 57/A"
+    not: "Yenilenmiş ürünlerde asgari bir yıllık garanti"
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 58"
     not: "Satış sonrası hizmetler, kullanım ömrü, azami tamir süresi, özel servisler"
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 11"
@@ -19,7 +21,9 @@ sss:
   - soru: "Garanti süresi içinde tamire giden cihaz için kargo ücreti ödemem gerekir mi?"
     cevap: "Hayır. Kullanım kılavuzuna aykırı kullanımlar dışında, garanti süresi içinde yetkili servis, üretici, ithalatçı veya satıcı sizden nakliye, posta, kargo ya da servis elemanının ulaşım gideri gibi herhangi bir ücret isteyemez."
   - soru: "Garanti süresi bitti. Servis 'parça yok' diyerek cihazı tamir etmiyor. Haklarım neler?"
-    cevap: "Üretici ve ithalatçılar, Bakanlıkça belirlenen kullanım ömrü boyunca bakım ve onarım hizmeti sağlamak zorundadır ve talep edildiğinde yedek parça satmaktan kaçınamaz. Garanti süresi bittikten sonra kullanım ömrü içinde bu hizmet sağlanmazsa, tüketici uğradığı zararın tazminini isteyebilir."
+    cevap: "Üretici ve ithalatçılar, Ticaret Bakanlığınca belirlenen kullanım ömrü boyunca bakım ve onarım hizmeti sağlamak zorundadır ve talep edildiğinde yedek parça satmaktan kaçınamaz. Garanti süresi bittikten sonra kullanım ömrü içinde bu hizmet sağlanmazsa, tüketici uğradığı zararın tazminini isteyebilir."
+  - soru: "Yenilenmiş (refurbished) telefonun garantisi kaç yıldır?"
+    cevap: "Yenilenmiş ürün, donanım, yazılım veya fiziki özelliklerinde iyileştirme yapılarak yeniden satışa sunulan kullanılmış maldır. Bu ürünlere tüketiciye teslim tarihinden itibaren en az bir yıl garanti verilmesi zorunludur; özelliği nedeniyle bazı mallarda garanti şartları başka bir ölçüyle de belirlenebilir."
 ---
 Buzdolabı, telefon, bilgisayar ya da otomobil gibi birçok ürün garanti belgesiyle satılır. Garanti, malın belli bir süre içinde arızalanması hâlinde tüketicinin ücretsiz onarım ve diğer haklarını güvenceye alır. Tüketicinin Korunması Hakkında Kanun garanti belgesini 56. maddede, satış sonrası hizmetleri ise 58. maddede düzenler. Ayrıntılar Garanti Belgesi Yönetmeliği ile Satış Sonrası Hizmetler Yönetmeliğinde yer alır.
 
@@ -29,7 +33,7 @@ Ayıplı bir mal karşısında tüketicinin genel olarak hangi hakları seçebil
 
 Üretici ve ithalatçılar, tüketiciye yönelik ürettikleri veya ithal ettikleri mallar için içeriği yönetmelikle belirlenen bir garanti belgesi düzenlemek zorundadır. Belgenin eksiksiz doldurulup tüketiciye verilmesi ise satıcının sorumluluğundadır. Hangi malların garanti belgesiyle satılması gerektiği yönetmeliğe ekli listede sayılmıştır; beyaz eşya, cep telefonu, bilgisayar, televizyon, klima, kombi ve otomobil bunlar arasındadır.
 
-Garanti süresi malın teslim tarihinden itibaren başlar ve en az iki yıldır. Bazı mallarda süre başka bir ölçüyle de belirlenebilir. Örneğin yönetmelik listesinde binek otomobiller için "2 yıl veya 60.000 km, hangisi önce dolarsa" ölçüsü kullanılır. Garanti belgesi kâğıt üzerinde ya da kalıcı veri saklayıcısıyla verilebilir; tüketici isterse kâğıt olarak verilmesi zorunludur. Fatura, garanti belgesinin yerine geçmez.
+Garanti süresi malın teslim tarihinden itibaren başlar ve en az iki yıldır. Bazı mallarda süre başka bir ölçüyle de belirlenebilir. Örneğin yönetmelik listesinde binek otomobiller için "2 yıl veya 60.000 km, hangisi önce dolarsa" ölçüsü kullanılır. Garanti belgesi kâğıt üzerinde ya da kalıcı veri saklayıcısıyla verilebilir; tüketici isterse kâğıt olarak verilmesi zorunludur. Fatura, garanti belgesinin yerine geçmez. Belgede üretici veya ithalatçı ile satıcının bilgileri, malın marka ve modeli, teslim tarihi, garanti süresi ve azami tamir süresi yazmalı; malın bütün parçalarıyla birlikte garanti kapsamında olduğu da belirtilmelidir. İnternetten alınan mallarda satıcıya ve teslim tarihine ilişkin bilgiler için faturadaki bilgiler esas alınır.
 
 Malın tamirde geçen süresi garanti süresine eklenir. Garanti kapsamında değiştirilen yeni malın garantisi ise eski malın kalan garanti süresiyle sınırlıdır.
 

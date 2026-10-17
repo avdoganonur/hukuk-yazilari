@@ -30,7 +30,7 @@ sss:
   - soru: "Bir borcu yanlışlıkla iki kez ödedim. Bu da sebepsiz zenginleşme mi?"
     cevap: "Evet. Borç olmadan yapılan ödeme de sebepsiz zenginleşmeye yol açar. Kendi isteğinizle ödediğiniz için, ödemeyi kendinizi borçlu sanarak, yani yanılarak yaptığınızı ispat etmeniz gerekir. Banka dekontları ve ilk ödemenin kaydı bu ispatın temel belgeleridir."
 ---
-Bir IBAN numarasındaki tek bir rakam hatası, paranın tanımadığınız birinin hesabına geçmesine yetebilir. Banka işlemi tamamlandıktan sonra para alıcının hesabındadır ve alıcı onu kendiliğinden geri göndermezse mesele bir hukuk meselesine dönüşür. Türk Borçlar Kanunu bu durumu sebepsiz zenginleşme hükümleriyle çözer.
+Bir IBAN numarasındaki tek bir rakam hatası ya da kayıtlı alıcılar listesinde yanlış kişinin seçilmesi, paranın tanımadığınız birinin hesabına geçmesine yetebilir. Banka işlemi tamamlandıktan sonra para alıcının hesabındadır ve alıcı onu kendiliğinden geri göndermezse mesele bir hukuk meselesine dönüşür. Türk Borçlar Kanunu bu durumu sebepsiz zenginleşme hükümleriyle çözer.
 
 ## Sebepsiz zenginleşmenin şartları
 
@@ -44,6 +44,8 @@ Kanun, borçlanmadığı bir edimi kendi isteğiyle yerine getiren kişinin bunu
 
 Yanlış IBAN'a gönderilen parada ispat çoğu zaman belgelerle yapılır. Gerçek alıcının IBAN numarası, ona ait faturalar ya da yazışmalar, aynı gün doğru hesaba yapılan ikinci ödeme ve gönderenle alıcı arasında hiçbir ilişki olmaması, paranın yanlışlıkla gittiğini gösterir. İlk iş, işlemi yaptığınız bankaya durumu hemen bildirmek ve bu yazışmaları saklamaktır. Alıcı parayı kendiliğinden iade ederse sorun orada kapanır.
 
+Banka kayıtları da önemlidir. Havale veya EFT dekontu paranın hangi hesaba, hangi tarihte ve hangi açıklamayla gittiğini gösterir. Açıklama kısmına yazılan not, örneğin bir kira ödemesi ya da fatura numarası, paranın asıl kime gönderilmek istendiğini ortaya koyabilir. Alıcının kimlik ve adres bilgileri ise çoğu zaman takip ya da dava aşamasında mahkeme veya icra dairesi aracılığıyla bankadan istenir.
+
 Kanun iki durumda geri istemeye izin vermez. Zamanaşımına uğramış bir borcun ödenmesi ya da ahlaki bir ödevin yerine getirilmesi sonucunda oluşan zenginleşme geri istenemez. Hukuka ya da ahlaka aykırı bir sonucun gerçekleşmesi için verilen şey de geri istenemez; açılan davada hâkim bunun Devlete mal edilmesine karar verebilir.
 
 ## Neyin geri verileceği: iyi niyet meselesi
@@ -56,7 +58,7 @@ Zenginleşen, yaptığı giderleri de gündeme getirebilir. İyi niyetli zenginl
 
 ## Paranın geri istenmesi: icra ve dava
 
-Alıcı iadeye yanaşmazsa gönderen iki yoldan birini seçebilir. İlki ilamsız icra takibidir. Bu yolda borçlu süresinde ödeme emrine itiraz ederse takip durur; alacaklı itirazın tebliğinden itibaren bir yıl içinde itirazın iptali davası açabilir. Alacağın varlığı ve tutarı tartışmalıysa doğrudan genel mahkemede alacak davası açmak da mümkündür. Hangi yolun seçileceği, alıcının tutumuna ve elinizdeki belgelere göre değişir.
+Alıcı iadeye yanaşmazsa gönderen iki yoldan birini seçebilir. İlki ilamsız icra takibidir. Bu yolda borçlu süresinde ödeme emrine itiraz ederse takip durur; alacaklı itirazın tebliğinden itibaren bir yıl içinde itirazın iptali davası açabilir. Alacağın varlığı ve tutarı tartışmalıysa doğrudan genel mahkemede alacak davası açmak da mümkündür. Hangi yolun seçileceği, alıcının tutumuna ve elinizdeki belgelere göre değişir. İtirazın iptali davasında borçlunun itirazı haksız bulunursa, alacaklının istemi üzerine borçlu hükmolunan tutarın yüzde yirmisinden az olmamak üzere tazminata mahkûm edilebilir; takibinde haksız ve kötü niyetli görülen alacaklı için de aynı yaptırım söz konusudur.
 
 Davada gönderen; paranın alıcının hesabına geçtiğini, aralarında ödemeyi haklı kılacak bir ilişki bulunmadığını ve ödemenin yanılgıyla yapıldığını ispat eder.
 

@@ -52,7 +52,7 @@ Kanunun 125. maddesi beş disiplin cezası sayar:
 - Kademe ilerlemesinin durdurulması: fiilin ağırlığına göre memurun kademe ilerlemesinin bir ila üç yıl durdurulması.
 - Devlet memurluğundan çıkarma: bir daha devlet memurluğuna atanmamak üzere memurluktan çıkarılma.
 
-Hangi davranışın hangi cezayı gerektirdiği maddede tek tek sayılmıştır. Örneğin özürsüz olarak göreve geç gelmek uyarma, özürsüz ve kesintisiz üç ila dokuz gün göreve gelmemek kademe ilerlemesinin durdurulması cezasını gerektirir. Sayılanlara nitelik ve ağırlık bakımından benzeyen davranışlara da aynı türden ceza verilir. Cezanın silinmesi için öngörülen süre içinde aynı fiil tekrarlanırsa bir derece ağır ceza uygulanır. Geçmiş çalışmaları olumlu olan ve ödül ya da başarı belgesi almış memura bir derece hafif ceza verilebilir.
+Hangi davranışın hangi cezayı gerektirdiği maddede tek tek sayılmıştır. Örneğin özürsüz olarak göreve geç gelmek uyarma, özürsüz ve kesintisiz üç ila dokuz gün göreve gelmemek kademe ilerlemesinin durdurulması cezasını gerektirir. Sayılanlara nitelik ve ağırlık bakımından benzeyen davranışlara da aynı türden ceza verilir. Cezanın silinmesi için öngörülen süre içinde aynı fiil tekrarlanırsa bir derece ağır ceza uygulanır. Geçmiş çalışmaları olumlu olan ve ödül ya da başarı belgesi almış memura bir derece hafif ceza verilebilir. Öğrenim durumuna göre yükselebileceği kadronun son kademesinde bulunan memura ise kademe durdurma yerine brüt aylığının dörtte biri ile yarısı arasında kesinti uygulanır.
 
 Cezayı veren makam cezanın türüne göre değişir (m. 126). Uyarma, kınama ve aylıktan kesme cezalarını disiplin amirleri verir. Kademe ilerlemesinin durdurulması cezası, kurumdaki disiplin kurulunun kararı alındıktan sonra atamaya yetkili amirlerce verilir. Memurluktan çıkarma cezası ise amirlerin isteği üzerine kurumun yüksek disiplin kurulu kararıyla verilir. Kurullar ayrı bir ceza belirleyemez; önerilen cezayı kabul ya da reddeder.
 
@@ -67,7 +67,7 @@ Savunması alınmadan memura disiplin cezası verilemez (m. 130). Savunma için 
 
 Bu süreler geçerse ceza verme yetkisi zamanaşımına uğrar. 2026 yılında yapılan değişiklikle maddeye yeni bir kural eklendi: Disiplin cezası mahkemece iptal edilirse, idare kalan zamanaşımı süresi içinde, süre dolmuşsa ya da altı aydan az kalmışsa en geç altı ay içinde, mahkeme kararının gerekçesini dikkate alarak yeniden ceza verebilir. Usul hatası nedeniyle iptal edilen bir ceza bu nedenle yeniden karşınıza çıkabilir.
 
-Kanun ceza verme süresini de sınırlar (m. 128). Disiplin amirleri uyarma, kınama ve aylıktan kesme cezalarını soruşturmanın tamamlandığı günden itibaren on beş gün içinde vermek zorundadır.
+Kanun ceza verme süresini de sınırlar (m. 128). Disiplin amirleri uyarma, kınama ve aylıktan kesme cezalarını soruşturmanın tamamlandığı günden itibaren on beş gün içinde vermek zorundadır. Kademe ilerlemesinin durdurulmasını gerektiren hâllerde soruşturma dosyası on beş gün içinde disiplin kuruluna gönderilir ve kurul dosyayı aldığı tarihten itibaren otuz gün içinde kararını bildirir. Memurluktan çıkarma istenen dosyalarda yüksek disiplin kurulu, dosyanın kendisine gönderilmesinden itibaren en çok altı ay içinde karar verir.
 
 ## İtiraz: yedi günlük süre
 
@@ -86,4 +86,4 @@ Aynı madde, disiplin cezalarına karşı idari yargı yolunun açık olduğunu 
 
 Memurluktan çıkarma gibi ağır cezalarda dava ile birlikte yürütmenin durdurulması da istenebilir. Bunun için cezanın açıkça hukuka aykırı olması ve uygulanması hâlinde telafisi güç ya da imkânsız zarar doğması şartları birlikte aranır.
 
-Ceza davası ile disiplin süreci birbirinden bağımsız yürür (m. 131). Aylıktan kesme cezası alan memur beş yıl, kademe ilerlemesinin durdurulması cezası alan memur on yıl boyunca daire başkanlığı ve daha üst kadrolar ile bazı yönetici kadrolarına atanamaz (m. 132). Cezaya itiraz etmemenin sonuçları bu nedenle yalnızca kesintiyle sınırlı kalmayabilir.
+Disiplin cezaları verildiği tarihten itibaren hüküm doğurur ve hemen uygulanır; aylıktan kesme cezası, cezanın verildiği tarihi izleyen aybaşında uygulanır (m. 132). Dava açılmış olması tek başına bu uygulamayı durdurmaz. Ceza davası ile disiplin süreci de birbirinden bağımsız yürür (m. 131). Aylıktan kesme cezası alan memur beş yıl, kademe ilerlemesinin durdurulması cezası alan memur on yıl boyunca daire başkanlığı ve daha üst kadrolar ile bazı yönetici kadrolarına atanamaz (m. 132). Cezaya itiraz etmemenin sonuçları bu nedenle yalnızca kesintiyle sınırlı kalmayabilir.

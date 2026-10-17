@@ -46,11 +46,13 @@ Süre, takibin türüne ve borçlunun itiraz edip etmemesine göre değişir. S�
 - Çek ve senede dayanan kambiyo takibinde borçlu itiraz etmez ve borcu ödemezse on gün içinde, itiraz edip de itirazı reddedilirse üç gün içinde beyanda bulunur.
 - İtirazı mahkemece iptal edilen ya da kaldırılan borçlu, kararın kendisine tebliğinden itibaren üç gün içinde beyanda bulunmak zorundadır. Karar borçlunun yüzüne karşı verilmişse süre karar açıklandığında başlar.
 
+Beyan, icra dairesine giderek sözlü olarak ya da yazılı olarak yapılabilir. Uygulamada beyanda banka hesapları, araçlar, taşınmazlar, çalışılan işyeri ve aylık ücret, kira geliri ve başkalarından olan alacaklar gibi bilgiler yer alır. Kanunun aradığı ölçü, alacaklının bu beyana bakarak borçlunun borcu nasıl ödeyebileceğini anlayabilmesidir.
+
 Beyanın verilmesi borcun ödendiği anlamına gelmez. Alacaklı mal beyanını beklemeden de haciz isteyebilir. Mal beyanı ise alacaklının, borçlunun beyan ettiği mallara yönelmesini kolaylaştırır.
 
 ## Beyanda bulunmayan borçlu: tazyik hapsi
 
-Süresinde mal beyanında bulunmayan borçlu, alacaklının istemi üzerine icra mahkemesi hâkimince beyanda bulununcaya kadar hapisle zorlanır. Buna tazyik hapsi denir. Tazyik hapsi bir ceza değil, bir zorlama aracıdır; borçlu beyanda bulunduğu anda amacına ulaşmış olur. Kanuna göre bu hapis bir defaya mahsus verilir ve üç ayı geçemez.
+Süresinde mal beyanında bulunmayan borçlu, alacaklının istemi üzerine icra mahkemesi hâkimince beyanda bulununcaya kadar hapisle zorlanır. Buna tazyik hapsi denir. Bu karar için alacaklının icra mahkemesine başvurması gerekir; icra dairesi kendiliğinden hapis kararı veremez. Tazyik hapsi bir ceza değil, bir zorlama aracıdır; borçlu beyanda bulunduğu anda amacına ulaşmış olur. Kanuna göre bu hapis bir defaya mahsus verilir ve üç ayı geçemez.
 
 Ödeme emirlerinde borçluya, beyanda bulunmazsa ayrıca hapisle cezalandırılacağı da ihtar edilir. Ancak mal beyanında bulunmayan borçluya on gün disiplin hapsi öngören 337. maddenin birinci fıkrası, Anayasa Mahkemesinin 2008 yılında verdiği kararla iptal edilmiştir. Mahkeme, aynı davranış için hem tazyik hapsi hem disiplin hapsi verilmesini hukuk devleti ilkesine aykırı bulmuştur. Bugün beyanda hiç bulunmamanın kanundaki karşılığı tazyik hapsidir.
 
@@ -68,7 +70,7 @@ Mal beyanında malı olmadığını söyleyen, borcunu karşılayacak mal göste
 
 Bunu makul bir mazereti olmadan yapmayan borçlu, alacaklının şikâyeti üzerine disiplin hapsiyle cezalandırılır. Mal ya da kazanç hâlâ duruyorsa ceza on gün, borçlu bunları makul bir sebep olmadan elden çıkarmışsa bir aya kadardır. Borçlu takip konusu borcun tamamını öderse bu ceza düşer.
 
-Aciz belgesi alınmış borçlunun asgari ücretin üzerinde bir geçim sürdürdüğü ortaya çıkarsa, alacaklının başvurusu üzerine icra mahkemesi gelirinin bir kısmını her ay icra dairesine yatırmasına karar verebilir. Bu ayrı bir yoldur ve kendi koşullarına bağlıdır.
+Aciz belgesi alınmış borçlunun asgari ücretin üzerinde bir geçim sürdürdüğü ortaya çıkarsa, alacaklının başvurusu üzerine icra mahkemesi gelirinin bir kısmını her ay icra dairesine yatırmasına karar verebilir. Alacaklı bu başvuruyu, alacağının aciz belgesine bağlanmasından itibaren en geç beş yıl içinde yapmalıdır. Mahkemenin belirleyeceği kısım, asgari ücretin üzerindeki gelirin dörtte birinden az olamaz. Borçlu bu ödemeyi yapmazsa hakkında bir yıla kadar tazyik hapsine karar verilir; borcun tamamını ya da o güne kadar yatırması gereken tutarı öderse serbest bırakılır.
 
 ## Ödeme ve şikâyetten vazgeçmenin etkisi
 

@@ -9,7 +9,7 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6502&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Turu kendim iptal edersem paramın tamamını geri alabilir miyim?"
-    cevap: "Paket Tur Sözleşmeleri Yönetmeliğine göre turun başlamasından en az otuz gün önce yaptığınız fesihte, ödenmesi zorunlu vergi, harç ve benzeri yasal yükümlülüklerden doğan masraflar dışında bedelin tamamı kesintisiz iade edilir. Otuz günden az süre kala yapılan fesihte, sözleşmede belirtilmiş olmak şartıyla belirli bir tutar veya oranda kesinti yapılabilir. İade, fesih bildiriminin firmaya ulaşmasından itibaren on dört gün içinde yapılmalıdır."
+    cevap: "Paket Tur Sözleşmeleri Yönetmeliğine göre turun başlamasından en az otuz gün önce yaptığınız fesihte, ödenmesi zorunlu vergi, harç ve benzeri yasal yükümlülüklerden doğan masraflar dışında bedelin tamamı kesintisiz iade edilir. Otuz günden az süre kala yapılan fesihte, sözleşmede belirtilmiş olmak şartıyla belirli bir tutar veya oranda kesinti yapılabilir. Ancak gerekli tüm özeni göstermenize rağmen öngöremediğiniz ve engelleyemediğiniz bir durum ya da mücbir sebep yüzünden iptal ediyorsanız, yasal vergi ve harçlar ile üçüncü kişilere ödendiği belgelenen ve iadesi mümkün olmayan bedeller dışında kesinti yapılamaz. İade, fesih bildiriminin firmaya ulaşmasından itibaren on dört gün içinde yapılmalıdır."
   - soru: "Turu başka birine devredebilir miyim?"
     cevap: "Tura katılamayacak durumdaysanız, turun başlamasından en az yedi gün önce firmaya yazılı olarak ya da kalıcı veri saklayıcısıyla bildirerek sözleşmeyi, tur için gerekli tüm koşulları taşıyan başka birine devredebilirsiniz. Devreden ve devralan, kalan tur bedelinden ve devir yüzünden doğan ek masraflardan firmaya karşı birlikte sorumlu olur. Bu masrafların makul olması ve firmanın gerçek maliyetini aşmaması gerekir."
   - soru: "Turu yurt dışındaki bir firma düzenliyor, acente yalnızca satış yaptı. Kime başvuracağım?"
@@ -24,6 +24,8 @@ Kanuna göre ulaştırma, konaklama ve bunlara bağlı olmayan başka turizm hiz
 Sözleşme kurulmadan önce tüketiciye ön bilgilendirme amaçlı bir broşür verilmesi zorunludur. Yazılı ya da internet üzerinden kurulan sözleşmenin bir nüshası da kâğıt üzerinde veya e-posta gibi kalıcı veri saklayıcısıyla tüketiciye verilmelidir.
 
 Yönetmelik sözleşmede bulunması gereken bilgileri sayar: varış yerleri ve kalış süreleri, vergiler dâhil Türk lirası olarak toplam fiyat, ödeme planı, fiyat değişikliğinin şartları, mücbir sebep hâlleri, sözleşmeden dönme ve fesih şartları bunlar arasındadır. Yurt dışı turlarda bedel döviz olarak belirlenebilir; ödemede hangi kurun esas alınacağı sözleşme kurulurken kararlaştırılır.
+
+Tur yaklaşırken firmanın bir bilgilendirme yükümlülüğü daha vardır. Yurt içi turlarda turun başlamasından en az yirmi dört saat, yurt dışı turlarda kırk sekiz saat önce; yolculuğun başlangıç ve bitiş tarihi ile yeri, aktarmalar ve tur yerindeki temsilcinin ya da ulaşılabilecek yerel irtibat noktasının iletişim bilgileri tüketiciye bildirilmelidir. Bu bilgiler broşürde veya sözleşmede zaten yer alıyor ve değişmemişse tekrar bildirim gerekmez.
 
 ## Tur başlamadan değişiklik veya iptal
 
@@ -47,6 +49,6 @@ Firma tur başladıktan sonra önemli bir yükümlülüğünü yerine getirmezse
 
 Paket tur düzenleyicisi, sözleşmenin hiç veya gereği gibi yerine getirilmemesi yüzünden tüketicinin uğradığı her türlü zarardan sorumludur. Aksaklık otel ya da havayolu gibi bağımsız hizmet sağlayıcılarından kaynaklansa da sorumluluk düzenleyicide kalır. Tüketici ayrıca boşa harcanan tatil zamanı için uygun bir tazminat isteyebilir. Bu, cebinden çıkan paradan bağımsız olarak, kaybedilen tatil günlerinin karşılığıdır.
 
-Yönetmelik firmanın sorumluluktan kurtulabileceği hâlleri de sayar. Tüketicinin kendi kusuru, sözleşmenin ifasına dâhil olmayan bir üçüncü kişinin beklenmedik ve önlenemez davranışı, mücbir sebep ve tüm özene rağmen öngörülemeyen bir olay bunlar arasındadır. Asgari katılım sağlanamadığı için iptal edilen bir turda da, iptal sözleşmede öngörülen sürede ve tur başlamadan en az yirmi gün önce yazılı olarak bildirildiyse firma tazminattan sorumlu tutulamaz. Sözleşmeye konan ve tüketicinin bu haklardan feragat ettiğini gösteren kayıtlar ise geçersizdir.
+Yönetmelik firmanın sorumluluktan kurtulabileceği hâlleri de sayar. Tüketicinin kendi kusuru, sözleşmenin ifasına dâhil olmayan bir üçüncü kişinin beklenmedik ve önlenemez davranışı, mücbir sebep ve tüm özene rağmen öngörülemeyen bir olay bunlar arasındadır. Üçüncü kişinin davranışı, mücbir sebep ya da öngörülemeyen olay hâllerinde de firma ve tur yerindeki temsilcileri, zor durumda kalan tüketiciye hızla yardım etmekle yükümlüdür. Asgari katılım sağlanamadığı için iptal edilen bir turda da, iptal sözleşmede öngörülen sürede ve tur başlamadan en az yirmi gün önce yazılı olarak bildirildiyse firma tazminattan sorumlu tutulamaz. Sözleşmeye konan ve tüketicinin bu haklardan feragat ettiğini gösteren kayıtlar ise geçersizdir.
 
 Uyuşmazlıkta tüketici, uyuşmazlığın parasal değerine göre tüketici hakem heyetine ya da tüketici mahkemesine başvurabilir.

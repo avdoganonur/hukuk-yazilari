@@ -27,7 +27,7 @@ sss:
   - soru: "Bir mağazaya ya da kafeye girmek de suç olabilir mi?"
     cevap: "Herkesin açık bir izin gerekmeksizin girebildiği mağaza, kafe, banka şubesi gibi yerlerin müşteriye açık bölümlerine girmek bu suçu oluşturmaz. Aynı işyerinin depo, ofis ya da personele ayrılmış bölümlerine rızaya aykırı olarak girmek veya buradan çıkmamak ise altı aydan bir yıla kadar hapis ya da adli para cezasını gerektirir."
   - soru: "Şikâyetten vazgeçersem dava düşer mi?"
-    cevap: "Konuta ve işyerine girme ya da çıkmama hâllerinde ceza şikâyet üzerine verilir; şikâyetten vazgeçme davayı düşürür. Bu suç ayrıca uzlaştırma kapsamındadır, taraflar uzlaştırmacı aracılığıyla anlaşabilir."
+    cevap: "Konuta ve işyerine girme ya da çıkmama hâllerinde ceza şikâyet üzerine verilir; şikâyetten vazgeçme davayı düşürür. Cebir, tehdit ya da gece vakti işlenen ağırlaştırılmış hâlde ise kanun metninde şikâyet şartı yer almadığından vazgeçmenin etkisi farklı değerlendirilebilir. Bu suç her hâlükârda uzlaştırma kapsamındadır; taraflar uzlaştırmacı aracılığıyla anlaşabilir."
 ---
 Anayasa'nın 21. maddesi "kimsenin konutuna dokunulamaz" der. Türk Ceza Kanunu da bu hakkı 116. maddede korur: bir başkasının evine izinsiz girmek ya da kendisine "çık" denildiği hâlde çıkmamak suçtur. Komşu kavgaları, ayrılmış eşler, kiracı ile ev sahibi arasındaki anlaşmazlıklar bu suçun en sık konuşulduğu durumlardır.
 

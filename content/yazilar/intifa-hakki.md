@@ -32,6 +32,8 @@ sss:
     cevap: "Hayır. Gerçek kişilerde intifa hakkı, hak sahibinin ölümüyle sona erer. Hak sahibinin mirasçıları bu hakkı devam ettiremez. Taşınmaz maliki, ölüm üzerine tapudaki intifa kaydının terkinini isteyebilir."
   - soru: "Üzerinde intifa hakkı olan bir evi satabilir miyim?"
     cevap: "Malik, mülkiyeti devredebilir. Ancak taşınmazda tapuya tescil edilmiş intifa hakkı herkese karşı ileri sürülebilir. Evi satın alan kişi de intifa hakkına katlanmak zorundadır; hak sahibi ölünceye ya da kararlaştırılan süre bitinceye kadar evden yararlanmaya devam eder."
+  - soru: "Evin maliki olarak intifa hakkı sahibini evden çıkarabilir miyim?"
+    cevap: "Hayır. İntifa hakkı sürdükçe malı zilyetliğinde bulundurma ve kullanma yetkisi hak sahibindedir. Malikin elindeki imkânlar, hukuka aykırı kullanıma itiraz etmek ve haklarının tehlikede olduğunu ispat ederek güvence istemektir. Güvence verilmez ya da itiraza rağmen hukuka aykırı kullanım sürerse sulh hâkimi, yeni bir karara kadar malı bir kayyıma bırakabilir."
   - soru: "İntifa hakkı sahibi evi kiraya verebilir mi?"
     cevap: "İntifa hakkı sahibi malı kullanma ve ondan yararlanma yetkisine sahiptir; kira geliri de bu yararlanmanın içindedir. Sözleşmede aksine hüküm yoksa ya da hakkın şahsen kullanılması gerektiği durumdan anlaşılmıyorsa, hakkın kullanılması başkasına devredilebilir. Bu durumda malik, haklarını devralana karşı doğrudan ileri sürebilir."
 ---

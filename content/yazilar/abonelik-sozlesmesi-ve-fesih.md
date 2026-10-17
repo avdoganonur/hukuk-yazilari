@@ -51,4 +51,8 @@ Elektrik, su, doğal gaz ve elektronik haberleşme (internet, telefon hattı gib
 
 Elektronik haberleşme sektöründe bu kurallara ek olarak sektöre özgü tüketici düzenlemeleri de uygulanır. Diğer sektörlerdeki taahhütlü aboneliklerde ise sözleşmedeki taahhüt koşullarının, tüketiciyi bağlayıp bağlamadığı ayrıca değerlendirilmelidir.
 
+## Faturaya itiraz
+
+Elektrik, su, doğal gaz ve elektronik haberleşme aboneliklerinde tüketici, ödeme bildiriminde yazan tutarın hatalı olduğunu düşünüyorsa, bildirimin düzenlendiği tarihten itibaren bir yıl içinde firmaya itiraz edebilir. Firma itirazı en geç otuz gün içinde inceleyip sonucunu yazılı olarak ya da kalıcı veri saklayıcısıyla bildirmek zorundadır. İtiraz haklı bulunursa fazla alınan tutar, gecikme zammıyla birlikte, tüketicinin tercihine göre bir sonraki faturadan düşülür ya da beş gün içinde iade edilir.
+
 Abonelikle ilgili bir uyuşmazlıkta tüketici, uyuşmazlığın parasal değerine göre tüketici hakem heyetine ya da tüketici mahkemesine başvurabilir. Hakem heyetine başvurunun nasıl yapıldığı ayrı bir yazıda anlatılmıştır.

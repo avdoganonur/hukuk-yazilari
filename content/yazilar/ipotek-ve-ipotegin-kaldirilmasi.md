@@ -25,6 +25,8 @@ dayanak:
     not: "Miktarı belirsiz alacaklar ve rehin derecesi"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 883"
     not: "İpoteğin terkinini isteme; süreli ipotekte otuz gün kuralı"
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 888"
+    not: "İpotekli taşınmazın devri"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 884"
     not: "Borçtan sorumlu olmayan malikin borcu ödeyerek ipoteği kaldırması"
   - ad: "2004 sayılı İcra ve İflas Kanunu m. 45"
@@ -43,6 +45,8 @@ sss:
     cevap: "İpoteğe konu taşınmazın borçluya ait olması gerekmez. Borç ödenmezse alacaklı, ipotekli taşınmazın paraya çevrilmesini isteyebilir ve size de icra ya da ödeme emri gönderilir. Borçtan şahsen sorumlu değilseniz, borcu borçlunun koşullarıyla ödeyerek ipoteğin kaldırılmasını isteyebilirsiniz; bu durumda alacak size geçer ve borçluya başvurabilirsiniz."
   - soru: "Borcu ödeyemezsem ev doğrudan bankanın olur mu?"
     cevap: "Hayır. Kanun, borç ödenmezse rehinli taşınmazın mülkiyetinin alacaklıya geçeceğine ilişkin sözleşme hükmünü geçersiz sayar. Alacaklının hakkı, taşınmazın icra yoluyla satılmasını ve alacağını satış bedelinden almayı istemektir."
+  - soru: "İpotekli bir evi satabilir miyim?"
+    cevap: "Mülkiyet sizde olduğu için taşınmazı satabilirsiniz; ancak ipotek kendiliğinden kalkmaz ve taşınmazla birlikte yeni malike geçer. Aksi kararlaştırılmadıkça ipotekli taşınmazın devri, borçlunun sorumluluğunu ve güvenceyi değiştirmez. Bu yüzden satıştan önce borcun kapatılıp ipoteğin terkin ettirilmesi ya da ipoteğin akıbetinin alıcıyla açıkça kararlaştırılması gerekir."
 ---
 Konut ya da işyeri kredisi çeken neredeyse herkes tapusunda bir gün "ipotek" kaydıyla karşılaşır. İpotek, bir borcun ödenmesini güvenceye almak için taşınmaz üzerinde kurulan bir rehin hakkıdır. Taşınmaz yine malikinde kalır, oturulabilir, kiraya verilebilir. Ancak borç ödenmezse alacaklı, taşınmazı icra yoluyla sattırıp alacağını satış bedelinden alabilir.
 

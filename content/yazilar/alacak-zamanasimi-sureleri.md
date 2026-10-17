@@ -62,7 +62,11 @@ Borçlar Kanunu'nun bu bölümündeki süreler sözleşmeyle değiştirilemez; t
 
 Zamanaşımı, alacağın muaccel olduğu, yani ödenmesinin istenebileceği gün işlemeye başlar. Bir alacağın muaccel olması bir bildirime bağlıysa, süre bu bildirimin yapılabileceği günden başlar.
 
+Ömür boyu gelir gibi dönemsel edimlerde alacağın tamamı için zamanaşımı, ödenmeyen ilk dönemin muaccel olduğu gün başlar. Alacağın tamamı zamanaşımına uğrarsa ödenmemiş dönemsel edimler de zamanaşımına uğramış olur.
+
 Süre hesaplanırken başlangıç günü sayılmaz. Zamanaşımı, sürenin son günü de hak kullanılmadan geçtiğinde dolar.
+
+Bir örnek vermek gerekirse: 15 Mart 2020'de ödenmesi gereken bir satış bedeli için on yıllık süre, başlangıç günü sayılmadan işler ve 15 Mart 2030 günü de hak kullanılmadan geçince dolar. Bu süre içinde borçlu borcu ikrar eder ya da alacaklı takip başlatırsa hesap yeniden yapılır.
 
 Ana alacak zamanaşımına uğrayınca ona bağlı faiz ve diğer alacaklar da zamanaşımına uğrar. Alacak bir taşınır rehniyle güvenceye alınmışsa zamanaşımı yine işler; ancak alacaklının hakkını rehinden alma yetkisi devam eder.
 
@@ -86,10 +90,14 @@ Birincisi borçlunun borcu ikrar etmesidir. Faiz ödemek, borcun bir kısmını 
 
 İkincisi alacaklının harekete geçmesidir. Dava açmak, bir davada def'i yoluyla alacağı ileri sürmek, hakeme başvurmak, icra takibi başlatmak ya da iflas masasına başvurmak zamanaşımını keser.
 
+İflas masasına başvurma sebebiyle kesilen zamanaşımı ise iflas hükümlerine göre alacağın yeniden istenebileceği andan itibaren yeniden işlemeye başlar.
+
 Kesilmeyle yeni bir süre başlar. Borç bir senetle ikrar edilmişse ya da mahkeme veya hakem kararına bağlanmışsa yeni süre her zaman on yıldır. Dava yoluyla kesilen zamanaşımı, dava sürerken tarafların her işleminden ya da hâkimin her kararından sonra yeniden işlemeye başlar. İcra takibiyle kesilen zamanaşımı da takibe ilişkin her işlemden sonra yeniden işler. Bu yüzden uzun süre hareketsiz kalan bir dava ya da icra dosyası alacaklıyı riske sokabilir.
 
 Zamanaşımı müteselsil borçlulardan birine karşı kesilirse diğerlerine karşı da kesilmiş olur. Asıl borçluya karşı kesilmesi kefile karşı da sonuç doğurur; kefile karşı kesilmesi ise asıl borçluyu etkilemez.
 
 Dava, mahkemenin yetkisiz veya görevsiz olması, düzeltilebilir bir yanlışlık ya da erken açılması nedeniyle reddedilmiş ve bu arada süre dolmuşsa, alacaklı altmış günlük ek süre içinde hakkını yeniden kullanabilir.
 
-Son olarak, zamanaşımından önceden vazgeçilemez ve hâkim zamanaşımını kendiliğinden dikkate alamaz. Borçlunun bunu açıkça ileri sürmesi gerekir.
+Zamanaşımından önceden vazgeçilemez. Müteselsil borçlulardan birinin vazgeçmesi diğerlerini bağlamaz; asıl borçlunun vazgeçmesi de kefile karşı ileri sürülemez. Hâkim zamanaşımını kendiliğinden dikkate alamaz, borçlunun bunu açıkça ileri sürmesi gerekir.
+
+Zamanaşımı dolduktan sonra borcu ödeyen kişi, ödediğini sebepsiz zenginleşme hükümlerine dayanarak geri isteyemez. Zamanaşımı borcu söndürmediği için ödeme geçerli bir ödeme sayılır.

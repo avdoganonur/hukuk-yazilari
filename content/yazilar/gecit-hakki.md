@@ -13,6 +13,8 @@ dayanak:
     not: "Taşınmaz lehine irtifak hakkının tanımı"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 780–781"
     not: "İrtifakın tescil ve resmî sözleşmeyle kurulması"
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 783–784"
+    not: "İrtifakın terkin ile sona ermesi; iki taşınmazın aynı malikte birleşmesi"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 785"
     not: "Yararı kalmayan irtifakın mahkeme kararıyla terkini"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 786"
@@ -23,9 +25,11 @@ dayanak:
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 12"
     not: "Taşınmazın bulunduğu yer mahkemesinin yetkisi; irtifak davaları"
   - ad: "6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu m. 18/B"
-    not: "Komşu hakkından kaynaklanan uyuşmazlıklarda dava şartı arabuluculuk"
+    not: "Komşu hakkından kaynaklanan uyuşmazlıklarda dava şartı arabuluculuk; taşınmaza ilişkin anlaşma belgesi"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6325&MevzuatTur=1&MevzuatTertip=5"
 sss:
+  - soru: "Komşumla anlaşırsak mahkemeye gitmeden geçit kurulabilir mi?"
+    cevap: "Evet. İrtifak hakkı, tapuda resmî şekilde yapılan sözleşme ve tapu kütüğüne tescil ile kurulabilir. Arabuluculukta anlaşma sağlanırsa, taşınmazla ilgili anlaşma belgesi kanundaki sınırlamalar gözetilerek düzenlenir ve bu belgenin icra edilebilirlik şerhinin taşınmazın bulunduğu yer sulh hukuk mahkemesinden alınması zorunludur."
   - soru: "Arsama dar bir patika ile ulaşabiliyorum. Yine de geçit isteyebilir miyim?"
     cevap: "Kanun, genel yola çıkmak için yeterli geçidi bulunmayan malike bu hakkı tanır. Bu yüzden bir yolun var olması tek başına yetmez; o yolun taşınmazın kullanımı için yeterli olup olmadığına bakılır. Yeterlilik, taşınmazın niteliğine ve kullanım amacına göre somut olarak değerlendirilir ve çoğu zaman yerinde yapılan keşifle belirlenir."
   - soru: "Kiracı olarak zorunlu geçit davası açabilir miyim?"
@@ -57,7 +61,7 @@ Kanun ayrıca zorunlu geçidin iki tarafın menfaati gözetilerek belirleneceği
 
 ## Dava süreci
 
-Komşu geçit vermeye razı olmazsa malik, zorunlu geçit kurulması için dava açabilir. Görevli mahkeme asliye hukuk mahkemesidir. İrtifak haklarına ilişkin davalar, üzerinde irtifak kurulacak taşınmazın bulunduğu yer mahkemesinde açılır.
+Komşu geçit vermeye razı olmazsa malik, zorunlu geçit kurulması için dava açabilir. Görevli mahkeme asliye hukuk mahkemesidir. İrtifak haklarına ilişkin davalar, üzerinde irtifak kurulacak taşınmazın bulunduğu yer mahkemesinde açılır. Dava birden fazla taşınmazı ilgilendiriyorsa, taşınmazlardan birinin bulunduğu yerde diğerleri hakkında da açılabilir.
 
 Kanun zorunlu geçidi "komşu hakkı" başlığı altında düzenler. 2023 yılında Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'na eklenen hükümle, komşu hakkından kaynaklanan uyuşmazlıklarda dava açmadan önce arabulucuya başvurmak dava şartı hâline geldi. Bu nedenle mahkemeye gitmeden önce arabuluculuk aşamasından geçmek gerekir. Arabuluculukta anlaşma sağlanırsa geçidin yeri ve bedeli de bu anlaşmada belirlenebilir.
 
@@ -67,6 +71,8 @@ Davada en önemli delil, yerinde yapılan keşiftir. Mahkeme genellikle bilirki�
 
 Zorunlu geçit dışında kalan bazı geçitler kanunda ayrıca düzenlenir. Bir taşınmazı işletmek, iyileştirmek ya da üzerinde yapı yapmak için komşu taşınmaza geçici olarak girme hakkı ile tarla yolu, hayvan sulama yolu, kış geçidi, tomruk kaydırma yolu gibi geçitler özel kanun hükümlerine tabidir; özel hüküm yoksa yerel âdet uygulanır. Doğrudan kanundan doğan bu geçitler tapuya tescil edilmeden doğar, sürekli olanlar ise tapunun beyanlar hanesinde gösterilir.
 
-Zorunlu geçit kalıcı olmak zorunda değildir. Lehine geçit kurulan taşınmaz için bu hakkın sağladığı hiçbir yarar kalmamışsa, yüklü taşınmazın maliki geçidin terkinini, yani tapudan silinmesini isteyebilir. Yolsuz taşınmazın önünden sonradan imar yolu geçmesi bunun en sık görülen örneğidir. Geçit, yüküne göre çok az yarar sağlıyorsa bedel karşılığında kısmen veya tamamen terkin de istenebilir.
+Zorunlu geçit kalıcı olmak zorunda değildir. Lehine geçit kurulan taşınmaz için bu hakkın sağladığı hiçbir yarar kalmamışsa, yüklü taşınmazın maliki geçidin terkinini, yani tapudan silinmesini isteyebilir. Yolsuz taşınmazın önünden sonradan yeni bir yol açılması buna örnektir. Geçit, yüküne göre çok az yarar sağlıyorsa bedel karşılığında kısmen veya tamamen terkin de istenebilir.
+
+Geçit hakkı tapu kaydı terkin edilinceye ya da taşınmazlardan biri tamamen yok oluncaya kadar sürer. Yolsuz taşınmaz ile geçidin üzerinden geçtiği taşınmaz sonradan aynı kişinin mülkiyetine geçerse, bu kişi geçit kaydını terkin ettirebilir; terkin ettirmedikçe hak tapuda varlığını korur. Bu ayrıntı, iki parseli birlikte satın alıp sonra birini satmayı düşünen biri için önemlidir: kayıt silinmişse ileride yeniden geçit istemek gerekebilir.
 
 Komşunun yolu kapatması ya da geçidi kullandırmaması ise ayrı bir sorundur. Tescil edilmiş bir geçit hakkına müdahale eden komşuya karşı müdahalenin önlenmesi istenebilir. Bu konudaki genel kurallar, mülkiyete el atmanın önlenmesi davasıyla ilgili yazıda ele alınmaktadır.

@@ -23,17 +23,19 @@ dayanak:
     not: "Asliye hukuk mahkemesinin genel görevi"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 4"
-    not: "Yalnızca zilyetliğin korunmasına yönelik davalarda sulh hukuk mahkemesinin görevi"
+    not: "Kira ilişkisinden doğan ve yalnızca zilyetliğin korunmasına yönelik davalarda sulh hukuk mahkemesinin görevi"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 12"
     not: "Taşınmazın bulunduğu yer mahkemesinin kesin yetkisi"
   - ad: "6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu m. 18/B"
-    not: "Kat mülkiyeti ve komşu hakkı uyuşmazlıklarında dava şartı arabuluculuk"
+    not: "Kira, kat mülkiyeti ve komşu hakkı uyuşmazlıklarında dava şartı arabuluculuk"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6325&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Komşum yıllardır tarlamın bir kısmını ekiyor. Zamanla orası onun olur mu?"
     cevap: "Tapuda adınıza kayıtlı bir taşınmazda bu yolla mülkiyet kazanılamaz. Kanun, yirmi yıllık zilyetliğe dayanan olağanüstü zamanaşımını tapuda kayıtlı olmayan taşınmazlar ile maliki tapudan anlaşılamayan ya da gaipliğine karar verilmiş kişi adına kayıtlı taşınmazlar için tanır. Bu nedenle uzun süre geçmiş olması, tapulu taşınmazın malikinin el atmanın önlenmesini istemesine engel değildir."
   - soru: "Arsama izinsiz duvar ören komşunun duvarını kendim yıkabilir miyim?"
     cevap: "Kanun zilyede, saldırıyı kuvvet kullanarak defetme ve taşınmaza el koyanı kovma imkânı tanır; ancak durumun haklı göstermediği derecede kuvvet kullanmaktan kaçınmak zorunludur. Saldırı anında olmayan, sonradan yapılmış bir duvarı kendi başınıza yıkmak sizi hukuki ve cezai sorumlulukla karşı karşıya bırakabilir. Güvenli yol, duvarın kaldırılmasını mahkemeden istemektir."
+  - soru: "Kiracım kirayı ödemiyor ve evden çıkmıyor. El atmanın önlenmesi davası açabilir miyim?"
+    cevap: "Aranızda bir kira sözleşmesi varsa uyuşmazlık kira ilişkisinden doğar ve kira hukukunun tahliye yollarıyla çözülür. Kira ilişkisinden doğan davalara, değerine bakılmaksızın sulh hukuk mahkemesi bakar ve bu uyuşmazlıklarda, ilamsız icra yoluyla tahliye hariç, dava açmadan önce arabulucuya başvurmak dava şartıdır."
   - soru: "Zilyetlik davası mı açmalıyım, el atmanın önlenmesi davası mı?"
     cevap: "Zilyetlik davası, mülkiyet tartışmasına girmeden fiilî durumu korur; ancak fiilin ve failin öğrenilmesinden itibaren iki ay ve her hâlde fiilin üzerinden bir yıl içinde açılmalıdır ve sulh hukuk mahkemesinde görülür. Bu süreler geçmişse ya da mülkiyet tartışması da çözülmek isteniyorsa malik, mülkiyetine dayanarak asliye hukuk mahkemesinde el atmanın önlenmesi davası açar. Kiracı gibi malik olmayan zilyet ise yalnızca zilyetlik davalarına başvurabilir."
 ---
@@ -45,7 +47,7 @@ Türk Medeni Kanunu'nun 683. maddesine göre malik, hukuk düzeninin sınırlar�
 
 Davayı açabilecek kişi maliktir. Malik olduğunuzu göstermenin en kolay yolu tapu kaydıdır.
 
-El atma çok farklı biçimlerde ortaya çıkabilir: taşınmaza yapı ya da duvar yapmak, ekip biçmek, yol olarak kullanmak, eşya ya da malzeme yığmak, kapıyı kilitleyip malikin girmesini engellemek. Bunların ortak noktası, malikin hakkını kullanmasının haksız biçimde engellenmesidir. Davada el atmanın sona ermesi için gerekenin yapılması, örneğin taşınmaz üzerine yapılan duvarın ya da yapının kaldırılması da istenebilir.
+El atma çok farklı biçimlerde ortaya çıkabilir: taşınmaza yapı ya da duvar yapmak, ekip biçmek, yol olarak kullanmak, eşya ya da malzeme yığmak, kapıyı kilitleyip malikin girmesini engellemek. Bunların ortak noktası, malikin hakkını kullanmasının haksız biçimde engellenmesidir. Boş bir daireye ya da eve başkasının yerleşmesi gibi malın fiilen malikin elinden çıktığı durumlarda malik, malın geri verilmesini istihkak davasıyla, devam eden müdahalenin sona erdirilmesini de el atmanın önlenmesi istemiyle ileri sürebilir. Davada el atmanın sona ermesi için gerekenin yapılması, örneğin taşınmaz üzerine yapılan duvarın ya da yapının kaldırılması da istenebilir.
 
 ## Yalnız zilyetliğin korunması: kısa süreli bir yol
 
@@ -61,7 +63,7 @@ Zilyede kendi gücüyle savunma hakkı da tanınmıştır. Zilyet, her türlü g
 
 Mülkiyete dayanan el atmanın önlenmesi davasında görevli mahkeme asliye hukuk mahkemesidir. Taşınmaz üzerindeki ayni haklara ve zilyetliğe ilişkin davalarda taşınmazın bulunduğu yer mahkemesi kesin yetkilidir. Davalı başka bir şehirde otursa bile dava, taşınmazın bulunduğu yerdeki mahkemede açılır.
 
-Uyuşmazlık Kat Mülkiyeti Kanunu'ndan ya da komşu hakkından kaynaklanıyorsa dava açmadan önce arabulucuya başvurmak dava şartıdır. Örneğin aynı apartmandaki bir kat malikinin ortak alanı işgal etmesi ya da komşunun taşınmazı kullanırken ölçüyü aşan biçimde taşkınlık yapması bu kapsamda değerlendirilebilir. Kanun, herkesin taşınmaz mülkiyetinden doğan yetkilerini kullanırken komşularını olumsuz etkileyecek taşkınlıktan kaçınmasını ister.
+Uyuşmazlık Kat Mülkiyeti Kanunu'ndan ya da komşu hakkından kaynaklanıyorsa dava açmadan önce arabulucuya başvurmak dava şartıdır. Örneğin aynı apartmandaki bir kat malikinin ortak alanı işgal etmesi ya da komşunun taşınmazı kullanırken ölçüyü aşan biçimde taşkınlık yapması bu kapsamda değerlendirilebilir. Kanun, herkesin taşınmaz mülkiyetinden doğan yetkilerini kullanırken komşularını olumsuz etkileyecek taşkınlıktan kaçınmasını ister. Hoş görülebilecek dereceyi aşan duman, toz, koku, gürültü veya sarsıntıyla rahatsızlık vermek bunun tipik örnekleridir; bu konu komşuluk hukukuna ilişkin yazıda ayrıca ele alınmaktadır.
 
 El atmanın taşınmazın tam olarak hangi bölümüne yapıldığı çoğu zaman yerinde yapılan keşifle ve bilirkişi yardımıyla belirlenir. Bu yüzden tapu kaydını, kadastro paftasını, müdahaleyi gösteren fotoğrafları ve tanık bilgilerini dava öncesinde bir araya getirmek işe yarar. Müdahalenin ne zaman başladığını gösteren bilgiler de önemlidir; zilyetlik davasının kısa süreleri bu tarihe göre hesaplanır.
 

@@ -6,6 +6,8 @@ alan: aile-hukuku
 dayanak:
   - ad: "4721 sayılı Türk Medeni Kanunu m. 11"
     not: "Erginlik ve evlenmenin kişiyi ergin kılması"
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 10"
+    not: "Fiil ehliyeti"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 124"
     not: "Evlenme yaşı ve hâkim izni"
@@ -19,8 +21,18 @@ dayanak:
     not: "İzin vermeyen yasal temsilciye karşı mahkemeye başvurma"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 145"
     not: "Mutlak butlan sebepleri"
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 136"
+    not: "Evlenme başvurusunda yasal temsilcinin yazılı izin belgesi"
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 137"
+    not: "Evlendirme memurunun başvuruyu reddi"
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 138"
+    not: "Ret kararına itiraz"
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 148"
+    not: "Geçici ayırt etme gücü yokluğunda iptal"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 153"
     not: "İzin alınmadan yapılan evlenmede yasal temsilcinin iptal davası"
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 335"
+    not: "Ergin olmayan çocuğun velayet altında olması"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 382"
     not: "Evlenme izni ve evlendirme memurunun ret kararına itirazın çekişmesiz yargı işi olması"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
@@ -45,11 +57,11 @@ Kanuna göre erkek veya kadın on yedi yaşını doldurmadıkça evlenemez (TMK 
 
 Yaş, nüfus kaydındaki doğum tarihine göre hesaplanır. Doğum tarihi gerçeği yansıtmıyorsa bu ancak yaş düzeltme davasıyla değiştirilebilir; bu ayrı bir konudur.
 
-Yaş şartının yanında evlenecek kişinin ayırt etme gücüne sahip olması da gerekir (m. 125). Ayırt etme gücü, kişinin evlenmenin anlamını ve sonuçlarını kavrayabilmesidir. Bu şart yaştan bağımsızdır ve her evlilikte aranır.
+Yaş şartının yanında evlenecek kişinin ayırt etme gücüne sahip olması da gerekir (m. 125). Ayırt etme gücü, kişinin evlenmenin anlamını ve sonuçlarını kavrayabilmesidir. Bu şart yaştan bağımsızdır ve her evlilikte aranır. Evlenme sırasında sürekli bir sebeple ayırt etme gücünden yoksun olan kişinin evliliği mutlak butlanla batıldır (m. 145); yoksunluk geçici bir sebepten kaynaklanıyorsa o eş evlenmenin iptalini dava edebilir (m. 148).
 
 ## On yedi ile on sekiz yaş arası: yasal temsilci izni
 
-Küçük, yasal temsilcisinin izni olmadıkça evlenemez (m. 126). Yasal temsilci çoğu zaman velayet hakkına sahip ana ve babadır; çocuk vesayet altındaysa vasidir. Bu dönemde mahkemenin izin vermesine gerek yoktur; yasal temsilcinin izni yeterlidir.
+Küçük, yasal temsilcisinin izni olmadıkça evlenemez (m. 126). Yasal temsilci çoğu zaman velayet hakkına sahip ana ve babadır; çocuk vesayet altındaysa vasidir. Bu dönemde mahkemenin izin vermesine gerek yoktur; yasal temsilcinin izni yeterlidir. İzin sözlü olarak verilemez. Küçük, evlenme başvurusunda evlendirme memurluğuna yasal temsilcisinin imzası onaylanmış yazılı izin belgesini vermek zorundadır (m. 136).
 
 Aynı kural kısıtlılar için de geçerlidir. Hakkında vesayet kararı verilmiş kişi, yaşı kaç olursa olsun, yasal temsilcisinin izni olmadan evlenemez (m. 127).
 
@@ -57,7 +69,7 @@ Yasal temsilci her zaman izin vermeyebilir. Kanun bu durumda bir çıkış yolu 
 
 ## On altı yaş: hâkim izniyle evlenme
 
-On altı yaşını doldurmuş ama on yedisine girmemiş kişi, kural olarak evlenemez. Kanun bu kurala dar bir istisna tanır. Hâkim, olağanüstü durumlarda ve pek önemli bir sebeple on altı yaşını doldurmuş erkek veya kadının evlenmesine izin verebilir. Olanak bulundukça hâkim, kararından önce ana ve babayı veya vasiyi dinler (m. 124).
+On altı yaşını doldurmuş ama on yedisine girmemiş kişi, kural olarak evlenemez. Kanun bu kurala dar bir istisna tanır. Hâkim, olağanüstü durumlarda ve pek önemli bir sebeple on altı yaşını doldurmuş erkek veya kadının evlenmesine izin verebilir. Olanak bulundukça hâkim, kararından önce ana ve babayı veya vasiyi dinler (m. 124). Kanun "olanak bulundukça" ifadesini kullandığı için bu dinleme, ancak mümkün olmadığı durumlarda atlanabilir.
 
 Kanunun aradığı şartlar ağırdır. "Olağanüstü durum" ve "pek önemli sebep" ifadeleri birlikte kullanılmıştır; yani yalnızca ailenin rızası ya da tarafların istekli olması izin için yeterli değildir. Hâkim her başvuruyu kendi koşulları içinde değerlendirir ve izin vermek zorunda değildir.
 
@@ -67,16 +79,16 @@ On altı yaşını doldurmamış kişinin evlenmesine ise kanun hiçbir koşulda
 
 ## Başvuru nereye ve nasıl yapılır
 
-Henüz evlenme yaşında olmayanların evlenmesine izin verilmesi, kanunda çekişmesiz yargı işleri arasında sayılmıştır (HMK m. 382). Çekişmesiz yargı, taraflar arasında bir uyuşmazlık bulunmadan mahkemenin bir işlemi yaptığı ya da bir izni verdiği yargılama türüdür. Bu işlere aile mahkemesi bakar (4787 sayılı Kanun m. 4).
+Henüz evlenme yaşında olmayanların evlenmesine izin verilmesi, kanunda çekişmesiz yargı işleri arasında sayılmıştır (HMK m. 382). Çekişmesiz yargı, taraflar arasında bir uyuşmazlık bulunmadan mahkemenin bir işlemi yaptığı ya da bir izni verdiği yargılama türüdür. Kanun bu yargı türünü; ilgililer arasında uyuşmazlık olmayan, ilgililerin ileri sürebileceği bir hakkın bulunmadığı ya da hâkimin kendiliğinden harekete geçtiği hâller olarak tanımlar. Bu işlere aile mahkemesi bakar (4787 sayılı Kanun m. 4).
 
 Yasal temsilcinin izin vermemesi üzerine yapılan başvuru da aile mahkemesine yapılır. Bu başvuruda yasal temsilci dinlenir ve izin vermemesinin haklı bir sebebe dayanıp dayanmadığı araştırılır.
 
-Evlendirme memuru evlenme başvurusunu reddederse, bu ret kararına karşı yapılan itiraz da çekişmesiz yargı işidir ve mahkemece incelenir (HMK m. 382).
+Evlendirme memuru, evleneceklerden birinin evlenmeye ehil olmadığını ya da evlenmeye yasal bir engel bulunduğunu görürse başvuruyu reddeder ve durumu evleneceklere hemen yazıyla bildirir (TMK m. 137). Evleneceklerden her biri bu ret kararına karşı mahkemeye başvurabilir. İtiraz evrak üzerinde incelenir ve kesin karara bağlanır (TMK m. 138). Bu itiraz da çekişmesiz yargı işleri arasında sayılmıştır (HMK m. 382).
 
 ## İzin alınmadan yapılan evliliğin sonucu
 
-Yasal temsilcisinin izni olmadan evlenen küçük veya kısıtlının evliliği kendiliğinden geçersiz değildir. Kanun bu durumda, izni alınmayan yasal temsilciye evlenmenin iptalini dava etme hakkı tanır. Evlenen kişi sonradan on sekiz yaşını doldurur, kısıtlılıktan kurtulur ya da kadın gebe kalırsa artık iptale karar verilemez (m. 153).
+Yasal temsilcisinin izni olmadan evlenen küçük veya kısıtlının evliliği kendiliğinden geçersiz değildir. Kanun bu durumda, izni alınmayan yasal temsilciye evlenmenin iptalini dava etme hakkı tanır; bu sebebe dayanan iptal hakkı yasal temsilciye aittir. Evlenen kişi sonradan on sekiz yaşını doldurur, kısıtlılıktan kurtulur ya da kadın gebe kalırsa artık iptale karar verilemez (m. 153).
 
 Evlenme yaşına ilişkin kural, mutlak butlan sebepleri arasında sayılmamıştır (m. 145). Kanunda bu sebepler sınırlı olarak gösterilir ve yaş şartı bunlar arasında yer almaz. Butlanın ayrıntıları ayrı bir yazının konusudur.
 
-Evlenmenin önemli bir sonucu da erginliktir. Evlenme kişiyi ergin kılar (m. 11). On sekiz yaşından önce evlenen kişi, evlendiği andan itibaren ergin sayılır ve kural olarak hukuki işlemlerini tek başına yapabilir.
+Evlenmenin önemli bir sonucu da erginliktir. Evlenme kişiyi ergin kılar (m. 11). On sekiz yaşından önce evlenen kişi, evlendiği andan itibaren ergin sayılır. Ayırt etme gücüne sahip ve kısıtlı olmayan her ergin kişinin fiil ehliyeti olduğundan (m. 10), bu kişi hukuki işlemlerini artık tek başına yapabilir. Velayet ise ergin olmayan çocuklar için söz konusu olduğundan (m. 335), evlenen küçük üzerindeki ana ve baba velayeti de sona erer.

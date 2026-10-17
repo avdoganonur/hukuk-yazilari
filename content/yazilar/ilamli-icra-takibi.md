@@ -66,6 +66,10 @@ Bunun istisnaları kanunda sayılmıştır. Kişiler hukuku, aile hukuku ve taş
 
 Taşınır teslimi ve taşınmaz tahliyesine ilişkin ilamlarda da borçluya yedi günlük süre verilir. Süresinde teslim edilmeyen taşınır zorla alınır; bulunamazsa ilamda yazılı değeri tahsil edilir. Tahliye kararında borçlu taşınmazı boşaltmazsa tahliye zorla yapılır; teslimden sonra haklı bir sebep olmadan geri giren borçlu, yeni bir karara gerek kalmadan yeniden çıkarılır. Bir işin yapılmasına ilişkin kararlarda iş, gerekirse masrafı borçludan alınmak üzere başkasına yaptırılır.
 
+Bir işin yapılmamasına ilişkin kararlarda borçluya, karara aykırı davranmanın kanundaki cezayı gerektireceği ihtar edilir. Karar bir kez yerine getirildikten sonra borçlu onu ortadan kaldıracak bir davranışta bulunursa, örneğin kaldırılan bir engeli yeniden yaparsa, yeni bir dava açmaya gerek kalmadan karar tekrar zorla uygulanır.
+
+Tahliye sırasında taşınmazda bulunan ve karara dahil olmayan eşya çıkarılarak borçluya teslim edilir. Borçlu ya da ailesinden reşit biri hazır değilse eşya masrafı alacaklıdan peşin alınarak güvenli bir yerde saklatılır.
+
 Süre dolduğu hâlde ödeme yapmayan borçlunun malları haczedilebilir.
 
 ## Borçlunun başvurabileceği yollar
@@ -74,7 +78,9 @@ Süre dolduğu hâlde ödeme yapmayan borçlunun malları haczedilebilir.
 
 Birincisi, icranın geri bırakılması istemidir. Borçlu icra emrinin tebliğinden itibaren yedi gün içinde icra mahkemesine başvurup borcun ödendiğini (itfa), alacaklının süre verdiğini (imhal) ya da zamanaşımına uğradığını ileri sürebilir. Ödeme ve süre iddiası; resmî makamlarca düzenlenmiş ya da usulüne göre onaylanmış, yahut icra dairesinde veya mahkeme önünde kabul edilmiş bir belgeyle ispatlanırsa icra geri bırakılır. İcra emrinden sonra gerçekleşen ödeme, süre ya da zamanaşımı her zaman ileri sürülebilir; ancak ödeme ve süre iddiaları bu durumda noterce düzenlenmiş veya onaylanmış belgeye ya da icra tutanağına dayanmalıdır.
 
-İkincisi, kanun yolu sürecinde icranın durdurulmasıdır. Karara karşı istinafa ya da temyize giden borçlu, hükmolunan parayı resmî bir yere depo ederse veya icra mahkemesinin kabul edeceği taşınır ya da taşınmaz rehni, kıymetli evrak veya geçerli bir banka teminatı gösterirse icra müdürü ona, icra mahkemesinden geri bırakma kararı alması için uygun bir süre verir. Borçlunun yeterli malı haczedilmişse de bu süre verilir. Devlet ve adli yardımdan yararlanan kişi teminat göstermek zorunda değildir.
+İcra mahkemesi geri bırakma istemini reddederse borçlu bu karara karşı ancak alacağı karşılayacak bir teminat göstererek kanun yoluna başvurabilir. Borçlu olmadığı bir parayı ödemek zorunda kalan borçlunun istirdat davasıyla parayı geri isteme hakkı saklıdır.
+
+İkincisi, kanun yolu sürecinde icranın durdurulmasıdır. Karara karşı istinafa ya da temyize giden borçlu, hükmolunan parayı resmî bir yere depo ederse veya icra mahkemesinin kabul edeceği taşınır ya da taşınmaz rehni, kıymetli evrak veya geçerli bir banka teminatı gösterirse icra müdürü ona, icra mahkemesinden geri bırakma kararı alması için uygun bir süre verir. Borçlunun yeterli malı haczedilmişse de bu süre verilir. Devlet ve adli yardımdan yararlanan kişi teminat göstermek zorunda değildir. Bölge adliye mahkemesi başvuruyu kesin olarak esastan reddeder ya da Yargıtay kararı onarsa teminat olarak yatırılan para, alacaklının istemiyle başka bir işleme gerek kalmadan ona ödenir. İlam alacaklısının teminat üzerinde öncelik hakkı vardır.
 
 Üçüncüsü, kararın üst mahkemece kaldırılması ya da bozulmasıdır. Bu durumda icra işlemleri olduğu yerde durur. Karar icra edildikten sonra bölge adliye mahkemesince kaldırılır ya da Yargıtayca bozulur ve borçlunun hiç ya da o kadar borcu olmadığı kesin bir kararla ortaya çıkarsa, ayrıca dava açmaya gerek kalmadan icra tamamen veya kısmen eski hâline getirilir. İyi niyetli üçüncü kişilerin kazandığı haklar bundan etkilenmez.
 
