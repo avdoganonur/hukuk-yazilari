@@ -55,7 +55,7 @@ Prime esas kazancın alt sınırı her dönem yeniden belirlenir. Alt sınır de
 
 ## Rapor süresince iş sözleşmesi ne olur?
 
-Raporlu işçi devamsız sayılmaz; işe gelmemesinin haklı bir sebebi vardır. İş Kanunu bu dönemde işverenin ücret ödeme yükümlülüğünü kaldırır: 25. maddenin son cümlesine göre işçinin iş sözleşmesinin askıda kalması nedeniyle işine gidemediği süreler için ücret işlemez. İşçinin bu dönemdeki geliri SGK ödeneğidir.
+Raporlu işçi devamsız sayılmaz; işe gelmemesinin haklı bir sebebi vardır. İş Kanunu bu dönemde işverenin ücret ödeme yükümlülüğünü kaldırır: 25. maddenin (I) numaralı bendinin son cümlesine göre işçinin iş sözleşmesinin askıda kalması nedeniyle işine gidemediği süreler için ücret işlemez. İşçinin bu dönemdeki geliri SGK ödeneğidir.
 
 İşverenin sağlık sebebiyle sözleşmeyi hemen sona erdirmesi ise sınırlıdır. Kanun, işçinin kendi kastından, düzensiz yaşayışından ya da içkiye düşkünlüğünden doğan hastalıklarla diğer hastalıkları birbirinden ayırır.
 

@@ -77,7 +77,7 @@ indirilir. Kovuşturma, iddianamenin mahkemece kabul edilmesiyle başlayan evred
 
 Basit dolandırıcılık (m. 157), Ceza Muhakemesi Kanunu'nun 253. maddesine göre uzlaştırma kapsamındadır; yani savcılık önce fail ile mağdurun bir uzlaştırmacı aracılığıyla anlaşmasını dener. Nitelikli dolandırıcılık bu kapsamda değildir. Uzlaştırmanın işleyişi ayrı bir yazının konusu.
 
-Suç ayrılık kararı bulunmayan eşin, üstsoy veya altsoyun ya da aynı konutta yaşayan kardeşin zararına işlenmişse ilgili akraba hakkında cezaya hükmolunmaz; daha uzak bazı akrabalık ilişkilerinde ise ceza şikâyet üzerine yarı oranında indirilir (m. 167).
+Suç ayrılık kararı bulunmayan eşin, üstsoy veya altsoyun ya da aynı konutta yaşayan kardeşin zararına işlenmişse ilgili akraba hakkında cezaya hükmolunmaz; ayrılık kararı verilmiş eş, aynı konutta yaşamayan kardeş ve aynı konutta yaşayan bazı diğer akrabalar bakımından ise ceza şikâyet üzerine yarı oranında indirilir (m. 167).
 
 ## Dolandırıldığınızı düşünüyorsanız
 

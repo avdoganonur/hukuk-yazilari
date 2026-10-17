@@ -34,7 +34,7 @@ sss:
   - soru: "Babamın parasını izinsiz aldım, hakkımda dava açılır mı?"
     cevap: "Hırsızlık üstsoyun, yani anne, baba, büyükanne ve büyükbabanın zararına işlenmişse ilgili akraba hakkında cezaya hükmolunmaz. Aynı kural ayrılık kararı bulunmayan eş, altsoy, üstsoy ve altsoy derecesindeki kayın hısımları, evlat edinen ile evlatlık ve aynı evde yaşayan kardeşler için de geçerlidir. Bu kural yağma için uygulanmaz."
   - soru: "Arabayı gezmek için alıp geri bıraktım, bu da hırsızlık mı?"
-    cevap: "Malın geçici olarak kullanılıp sahibine iade edilmek üzere alınması kullanma hırsızlığıdır. Bu durumda soruşturma şikâyete bağlıdır ve ceza yarısına kadar indirilir. Mal suç işlemek için kullanılmışsa bu indirim uygulanmaz."
+    cevap: "Malın geçici olarak kullanılıp zilyedine iade edilmek üzere alınması kullanma hırsızlığıdır. Bu durumda soruşturma şikâyete bağlıdır ve ceza yarısına kadar indirilir. Mal suç işlemek için kullanılmışsa bu indirim uygulanmaz."
   - soru: "Hırsızlık şikâyetten vazgeçilince düşer mi?"
     cevap: "Hırsızlığın temel hâli ve nitelikli hâlleri şikâyete bağlı değildir; şikâyetten vazgeçmek tek başına soruşturmayı ya da davayı bitirmez. Şikâyete bağlı olanlar, paydaş malı veya alacak tahsili amacıyla işlenen hırsızlık ile kullanma hırsızlığıdır. Temel hâl ise uzlaştırma kapsamında olduğundan taraflar uzlaştırmacı aracılığıyla anlaşabilir."
 ---
@@ -80,7 +80,7 @@ Paydaş veya elbirliğiyle malik olunan mal üzerinde ya da bir hukuki ilişkiye
 
 Çalınan malın değeri azsa hâkim cezada indirim yapabilir. Suçun işleniş şekli ve özellikleri de dikkate alınarak ceza vermekten tamamen vazgeçilebilir (m. 145). Kanun "az değer" için bir rakam belirlemez; her olayda ayrıca değerlendirilir.
 
-Mal geçici bir süre kullanılıp sahibine iade edilmek üzere alınmışsa, buna kullanma hırsızlığı denir. Bu hâlde ceza şikâyet üzerine yarısına kadar indirilir; mal suç işlemek için kullanılmışsa indirim yapılmaz (m. 146).
+Mal geçici bir süre kullanılıp zilyedine iade edilmek üzere alınmışsa, buna kullanma hırsızlığı denir. Bu hâlde ceza şikâyet üzerine yarısına kadar indirilir; mal suç işlemek için kullanılmışsa indirim yapılmaz (m. 146).
 
 Hırsızlık ağır ve acil bir ihtiyacı karşılamak için işlenmişse, olayın özelliğine göre cezada indirim yapılabilir ya da ceza vermekten vazgeçilebilir (m. 147).
 
