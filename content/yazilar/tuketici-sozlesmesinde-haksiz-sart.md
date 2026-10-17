@@ -44,7 +44,7 @@ Uygulamada en önemli nokta, şartın müzakere edilip edilmediğidir. Kanun bun
 
 İspat yükü de tüketiciden alınmıştır. Sözleşmeyi hazırlayan taraf, bir standart şartın ayrıca ve tek tek müzakere edildiğini ileri sürüyorsa bunu kendisi ispatlamak zorundadır. Sözleşmenin imzalanmış olması tek başına şartın müzakere edildiğini göstermez; ölçüt, tüketicinin şartın içeriğini etkileyip etkileyemediğidir.
 
-Sözleşmenin bütününe bakıldığında standart sözleşme olduğu anlaşılıyorsa, bazı şartların ya da birkaç unsurun pazarlıkla belirlenmiş olması da sonucu değiştirmez. Kalan şartlar için haksız şart denetimi yine yapılır. Kanun bu kuralları, faaliyetini kanunla ya da yetkili makamların verdiği izinle yürüten kişi ve kuruluşların hazırladığı sözleşmelere de niteliklerine bakılmaksızın uygular. Bir kuruluşun faaliyet izni almış olması, hazırladığı sözleşmedeki şartları haksız şart denetiminin dışına çıkarmaz.
+Sözleşmenin bütününe bakıldığında standart sözleşme olduğu anlaşılıyorsa, bazı şartların ya da birkaç unsurun pazarlıkla belirlenmiş olması da sonucu değiştirmez. Sözleşmenin kalan kısmı için haksız şart denetimi yine yapılır; birkaç maddenin pazarlıkla belirlenmiş olması bütün sözleşmeyi bu korumanın dışına çıkarmaz. Kanun bu kuralları, faaliyetini kanunla ya da yetkili makamların verdiği izinle yürüten kişi ve kuruluşların hazırladığı sözleşmelere de niteliklerine bakılmaksızın uygular. Bir kuruluşun faaliyet izni almış olması, hazırladığı sözleşmedeki şartları haksız şart denetiminin dışına çıkarmaz.
 
 ## Haksızlık nasıl değerlendirilir
 
@@ -54,7 +54,7 @@ Bir şartın haksız olup olmadığı sözleşmenin kurulduğu ana göre belirle
 - Sözleşmenin kurulduğu sırada var olan şartlar,
 - Sözleşmenin diğer hükümleri ve haksız şartın bağlantılı olduğu başka bir sözleşmenin hükümleri.
 
-Kanun bir sınır da çizer. Şartlar açık ve anlaşılır biçimde yazılmışsa, sözleşmenin asıl edimleri arasındaki denge ile mal veya hizmetin piyasa değeri ve kararlaştırılan fiyat arasındaki denge bu denetimin konusu yapılamaz. Başka bir deyişle haksız şart kuralı, pahalı bulunan bir fiyatı indirmek için değil, tüketiciyi zor durumda bırakan yan şartları ayıklamak için vardır.
+Kanun bir sınır da çizer. Şartlar açık ve anlaşılır biçimde yazılmışsa, sözleşmenin asıl edimleri arasındaki denge ile mal veya hizmetin piyasa değeri ve kararlaştırılan fiyat arasındaki denge bu denetimin konusu yapılamaz. Başka bir deyişle bu denetim, açıkça yazılmış bir fiyatın pahalı bulunmasına karşı başvurulacak bir araç değildir.
 
 ## Açık yazılmayan şartlar ve sonuç
 

@@ -33,6 +33,8 @@ sss:
     cevap: "Kanun, şartları taşıyan kişinin tek meskene hisseyle sahip olması hâlinde indirimin onun hissesine düşen kısım için de uygulanacağını söyler. Konutun tamamının brüt 200 metrekareyi geçmemesi ve sizin Türkiye'de başka meskeninizin bulunmaması gerekir. Eşinizin hissesi ise onun kendi durumuna göre değerlendirilir."
   - soru: "Yazlığım da var. İkinci ev, oturduğum ev için indirimi engeller mi?"
     cevap: "Evet. İndirim, Türkiye sınırları içinde tek meskeni olanlara tanınır. Yazlık bir mesken olduğu için iki konut sahibi sayılırsınız. Ayrıca kanun, belirli zamanlarda dinlenme amacıyla kullanılan meskenlerin bu indirimden yararlanamayacağını açıkça söyler."
+  - soru: "Babamdan kalan ev henüz paylaşılmadı. Emlak vergisini kim ödeyecek?"
+    cevap: "Paylaşılmamış mirasta mirasçılar elbirliği ile maliktir ve vergiden müteselsilen sorumludur. Belediye verginin tamamını mirasçılardan herhangi birinden isteyebilir. Ölüm, mükellefin değişmesi sayıldığı için mirasçıların belediyeye bildirim vermesi de gerekir; bildirimi birlikte ya da ayrı ayrı verebilirler."
   - soru: "Ev aldım ama belediyeye bildirimde bulunmadım. Ne olur?"
     cevap: "Mükellefin değişmesi, vergi değerini değiştiren sebeplerden biridir ve bildirim verilmesi zorunludur. Bildirim, değişikliğin olduğu yıl içinde, değişiklik yılın son üç ayında olduysa üç ay içinde verilir. Bu yüzden tapu işleminden sonra belediyeye başvurmayı ertelememek gerekir."
 ---
@@ -54,6 +56,10 @@ Kiracı emlak vergisinin mükellefi değildir. Kira sözleşmesine kiracının �
 ## Ne zaman ve nereye ödenir?
 
 Emlak vergisi yıllık hesaplanır ve iki eşit taksitte ödenir. Birinci taksit Mart, Nisan ve Mayıs aylarında, ikinci taksit Kasım ayında ödenir. Kanun, Bakanlığa ödeme aylarını bölgelerin özelliklerine göre değiştirme yetkisi de vermiştir. Vergiyi taşınmazın bulunduğu yerdeki belediye tarh eder.
+
+Vergi yükümlülüğünün başladığı ve sona erdiği tarih de kanunda düzenlenir. Yeni bina yapılması, mükellefin değişmesi gibi vergi değerini değiştiren bir olay olduğunda yeni durum, olayı izleyen bütçe yılından itibaren dikkate alınır. Örneğin 2026 yılında ev satın alan kişi, kural olarak 2027 yılından itibaren o evin vergisini öder. Satış yılının vergisi ise satıcıya aittir.
+
+Bina yanar, yıkılır ya da tamamen kullanılamaz hâle gelirse vergi yükümlülüğü olayı izleyen taksitten itibaren sona erer. Oturulması ve kullanılması kanuni yetkiye dayanılarak yasaklanan binaların vergisi de, durum vergi dairesine bildirildiğinde veya idarece tespit edildiğinde, yasak sürdüğü müddetçe alınmaz.
 
 Verginin oranı ve hesaplamaya esas alınan değerler kanunda ve her dönem yapılan düzenlemelerde belirlenir. Bu yüzden ödenecek tutar için taşınmazın bağlı olduğu belediyenin bildirdiği tahakkuku esas almak gerekir.
 
@@ -84,6 +90,8 @@ Bu kişilerin indirimden yararlanması için Türkiye sınırları içinde brüt
 
 Bu yetki 2007 ve sonraki yıllar için 2006/11450 sayılı Bakanlar Kurulu Kararı ile kullanılmıştır. Böylece şartları taşıyan kişilerin tek meskeni için bina vergisi alınmaz. Geliri olmadığını belgelemenin usulünü belirleme yetkisi Bakanlığa verilmiştir. Belediye bu durumu kendiliğinden bilemeyeceği için ilgili belediyeye başvurup şartları belgelemek gerekir.
 
-Kanun ayrıca bazı binaları, çoğunda kiraya verilmemek şartıyla, bina vergisinden daimi olarak muaf tutar. Kamu binaları, umuma açık ibadethaneler, zirai üretimde kullanılan ahır, ambar ve benzeri yapılar bunlar arasındadır. Belediye ve mücavir alan sınırları dışındaki binalar da muaftır. Ancak ticari, sınai ve turistik faaliyetlerde kullanılan binalar ile dinlenme amaçlı binalar bu muafiyetten yararlanamaz. Köydeki ev ile köydeki yazlık bu yüzden farklı sonuca bağlanır.
+Kanun ayrıca bazı binaları, çoğunda kiraya verilmemek şartıyla, bina vergisinden daimi olarak muaf tutar. Kamu binaları, umuma açık ibadethaneler, zirai üretimde kullanılan ahır, ambar ve benzeri yapılar bunlar arasındadır.
+
+Belediye ve mücavir alan sınırları dışındaki binalar da muaftır. Ancak ticari, sınai ve turistik faaliyetlerde kullanılan binalar ile dinlenme amaçlı binalar bu muafiyetten yararlanamaz. Köydeki ev ile köydeki yazlık bu yüzden farklı sonuca bağlanır.
 
 Emlak vergisine karşı itiraz ve dava yolları ile tapu harcı gibi diğer yükümlülükler ayrı konulardır ve bu yazının kapsamı dışındadır.

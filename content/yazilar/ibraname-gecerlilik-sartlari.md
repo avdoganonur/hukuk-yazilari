@@ -55,7 +55,7 @@ Yazılılık şartı, ibra iradesinin imzalı bir belgeyle ortaya konmasını ge
 
 "Tüm haklarımı aldım" gibi genel ifadeler, alacağın türünü ve miktarını açıkça göstermez. İbranamede kıdem tazminatı, ihbar tazminatı, ücret, fazla çalışma ya da yıllık izin ücreti gibi alacakların ayrı ayrı ve rakamıyla yazılması gerekir. Hangi alacağın ne kadar olduğu belli değilse, işçinin neden vazgeçtiği de belli değildir. Bu yüzden her alacak kalemi için ayrı tutar gösterilmesi, belgenin geçerliliği bakımından belirleyicidir.
 
-Bir örnek üzerinden düşünelim. İşten çıkarılan bir işçiye, ayrıldığı gün kıdem tazminatının bir kısmı bankadan yatırılıyor ve aynı gün tüm alacaklarını aldığını söyleyen bir belge imzalatılıyor. Bu belge hem bir aylık süre şartını hem de eksiksiz ödeme şartını taşımadığı için ibraname olarak geçersizdir. Bankadan yatırılan tutar ise ödenmiş sayılır ve işçi yalnızca kalan farkı isteyebilir.
+Bir örnek üzerinden düşünelim. İşten çıkarılan bir işçiye, ayrıldığı gün kıdem tazminatının bir kısmı bankadan yatırılıyor ve aynı gün tüm alacaklarını aldığını söyleyen bir belge imzalatılıyor. Bu belge hem bir aylık süre şartını hem de eksiksiz ödeme şartını taşımadığı için ibraname olarak geçersizdir. Bankadan yatırılan tutar ise işçiye ödenmiş olur ve alacaktan düşülür; işçi kalan farkı isteyebilir.
 
 Ödemenin eksiksiz olması şartı da önemlidir. İşçi gerçekte hak ettiğinden daha az bir para alıp kalan kısımdan da vazgeçmiş gibi gösterilirse, bu belge geçerli bir ibra değildir. Ödemenin elden yapılması da kabul edilmez; kanun bankayı açıkça şart koşar. Banka kaydı, ödemenin tarihini ve tutarını gösteren, sonradan tartışılması güç bir belge bırakır.
 

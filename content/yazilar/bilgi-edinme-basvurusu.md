@@ -34,6 +34,8 @@ sss:
     cevap: "Kanun, dilekçede istenen bilgi veya belgenin açıkça belirtilmesini ister; başvuru gerekçesi yazılmasını şart koşmaz. Yine de bilginin size ait bir işlemle ilgili olduğunu belirtmek, kurumun başvuruyu doğru birime yönlendirmesini kolaylaştırabilir."
   - soru: "Belediye aynı belgeyi internet sitesinde yayımladığını söyleyip vermedi. Bu doğru mu?"
     cevap: "Yayımlanmış ya da kamuya açıklanmış bilgi ve belgeler bilgi edinme başvurusuna konu olamaz. Ancak kurum, bu bilginin ne şekilde, ne zaman ve nerede yayımlandığını size bildirmek zorundadır. Yalnızca yayımlandı demekle yetinilmesi kanunun aradığı cevap değildir."
+  - soru: "Bilgi edinme başvurusu için ücret ödenir mi?"
+    cevap: "Başvurunun kendisi için kanunda bir ücret öngörülmemiştir. Ancak kurum, istenen bilgi veya belgeye erişim için gereken maliyet kadar bir ücret isteyebilir; fotokopi ya da kayıt kopyası çıkarılması buna örnektir. Ücret bildirildikten sonra 15 iş günü içinde ödenmezse başvurudan vazgeçilmiş sayılır."
   - soru: "Başvuruma hiç cevap verilmezse ne yapabilirim?"
     cevap: "Kanun kurumlara cevabı yazılı veya elektronik ortamda bildirme ve reddi gerekçelendirme yükümlülüğü getirir. İdari Yargılama Usulü Kanunu'na göre idareye yapılan bir başvuruya 30 gün içinde cevap verilmezse istek reddedilmiş sayılır ve dava açma süresi içinde dava açılabilir. Bilgi edinmede kanunun kendi cevap süreleri de bulunduğundan, dava süresini hesaplarken şüphede en erken tarihi esas almak güvenlidir. Bilgi edinme başvurularını ihmal eden görevliler hakkında disiplin hükümleri de uygulanır."
 ---
@@ -66,7 +68,9 @@ Başvuru, kurumun elinde bulunan ya da görevi gereği bulunması gereken bilgi 
 
 Kurum, istenen bilgi veya belgeye erişimi 15 iş günü içinde sağlar. Bilginin kurumun başka bir biriminden ya da başka bir kurumun görüşü alınarak sağlanması gerekiyorsa süre 30 iş günüdür. Bu durumda süre uzatması ve gerekçesi 15 iş günü dolmadan başvurana yazılı olarak bildirilmelidir.
 
-Kurum, kural olarak belgenin onaylı bir kopyasını verir. Kopya verilemeyen ya da kopyalamanın aslına zarar vereceği belgelerde başvurana belgeyi inceleme ve not alma, ses kaydını dinleme ya da görüntüyü izleme imkânı tanınır. Kurum, erişim için gereken maliyet kadar bir ücret isteyebilir. Ücret başvurana bildirilince 15 iş günlük süre kesilir. Başvuran 15 iş günü içinde ücreti ödemezse talebinden vazgeçmiş sayılır.
+Kurum, kural olarak belgenin onaylı bir kopyasını verir. Kopya verilemeyen ya da kopyalamanın aslına zarar vereceği belgelerde başvurana belgeyi inceleme ve not alma, ses kaydını dinleme ya da görüntüyü izleme imkânı tanınır.
+
+Kurum, erişim için gereken maliyet kadar bir ücret isteyebilir. Ücret başvurana bildirilince 15 iş günlük süre kesilir. Başvuran 15 iş günü içinde ücreti ödemezse talebinden vazgeçmiş sayılır.
 
 İstenen belgede gizli bilgiler ile açıklanabilir bilgiler birlikte bulunuyorsa ve bunlar ayrılabiliyorsa, gizli kısımlar çıkarılarak belge verilir. Ayırmanın gerekçesi de başvurana yazılı olarak bildirilir.
 
@@ -83,6 +87,10 @@ Kanun bilgi edinme hakkının sınırlarını tek tek sayar. Başlıcaları şun
 - Tavsiye ve mütalaa talepleri.
 
 Kurum içi görüş, bilgi notu ve tavsiyeler ise, kurum aksine karar vermedikçe bilgi edinme hakkı kapsamındadır. Bir kararın dayanağı olan uzman görüşleri de istenebilir. Gizliliği kaldırılmış belgeler, başka bir istisnaya girmiyorsa başvuruya açık hâle gelir.
+
+Bazı istisnaların da istisnası vardır. Yargı denetimi dışında kalan idari işlemlerden kişinin çalışma hayatını ve mesleki onurunu etkileyenler kanun kapsamındadır. İstihbarata ilişkin bilgiler de kişinin çalışma hayatını ve meslek onurunu etkileyecek nitelikteyse istenebilir.
+
+Kişisel bilgiler kural olarak özel hayatın gizliliği kapsamında korunur. Kamu yararının gerektirdiği hâllerde ise kurum, ilgili kişiye en az yedi gün önceden haber verip yazılı rızasını alarak bu bilgileri açıklayabilir. Kişinin kendi hakkındaki bilgileri istemesi ise bu sınıra takılmaz, çünkü istisna kişinin izin verdiği hâlleri saklı tutar.
 
 Kurum başvuruyu reddederse kararın gerekçesini ve başvurulabilecek yolları cevabında belirtmek zorundadır. Bu yolla elde edilen bilgi ve belgeler ticari amaçla çoğaltılamaz ve kullanılamaz.
 

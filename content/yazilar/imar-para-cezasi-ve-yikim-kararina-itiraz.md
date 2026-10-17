@@ -32,6 +32,8 @@ sss:
     cevap: "Evet, kanun dava açılmasının idari işlemin yürütülmesini durdurmadığını söyler. Yıkımın önüne geçmek için dava dilekçesinde yürütmenin durdurulması istenmeli ve mahkemenin bu yönde karar vermesi gerekir. Yıkım gerçekleştiğinde geri dönüşü olmadığı için bu istem ihmal edilmemelidir."
   - soru: "Para cezasına sulh ceza mahkemesinde itiraz edebilir miyim?"
     cevap: "Hayır. İmar Kanunu'na göre verilen para cezaları, imara aykırılığı tespit eden idari işlemin devamı sayılır ve bunlara karşı idare mahkemesinde dava açılır. Yanlış mahkemeye başvurmak süre kaybına yol açabileceği için başvuru yerini baştan doğru seçmek gerekir."
+  - soru: "Yapı tatil zaptını görmedim. Bir aylık süre ne zaman başlar?"
+    cevap: "Kanuna göre durdurma kararı, yapı tatil zaptının yapı yerine asılmasıyla yapı sahibine tebliğ edilmiş sayılır. Bu yüzden süre, zaptın yapıya asıldığı tarihten itibaren işler. Yapınızda inşaat sürüyorsa ya da başkası tarafından yürütülüyorsa yapıyı düzenli olarak kontrol etmek ve belediyeden bilgi almak önemlidir."
   - soru: "Para cezasını ödesem yapı yasal hâle gelir mi?"
     cevap: "Hayır. Para cezası ile yapının ruhsata uygun hâle getirilmesi ayrı konulardır. Cezanın ödenmesi ruhsat yerine geçmez ve yıkım kararını ortadan kaldırmaz. Yapının ruhsata bağlanıp bağlanamayacağı ayrıca değerlendirilir."
 ---
@@ -48,6 +50,8 @@ Durdurma, yapı tatil zaptının yapı yerine asılmasıyla yapı sahibine tebli
 Yapı sahibine, tebliğden itibaren en çok bir ay içinde yapıyı ruhsata uygun hâle getirmesi ya da ruhsat alması için süre tanınır. Bu sürede aykırılık giderilir veya ruhsat alınırsa mühür kaldırılır ve inşaata izin verilir.
 
 Aksi durumda ruhsat iptal edilir. Ruhsatsız ya da ruhsata aykırı yapı, belediye encümeni veya il idare kurulu kararıyla yıktırılır ve masrafı yapı sahibinden alınır. İdare, yapının ruhsata bağlanamayacağını ya da aykırılığın giderilemeyeceğini tespit ederse bir ayı beklemeden ruhsatı iptal edebilir.
+
+Yıkım masrafı yapı sahibinden alınır. Bu nedenle yıkım kararının uygulanması, para cezasından ayrı bir mali yük de doğurur.
 
 Kanun, yıkımın ihmal edilmesini de önlemeye çalışır. İlgili idare iki ay içinde yıkım kararı almazsa ya da aldığı kararı altı ay içinde uygulamazsa, yapıyı Bakanlık yıkabilir veya yıktırabilir.
 
@@ -71,7 +75,7 @@ Yıkım kararı ve imar para cezası idari işlemdir; bunlara karşı idare mahk
 
 Dava açma süresi idare mahkemelerinde 60 gündür ve işlemin yazılı bildiriminin yapıldığı tarihi izleyen günden başlar. Dava açmadan önce, aynı süre içinde, işlemin kaldırılması veya değiştirilmesi idareden istenebilir. Bu başvuru işlemeye başlamış dava süresini durdurur. İdare 30 gün içinde cevap vermezse istek reddedilmiş sayılır ve süre, başvuruya kadar geçen kısım da hesaba katılarak yeniden işlemeye başlar.
 
-Davada şu noktalar tartışılabilir:
+Dava dilekçesine yıkım ve ceza kararlarının, tebliğ belgelerinin ve varsa ruhsat ile projenin örnekleri eklenmelidir. Davada şu noktalar tartışılabilir:
 
 - Yapının gerçekten ruhsatsız ya da ruhsata aykırı olup olmadığı,
 - Tespit tutanağının yapının gerçek durumunu yansıtıp yansıtmadığı,

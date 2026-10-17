@@ -26,6 +26,8 @@ sss:
     cevap: "Şifreyi bilmek, sisteme girme izniniz olduğu anlamına gelmez. Kanun, bilişim sistemine hukuka aykırı olarak girmeyi ve orada kalmaya devam etmeyi cezalandırır; evlilik bu konuda ayrı bir istisna olarak düzenlenmemiştir. Telefon sahibinin rızası yoksa giriş suç oluşturabilir."
   - soru: "Hesabıma girildiğini nasıl ispat edebilirim?"
     cevap: "Hesabınızın gösterdiği oturum açma bildirimleri, cihaz ve konum kayıtları, şifre değişikliği e-postaları ve gönderilmemiş mesajlar gibi izler ekran görüntüsüyle saklanmalıdır. Bunlar şikâyet dilekçesine eklenebilir. Hesabı silmek ya da kayıtları temizlemek ise delillerin kaybolmasına yol açabilir."
+  - soru: "Şikâyetimi geri alırsam dava düşer mi?"
+    cevap: "Hayır. Bilişim sistemine girme suçu şikâyete bağlı değildir. Savcılık suçu öğrendikten sonra soruşturmayı kendiliğinden yürütür ve mağdurun vazgeçmesi süreci sona erdirmez."
   - soru: "Giren kişi hesabımdan arkadaşlarıma mesaj gönderdiyse ne olur?"
     cevap: "Sisteme veri yerleştirmek ya da verileri değiştirmek kanunda ayrı bir suç olarak düzenlenmiştir ve cezası basit girişe göre ağırdır. Gönderilen mesajların içeriğine göre hakaret, tehdit ya da dolandırıcılık gibi başka suçlar da gündeme gelebilir."
 ---
@@ -52,7 +54,7 @@ Bilişim sistemine girme ya da orada kalmaya devam etme suçunun cezası bir yı
 - Giriş nedeniyle sistemdeki veriler yok olur veya değişirse ceza altı aydan iki yıla kadar hapistir.
 - Bir sisteme girmeden, sistemler arasındaki veri trafiğini teknik araçlarla hukuka aykırı olarak izlemek ayrı bir suçtur. Cezası bir yıldan üç yıla kadar hapistir.
 
-Telefona casus yazılım yüklenip yazışmaların uzaktan izlenmesi bu son ihtimale örnek olabilir. Bu tür suçların işlenmesi için yapılmış cihaz, program veya şifreleri satan, başkasına veren ya da bulunduran kişi de ayrıca cezalandırılır. Bunun cezası bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezasıdır.
+Telefona casus yazılım yüklenip yazışmaların uzaktan izlenmesi bu son ihtimale örnek olabilir. Ortak kullanılan bir ev ağı üzerinden başkasının internet trafiğini izlemek de aynı kapsamda değerlendirilebilir. Bu tür suçların işlenmesi için yapılmış cihaz, program veya şifreleri satan, başkasına veren ya da bulunduran kişi de ayrıca cezalandırılır. Bunun cezası bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezasıdır.
 
 ## Verileri silmek, değiştirmek ya da başkasına göndermek
 
@@ -79,7 +81,9 @@ Bu istisna yalnızca kartın kötüye kullanılması suçu için geçerlidir. Bi
 
 ## Şikâyet ve soruşturma
 
-Bilişim sistemine girme suçu için kanunda şikâyet şartı öngörülmemiştir. Bu nedenle savcılık suçu öğrendiğinde kendiliğinden soruşturma başlatır. Mağdurun sonradan şikâyetinden vazgeçmesi soruşturmayı veya davayı sona erdirmez. Bu suç, Ceza Muhakemesi Kanunu'nda uzlaştırmaya tabi olarak sayılan suçlar arasında da yer almaz; suça sürüklenen çocuklar için ayrı kurallar vardır.
+Bilişim sistemine girme suçu için kanunda şikâyet şartı öngörülmemiştir. Bu nedenle savcılık suçu öğrendiğinde kendiliğinden soruşturma başlatır. Mağdurun sonradan şikâyetinden vazgeçmesi soruşturmayı veya davayı sona erdirmez.
+
+Şikâyete bağlı suçlarda aranan altı aylık şikâyet süresi de bu suç için geçerli değildir; suç, zamanaşımı dolmadıkça soruşturulabilir. Bu suç, Ceza Muhakemesi Kanunu'nda uzlaştırmaya tabi olarak sayılan suçlar arasında da yer almaz; suça sürüklenen çocuklar için ayrı kurallar vardır.
 
 Hesabına ya da cihazına izinsiz girildiğini düşünen kişi Cumhuriyet başsavcılığına şikâyette bulunabilir. Şikâyetten önce delillerin korunması önemlidir. Hesap güvenliğini sağlamak için şifreyi değiştirmek ve iki aşamalı doğrulamayı açmak gerekir, ancak giriş kayıtlarının bu sırada kaybolmamasına dikkat edilmelidir.
 

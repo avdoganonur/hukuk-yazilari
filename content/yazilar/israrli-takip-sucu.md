@@ -62,7 +62,7 @@ Suçun temel hâli için öngörülen ceza altı aydan iki yıla kadar hapistir.
 - Mağdurun okulunu, işyerini ya da konutunu değiştirmesine veya okulunu ya da işini bırakmasına yol açması,
 - Hakkında uzaklaştırma ya da konuta, okula veya işyerine yaklaşmama tedbiri verilmiş bir fail tarafından işlenmesi.
 
-Ceza kanunlarının uygulanmasında çocuk, henüz on sekiz yaşını doldurmamış kişidir. Bu yaştaki birine yönelik ısrarlı takip, başka bir koşul aranmaksızın ağırlaştırılmış cezayı gerektirir.
+Ceza kanunlarının uygulanmasında çocuk, henüz on sekiz yaşını doldurmamış kişidir. Bu yaştaki birine yönelik ısrarlı takipte suçun temel unsurları gerçekleşmişse ağırlaştırılmış ceza uygulanır.
 
 İkinci hâl, takibin mağdurun hayatı üzerindeki somut etkisini esas alır. Takip yüzünden taşınmak, okul değiştirmek ya da işinden ayrılmak zorunda kalan mağdur bakımından ceza artar. Üçüncü hâl ise hakkında uzaklaştırma ya da yaklaşmama tedbiri verilmesine rağmen takibi sürdüren faile yöneliktir.
 

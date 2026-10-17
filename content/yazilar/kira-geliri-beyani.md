@@ -35,6 +35,8 @@ sss:
     cevap: "Kural olarak bedelsiz kullandırılan bina için emsal kira bedeli hesaplanır. Ancak binanın mal sahibinin usul, füru ya da kardeşlerinin oturmasına bırakılması bu kuralın dışındadır. Usul anne, baba ve büyükanne, büyükbaba gibi üstsoyu; füru çocuk ve torun gibi altsoyu ifade eder. Annenize bıraktığınız konut için emsal kira hesaplanmaz."
   - soru: "Kira gelirimi beyan ettim ama kiracı kirayı ödemedi. Yine vergi öder miyim?"
     cevap: "Kira geliri tahsil esasına göre vergilendirilir. Bir yıl içinde fiilen tahsil edilen kiralar o yılın geliridir. Tahsil edilemeyen kira, tahsil edildiği yılın geliri olarak beyan edilir. Kiracı adına bankaya, notere ya da icra dairesine yatırılan ve size haber verilen para ise tahsil edilmiş sayılır."
+  - soru: "Dükkânımı bir şirkete kiraladım ve şirket kesinti yapıyor. Beyanname vermem gerekir mi?"
+    cevap: "Kesinti yapılmış kira geliri, beyana tabi diğer gelirlerinizle birlikte toplamı kanundaki sınırı aşmıyorsa beyan edilmez. Bu sınır gelir vergisi tarifesine bağlıdır ve her yıl güncellenir. Sınır aşılırsa kira geliri beyannameye eklenir ve şirketin kestiği vergi hesaplanan vergiden düşülür."
   - soru: "Götürü gider yöntemini seçtim. Gelecek yıl gerçek gidere dönebilir miyim?"
     cevap: "Götürü gider yöntemini seçen kişi iki yıl geçmeden bu yöntemden dönemez. Bu yüzden ilk yılın tercihini, sonraki yılda yapacağınız büyük onarım ya da bakım harcamalarını da düşünerek yapmak gerekir."
 ---
@@ -46,7 +48,12 @@ Kira geliri tahsil esasına göre hesaplanır. Bir takvim yılı içinde o yıla
 
 Kiracı adına bankaya, notere, icra dairesine ya da postaya para yatırılması ve bunun mal sahibine bildirilmesi tahsil hükmündedir. Kira alacağının başkasına devredilmesi de tahsil sayılır.
 
-Kira bedeli emsal kira bedelinden düşük olamaz. Bina ve arazide emsal kira bedeli, yetkili merciler ya da mahkemelerce takdir veya tespit edilmiş bir kira varsa o kiradır. Böyle bir kira yoksa Vergi Usul Kanunu'na göre belirlenen vergi değerinin yüzde 5'idir. Mülkün akrabalara bedelsiz bırakılmasında bu kuralın istisnaları vardır.
+Kira bedeli emsal kira bedelinden düşük olamaz. Bina ve arazide emsal kira bedeli, yetkili merciler ya da mahkemelerce takdir veya tespit edilmiş bir kira varsa o kiradır. Böyle bir kira yoksa Vergi Usul Kanunu'na göre belirlenen vergi değerinin yüzde 5'idir. Bedelsiz kullandırılan mülkler için de emsal kira hesaplanır. Ancak kanun şu durumlarda emsal kira bedeli esasını uygulamaz:
+
+- Boş kalan bir taşınmazın korunması için başkasının bedelsiz oturmasına bırakılması,
+- Binanın mal sahibinin anne, baba, çocuk, torun gibi usul ve füruunun ya da kardeşlerinin oturmasına bırakılması (her biri için yalnızca bir konut),
+- Mal sahibiyle birlikte akrabalarının da aynı evde oturması,
+- Kamu kurum ve kuruluşlarınca yapılan kiralamalar.
 
 ## Kimler beyanname verir?
 
@@ -60,7 +67,9 @@ Konut kirası için kanun bir istisna tanır. Bir takvim yılında konut kirası
 - Ticari, zirai veya mesleki kazancını yıllık beyannameyle bildirmek zorunda olanlar, yani esnaf, tüccar ve serbest meslek sahipleri istisnadan yararlanamaz.
 - İstisna tutarının üzerinde hasılat elde edenlerden ücret, kira ve diğer gelirlerinin brüt toplamı gelir vergisi tarifesinin üçüncü dilimindeki ücret tutarını aşanlar da istisnadan yararlanamaz.
 
-İşyeri kirasında durum farklıdır. Şirketler, esnaf, serbest meslek sahipleri ve kamu idareleri gibi kiracılar, kira öderken mal sahibi adına vergi kesintisi yapmak zorundadır. Buna tevkifat ya da stopaj denir. Kesinti yapılmış işyeri kirası, kanunda belirtilen ve her yıl güncellenen sınırları aşmıyorsa beyan edilmez. Sınır aşılırsa kira yıllık beyannameye eklenir ve kesilen vergi, beyanname üzerinden hesaplanan vergiden düşülür.
+İşyeri kirasında durum farklıdır. Şirketler, esnaf, serbest meslek sahipleri ve kamu idareleri gibi kiracılar, kira öderken mal sahibi adına vergi kesintisi yapmak zorundadır. Buna tevkifat ya da stopaj denir.
+
+Kesinti yapılmış işyeri kirası, kanunda belirtilen ve her yıl güncellenen sınırları aşmıyorsa beyan edilmez. Sınır aşılırsa kira yıllık beyannameye eklenir ve kesilen vergi, beyanname üzerinden hesaplanan vergiden düşülür.
 
 Kesintiye ve istisnaya konu olmayan kira gelirleri, örneğin bir kişiye kiraya verilen işyerinin kirası, toplamı kanundaki sınırı aşmıyorsa yine beyan dışında kalır. Bu sınır da her yıl güncellenir.
 

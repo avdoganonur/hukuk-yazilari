@@ -53,9 +53,7 @@ Türk hukukunda reşit olmanın, yani hukuk diliyle ergin olmanın genel yolu on
 
 ## Erginlik ve fiil ehliyeti
 
-Türk Medeni Kanunu'na göre erginlik on sekiz yaşın doldurulmasıyla başlar. Evlenme de kişiyi ergin kılar; bu yüzden evlenen küçük için ayrıca ergin kılınma kararına gerek yoktur. Evlenmenin kendisi ise ayrı bir yaş sınırına ve izin kurallarına bağlıdır; bu konu sitedeki evlenme yaşı ve evlenme izni yazısında ele alınmaktadır.
-
-Mahkeme kararıyla ergin kılınma ile evlenme yoluyla erginlik birbirinden bağımsızdır. Ergin kılınmak için evlenmek gerekmez; ergin kılınma kararı da evlenme izni yerine geçmez.
+Türk Medeni Kanunu'na göre erginlik on sekiz yaşın doldurulmasıyla başlar. Evlenme de kişiyi ergin kılar; bu yüzden evlenen küçük için ayrıca ergin kılınma kararına gerek yoktur. Ergin kılınmak için ise evlenmek gerekmez. Evlenmenin kendisi ayrı bir yaş sınırına ve izin kurallarına bağlıdır; bu konu sitedeki evlenme yaşı ve evlenme izni yazısında ele alınmaktadır.
 
 Erginliğin önemi, fiil ehliyetiyle bağlantısından gelir. Fiil ehliyeti, kişinin kendi işlemleriyle hak edinebilmesi ve borç altına girebilmesidir. Kanuna göre ayırt etme gücüne sahip ve kısıtlı olmayan her ergin kişinin fiil ehliyeti vardır.
 
@@ -87,7 +85,7 @@ Ergin kılınma küçüğü vesayetin sağladığı korumadan çıkarır. Kanun 
 
 ## Başvuru ve mahkeme süreci
 
-Hukuk Muhakemeleri Kanunu ergin kılınmayı, kişiler hukukundaki çekişmesiz yargı işleri arasında sayar. Çekişmesiz yargı, taraflar arasında bir uyuşmazlık bulunmayan ve mahkemenin daha çok bir durumu onayladığı işlerdir. Kanun bir işi çekişmesiz yargıya sokarken şu ölçütlere bakar:
+Hukuk Muhakemeleri Kanunu ergin kılınmayı, kişiler hukukundaki çekişmesiz yargı işleri arasında sayar. Çekişmesiz yargı, kabaca, karşı karşıya gelen iki taraf arasında bir uyuşmazlığın bulunmadığı yargı işleridir. Kanun bir işi çekişmesiz yargıya sokarken şu ölçütlere bakar:
 
 - İlgililer arasında uyuşmazlık bulunmaması,
 - İlgililerin ileri sürebileceği herhangi bir hakkın bulunmaması,
@@ -105,8 +103,8 @@ Ergin kılınan kişi, Türk Medeni Kanunu bakımından ergin sayılır. Ayırt 
 
 Burada bir noktaya dikkat etmek gerekir. Ergin kılınma yalnızca yaş şartını karşılar; fiil ehliyeti için ayırt etme gücüne sahip olmak ve kısıtlı olmamak şartları ayrıca aranır.
 
-Ergin olmayan çocuk velayet altında olduğundan, erginlikle birlikte velayet de sona erer.
+Ergin olmayan çocuk velayet altında olduğundan, erginlikle birlikte velayet de sona erer. Ana ve baba, velayetleri veya yönetim hakları sona erince çocuğun mallarını hesabıyla birlikte ergin çocuğa devreder. Böylece genç, kendi malvarlığının yönetimini de üstlenmiş olur.
 
-Ana ve baba, velayetleri veya yönetim hakları sona erince çocuğun mallarını hesabıyla birlikte ergin çocuğa devreder. Ana ve baba, malların geri verilmesinde vekil gibi sorumludur. Kanuna uygun olarak çocuk ya da aile için yaptıkları harcamalar için ise tazminatla yükümlü tutulmazlar. Böylece genç, kendi malvarlığının yönetimini de üstlenmiş olur.
+Ana ve baba, malların geri verilmesinde vekil gibi sorumludur. Kanuna uygun olarak çocuk ya da aile için yaptıkları harcamalar için ise tazminatla yükümlü tutulmazlar. Bu nedenle devir sırasında malların ve harcamaların hesabının birlikte gözden geçirilmesi, ileride doğabilecek anlaşmazlıkları azaltır.
 
 Bu sonuç bir kolaylık olduğu kadar bir sorumluluktur. Ergin kılınan kişinin yaptığı sözleşmeler onu bağlar ve borçlarından kendisi sorumlu olur. Bu yüzden karar öncesinde gencin ve ailesinin, yeni durumun getireceği yükümlülükleri birlikte değerlendirmesi yararlıdır.
