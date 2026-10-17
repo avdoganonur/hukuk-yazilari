@@ -85,7 +85,7 @@ Boşanma davaları uzun sürebilir. Bu sürede eşlerin ve çocukların ortada k
 - Hâkim delilleri serbestçe takdir eder.
 - Taraflardan biri isterse duruşmanın gizli yapılmasına karar verilebilir.
 
-Bu kuralların pratik sonucu şudur: davalı eşin iddiaları kabul etmesi, hâkimi boşanma kararı vermeye zorlamaz. Olayların tanık ve belgelerle desteklenmesi bu yüzden önemlidir. Mahkeme ayrıca eşlerin kusur durumunu belirler. Bu tespit doğrudan parasal sonuç doğurur: kusursuz ya da daha az kusurlu eş maddi ve manevi tazminat isteyebilir, yoksulluk nafakası isteyen eşin ise kusurunun daha ağır olmaması gerekir (TMK m. 174 ve 175).
+Bu kuralların pratik sonucu şudur: davalı eşin iddiaları kabul etmesi, hâkimi boşanma kararı vermeye zorlamaz. Olayların tanık ve belgelerle desteklenmesi bu yüzden önemlidir. Mahkeme ayrıca eşlerin kusur durumunu belirler. Bu tespit doğrudan parasal sonuç doğurur: kusursuz ya da daha az kusurlu eş kusurlu eşten maddi tazminat, boşanmaya sebep olan olaylar yüzünden kişilik hakkı saldırıya uğrayan eş de kusurlu olan diğer eşten manevi tazminat isteyebilir; yoksulluk nafakası isteyen eşin ise kusurunun daha ağır olmaması gerekir (TMK m. 174 ve 175).
 
 Tahkikat bitince hâkim taraflara tahkikatın tümü hakkında söz verir ve tahkikatın bittiğini bildirir. Ardından sözlü yargılama aşamasına geçilir; taraflardan biri isterse duruşma en az iki hafta ertelenir. Sözlü yargılamada tarafların son sözleri sorulur ve hüküm verilir (HMK m. 184 ve 186).
 

@@ -18,7 +18,7 @@ dayanak:
   - ad: "4857 sayılı İş Kanunu m. 17"
     not: "Bildirim süreleri, ihbar ve kötüniyet tazminatı"
   - ad: "7036 sayılı İş Mahkemeleri Kanunu m. 3"
-    not: "Dava şartı olarak arabuluculuk, arabulucunun süresi, ücret"
+    not: "Dava şartı olarak arabuluculuk, arabulucunun süresi, ilk toplantıya katılmamanın sonucu, ücret"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7036&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "İşyerinde otuzdan az işçi çalışıyorsa hiçbir hakkım yok mu?"
@@ -41,7 +41,7 @@ sss:
 - İşyerinde otuz veya daha fazla işçi çalışmalıdır. İşverenin aynı işkolunda birden fazla işyeri varsa, bu işyerlerinde çalışanların toplamına bakılır.
 - İşçinin en az altı aylık kıdemi olmalıdır. Aynı işverenin farklı işyerlerinde geçen süreler birleştirilir. Yer altı işlerinde çalışanlar için kıdem şartı aranmaz.
 - İş sözleşmesi belirsiz süreli olmalıdır.
-- İşçi, işletmenin ya da işyerinin bütününü yöneten ve işçi alıp çıkarma yetkisi bulunan bir işveren vekili olmamalıdır.
+- İşçi, işletmenin bütününü yöneten işveren vekili ya da yardımcısı veya işyerinin bütününü yöneten ve işçi alıp çıkarma yetkisi bulunan bir işveren vekili olmamalıdır.
 
 Belirli süreli sözleşmeyle çalışan işçi bu güvenceden yararlanamaz. Yine de dikkat etmek gerekir: belirli süreli sözleşme, esaslı bir neden olmadan art arda yenilenmişse sözleşme başlangıçtan itibaren belirsiz süreli kabul edilir (m. 11). Her yıl yenilenen "bir yıllık" sözleşmelerle çalışanlar bu yüzden kendi durumlarına ayrıca bakmalıdır.
 
@@ -57,11 +57,11 @@ Davada feshin geçerli bir sebebe dayandığını ispat etmek işverene düşer.
 
 ## Süreler: önce arabulucu, sonra dava
 
-İşe iade için doğrudan mahkemeye gidilemez. İşçi, fesih bildiriminin kendisine tebliğ edildiği tarihten itibaren **bir ay içinde** arabulucuya başvurmak zorundadır. Başvuru, işverenin yerleşim yerindeki ya da işin yapıldığı yerdeki arabuluculuk bürosuna yapılır. Arabulucuya gidilmeden açılan dava, dava şartı bulunmadığı için usulden reddedilir. Bu bir aylık süre kaçırılırsa işe iade yolu kapanır.
+İşe iade için doğrudan mahkemeye gidilemez. İşçi, fesih bildiriminin kendisine tebliğ edildiği tarihten itibaren **bir ay içinde** arabulucuya başvurmak zorundadır. Başvuru, işverenin yerleşim yerindeki ya da işin yapıldığı yerdeki arabuluculuk bürosuna yapılır. Arabulucuya gidilmeden açılan dava, dava şartı bulunmadığı için usulden reddedilir; bu durumda kesinleşen ret kararının taraflara kendiliğinden tebliğinden itibaren iki hafta içinde arabulucuya başvurulabilir (m. 20). Bunun dışında bir aylık süre kaçırılırsa işe iade yolu kapanır.
 
 Arabulucu, görevlendirildiği tarihten itibaren üç hafta içinde süreci sonuçlandırır; zorunlu hâllerde bu süre en fazla bir hafta uzatılabilir. Anlaşma olmazsa son tutanak düzenlenir. İşçi, bu tutanağın düzenlendiği tarihten itibaren **iki hafta içinde** iş mahkemesinde dava açabilir. Taraflar anlaşırsa uyuşmazlık, aynı süre içinde mahkeme yerine özel hakeme de götürülebilir.
 
-Arabuluculuğun ilk toplantısına geçerli bir mazereti olmadan katılmayan taraf, davayı kısmen ya da tamamen kazansa bile yargılama giderlerinin yarısından sorumlu tutulur. Davete uymak bu yüzden hem işçi hem işveren için önemlidir.
+Arabuluculuğun ilk toplantısına geçerli bir mazereti olmadan katılmayan ve bu yüzden sürecin sona ermesine yol açan taraf, son tutanakta belirtilir. Bu taraf sonra açılan davada kısmen ya da tamamen haklı çıksa bile, karşı tarafın ödemekle yükümlü olduğu yargılama giderlerinin yarısından sorumlu tutulur; ayrıca onun lehine, Avukatlık Asgari Ücret Tarifesine göre belirlenen vekâlet ücretinin yarısına hükmedilir. İki taraf da ilk toplantıya katılmazsa, sonra açılan davada tarafların yaptıkları yargılama giderleri kendi üzerlerinde bırakılır. Davete uymak bu yüzden hem işçi hem işveren için önemlidir.
 
 Kanun, işe iade davalarının ivedilikle sonuçlandırılmasını ister. İlk derece mahkemesinin kararına karşı istinaf yoluna gidilebilir; bölge adliye mahkemesinin vereceği karar kesindir, dosya Yargıtay'a gitmez.
 

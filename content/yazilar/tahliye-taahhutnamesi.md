@@ -47,15 +47,13 @@ Kanunun aradığı şartlar şunlardır:
 - Belli bir boşaltma tarihi içermelidir. Kiracının hangi gün çıkacağı belgeden anlaşılmalıdır.
 - Kiracı tarafından kiraya verene karşı verilmelidir.
 
-Yargıtay uygulamasında, kira sözleşmesiyle aynı tarihte düzenlenen taahhütname geçersiz sayılmaktadır. Taahhüdün, sözleşmeden ve teslimden sonraki bir tarihte imzalanmış olması gerekir.
-
 Geçerli bir taahhüt, kiracının kanundan doğan önemli bir korumasını devre dışı bırakır. Belirli süreli sözleşmeler, kiracı süre bitmeden en az on beş gün önce bildirimde bulunmadıkça her yıl kendiliğinden uzar ve ev sahibi sürenin bittiğine dayanarak sözleşmeyi sona erdiremez (m. 347). Taahhüt ise ev sahibine, yazılı tarihte başka bir sebep göstermeden tahliye isteme imkânı verir. Bu yüzden belge imzalanmadan önce dikkatle okunmalıdır. Belgede kiralananın adresi, tarafların adları, boşaltma tarihi ve belgenin düzenlendiği tarih açıkça yer almalıdır.
 
 ## Tarihi boş bırakılmış taahhütler
 
-Sık karşılaşılan bir durum, kiracıya sözleşmeyle birlikte tarihleri boş bir taahhütname imzalatılması ve tarihlerin sonradan doldurulmasıdır. Yargıtay'a göre tarihin boş bırakılmış olması taahhüdü tek başına geçersiz kılmaz. Boş belgeyi imzalayan kişi, boşlukların doldurulmasını önceden kabul etmiş sayılır.
+Sık karşılaşılan bir durum, kiracıya sözleşmeyle birlikte tarihleri boş bir taahhütname imzalatılması ve tarihlerin sonradan doldurulmasıdır.
 
-Taahhüdün aslında teslimden önce imzalatıldığını ileri süren kiracı bunu ispatlamak zorundadır ve kural olarak yazılı delille ispat etmesi gerekir. Bu ispat çoğu zaman kolay değildir. Kiracının boş belge imzalamaması bu yüzden önemlidir. Ev sahibi açısından da taahhüdü teslimden sonra, tarihleri doldurulmuş olarak ve mümkünse noterde almak sonradan çıkabilecek tartışmaları azaltır.
+Taahhüdün aslında teslimden önce imzalatıldığını ileri süren kiracı bunu ispatlamak zorundadır. Senede karşı ileri sürülen iddialar kural olarak tanıkla ispat edilemediğinden (6100 sayılı Kanun m. 201), kiracının yazılı delil göstermesi gerekir. Bu ispat çoğu zaman kolay değildir. Kiracının boş belge imzalamaması bu yüzden önemlidir. Ev sahibi açısından da taahhüdü teslimden sonra, tarihleri doldurulmuş olarak ve mümkünse noterde almak sonradan çıkabilecek tartışmaları azaltır.
 
 ## Bir aylık süre
 
@@ -63,7 +61,7 @@ Kiracı taahhüt ettiği tarihte çıkmazsa ev sahibi, bu tarihten başlayarak b
 
 Bu süre içinde harekete geçilmez ve süre aşağıda anlatılan bildirimle uzatılmamışsa, o taahhüde dayanılarak tahliye istenemez; kira ilişkisi devam eder.
 
-Kanunun dava süreleriyle ilgili genel bir kuralı burada da işe yarar. Ev sahibi, dava açma süresi içinde dava açacağını kiracıya yazılı olarak bildirirse süre bir kira yılı uzamış sayılır (m. 353). Yargıtay bu kuralın taahhüde dayalı tahliye davalarında da uygulanacağını kabul etmiştir.
+Kanunun dava süreleriyle ilgili genel bir kuralı burada da işe yarar. Ev sahibi, dava açma süresi içinde dava açacağını kiracıya yazılı olarak bildirirse süre bir kira yılı uzamış sayılır (m. 353).
 
 ## İcra yoluyla tahliye
 

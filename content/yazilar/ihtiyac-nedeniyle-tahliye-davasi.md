@@ -30,8 +30,6 @@ dayanak:
 sss:
   - soru: "Belirli süreli sözleşmede davadan önce ihtarname göndermek gerekir mi?"
     cevap: "Ev sahibinin kendi ihtiyacına dayanan davada kanun, davadan önce ihtarname gönderilmesini şart koşmaz; davanın süresi içinde açılması yeterlidir. Taşınmazı sonradan edinen yeni malikin altı ay sonra dava açabilmesi ise edinmeden itibaren bir ay içinde kiracıya yazılı bildirim yapmasına bağlıdır. Dava süresinin bir kira yılı uzaması da yazılı bildirim gerektirir. Her durumda dava açmadan önce arabulucuya başvurulmalıdır."
-  - soru: "Dava sürerken ihtiyaç ortadan kalkarsa ne olur?"
-    cevap: "İhtiyacın yargılama boyunca devam etmesi gerekir. Örneğin evlenmesi için ev istenen çocuk evlilikten vazgeçerse ya da ev sahibi başka bir konut edinip oraya yerleşirse, mahkeme davayı reddedebilir."
   - soru: "Dava açıldığında kiracı evi hemen boşaltmak zorunda mı?"
     cevap: "Hayır. Kira sözleşmesini sona erdiren, mahkemenin tahliye kararıdır. Dava sürerken sözleşme devam eder; kiracı kiralananda oturmayı sürdürür ve kirayı ödemeye devam etmelidir. Bu dönemde kiranın ödenmemesi, temerrüde ilişkin hükümlerin ayrıca gündeme gelmesine yol açabilir."
   - soru: "Kiracı ihtiyacın gerçek olmadığını düşünüyorsa ne yapabilir?"
@@ -53,9 +51,9 @@ Kanun ihtiyaç sahiplerini sınırlı olarak sayar:
 
 Bu listede bulunmayan bir kişinin ihtiyacı tahliye sebebi olmaz. İhtiyaç sahibi ev sahibinin bir yakını olsa bile davayı kiraya veren sıfatıyla ev sahibi açar. İhtiyaç konut ihtiyacı olabileceği gibi işyeri ihtiyacı da olabilir. Kirada oturan ev sahibinin kendi evine taşınmak istemesi, evlenecek bir çocuğun ev ihtiyacı ya da ev sahibinin kendi işini açacağı bir dükkâna ihtiyaç duyması mahkemelerin sık değerlendirdiği durumlardır.
 
-## İhtiyacın gerçek ve sürekli olması
+## İhtiyacın gerçek olması
 
-Kanun bir kullanma zorunluluğundan söz eder. Yargıtay uygulamasına göre ihtiyacın gerçek, samimi ve zorunlu olması gerekir. İhtiyacın dava açıldığında var olması da yetmez; yargılama boyunca sürmelidir. Sürekliliği olmayan, geçici bir ihtiyaç tahliye sebebi yapılamaz.
+Kanun bir kullanma zorunluluğundan söz eder; ileri sürülen ihtiyacın gerçek olması gerekir.
 
 İspat yükü ev sahibindedir. Mahkeme tanık beyanlarını, ev sahibinin oturduğu yerin kira sözleşmesi gibi belgeleri ve diğer delilleri birlikte değerlendirir. Evlenecek bir çocuk için ev isteniyorsa evlilik hazırlıklarını, işyeri ihtiyacında ise kurulacak işe yönelik somut adımları gösteren belgeler davanın seyrini etkiler. Soyut bir "ileride lazım olabilir" düşüncesi, kanunun aradığı kullanma zorunluluğunu karşılamaz. Amaç, ileri sürülen ihtiyacın kiracıyı çıkarmak için bulunmuş bir gerekçe olup olmadığını anlamaktır. Ev sahibinin ihtiyacı karşılayabilecek başka uygun bir taşınmazının bulunması da bu değerlendirmede göz önüne alınabilir.
 

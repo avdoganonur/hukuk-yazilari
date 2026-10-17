@@ -36,7 +36,7 @@ sss:
 ---
 Türk Medeni Kanunu boşanma sebeplerini iki grupta düzenler. Evlilik birliğinin temelinden sarsılması (m. 166), her türlü ağır geçimsizliği kapsayan genel sebeptir. Bunun yanında kanun bazı olayları tek tek sayarak ayrıca boşanma sebebi kabul eder. Bunlara özel boşanma sebepleri denir: zina, hayata kast ve onur kırıcı davranış, suç işleme ve haysiyetsiz hayat sürme, terk ve akıl hastalığı (m. 161–165).
 
-Özel sebeplerin farkı, davacının ispatlaması gereken olayın kanunda belirlenmiş olmasıdır. Zina, hayata kast, pek kötü veya onur kırıcı davranış ve terk maddelerinde kanun, olayın ispatı dışında ek bir şart aramaz. Suç işleme ve haysiyetsiz hayatta birlikte yaşamanın diğer eşten beklenememesi, akıl hastalığında ise ortak hayatın çekilmez hâle gelmesi ayrıca gerekir. Davaya hakkı olan eş, dilerse boşanma yerine ayrılık da isteyebilir (m. 167). Boşanma sebebi ispatlanırsa hâkim boşanmaya ya da ayrılığa karar verir (m. 170).
+Özel sebeplerin farkı, davacının ispatlaması gereken olayın kanunda belirlenmiş olmasıdır. Zina ile hayata kast, pek kötü veya onur kırıcı davranış maddelerinde kanun, olayın ispatı dışında ek bir şart aramaz; terk ise ayrıca belirli bir süreye ve ihtar usulüne bağlıdır. Suç işleme ve haysiyetsiz hayatta birlikte yaşamanın diğer eşten beklenememesi, akıl hastalığında ise ortak hayatın çekilmez hâle gelmesi ayrıca gerekir. Davaya hakkı olan eş, dilerse boşanma yerine ayrılık da isteyebilir (m. 167). Boşanma sebebi ispatlanırsa hâkim boşanmaya ya da ayrılığa karar verir (m. 170).
 
 ## Zina
 
@@ -46,7 +46,7 @@ Zina çoğu zaman doğrudan görülen bir olay değildir. Tanık beyanları, yaz
 
 Zina sebebiyle dava açma hakkı iki süreye bağlıdır. Davacı eş, zinayı öğrendiği tarihten başlayarak altı ay içinde dava açmalıdır. Öğrenme tarihi ne olursa olsun, zina eyleminin üzerinden beş yıl geçmişse dava hakkı düşer. Bunlar hak düşürücü sürelerdir; dolduklarında bu sebebe dayanarak dava açma hakkı ortadan kalkar.
 
-Kanun, affeden eşin dava hakkı olmadığını da açıkça söyler. Af açık bir sözle olabileceği gibi davranışlardan da anlaşılabilir; ancak affetme iradesinin açıkça ortaya çıkması gerekir. Evliliğin olaydan sonra bir süre daha devam etmiş olması tek başına af sayılmaz.
+Kanun, affeden eşin dava hakkı olmadığını da açıkça söyler. Kanun affın biçimini düzenlemez; affın bulunup bulunmadığı somut olayın koşullarına göre değerlendirilir.
 
 ## Hayata kast, pek kötü veya onur kırıcı davranış
 

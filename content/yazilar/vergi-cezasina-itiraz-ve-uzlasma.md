@@ -7,6 +7,8 @@ dayanak:
   - ad: "213 sayılı Vergi Usul Kanunu m. 34–35"
     not: "İhbarname ile tebliğ ve ihbarnamenin içeriği"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=213&MevzuatTur=1&MevzuatTertip=4"
+  - ad: "213 sayılı Vergi Usul Kanunu m. 341"
+    not: "Vergi ziyaının tanımı"
   - ad: "213 sayılı Vergi Usul Kanunu m. 344"
     not: "Vergi ziyaı cezası"
   - ad: "213 sayılı Vergi Usul Kanunu m. 368"
@@ -42,7 +44,7 @@ Vergi incelemesi ya da bir yoklama sonunda mükellefe "vergi/ceza ihbarnamesi" t
 
 ## İhbarnamede ne var, ceza nasıl hesaplanır?
 
-Vergi Usul Kanunu'na göre vergi ziyaına sebep olunduğunda, ziyaa uğratılan verginin bir katı tutarında vergi ziyaı cezası kesilir. Vergi ziyaı, vergiyi doğuran olayın zamanında öğrenilmemesi ya da verginin eksik tahakkuk ettirilmesi nedeniyle verginin zamanında ve tam alınamamasıdır. Kaçakçılık sayılan fiillerle vergi ziyaına sebep olunmuşsa ceza üç kat uygulanır. Defter tutma, belge düzenleme gibi şekli yükümlülüklere uyulmaması ise usulsüzlük ve özel usulsüzlük cezalarına konu olur.
+Vergi Usul Kanunu'na göre vergi ziyaına sebep olunduğunda, ziyaa uğratılan verginin bir katı tutarında vergi ziyaı cezası kesilir. Vergi ziyaı, mükellefin vergilendirmeyle ilgili ödevlerini zamanında ya da tam yerine getirmemesi yüzünden verginin zamanında veya tam tahakkuk ettirilmemesidir. Kaçakçılık sayılan fiillerle vergi ziyaına sebep olunmuşsa ceza üç kat uygulanır. Defter tutma, belge düzenleme gibi şekli yükümlülüklere uyulmaması ise usulsüzlük ve özel usulsüzlük cezalarına konu olur.
 
 İhbarnameyi alan mükellefin önünde başlıca üç yol vardır: cezada indirimden yararlanmak, uzlaşma istemek ve vergi mahkemesinde dava açmak.
 

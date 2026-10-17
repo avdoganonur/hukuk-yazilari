@@ -30,7 +30,7 @@ sss:
   - soru: "Hem dava açıp hem de Sigorta Tahkim Komisyonuna başvurabilir miyim?"
     cevap: "Hayır. Mahkemeye ya da tüketici hakem heyetine götürülmüş bir uyuşmazlık için Komisyona başvurulamaz. Sigorta şirketinin cevabından sonra iki yoldan birini seçmek gerekir."
   - soru: "Karşı aracın sigortası yoksa kime başvururum?"
-    cevap: "Zarara yol açan araç için zorunlu trafik sigortası yaptırılmamışsa ya da sigortalı tespit edilemiyorsa, bedensel zararlar için Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği bünyesindeki Güvence Hesabına başvurulabilir. Kanun bu iki durumda Hesaba yalnızca bedensel zararlar için başvurulabileceğini söyler. Araçtaki hasar için işletene ve kusurlu sürücüye başvurmak gerekir."
+    cevap: "Zarara yol açan araç için zorunlu trafik sigortası yaptırılmamışsa ya da sigortalı tespit edilemiyorsa, bedensel zararlar için Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği bünyesindeki Güvence Hesabına başvurulabilir. Kanun bu iki durum için yalnızca bedensel zararları sayar; eşyaya gelen zararların Hesaptan karşılanması ancak Cumhurbaşkanı kararıyla mümkündür. Araçtaki hasar için kural olarak işletene ve kusurlu sürücüye başvurmak gerekir."
   - soru: "Sigorta şirketinin önerdiği tutarı kabul edip imza atarsam sonradan bir şey isteyebilir miyim?"
     cevap: "Tazminat miktarına ilişkin olup yetersiz ya da fahiş olduğu açıkça belli olan anlaşmalar veya uzlaşmalar, yapıldıkları tarihten başlayarak iki yıl içinde iptal edilebilir. Kanunla öngörülen sorumluluğu kaldıran ya da daraltan anlaşmalar ise geçersizdir. Yine de imzalamadan önce belgenin hangi zararları kapsadığını okumak gerekir."
 ---
@@ -40,7 +40,7 @@ Trafik kazasında aracı hasar gören, yaralanan ya da bir yakınını kaybeden 
 
 Bir motorlu aracın işletilmesi bir kimsenin ölümüne, yaralanmasına ya da bir şeyin zarara uğramasına yol açarsa, aracın işleteni bu zarardan sorumludur (Karayolları Trafik Kanunu m. 85). İşletenler bu sorumluluğu karşılamak için zorunlu mali sorumluluk sigortası, yani trafik sigortası yaptırmak zorundadır (m. 91). Başvuru, zarara yol açan aracın bu sigortayı yaptığı şirkete yapılır. Kişinin kendi aracı için yaptırdığı kasko ayrı bir sözleşmedir ve kendi şartlarına tabidir.
 
-Sigorta, poliçedeki teminat tutarına kadar ödeme yapar. Bazı talepler ise kanun gereği bu sigortanın kapsamı dışındadır (m. 92). Manevi tazminat, araçta taşınan eşyanın zararı, gelir kaybı ve kâr kaybı gibi dolaylı zararlar ile hak sahibinin kendi kusuruna denk gelen kısım bunlardandır. Bu talepler için işletene ve kusurlu sürücüye başvurulur.
+Sigorta, poliçedeki teminat tutarına kadar ödeme yapar. Bazı talepler ise kanun gereği bu sigortanın kapsamı dışındadır (m. 92). Manevi tazminat, araçta taşınan eşyanın zararı, gelir kaybı ve kâr kaybı gibi dolaylı zararlar ile hak sahibinin kendi kusuruna denk gelen kısım bunlardandır. Bunlardan kendi kusurunuza denk gelen kısım kimseden istenemez; diğer talepler için işletene ve kusurlu sürücüye başvurulur.
 
 ## Yazılı başvuru ve 15 günlük süre
 

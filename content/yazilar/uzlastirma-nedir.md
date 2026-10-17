@@ -83,4 +83,4 @@ Soruşturma aşamasında şüpheli edimini bir defada yerine getirirse kovuştur
 
 Dava aşamasında sanık edimini bir defada yerine getirirse mahkeme davanın düşmesine karar verir. Edim ileri tarihe bırakılmış ya da taksitlendirilmişse durma kararı verilir; yükümlülük yerine getirilmezse yargılama kaldığı yerden sürer.
 
-Uzlaşma sağlandığında aynı suç nedeniyle tazminat davası açılamaz. Şüpheli edimini yerine getirmezse uzlaşma raporu ya da belgesi, İcra ve İflas Kanunu'nun 38. maddesindeki ilam niteliğindeki belgelerden sayılır ve alacak bu belgeyle icra yoluyla istenebilir. Suçu birden fazla kişi işlemişse yalnızca uzlaşan kişi uzlaşmadan yararlanır.
+Uzlaşma sağlandığında, uzlaşma anında tespit edilemeyen ya da uzlaşmadan sonra ortaya çıkan zararlar hariç, aynı suç nedeniyle tazminat davası açılamaz. Şüpheli edimini yerine getirmezse uzlaşma raporu ya da belgesi, İcra ve İflas Kanunu'nun 38. maddesindeki ilam niteliğindeki belgelerden sayılır ve alacak bu belgeyle icra yoluyla istenebilir. Suçu birden fazla kişi işlemişse yalnızca uzlaşan kişi uzlaşmadan yararlanır.

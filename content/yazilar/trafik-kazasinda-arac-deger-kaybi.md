@@ -72,7 +72,7 @@ Kanunun 92. maddesi bazı talepleri bu sigortanın dışında tutar. Değer kayb
 - Gelir kaybı, kâr kaybı, iş durması ve kira mahrumiyeti gibi dolaylı zararlar. Ticari bir aracın serviste kaldığı günlerde elde edemediği kazanç buna örnektir.
 - Araçta taşınan eşyanın uğradığı zararlar ve manevi tazminat talepleri.
 
-Sigortanın ödemediği bu kalemler için işletene ve kusurlu sürücüye başvurulabilir.
+Sigortanın ödemediği bu kalemler için işletene ve kusurlu sürücüye başvurulabilir. Hak sahibinin kendi kusuruna denk gelen kısım ise bunun dışındadır; bu kısım kimseden istenemez.
 
 ## Önce sigorta şirketine yazılı başvuru
 
