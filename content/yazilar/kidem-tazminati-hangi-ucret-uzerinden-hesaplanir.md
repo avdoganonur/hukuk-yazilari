@@ -48,8 +48,7 @@ Yargıtay kararlarında hesaba katıldığı kabul edilen ödemelerden bazılar�
 
 - İkramiye ve süreklilik gösteren primler,
 - Yemek yardımı, servis ya da yol yardımı,
-- Yakacak ve giyim yardımı,
-- İşverenin işçi için ödediği özel sağlık sigortası primleri.
+- Yakacak ve giyim yardımı.
 
 İşveren yemeği işyerinde veriyor ya da servisi kendisi sağlıyorsa da sonuç değişmez. Bu imkânların para ile ölçülebilen bir değeri vardır ve bu değer ücrete eklenir. Uyuşmazlık çıktığında bordrolar, banka kayıtları ve işyerindeki uygulamayı gösteren belgeler bu yüzden önem taşır.
 
