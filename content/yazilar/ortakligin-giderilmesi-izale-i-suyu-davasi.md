@@ -54,7 +54,7 @@ Paylı mülkiyette her paydaş malın paylaşılmasını isteyebilir. Bir hukuki
 
 Taşınır ve taşınmazların paylaştırılmasına ve ortaklığın giderilmesine ilişkin uyuşmazlıklarda dava açmadan önce arabulucuya başvurmak zorunludur; kanun bunu dava şartı sayar (6325 sayılı Kanun m. 18/B). Başvuru, davaya bakmaya yetkili mahkemenin bulunduğu yerdeki arabuluculuk bürosuna, büro kurulmamış yerlerde görevlendirilen yazı işleri müdürlüğüne yapılır (m. 18/A).
 
-Arabulucu, görevlendirildiği tarihten başlayarak üç hafta içinde süreci sonuçlandırır. Zorunlu hâllerde bu süre en fazla bir hafta uzatılabilir. Anlaşma sağlanamazsa düzenlenen son tutanağın aslı ya da arabulucunun onayladığı bir örneği dava dilekçesine eklenir. Arabulucuya hiç başvurulmadan açılan dava, dava şartı yokluğundan usulden reddedilir. İlk toplantıya geçerli bir mazereti olmadan katılmayan taraf ise davada kısmen ya da tamamen haklı çıksa bile yargılama giderlerinin yarısından sorumlu tutulur.
+Arabulucu, görevlendirildiği tarihten başlayarak üç hafta içinde süreci sonuçlandırır. Zorunlu hâllerde bu süre en fazla bir hafta uzatılabilir. Anlaşma sağlanamazsa düzenlenen son tutanağın aslı ya da arabulucunun onayladığı bir örneği dava dilekçesine eklenir. Arabulucuya hiç başvurulmadan açılan dava, dava şartı yokluğundan usulden reddedilir. İlk toplantıya geçerli bir mazereti olmadan katılmayan taraf ise davada kısmen ya da tamamen haklı çıksa bile karşı tarafın ödemekle yükümlü olduğu yargılama giderlerinin yarısından sorumlu tutulur; ayrıca bu taraf lehine, Avukatlık Asgari Ücret Tarifesine göre belirlenen vekâlet ücretinin yalnızca yarısına hükmedilir. İki taraf da ilk toplantıya katılmazsa, sonra açılan davada her iki tarafın yaptığı yargılama giderleri kendi üzerinde kalır.
 
 Taraflar anlaşırsa anlaşma belgesine icra edilebilirlik şerhi alınması zorunludur. Taşınmazla ilgili anlaşmalarda bu şerh, taşınmazın bulunduğu yer sulh hukuk mahkemesinden alınır. Mahkeme, anlaşmanın taşınmazlarla ilgili kanuni sınırlamalara uyup uymadığını da denetler. Şerh alındıktan sonra taraflardan biri, taşınmazın devrine ilişkin anlaşmaya dayanarak tapu müdürlüğünden tescil isteyebilir; bunun için ayrıca resmî senet düzenlenmez.
 
@@ -62,7 +62,7 @@ Taraflar anlaşırsa anlaşma belgesine icra edilebilirlik şerhi alınması zor
 
 Ortaklığın giderilmesi davalarına, taşınmazın değeri ne olursa olsun sulh hukuk mahkemesi bakar (Hukuk Muhakemeleri Kanunu m. 4). Taşınmazın bulunduğu yer mahkemesi kesin yetkilidir. Dava birden fazla taşınmaza ilişkinse, taşınmazlardan birinin bulunduğu yerde diğerleri için de açılabilir (m. 12).
 
-Dava, paydaşlardan biri ya da birkaçı tarafından diğer paydaşlara karşı açılır. Yargıtay uygulamasına göre bütün paydaşların davada yer alması zorunludur. Paydaşlardan biri ölmüşse, mirasçıları mirasçılık belgesine (veraset ilamı) göre davaya katılmadan mahkeme esasa girmez. Güncel tapu kaydını ve ölen paydaşların mirasçılık belgelerini baştan hazırlamak, davanın bu yüzden uzamasını önler.
+Dava, paydaşlardan biri ya da birkaçı tarafından diğer paydaşlara karşı açılır. Yargıtay uygulamasına göre bütün paydaşların davada yer alması zorunludur. Paydaşlardan biri ölmüşse, onun yerine mirasçılarının davada yer alması gerekir; mirasçılar mirasçılık belgesiyle (veraset ilamı) belirlenir. Güncel tapu kaydını ve ölen paydaşların mirasçılık belgelerini baştan hazırlamak, davanın bu yüzden uzamasını önler.
 
 ## Aynen bölme ya da satış
 
