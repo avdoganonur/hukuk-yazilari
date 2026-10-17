@@ -2,7 +2,7 @@
 baslik: "Tüketici hakem heyeti mi, tüketici mahkemesi mi? Nereye ve nasıl başvurulur"
 aciklama: "Tüketici uyuşmazlığında hakem heyeti ile mahkeme arasındaki ayrım, parasal sınırın işleyişi, kararlara itiraz süresi ve dava öncesi arabuluculuk."
 tarih: 2026-10-17
-alan: tazminat-hukuku
+alan: tuketici-hukuku
 dayanak:
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 66"
     not: "Tüketici hakem heyetlerinin kuruluşu ve üyeleri"

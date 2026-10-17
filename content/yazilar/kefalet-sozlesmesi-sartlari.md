@@ -2,7 +2,7 @@
 baslik: "Kefil olmak: kefalet ne zaman geçerli olur, kefil hangi borçtan ne kadar sorumludur?"
 aciklama: "Kefalette el yazısı ve azami miktar şartı, eşin yazılı rızası, adi ve müteselsil kefalet farkı, kefilin sorumluluk sınırı ve on yıllık süre."
 tarih: 2026-10-17
-alan: icra-hukuku
+alan: borclar-hukuku
 dayanak:
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 581"
     not: "Kefalet sözleşmesinin tanımı"

@@ -2,7 +2,7 @@
 baslik: "Ayıplı mal aldım: tüketicinin seçimlik hakları ve süreler"
 aciklama: "Bozuk ya da eksik çıkan bir malda tüketicinin seçebileceği dört hak, satıcının onarım süresi, ispat kuralı ve iki yıllık zamanaşımı."
 tarih: 2026-10-17
-alan: tazminat-hukuku
+alan: tuketici-hukuku
 dayanak:
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 3"
     not: "Tüketici, satıcı ve mal tanımları"

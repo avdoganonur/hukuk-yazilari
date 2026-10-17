@@ -2,7 +2,7 @@
 baslik: "Kamulaştırma bedeline itiraz: bedel tespiti davası ve kamulaştırmaya karşı iptal davası"
 aciklama: "Taşınmazı kamulaştırılan malikin hakları: uzlaşma görüşmesi, bedel tespiti ve tescil davası, bilirkişi değerlemesi ve 30 günlük iptal davası süresi."
 tarih: 2026-10-17
-alan: tasinmaz-ve-kira
+alan: vergi-hukuku
 dayanak:
   - ad: "2942 sayılı Kamulaştırma Kanunu m. 3"
     not: "Bedelin nakden ve peşin ödenmesi, ödenek şartı"

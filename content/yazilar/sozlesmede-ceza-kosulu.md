@@ -2,7 +2,7 @@
 baslik: "Sözleşmedeki cezai şart: ne zaman ödenir, fahişse mahkeme indirir mi?"
 aciklama: "Ceza koşulunun türleri, zarar olmasa da ödenmesi, aşırı cezanın hâkimce indirilmesi ve tacir, işçi ve kiracı için getirilen özel kurallar."
 tarih: 2026-10-17
-alan: tazminat-hukuku
+alan: borclar-hukuku
 dayanak:
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 179"
     not: "Ceza koşulunun türleri: seçimlik ceza, ifaya eklenen ceza, dönme cezası"

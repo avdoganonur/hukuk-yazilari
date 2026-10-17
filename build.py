@@ -330,12 +330,22 @@ def alan_sayilari(yazilar: list[dict]) -> list[tuple[str, str, int]]:
 
 
 def konu_menusu(yazilar: list[dict], aktif: str = "") -> str:
-    ogeler = []
+    """Liste sayfalarındaki tek satırlık, kaydırılabilir konu şeridi."""
+    tum_akim = ' aria-current="page"' if not aktif else ""
+    ogeler = [f'<li><a href="/yazilar/"{tum_akim}>Tümü</a></li>']
     for anahtar, ad, n in alan_sayilari(yazilar):
         akim = ' aria-current="page"' if anahtar == aktif else ""
-        ogeler.append(f'<li><a href="/konu/{anahtar}/"{akim}><span>{e(ad)}</span>'
-                      f'<span class="sayi">{n} yazı</span></a></li>')
+        ogeler.append(f'<li><a href="/konu/{anahtar}/"{akim}>{e(ad)}<span class="sayi">{n}</span></a></li>')
     return "<ul>" + "".join(ogeler) + "</ul>"
+
+
+def konu_izgarasi(yazilar: list[dict]) -> str:
+    """Ana sayfadaki konu kutuları."""
+    ogeler = []
+    for anahtar, ad, n in alan_sayilari(yazilar):
+        ogeler.append(f'<li><a href="/konu/{anahtar}/"><span class="konu-ad">{e(ad)}</span>'
+                      f'<span class="konu-sayi">{n} yazı</span></a></li>')
+    return '<ul class="konu-izgara">' + "".join(ogeler) + "</ul>"
 
 
 def kisi_jsonld() -> dict:
@@ -388,11 +398,11 @@ def ana_sayfa(yazilar: list[dict]) -> str:
     <h1>Doğan Hukuk Bürosu</h1>
     <p class="giris-acik">Doğan Hukuk Bürosu, Kayseri Barosu'na kayıtlı Av. Onur Doğan tarafından Kocasinan / Kayseri'de yürütülmektedir. Bu sitede yayımlanan yazılar, güncel mevzuat esas alınarak hazırlanan genel bilgilendirme metinleridir; her yazıda dayanılan kanun hükümleri ayrıca belirtilir.</p>
   </div>
-  <nav class="konular" aria-labelledby="konular-b">
-    <h2 id="konular-b">Konular</h2>
-    {konu_menusu(yazilar)}
-  </nav>
 </section>
+<nav class="kap konular" aria-labelledby="konular-b">
+  <h2 id="konular-b" class="bolum-baslik">Konular</h2>
+  {konu_izgarasi(yazilar)}
+</nav>
 <section class="kap liste-bolum" aria-labelledby="son-b">
   <h2 id="son-b" class="bolum-baslik">Son yazılar</h2>
   {liste(son)}
@@ -420,7 +430,8 @@ def konu_sayfasi(anahtar: str, ad: str, yazilar: list[dict], tumu: list[dict]) -
   <p class="sayfa-acik">{len(yazilar)} yazı.</p>
   <nav class="konu-serit" aria-label="Konulara göre">{konu_menusu(tumu, anahtar)}</nav>
 </section>
-<section class="kap liste-bolum">{liste(yazilar, 2)}</section>"""
+<section class="kap liste-bolum">{liste(yazilar, 2)}</section>
+<script>(function(){{var a=document.querySelector('.konu-serit [aria-current="page"]');if(!a)return;var s=a.closest('.konu-serit');if(s.scrollWidth<=s.clientWidth)return;s.scrollLeft=a.offsetLeft-(s.clientWidth-a.offsetWidth)/2;}})();</script>"""
     return sayfa(baslik=f"{ad} yazıları",
                  aciklama=f"{SITE['ad']}: {ad.lower()} alanında hukukçu olmayan okurlar için yazılar.",
                  yol=f"/konu/{anahtar}/", icerik=icerik, aktif="yazilar")

@@ -2,7 +2,7 @@
 baslik: "Kat karşılığı inşaat sözleşmesi: şekil şartı ve müteahhit gecikirse arsa sahibinin hakları"
 aciklama: "Arsa payı karşılığı inşaat sözleşmesinin noterde yapılma zorunluluğu, tapuya şerh, müteahhidin gecikmesinde sözleşmeden dönme, cezai şart ve ayıplı yapı."
 tarih: 2026-10-17
-alan: tasinmaz-ve-kira
+alan: borclar-hukuku
 dayanak:
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 470"
     not: "Eser sözleşmesinin tanımı"
