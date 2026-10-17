@@ -46,7 +46,7 @@ Gece ve gündüz işleyen, işçilerin nöbetleşe çalıştığı işyerlerinde
 
 Vardiya değişiminde işçinin dinlenme hakkı da korunur. Postası değiştirilecek işçi, kesintisiz en az on bir saat dinlendirilmeden diğer postada çalıştırılamaz. Gece postasından çıkan bir işçiyi birkaç saat sonra gündüz postasına çağırmak bu nedenle kanuna aykırıdır.
 
-Yönetmelik ayrıca zorunluluk olmadıkça işçilerin postalarının değiştirilemeyeceğini söyler. İşveren vardiya düzenini sık sık ve keyfî biçimde değiştiremez; değişiklik ancak işin gerektirdiği hâllerde yapılabilir.
+Yönetmelik ayrıca zorunluluk olmadıkça işçilerin postalarının değiştirilemeyeceğini söyler. İşveren vardiya düzenini keyfî biçimde değiştiremez; değişiklik ancak bir zorunluluk bulunduğunda yapılabilir.
 
 ## Sağlık durumu ve sağlık raporu
 
@@ -54,7 +54,7 @@ Gece çalışmasının sağlık üzerindeki etkisi kanun koyucunun en çok dikka
 
 Buna göre işveren, çalışanların maruz kaldığı riskleri dikkate alarak onları sağlık gözetimine tabi tutmak zorundadır. İşe girişte, iş değişikliğinde ve işin devamı süresince belirlenen düzenli aralıklarla sağlık muayenesi yaptırılır. Tehlikeli ve çok tehlikeli sınıftaki işlerde çalışacaklar, işe uygun olduklarını gösteren sağlık raporu olmadan işe başlatılamaz. Bu muayenelerin masrafı işverene aittir ve işçiye yansıtılamaz. Sağlık bilgileri gizli tutulur.
 
-Gece çalışması yüzünden sağlığı bozulan işçi için yönetmelikte ayrı bir kural vardır. Gece çalışması nedeniyle sağlığının bozulduğunu raporla belgeleyen işçiye işveren, olanakların elverdiği ölçüde gündüz postasında durumuna uygun bir iş vermekle yükümlüdür. Bu yükümlülük işverenin imkânlarıyla sınırlıdır; gündüz postasında uygun bir iş yoksa işverenin yeni bir kadro yaratması beklenmez. Yine de raporu işverene yazılı olarak iletmek ve bir örneğini saklamak, ileride doğabilecek bir uyuşmazlıkta işçinin elini güçlendirir.
+Gece çalışması yüzünden sağlığı bozulan işçi için yönetmelikte ayrı bir kural vardır. Gece çalışması nedeniyle sağlığının bozulduğunu raporla belgeleyen işçiye işveren, olanakların elverdiği ölçüde gündüz postasında durumuna uygun bir iş vermekle yükümlüdür. Bu yükümlülük işverenin olanaklarıyla sınırlıdır. Yine de raporu işverene yazılı olarak iletmek ve bir örneğini saklamak, ileride doğabilecek bir uyuşmazlıkta işçinin elini güçlendirir.
 
 ## Kurallara uyulmazsa
 

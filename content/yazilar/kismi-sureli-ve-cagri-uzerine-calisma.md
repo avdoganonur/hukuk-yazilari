@@ -37,7 +37,7 @@ Kısmi süreli sözleşme, belirli ya da belirsiz süreli olabilir. Sözleşmeni
 
 Kanun, kısmi süreli işçinin yalnızca sözleşmesi kısmi süreli olduğu için tam süreli emsal işçiye göre farklı işleme tabi tutulamayacağını açıkça söyler. Ayrımı haklı kılan bir neden varsa farklı uygulama yapılabilir; ama "yarı zamanlı" olmak tek başına böyle bir neden değildir.
 
-Ücret ve paraya ilişkin bölünebilir haklar ise çalışılan süreye orantılı ödenir. Bölünebilir hak, parayla ölçülebilen ve süreye göre paylaştırılabilen menfaattir: ücret, ikramiye, yol ve yemek parası bunlara örnektir. Tam süreli bir işçinin haftada kırk beş saat çalışıp aldığı ücretin, haftada yirmi saat çalışan kısmi süreli işçiye aynı oranda, yani çalıştığı süreye göre ödenmesi gerekir. Saat ücreti düşürülemez.
+Ücret ve paraya ilişkin bölünebilir haklar ise çalışılan süreye orantılı ödenir. Bölünebilir hak, parayla ölçülebilen ve süreye göre paylaştırılabilen menfaattir: ücret, ikramiye, yol ve yemek parası bunlara örnektir. Tam süreli bir işçinin haftada kırk beş saat çalışıp aldığı ücretin, haftada yirmi saat çalışan kısmi süreli işçiye aynı oranda, yani çalıştığı süreye göre ödenmesi gerekir. Ayrımı haklı kılan bir neden yoksa, yalnızca kısmi süreli çalışıldığı için daha düşük saat ücreti uygulanamaz.
 
 Kanun işçiye çalışma biçimini değiştirme isteğinde bulunma imkânı da tanır. İşyerinde niteliklerine uygun açık yer bulunduğunda işçinin kısmi süreliden tam süreliye ya da tam süreliden kısmi süreliye geçme isteği işverence dikkate alınır ve boş yerler zamanında duyurulur. Bu hüküm işverene işçinin isteğini kabul etme zorunluluğu yüklemez, ama isteği değerlendirmesini ister.
 
