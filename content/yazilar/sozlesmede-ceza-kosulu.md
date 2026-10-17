@@ -1,6 +1,11 @@
 ---
 baslik: "Sözleşmedeki cezai şart: ne zaman ödenir, fahişse mahkeme indirir mi?"
 aciklama: "Ceza koşulunun türleri, zarar olmasa da ödenmesi, aşırı cezanın hâkimce indirilmesi ve tacir, işçi ve kiracı için getirilen özel kurallar."
+kisaca:
+  - "Alacaklı hiçbir zarara uğramamış olsa bile sözleşmede kararlaştırılan ceza ödenir."
+  - "Hâkim aşırı gördüğü ceza koşulunu kendiliğinden indirir; ancak tacir borçlu fahişlik gerekçesiyle indirim isteyemez."
+  - "Hizmet sözleşmelerinde yalnızca işçi aleyhine konulan ceza koşulu geçersizdir."
+  - "Kiranın zamanında ödenmemesi hâlinde kiracının ceza ödeyeceğine ilişkin anlaşmalar geçersizdir."
 tarih: 2026-10-17
 alan: borclar-hukuku
 dayanak:

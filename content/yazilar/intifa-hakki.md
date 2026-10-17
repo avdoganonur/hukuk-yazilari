@@ -1,6 +1,11 @@
 ---
 baslik: "İntifa hakkı nedir? Kurulması, sona ermesi ve malikin hakları"
 aciklama: "Bir taşınmazda oturma ve kiraya verme gibi yararlanma yetkisi veren intifa hakkı nasıl kurulur, ne zaman biter, çıplak malikin hakları nelerdir?"
+kisaca:
+  - "İntifa hakkı, başkasına ait bir malı kullanma ve ondan yararlanma yetkisi verir; mülkiyet malikte kalır."
+  - "Taşınmazlarda intifa hakkı tapuya tescil ile kurulur; tescil edilen hak herkese karşı ileri sürülebilir."
+  - "İntifa hakkı sahibi evde oturabilir veya evi kiraya verip kira gelirini alabilir."
+  - "Gerçek kişilerde intifa hakkı hak sahibinin ölümüyle sona erer; mirasçılar bu hakkı devam ettiremez."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "İşçilik alacaklarında zorunlu arabuluculuk: başvuru, süreler ve ücret"
 aciklama: "Kıdem, ihbar, ücret ve fazla çalışma alacakları için dava öncesi arabulucuya başvuru: nereye başvurulur, süreç nasıl işler, ücreti kim öder?"
+kisaca:
+  - "Kıdem, ihbar, ücret ve fazla çalışma gibi alacaklar için dava açmadan önce arabulucuya başvurmak zorunludur."
+  - "Arabulucuya gidilmeden açılan dava usulden reddedilir; iş kazası tazminat davaları bu kuralın dışındadır."
+  - "Arabulucu süreci üç hafta içinde sonuçlandırır; zorunlu hâllerde bu süre en fazla bir hafta uzatılabilir."
+  - "Geçerli mazereti olmadan ilk toplantıya katılmayan taraf, davada haklı çıksa bile yargılama giderlerinin yarısından sorumlu tutulur."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

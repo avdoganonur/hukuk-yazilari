@@ -1,6 +1,11 @@
 ---
 baslik: "Kişisel verileri hukuka aykırı kaydetme, verme ve yayma suçları"
 aciklama: "Başkasının telefonunu, adresini, sağlık bilgisini ya da fotoğrafını izinsiz kaydetmenin, paylaşmanın ve yaymanın cezası; şikâyet ve KVKK başvurusu."
+kisaca:
+  - "Kişisel verileri hukuka aykırı olarak kaydeden kişiye bir yıldan üç yıla kadar hapis cezası verilir."
+  - "Kişisel verileri hukuka aykırı olarak başkasına veren, yayan ya da ele geçiren kişiye iki yıldan dört yıla kadar hapis cezası verilir."
+  - "Bu suçlar şikâyete bağlı değildir, savcılık kendiliğinden soruşturur ve şikâyetten vazgeçmek süreci durdurmaz."
+  - "Veri sorumlusu başvuruya otuz gün içinde cevap vermezse ya da cevap yetersizse Kişisel Verileri Koruma Kuruluna şikâyet edilebilir."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

@@ -1,6 +1,10 @@
 ---
 baslik: "Boşanan kadının yeniden evlenmesi: 300 günlük bekleme süresi ve kaldırılması"
 aciklama: "Evliliği sona eren kadının yeniden evlenmek için beklemesi gereken 300 gün, sürenin kendiliğinden bittiği hâl ve mahkemeden kaldırılması."
+kisaca:
+  - "Evliliği sona eren kadın, evliliğin sona ermesinden başlayarak üç yüz gün geçmedikçe evlenemez; erkek için böyle bir süre yoktur."
+  - "Boşanmada süre, davanın açıldığı ya da ayrı yaşamaya başlanan tarihten değil, kararın kesinleştiği tarihten işler."
+  - "Kadın doğum yaparsa süre kendiliğinden biter; gebe olmadığı anlaşılırsa ya da eski eşle yeniden evlenilecekse mahkeme süreyi kaldırır."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

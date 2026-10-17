@@ -1,6 +1,11 @@
 ---
 baslik: "Şikâyete bağlı suçlarda şikâyet süresi ne kadar, şikâyetten nasıl vazgeçilir?"
 aciklama: "Şikâyete bağlı suçlarda altı aylık sürenin başladığı an, hakaret için iki yıllık sınır, şikâyetin yapılacağı yer ve vazgeçmenin sonuçları."
+kisaca:
+  - "Şikâyete bağlı suçlarda şikâyet, fiilin ve failin öğrenildiği günden başlayarak altı ay içinde yapılmalıdır."
+  - "Hakarette şikâyet süresi, fiilin gerçekleştiği tarihten itibaren iki yılı geçemez."
+  - "Hüküm kesinleşinceye kadar yapılan vazgeçme, kanunda aksi yazılı olmadıkça davayı düşürür."
+  - "Vazgeçerken şahsi haklardan da vazgeçildiği açıklanırsa, sonradan hukuk mahkemesinde tazminat davası açılamaz."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

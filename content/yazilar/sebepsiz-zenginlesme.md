@@ -1,6 +1,11 @@
 ---
 baslik: "Yanlış hesaba para gönderdim: sebepsiz zenginleşme ve paranın geri istenmesi"
 aciklama: "Yanlışlıkla başkasına giden paranın sebepsiz zenginleşme hükümlerine göre geri istenmesi, ispat, iadenin kapsamı ve iki ile on yıllık zamanaşımı."
+kisaca:
+  - "Yanlış hesaba giden para, sebepsiz zenginleşme hükümlerine göre alıcıdan geri istenebilir."
+  - "Paranın kendisine ait olmadığını bilen ya da bunu hesaba katması gereken kişi, harcamış olsa bile tamamını geri verir."
+  - "İstem hakkı, geri isteme hakkının öğrenilmesinden itibaren iki yılda ve her hâlde on yılda zamanaşımına uğrar."
+  - "İade için yapılan yazışmalar zamanaşımını durdurmaz; zamanaşımı icra takibi ya da dava ile kesilir."
 tarih: 2026-10-17
 alan: borclar-hukuku
 dayanak:

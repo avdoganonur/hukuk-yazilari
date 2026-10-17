@@ -1,6 +1,11 @@
 ---
 baslik: "Mirasın reddi: borçlu bir mirası nasıl ve ne zamana kadar reddedersiniz?"
 aciklama: "Borçla ölen bir yakının mirasını reddetmek için üç aylık süre, sulh hukuk mahkemesine başvuru, hükmen ret ve ret hakkını kaybettiren davranışlar."
+kisaca:
+  - "Yasal mirasçı, ölümün öğrenildiği tarihten itibaren üç ay içinde mirası reddedebilir."
+  - "Ret, sulh hukuk mahkemesine sözlü ya da yazılı beyanla yapılır ve kayıtsız şartsız olmalıdır."
+  - "Tereke işlerine karışan ya da tereke mallarını kendine mal eden mirasçı artık mirası reddedemez."
+  - "Reddedilen pay reddedenin çocuklarına geçebileceğinden, borçtan kurtulmak için onların da ayrıca reddetmesi gerekir."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

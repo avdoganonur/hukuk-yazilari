@@ -1,6 +1,11 @@
 ---
 baslik: "İhtiyati tedbir: dava açmadan veya dava sırasında nasıl istenir?"
 aciklama: "Hakkın kaybolmasını önlemek için mahkemeden ihtiyati tedbir istemenin şartları, teminat, uygulama ve dava açma süreleri, karara itiraz ve tazminat."
+kisaca:
+  - "Hakkın elde edilmesinin zorlaşacağından ya da gecikmenin ciddi zarar doğuracağından endişe ediliyorsa tedbir istenebilir."
+  - "Tedbir kararının uygulanması tefhim veya tebliğden itibaren bir hafta içinde istenmezse karar kendiliğinden kalkar."
+  - "Dava açılmadan alınan tedbirde, uygulamanın istendiği tarihten itibaren iki hafta içinde esas dava açılmalıdır."
+  - "Kendisi dinlenmeden hakkında tedbir kararı verilen taraf bir hafta içinde itiraz edebilir."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Boşanmada velayet: mahkeme çocuğun kime verileceğine neye bakarak karar verir?"
 aciklama: "Boşanmada velayet kararının ölçütü olan çocuğun üstün yararı, hâkimin takdir yetkisi, uzman raporu ve çocuğun dinlenmesinin dayanağı."
+kisaca:
+  - "Mahkeme velayette çocuğun üstün yararına bakar ve çocuğun hangi ebeveynin yanında daha sağlıklı büyüyeceğini araştırır."
+  - "Kanunda çocuğun belli bir yaşa kadar anneye bırakılacağına dair bir kural yoktur."
+  - "Çocuğun görüşüne yaşı ve olgunluğu ölçüsünde ağırlık verilir, ancak bu görüş tek başına bağlayıcı değildir."
+  - "Velayet verilmeyen ebeveynle çocuk arasındaki kişisel ilişki de boşanma kararıyla birlikte düzenlenir."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

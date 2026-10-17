@@ -1,6 +1,10 @@
 ---
 baslik: "Ceza mahkemesi kararına istinaf süresi ne kadar, başvuru nasıl yapılır?"
 aciklama: "Ceza davasında verilen hükme karşı iki haftalık istinaf süresinin başladığı an, dilekçe ya da beyanla başvuru ve istinafa gidilemeyen kararlar."
+kisaca:
+  - "Ceza kararına karşı istinaf süresi iki haftadır ve gerekçeli kararın tebliğinden itibaren işler."
+  - "Duruşmada kısa kararın okunması süreyi başlatmaz; başvuru hükmü veren mahkemeye dilekçe ya da sözlü beyanla yapılır."
+  - "Yalnızca sanık lehine istinafa başvurulmuşsa yeni hüküm, önceki hükümle belirlenen cezadan daha ağır olamaz."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

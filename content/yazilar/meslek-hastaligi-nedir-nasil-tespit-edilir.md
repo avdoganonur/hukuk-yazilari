@@ -1,6 +1,11 @@
 ---
 baslik: "Meslek hastalığı nedir, nasıl tespit edilir?"
 aciklama: "Meslek hastalığının kanuni tanımı, SGK Sağlık Kurulunun tespit süreci, işten ayrıldıktan sonra ortaya çıkan hastalıklar ve işverenin bildirim yükümlülüğü."
+kisaca:
+  - "Meslek hastalığı, yapılan işin niteliğinden ya da yürütüm şartlarından kaynaklanan geçici veya sürekli hastalık ve engellilik hâlleridir."
+  - "Meslek hastalığını SGK Sağlık Kurulu tespit eder; kişinin kendi doktorunun raporu tek başına yeterli değildir."
+  - "İşveren, meslek hastalığını öğrendiği günden başlayarak üç iş günü içinde SGK'ya bildirmek zorundadır."
+  - "SGK'ya karşı dava açmadan önce Kuruma başvurmak gerekir; meslek hastalığı tespit davalarında arabuluculuk şartı yoktur."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

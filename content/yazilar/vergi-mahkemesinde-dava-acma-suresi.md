@@ -1,6 +1,11 @@
 ---
 baslik: "Vergi mahkemesinde dava açma süresi ne kadar, ne zaman başlar ve dava nasıl açılır?"
 aciklama: "Vergi davalarında otuz günlük süre, sürenin başladığı an, tatil ve adli ara verme, yetkili mahkeme, dilekçenin içeriği ve tahsilin durması."
+kisaca:
+  - "Özel kanunlarda ayrı süre gösterilmemişse vergi mahkemesinde dava açma süresi otuz gündür."
+  - "İhbarname gibi bir tebliğ yapılmışsa süre, tebliğ tarihini izleyen günden itibaren işlemeye başlar."
+  - "Sürenin son günü tatile rastlarsa süre, tatili izleyen ilk çalışma gününün bitimine kadar uzar."
+  - "Vergi davası açılması, kural olarak dava konusu edilen vergi ve cezaların tahsilini durdurur."
 tarih: 2026-10-17
 alan: vergi-hukuku
 dayanak:

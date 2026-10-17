@@ -1,6 +1,11 @@
 ---
 baslik: "Velayetin değiştirilmesi: boşanmadan sonra velayet hangi durumlarda diğer ebeveyne geçer?"
 aciklama: "Boşanmada verilen velayetin sonradan değiştirilmesi: durumun değişmesi, yeniden evlenme, kişisel ilişkiye uyulmaması ve mahkemenin ölçütü."
+kisaca:
+  - "Ana ya da babanın evlenmesi, taşınması veya ölmesi gibi yeni olgular zorunlu kılarsa hâkim gerekli önlemleri alır."
+  - "Velayet sahibinin yeniden evlenmesi tek başına yetmez; çocuğun menfaati gerektirirse velayet değiştirilebilir."
+  - "Kişisel ilişkiye uyulmazsa, çocuğun menfaatine aykırı olmamak kaydıyla velayetin değiştirilmesi istenebilir."
+  - "Kanun bu dava için bir süre öngörmez; davaya aile mahkemesi bakar."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

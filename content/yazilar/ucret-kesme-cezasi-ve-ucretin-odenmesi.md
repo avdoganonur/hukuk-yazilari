@@ -1,6 +1,11 @@
 ---
 baslik: "Ücret ne zaman ve nasıl ödenir, işveren maaştan kesinti yapabilir mi?"
 aciklama: "İş Kanunu'na göre ücretin ödeme zamanı ve şekli, ücret hesap pusulası, ücret kesme cezasının sınırları ve işverenin alacağını maaştan düşmesi."
+kisaca:
+  - "Ücret en geç ayda bir ödenir; sözleşmeyle ödeme süresi bir haftaya kadar indirilebilir."
+  - "İşveren, işçiden olan alacağını işçinin rızası olmadıkça ücret borcuyla takas edemez, yani maaştan düşemez."
+  - "Ücret kesme cezası yalnızca sözleşmede gösterilen sebeplerle verilebilir ve bir ayda iki gündelikten fazla olamaz."
+  - "Ücret alacaklarında zamanaşımı süresi beş yıldır."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

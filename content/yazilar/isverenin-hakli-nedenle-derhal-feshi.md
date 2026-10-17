@@ -1,6 +1,11 @@
 ---
 baslik: "İşveren iş sözleşmesini hangi hâllerde haklı nedenle derhal feshedebilir?"
 aciklama: "İşverenin bildirim süresi beklemeden sözleşmeyi bitirebileceği hâller, altı iş günü ve bir yıllık süreler, kıdem ve ihbar tazminatına etkisi."
+kisaca:
+  - "İşveren; sağlık sebepleri, ahlak ve iyiniyet kurallarına uymayan hâller, zorlayıcı sebepler, gözaltı ve tutuklulukta derhal fesih yapabilir."
+  - "Ahlak ve iyiniyet hâllerinde fesih, olayın öğrenildiği günden itibaren altı iş günü içinde yapılmalıdır."
+  - "Haklı nedenle fesihte işveren ihbar tazminatı ödemez."
+  - "Kıdem tazminatı yalnızca ahlak ve iyiniyet kurallarına uymayan hâllere dayanan fesihte ödenmez."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

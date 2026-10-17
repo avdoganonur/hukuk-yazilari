@@ -1,6 +1,10 @@
 ---
 baslik: "Belirli süreli iş sözleşmesi: şartları, art arda yenilenmesi ve erken fesih"
 aciklama: "Belirli süreli iş sözleşmesi hangi hâllerde yapılır, zincirleme sözleşme ne zaman belirsiz süreliye döner, süre dolmadan feshedilirse ne olur?"
+kisaca:
+  - "Belirli süreli iş sözleşmesi yazılı yapılır ve objektif bir süre ya da koşula dayanmalıdır."
+  - "Esaslı bir neden olmadan art arda yapılan sözleşme başlangıçtan itibaren belirsiz süreli kabul edilir."
+  - "İşveren haklı sebep olmadan süresinden önce feshederse işçi, süreye uyulsaydı kazanacağı miktarı tazminat olarak isteyebilir."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

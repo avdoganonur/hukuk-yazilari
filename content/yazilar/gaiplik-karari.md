@@ -1,6 +1,11 @@
 ---
 baslik: "Gaiplik kararı: kayıp bir yakının malları ve mirası ne olur?"
 aciklama: "Uzun süredir haber alınamayan ya da ölüm tehlikesinde kaybolan kişi için gaiplik kararı: süreler, ilan, mirasçılara teslim, güvence ve geri verme."
+kisaca:
+  - "Ölüm tehlikesinde kaybolmada en az bir yıl, haber alınamamada son haberden itibaren en az beş yıl geçince gaiplik kararı istenebilir."
+  - "Mahkeme, kayıp kişi hakkında bilgisi olanları en az altı aylık bir ilanla çağırır; sonuç alınamazsa gaipliğe karar verir."
+  - "Mirasçılar tereke mallarını teslim almadan önce güvence göstermek zorundadır; gaip dönerse aldıklarını geri verirler."
+  - "Gaipliğine karar verilen kişinin eşi, mahkemece evliliğin feshine karar verilmedikçe yeniden evlenemez."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

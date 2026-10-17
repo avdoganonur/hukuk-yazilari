@@ -1,6 +1,11 @@
 ---
 baslik: "Taşınmaz ipoteği nasıl kurulur, borç bitince nasıl kaldırılır, ödenmezse ne olur?"
 aciklama: "İpoteğin tapuda kurulması, borç ödenince terkini, süreli ipotekte otuz günlük kural ve borç ödenmezse ipoteğin paraya çevrilmesi süreci."
+kisaca:
+  - "İpotek, tapu müdürlüğünde resmî şekilde yapılan sözleşme ve tapu kütüğüne tescil ile kurulur."
+  - "Borcun ödenmesi ipoteği kendiliğinden silmez; malik alacaklıdan ipoteğin terkinini isteyebilir."
+  - "Süreli ipotekte süre bitiminden itibaren otuz gün içinde takip şerhi konulmamışsa ipotek malikin talebiyle terkin edilir."
+  - "Borç ödenmezse taşınmaz kendiliğinden alacaklıya geçmez; alacaklı icra yoluyla satılmasını isteyebilir."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

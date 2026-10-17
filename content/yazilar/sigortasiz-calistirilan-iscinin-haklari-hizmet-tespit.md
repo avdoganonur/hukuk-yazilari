@@ -1,6 +1,11 @@
 ---
 baslik: "Sigortasız çalıştırıldıysanız ya da gününüz eksik bildirildiyse: haklarınız ve hizmet tespit davası"
 aciklama: "Sigortasız ya da eksik gün ve düşük ücretle bildirilen işçinin hakları, hizmet tespit davası, beş yıllık hak düşürücü süre ve ispat için öneriler."
+kisaca:
+  - "İşçinin sigortalı olması zorunludur; sigorta haklarından vazgeçmek için sözleşmeye konan hükümler geçersizdir."
+  - "Sigortasız ya da eksik gün ve düşük ücretle bildirilen işçi, çalışmasını iş mahkemesinde hizmet tespit davasıyla ispatlayabilir."
+  - "Dava, hizmetlerin geçtiği yılın sonundan başlayarak beş yıl içinde açılmalıdır; her yılın süresi ayrı hesaplanır."
+  - "Hizmet tespiti için dava açmadan önce SGK'ya başvurmak zorunlu değildir."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

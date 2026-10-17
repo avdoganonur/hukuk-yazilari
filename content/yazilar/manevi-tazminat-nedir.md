@@ -1,6 +1,11 @@
 ---
 baslik: "Manevi tazminat nedir, kimler hangi durumlarda isteyebilir?"
 aciklama: "Bedensel zarar, ölüm ve kişilik hakkının zedelenmesi hâllerinde manevi tazminat isteyebilecek kişiler, miktarın belirlenmesi, sigorta ve süreler."
+kisaca:
+  - "Manevi tazminat, bedensel zarar ya da kişilik hakkının zedelenmesi nedeniyle hâkimin uygun gördüğü miktarda paradır."
+  - "Ağır bedensel zarar ve ölüm hâlinde zarar görenin ya da ölenin yakınları da manevi tazminat isteyebilir."
+  - "Manevi tazminat zorunlu trafik sigortasının kapsamı dışındadır; aracın işleteninden ve kusurlu sürücüden istenir."
+  - "Zamanaşımı kural olarak zararı ve sorumluyu öğrenmeden itibaren iki yıl, her hâlde fiilden itibaren on yıldır."
 tarih: 2026-10-17
 alan: tazminat-hukuku
 dayanak:

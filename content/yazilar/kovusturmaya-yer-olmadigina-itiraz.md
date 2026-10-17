@@ -1,6 +1,11 @@
 ---
 baslik: "Kovuşturmaya yer olmadığı kararına nasıl itiraz edilir?"
 aciklama: "Savcının takipsizlik kararına karşı iki haftalık itiraz süresi, başvurulacak sulh ceza hâkimliği, dilekçede yazılması gerekenler ve itirazın sonuçları."
+kisaca:
+  - "Suçtan zarar gören, kovuşturmaya yer olmadığı kararına tebliğden itibaren iki hafta içinde itiraz edebilir."
+  - "İtiraz, kararı veren savcının yargı çevresindeki ağır ceza mahkemesinin bulunduğu yerdeki sulh ceza hâkimliğine yapılır."
+  - "Dilekçede kamu davasının açılmasını gerektirebilecek olaylar ve deliller belirtilmelidir."
+  - "Sulh ceza hâkimliği itirazı reddederse itiraz edeni giderlere mahkûm eder."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Soybağının reddi davası: kim açabilir, süreler ne kadar?"
 aciklama: "Kocanın babalık karinesini çürütmek için açılan soybağının reddi davası: koca, ana ve çocuğun dava hakkı, bir yıllık süreler ve genetik inceleme."
+kisaca:
+  - "Koca, ana ve çocuk soybağının reddi davası açarak kocanın babalık karinesini çürütebilir."
+  - "Koca, davayı doğumu ve baba olmadığını öğrendiği tarihten başlayarak bir yıl içinde açmalıdır."
+  - "Ana doğumdan, çocuk ise ergin olduğu tarihten başlayarak en geç bir yıl içinde dava açmalıdır."
+  - "Davaya aile mahkemesi bakar ve hâkim maddi olguları kendiliğinden araştırır."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

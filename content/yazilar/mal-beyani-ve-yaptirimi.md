@@ -1,6 +1,11 @@
 ---
 baslik: "Mal beyanı nedir, verilmezse ya da yanlış verilirse ne olur?"
 aciklama: "İcra takibinde borçlunun mal beyanı yükümlülüğü, süreleri, beyanda bulunmayana tazyik hapsi, gerçeğe aykırı beyanın cezası ve şikâyet süresi."
+kisaca:
+  - "Borçlu, mallarını, gelirini ve geçimini nasıl sağladığını ödeme ya da icra emrinde yazan süre içinde bildirmelidir."
+  - "Süresinde beyanda bulunmayan borçlu, alacaklının istemiyle beyanda bulununcaya kadar en fazla üç ay tazyik hapsiyle zorlanır."
+  - "Gerçeğe aykırı beyanda bulunan, alacaklının şikâyeti üzerine üç aydan bir yıla kadar hapis cezasıyla cezalandırılır."
+  - "Sonradan edinilen mallar ve gelirdeki artışlar yedi gün içinde icra dairesine bildirilmelidir."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

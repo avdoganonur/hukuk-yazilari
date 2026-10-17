@@ -1,6 +1,11 @@
 ---
 baslik: "Gözaltı süresi ne kadardır, gözaltındaki kişinin hakları nelerdir?"
 aciklama: "Gözaltında en fazla ne kadar tutulabileceğiniz, toplu suçlarda uzatma, yakınlara haber verilmesi, avukat hakkı ve gözaltına karşı başvuru yolu."
+kisaca:
+  - "Gözaltı süresi kural olarak yirmi dört saattir ve yakalama anından başlar; en fazla on iki saatlik yol süresi buna dahil edilmez."
+  - "Toplu suçlarda savcı süreyi her defasında bir gün uzatabilir; uzatmaların toplamı üç günü geçemez."
+  - "Avukatın gözaltındaki şüpheliyle görüşme ve ifadede yanında olma hakkı kural olarak engellenemez."
+  - "Gözaltına karşı kişinin kendisi, avukatı, eşi veya yakınları sulh ceza hâkimine başvurabilir."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

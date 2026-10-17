@@ -1,6 +1,11 @@
 ---
 baslik: "Ceza davalarında uzlaştırma: hangi suçlarda uygulanır, nasıl sonuçlanır?"
 aciklama: "Uzlaştırmaya tabi suçların güncel listesi, uzlaştırmacının yürüttüğü süreç, süreler ve uzlaşmanın soruşturma ile davaya etkisi."
+kisaca:
+  - "Uzlaştırma, mağdur ile şüphelinin tarafsız bir uzlaştırmacı aracılığıyla anlaşmaya çalıştığı yoldur."
+  - "Hakaret, ısrarlı takip ve cinsel dokunulmazlığa karşı suçlarda uzlaştırma yoluna gidilemez."
+  - "Uzlaşma teklifine yedi gün içinde cevap verilmezse teklif reddedilmiş sayılır."
+  - "Şüpheli edimini bir defada yerine getirirse kovuşturmaya yer olmadığına karar verilir."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

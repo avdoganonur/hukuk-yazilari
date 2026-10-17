@@ -1,6 +1,11 @@
 ---
 baslik: "İtirazın iptali davası: süre ne kadar, icra inkâr tazminatı ne zaman istenir?"
 aciklama: "Borçlunun itirazıyla duran icra takibine devam etmek için açılan itirazın iptali davası: bir yıllık süre, arabuluculuk, ispat ve icra inkâr tazminatı."
+kisaca:
+  - "İtirazın iptali davası, borçlunun itirazının alacaklıya tebliğinden itibaren bir yıl içinde genel mahkemede açılmalıdır."
+  - "Arabuluculukta geçen süre bu bir yıla sayılmaz."
+  - "İtiraz haksız bulunursa borçlu, alacaklının talebiyle hükmolunan tutarın yüzde yirmisinden az olmamak üzere icra inkâr tazminatı öder."
+  - "Bir yıllık süre kaçırılsa da alacaklı alacağını genel hükümlere göre ayrıca dava edebilir."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

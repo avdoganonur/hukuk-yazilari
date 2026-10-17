@@ -1,6 +1,10 @@
 ---
 baslik: "Doğum borçlanması: hangi kadınlar yapabilir, kaç doğum ve ne kadar süre borçlanılır?"
 aciklama: "Doğumdan sonra çalışılmayan sürenin sigortalılığa sayılması: üç doğum ve iki yıl sınırı, çocuğun yaşaması şartı, başvuru, ödeme ve sonuçları."
+kisaca:
+  - "Doğum borçlanmasını 4/a, 4/b ya da 4/c kapsamında sigortalılığı olan kadın yapabilir."
+  - "Borçlanma üç doğum için yapılabilir; her doğumda süre doğumdan sonraki iki yılı geçemez ve çocuğun yaşaması gerekir."
+  - "Kurumun tebliğ ettiği borç bir ay içinde ödenmezse yeni başvuru gerekir ve o süre hizmetten sayılmaz."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

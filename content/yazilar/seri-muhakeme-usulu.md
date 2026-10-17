@@ -1,6 +1,11 @@
 ---
 baslik: "Seri muhakeme usulü nedir, hangi suçlarda uygulanır?"
 aciklama: "Savcının teklif ettiği ve yarı oranında indirim sağlayan seri muhakeme usulünün kapsadığı suçlar, avukat şartı, mahkeme süreci ve uygulanmadığı hâller."
+kisaca:
+  - "Seri muhakeme, kanunda tek tek sayılan suçlarda savcının teklif ettiği ve cezada yarı oranında indirim sağlayan bir usuldür."
+  - "Usul ancak şüphelinin teklifi avukatı huzurunda kabul etmesiyle uygulanabilir."
+  - "Mahkeme, savcının talep yazısındaki yaptırımdan daha ağır bir ceza veremez."
+  - "Usul tamamlanamazsa şüphelinin kabul beyanları sonraki soruşturma ve kovuşturmada delil olarak kullanılamaz."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

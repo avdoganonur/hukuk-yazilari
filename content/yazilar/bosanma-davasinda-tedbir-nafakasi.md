@@ -1,6 +1,10 @@
 ---
 baslik: "Boşanma davası sürerken tedbir nafakası ve diğer geçici önlemler"
 aciklama: "Boşanma davası devam ederken eşlerin ve çocukların geçimi, barınması ve korunması için hâkimin alabileceği geçici önlemler ve tedbir nafakası."
+kisaca:
+  - "Boşanma davası açılınca hâkim, eşlerin barınması, geçimi ve çocukların korunması için geçici önlemleri kendiliğinden alır."
+  - "Tedbir nafakası için kusur şartı aranmaz; belirleyici olan eşlerin ekonomik durumları arasındaki farktır."
+  - "Tedbir nafakası, hâkim daha önce kaldırmadıkça boşanma kararının kesinleşmesiyle kendiliğinden sona erer."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

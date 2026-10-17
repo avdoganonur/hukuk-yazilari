@@ -1,6 +1,11 @@
 ---
 baslik: "İşyerinde ayrımcılık: eşit davranma ilkesi ve ayrımcılık tazminatı"
 aciklama: "İş Kanunu'na göre işverenin eşit davranma borcu, cinsiyet ve gebelik nedeniyle ayrım, eşit işe eşit ücret, dört aya kadar tazminat ve ispat kuralı."
+kisaca:
+  - "İşveren dil, ırk, cinsiyet, engellilik, din ve benzeri sebeplere dayanarak işçiler arasında ayrım yapamaz."
+  - "Aynı ya da eşit değerde bir iş için cinsiyet nedeniyle daha düşük ücret kararlaştırılamaz."
+  - "Ayrımcılığa uğrayan işçi, yoksun bırakıldığı haklarla birlikte dört aya kadar ücreti tutarında tazminat isteyebilir."
+  - "İşçi ihlal ihtimalini güçlü biçimde gösterirse, ihlal olmadığını ispat yükü işverene geçer."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

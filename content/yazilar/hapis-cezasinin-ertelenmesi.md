@@ -1,6 +1,11 @@
 ---
 baslik: "Hapis cezasının ertelenmesi: şartları ve denetim süresi"
 aciklama: "Hangi hapis cezalarının ertelenebileceği, aranan şartlar, denetim süresinin uzunluğu, yükümlülükler ve kurallara uyulmazsa ne olacağı."
+kisaca:
+  - "İki yıl veya daha az hapis cezası ertelenebilir; fiil sırasında 18 yaşından küçük ya da 65 yaşını bitirmiş olanlarda sınır üç yıldır."
+  - "Kişi daha önce kasıtlı bir suçtan üç aydan fazla hapis cezasına mahkûm edilmemiş olmalıdır."
+  - "Denetim süresi bir yıldan az, üç yıldan fazla olamaz ve mahkûm olunan ceza süresinden kısa olamaz."
+  - "Denetim süresi kurallara uygun geçirilirse ceza infaz edilmiş sayılır."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

@@ -1,6 +1,10 @@
 ---
 baslik: "6284 sayılı Kanun'a göre koruma ve uzaklaştırma kararı nasıl alınır?"
 aciklama: "Şiddet gören ya da şiddet tehlikesi altındaki kişiler için koruyucu ve önleyici tedbirler, başvuru yerleri, kararın süresi ve ihlalin sonucu."
+kisaca:
+  - "Koruma istemek için ceza davasının sonucu beklenmez; koruyucu tedbir için şiddetin delili ya da belgesi aranmaz."
+  - "Başvuru hâkime, vali ya da kaymakama veya polis ya da jandarmaya yapılabilir ve harç ya da masraf alınmaz."
+  - "Tedbir kararı ilk defasında en çok altı ay için verilir; karara aykırı davranan üç günden on güne kadar zorlama hapsine tabi tutulur."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

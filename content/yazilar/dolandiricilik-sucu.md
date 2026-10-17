@@ -1,6 +1,11 @@
 ---
 baslik: "Dolandırıcılık suçu: cezası, nitelikli hâlleri ve etkin pişmanlık"
 aciklama: "Basit ve nitelikli dolandırıcılığın güncel cezaları, banka hesabını başkasına kullandırma, zararın giderilmesiyle ceza indirimi ve uzlaştırma."
+kisaca:
+  - "Basit dolandırıcılığın cezası bir yıldan beş yıla kadar hapis ve beş bin güne kadar adli para cezasıdır."
+  - "Nitelikli dolandırıcılıkta ceza üç yıldan on yıla kadar hapis ve beş bin güne kadar adli para cezasıdır."
+  - "Zarar kovuşturmadan önce tamamen giderilirse cezanın üçte ikisine, sonra ama hükümden önce giderilirse yarısına kadarı indirilir."
+  - "Borcun ödenmemesi tek başına suç değildir; işin başında hileyle kandırma yoksa dolandırıcılık oluşmaz."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

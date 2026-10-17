@@ -1,6 +1,11 @@
 ---
 baslik: "Kıdem tazminatı hangi ücret üzerinden hesaplanır?"
 aciklama: "Kıdem tazminatında esas alınan son ücret, ücrete eklenen yemek, yol ve prim gibi menfaatler, değişken ücretin hesabı ve tavan kuralı."
+kisaca:
+  - "Kıdem tazminatı, her tam çalışma yılı için otuz günlük ücret tutarında ve işçinin son brüt ücreti üzerinden hesaplanır."
+  - "Yemek, yol ve ikramiye gibi para ile ölçülebilen menfaatler de ücrete eklenerek giydirilmiş ücret bulunur."
+  - "Ücret parça başı ya da yüzde usulü gibi değişkense son bir yılın ortalama günlük ücreti esas alınır."
+  - "Bir yıl için ödenecek tutar, işten ayrılma tarihinde geçerli kıdem tazminatı tavanını geçemez."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

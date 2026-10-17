@@ -1,6 +1,11 @@
 ---
 baslik: "Mirastan feragat sözleşmesi: nasıl yapılır, hangi sonuçları doğurur?"
 aciklama: "Mirasbırakan sağken yapılan mirastan feragat sözleşmesinin resmî şekli, karşılıklı ve karşılıksız feragat, altsoya etkisi ve hükümden düşmesi."
+kisaca:
+  - "Mirastan feragat, mirasbırakan sağken onunla yapılan ve mirasçının miras hakkından vazgeçtiği bir sözleşmedir."
+  - "Sözleşme resmî vasiyetname şeklinde, resmî memur ve iki tanık önünde imzalanmalıdır; imzaların onaylatılması yetmez."
+  - "Feragat eden kişi mirasçılık sıfatını kaybeder ve saklı payına dayanarak tenkis davası açamaz."
+  - "Karşılık alınarak yapılan feragat, sözleşmede aksi öngörülmedikçe feragat edenin altsoyu için de sonuç doğurur."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

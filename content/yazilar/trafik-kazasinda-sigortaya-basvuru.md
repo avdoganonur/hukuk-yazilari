@@ -1,6 +1,11 @@
 ---
 baslik: "Trafik kazasından sonra sigortaya başvuru: 15 günlük süre ve Sigorta Tahkim Komisyonu"
 aciklama: "Kazadan sonra karşı aracın trafik sigortasına yazılı başvuru, şirketin cevap ve ödeme süreleri, Sigorta Tahkim Komisyonuna başvuru ve itiraz."
+kisaca:
+  - "Karşı aracın sigorta şirketine dava açmadan ya da tahkime gitmeden önce yazılı başvuru yapılması gerekir."
+  - "Şirket 15 gün içinde yazılı cevap vermezse ya da cevap talebi karşılamazsa dava veya tahkim yolu seçilebilir."
+  - "Sigorta Tahkim Komisyonuna gitmek için şirketin talebi reddettiği ya da on beş iş günü içinde cevap vermediği belgelenmelidir."
+  - "Maddi zarar talepleri, zararın ve yükümlünün öğrenilmesinden itibaren iki yıl, her hâlde kazadan itibaren on yıl içinde zamanaşımına uğrar."
 tarih: 2026-10-17
 alan: tazminat-hukuku
 dayanak:

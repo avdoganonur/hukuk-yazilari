@@ -1,6 +1,11 @@
 ---
 baslik: "Yakalama ve arama: kim, hangi kararla yapabilir?"
 aciklama: "Vatandaşın ve polisin yakalama yetkisi, yakalama emri, ev ve işyerinde aramanın hâkim kararına bağlı olması, gece araması ve aramada tanınan haklar."
+kisaca:
+  - "Suçu işlerken rastlanan kişiyi herkes geçici olarak yakalayabilir; yakalanan kişi kolluğa teslim edilir."
+  - "Konut, işyeri ve kamuya açık olmayan kapalı alanlar ancak hâkim kararıyla ya da gecikmesinde sakınca varsa savcının yazılı emriyle aranabilir."
+  - "Bu yerlerde gece vakti arama yapılamaz; suçüstü ve gecikmesinde sakınca bulunan hâller istisnalar arasındadır."
+  - "Aramada kişinin avukatının bulunmasına engel olunamaz ve istenirse arama sonunda belge verilir."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

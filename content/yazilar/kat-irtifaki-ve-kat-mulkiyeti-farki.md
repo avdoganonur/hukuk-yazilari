@@ -1,6 +1,10 @@
 ---
 baslik: "Kat irtifakı ile kat mülkiyeti arasındaki fark nedir, kat mülkiyetine nasıl geçilir?"
 aciklama: "Tapuda kat irtifakı ve kat mülkiyeti ne anlama gelir, aralarındaki farklar, yapı kullanma izin belgesi ve kat mülkiyetine geçiş süreci."
+kisaca:
+  - "Kat irtifakı yapım aşamasındaki ya da henüz yapılmamış bir binaya, kat mülkiyeti ise tamamlanmış bir binaya aittir."
+  - "Kat irtifaklı bir bağımsız bölüm satılabilir, ipotek edilebilir ve kiraya verilebilir."
+  - "Kat irtifakı, yapının tamamı için düzenlenen yapı kullanma izin belgesine dayanılarak kat mülkiyetine resen çevrilir."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

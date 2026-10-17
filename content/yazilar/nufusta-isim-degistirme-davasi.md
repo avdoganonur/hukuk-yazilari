@@ -1,6 +1,10 @@
 ---
 baslik: "İsim değiştirme davası: haklı sebep nedir, dava nerede açılır?"
 aciklama: "Nüfusta adın değiştirilmesi için açılan dava: haklı sebep şartı, görevli ve yetkili mahkeme, kararın ilanı, itiraz süresi ve değişikliğin sonuçları."
+kisaca:
+  - "Nüfusta ad, nüfus müdürlüğüne dilekçeyle değil, haklı sebebe dayanan bir mahkeme kararıyla değiştirilir."
+  - "Dava, davacının yerleşim yeri adresinin bulunduğu yerdeki asliye hukuk mahkemesinde açılır."
+  - "Ad değişmekle kişinin borçları, hakları, evliliği ve soybağı değişmez; bunlar yeni adla aynen devam eder."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

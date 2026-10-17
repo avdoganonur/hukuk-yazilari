@@ -1,6 +1,10 @@
 ---
 baslik: "Taşeron (alt işveren) işçisinin hakları ve asıl işverenin sorumluluğu"
 aciklama: "Alt işveren işçisinin ücret ve diğer alacaklarından asıl işverenin birlikte sorumluluğu, muvazaalı taşeron ilişkisi ve kamuda çalışan taşeron işçiler."
+kisaca:
+  - "Asıl işveren, alt işverenin işçilerine karşı o işyeriyle ilgili yükümlülüklerden alt işverenle birlikte sorumludur."
+  - "Asıl işveren, ödenmeyen ücretleri alt işverenin hak edişinden keserek işçilerin banka hesabına yatırmak zorundadır."
+  - "İlişki muvazaalı ise alt işverenin işçileri başlangıçtan itibaren asıl işverenin işçisi sayılır."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

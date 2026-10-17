@@ -1,6 +1,11 @@
 ---
 baslik: "Haczedilemeyen mallar: ev, ev eşyası ve iş aletleri ne zaman korunur?"
 aciklama: "İcra takibinde haczedilemeyen mal ve haklar, borçlunun haline münasip evi, 2023'te genişleyen ev eşyası koruması ve haczedilmezlik şikâyeti."
+kisaca:
+  - "Borçlunun ve aynı çatı altında yaşayan aile bireylerinin kişisel eşyası ile ailenin ortak kullandığı ev eşyası haczedilemez."
+  - "Para, altın, kıymetli evrak, antika ve süs eşyası gibi kıymetli şeyler evde bulunsa da haczedilebilir."
+  - "Borçlunun haline münasip evi haczedilemez; ancak değeri fazlaysa satılır ve bedelin bir kısmı borçluya bırakılır."
+  - "Haczedilemeyecek bir mala konulan hacze karşı, öğrenmeden itibaren yedi gün içinde icra mahkemesine şikâyet yoluyla başvurulur."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

@@ -1,6 +1,10 @@
 ---
 baslik: "Destekten yoksun kalma tazminatı: kimler isteyebilir, nasıl hesaplanır?"
 aciklama: "Bir kazada ya da haksız fiilde hayatını kaybeden kişinin desteğinden yoksun kalan yakınlarının tazminat hakkı, hesaplama ilkeleri, faiz ve indirimler."
+kisaca:
+  - "Destekten yoksun kalma tazminatını mirasçılar değil, ölenin desteğinden yoksun kalan kişiler isteyebilir."
+  - "Hesapta ölenin geliri, bu gelirden destek verdiği kişilere ayırdığı pay ve desteğin ne kadar süreceği dikkate alınır."
+  - "Kural olarak istem, zararın ve yükümlünün öğrenilmesinden itibaren iki yıl ve her hâlde fiilden itibaren on yıl içinde zamanaşımına uğrar."
 tarih: 2026-10-17
 alan: tazminat-hukuku
 dayanak:

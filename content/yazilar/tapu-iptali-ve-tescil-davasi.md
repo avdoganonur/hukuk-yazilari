@@ -1,6 +1,11 @@
 ---
 baslik: "Tapu iptali ve tescil davası nedir, hangi sebeplerle açılır?"
 aciklama: "Yolsuz tescil kavramı, tapu iptali ve tescil davasının sık görülen sebepleri, iyiniyetli üçüncü kişinin korunması, mahkeme ve süreler."
+kisaca:
+  - "Bu davada hukuka aykırı tapu kaydının iptali ve taşınmazın gerçek hak sahibi adına tescili istenir."
+  - "Tapuya iyiniyetle güvenerek taşınmazı edinen üçüncü kişi korunur; bu durumda asıl hak sahibinin tazminat istemi saklıdır."
+  - "Davaya asliye hukuk mahkemesi bakar ve taşınmazın bulunduğu yer mahkemesi kesin yetkilidir."
+  - "Dava için tek bir süre yoktur; süre, davanın dayandığı sebebe göre değişir."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

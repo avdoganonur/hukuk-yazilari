@@ -1,6 +1,11 @@
 ---
 baslik: "Hırsızlık suçu: cezası, nitelikli hâller ve etkin pişmanlık"
 aciklama: "Hırsızlığın temel ve nitelikli hâllerinde ceza, gece işlenmesi, değeri az mal, aile içi hırsızlıkta cezasızlık ve malı iade edenin cezasında indirim."
+kisaca:
+  - "Hırsızlığın temel hâlinin cezası bir yıldan üç yıla kadar hapistir ve bu hâl uzlaştırma kapsamındadır."
+  - "Mal kovuşturma başlamadan tamamen iade edilir ya da zarar tamamen karşılanırsa cezanın üçte ikisine kadarı indirilir."
+  - "Kovuşturma başladıktan sonra ve hükümden önce tam iade veya tazminde ceza yarısına kadar indirilir."
+  - "Ayrılık kararı bulunmayan eşin, üstsoyun veya altsoyun zararına işlenen hırsızlıkta o akrabaya ceza verilmez."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

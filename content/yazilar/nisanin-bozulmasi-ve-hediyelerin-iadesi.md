@@ -1,6 +1,11 @@
 ---
 baslik: "Nişanın bozulması: hediyeler geri istenebilir mi, tazminat ödenir mi?"
 aciklama: "Nişan bozulduğunda hangi hediyelerin geri istenebileceği, maddi ve manevi tazminatın şartları, bir yıllık zamanaşımı ve görevli mahkeme."
+kisaca:
+  - "Nişan evlenme dışında bir sebeple sona ererse alışılmışın dışındaki hediyeler, veren tarafından geri istenebilir."
+  - "Hediyelerin geri istenmesi kusura bağlı değildir; nişanı bozan taraf da verdiği bu hediyeleri geri isteyebilir."
+  - "Haklı sebep olmadan nişanı bozan ya da kusurlu olan taraf, diğerine uygun bir maddi tazminat öder."
+  - "Nişanın sona ermesinden doğan dava hakları, sona ermeden itibaren bir yıl içinde zamanaşımına uğrar."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Nafaka türleri: tedbir, yoksulluk, iştirak ve yardım nafakası"
 aciklama: "Türk Medeni Kanunu'ndaki dört nafaka türü: kimin kimden isteyebileceği, aranan şartlar, nafakanın ne kadar süreceği ve nasıl ödeneceği."
+kisaca:
+  - "Türk Medeni Kanunu'nda tedbir, yoksulluk, iştirak ve yardım nafakası olmak üzere dört ayrı nafaka vardır."
+  - "Tedbir nafakası boşanma davası sürerken ödenir ve kanun bunun için kusur şartı aramaz."
+  - "Boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak koşuluyla diğer taraftan yoksulluk nafakası isteyebilir."
+  - "Velayet kendisine verilmeyen eş, çocuğun bakım ve eğitim giderlerine gücü oranında katılmak zorundadır."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "İş sözleşmesindeki rekabet yasağı geçerli mi? Şartlar, süre ve ceza koşulu"
 aciklama: "İşten ayrılan işçinin rakip firmada çalışmasını yasaklayan maddenin geçerlilik şartları, iki yıllık üst süre, cezai şart ve yasağın sona erdiği hâller."
+kisaca:
+  - "Rekabet yasağı ancak yazılı olarak üstlenilmişse ve işçi müşteri çevresi ya da iş sırları hakkında bilgi edinebilmişse geçerlidir."
+  - "Yasağın süresi özel durum ve koşullar dışında iki yılı aşamaz; aşırı yasağı hâkim sınırlayabilir."
+  - "Sözleşmede aksine hüküm yoksa işçi ceza tutarını ödeyerek yasaktan kurtulabilir; aşırı cezai şartı hâkim indirir."
+  - "İşveren sözleşmeyi haklı bir sebep olmadan feshederse rekabet yasağı sona erer."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

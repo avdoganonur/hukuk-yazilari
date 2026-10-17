@@ -1,6 +1,11 @@
 ---
 baslik: "Kira uyuşmazlıklarında zorunlu arabuluculuk: kapsam, istisnalar ve süreler"
 aciklama: "Kira davalarından önce arabulucuya başvurma zorunluluğu, kapsam dışında kalan icra yoluyla tahliye, arabuluculuk süreleri, ücret ve anlaşma belgesi."
+kisaca:
+  - "1 Eylül 2023'ten bu yana kira ilişkisinden doğan uyuşmazlıklarda dava açmadan önce arabulucuya başvurmak zorunludur."
+  - "Kiralanan taşınmazın icra dairesi üzerinden ilamsız icra yoluyla tahliyesi için arabulucuya gitmek gerekmez."
+  - "Arabulucu süreci görevlendirildiği tarihten itibaren üç hafta içinde sonuçlandırır, bu süre zorunlu hâllerde en fazla bir hafta uzatılabilir."
+  - "Kira uyuşmazlıklarında anlaşma belgesi için sulh hukuk mahkemesinden icra edilebilirlik şerhi almak zorunludur."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

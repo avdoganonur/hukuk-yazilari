@@ -1,6 +1,11 @@
 ---
 baslik: "Vasiyetname türleri: resmî, el yazılı ve sözlü vasiyetnamenin şekil şartları"
 aciklama: "Vasiyetnamenin geçerli olması için kanunun aradığı şekiller: resmî memur önünde, el yazısıyla ya da olağanüstü durumda sözlü vasiyet."
+kisaca:
+  - "Vasiyet resmî şekilde, mirasbırakanın el yazısıyla ya da olağanüstü durumda sözlü olarak yapılır."
+  - "El yazılı vasiyetname baştan sona kendi elinizle yazılıp imzalanmalı ve yıl, ay, gün olarak tarih taşımalıdır."
+  - "Resmî vasiyetname iki tanıkla düzenlenir; eş, kan hısımları, kardeşler ve bunların eşleri tanık olamaz."
+  - "Şekle uyulmadan yapılan vasiyetname, menfaati olan mirasçının açacağı iptal davasıyla ortadan kaldırılabilir."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

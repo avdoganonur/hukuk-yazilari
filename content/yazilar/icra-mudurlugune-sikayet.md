@@ -1,6 +1,11 @@
 ---
 baslik: "İcra müdürlüğünün işlemine şikâyet: süre, başvuru yeri ve sonuç"
 aciklama: "İcra dairesinin kanuna ya da olaya aykırı işlemine karşı icra mahkemesine şikâyet: yedi günlük süre, süresiz şikâyet, inceleme usulü ve kanun yolu."
+kisaca:
+  - "İcra dairesinin kanuna ya da olaya aykırı işlemine karşı icra mahkemesine şikâyet yoluna gidilebilir."
+  - "Şikâyet, işlemin öğrenildiği tarihten itibaren yedi gün içinde yapılır."
+  - "Bir hakkın yerine getirilmemesi ya da işin sebepsiz sürüncemede bırakılması hâlinde her zaman şikâyet edilebilir."
+  - "Borcun var olup olmadığı şikâyetle değil, itiraz ve dava yollarıyla tartışılır."
 tarih: 2026-10-17
 alan: icra-hukuku
 dayanak:

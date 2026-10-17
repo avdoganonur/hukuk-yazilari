@@ -1,6 +1,11 @@
 ---
 baslik: "Ev sahibi kiracıyı hangi durumlarda çıkarabilir?"
 aciklama: "Konut ve çatılı işyeri kirasında ev sahibinin sözleşmeyi sona erdirebileceği hâller: ihtiyaç, tahliye taahhüdü, iki haklı ihtar ve on yıllık uzama süresi."
+kisaca:
+  - "Kira sözleşmesinin süresi doldu diye ev sahibi kiracıdan evi boşaltmasını isteyemez."
+  - "Ev sahibi; ihtiyaç, yeniden inşa, tahliye taahhüdü ya da iki haklı ihtar gibi kanunda sayılan sebeplerle sözleşmeyi sona erdirebilir."
+  - "Belirli süreli sözleşmede on yıllık uzama süresi dolunca ev sahibi, uzama yılının bitiminden en az üç ay önce bildirimle sözleşmeye son verebilir."
+  - "Tahliye davası açmadan önce arabulucuya başvurmak zorunludur; davalara sulh hukuk mahkemesi bakar."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

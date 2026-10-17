@@ -1,6 +1,11 @@
 ---
 baslik: "İşçi iş sözleşmesini hangi hâllerde haklı nedenle derhal feshedebilir?"
 aciklama: "İşçinin bildirim süresi beklemeden işten ayrılabileceği hâller, altı iş günlük süre, kıdem tazminatı hakkı ve fesihte dikkat edilecekler."
+kisaca:
+  - "İşçi; sağlık sebepleri, ahlak ve iyiniyet kurallarına uymayan hâller ve zorlayıcı sebeplerle sözleşmeyi bildirim süresi beklemeden feshedebilir."
+  - "Ücretin kanuna ya da sözleşmeye uygun hesaplanmaması veya ödenmemesi de haklı fesih sebebidir."
+  - "Ahlak ve iyiniyet hâllerinde fesih, işverenin davranışının öğrenildiği günden itibaren altı iş günü içinde yapılmalıdır."
+  - "Haklı nedenle ayrılan işçi en az bir yıl çalıştıysa kıdem tazminatı alır, ancak ihbar tazminatı isteyemez."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

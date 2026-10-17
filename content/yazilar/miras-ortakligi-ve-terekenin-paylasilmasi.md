@@ -1,6 +1,11 @@
 ---
 baslik: "Miras ortaklığı ve terekenin paylaşılması: mirasçılar ortak malları nasıl böler?"
 aciklama: "Birden çok mirasçı varken kurulan elbirliği mülkiyeti, ortak mallarda karar alma, paylı mülkiyete geçiş, paylaşma sözleşmesi ve paylaşma davası."
+kisaca:
+  - "Birden çok mirasçı varsa tereke paylaşmaya kadar elbirliğiyle ortak mal olur ve tasarruf için kural olarak oybirliği gerekir."
+  - "Ortaklığı sürdürme zorunluluğu yoksa her mirasçı her zaman mirasın paylaşılmasını isteyebilir."
+  - "Paylaşma sözleşmesi yazılı yapılmalıdır; anlaşma olmazsa sulh hukuk mahkemesinden paylaştırma istenir."
+  - "Paylaştırma davası açmadan önce arabulucuya başvurmak dava şartıdır."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

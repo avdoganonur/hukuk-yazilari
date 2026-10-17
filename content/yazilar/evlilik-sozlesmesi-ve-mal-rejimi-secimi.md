@@ -1,6 +1,11 @@
 ---
 baslik: "Evlilik sözleşmesi: mal rejimi nasıl seçilir, hangi şekilde yapılır?"
 aciklama: "Mal rejimi sözleşmesinin zamanı, noter şekli, evlenme başvurusunda seçim; mal ayrılığı, paylaşmalı mal ayrılığı ve mal ortaklığı rejimleri."
+kisaca:
+  - "Eşler sözleşme yapmazsa aralarında edinilmiş mallara katılma rejimi uygulanır."
+  - "Mal rejimi sözleşmesi evlenmeden önce de sonra da yapılabilir; noterde düzenleme ya da onaylama şeklinde yapılması gerekir."
+  - "Eşler, evlenme başvurusu sırasında hangi mal rejimini seçtiklerini yazılı olarak da bildirebilir."
+  - "Kanunda öngörülen şekle uyulmadan kurulan sözleşmeler hüküm doğurmaz."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

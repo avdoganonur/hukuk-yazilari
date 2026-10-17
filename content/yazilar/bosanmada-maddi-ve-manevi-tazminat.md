@@ -1,6 +1,10 @@
 ---
 baslik: "Boşanmada maddi ve manevi tazminat: kusur şartı ve miktar"
 aciklama: "Boşanmada maddi ve manevi tazminat istemenin şartları, kusurun rolü, miktarın belirlenmesi, ödeme biçimi ve bir yıllık zamanaşımı süresi."
+kisaca:
+  - "Boşanmada maddi ve manevi tazminat istenebilmesi için karşı tarafın kusurlu olması aranır."
+  - "Yargıtay kararlarına göre eşler eşit kusurluysa ne maddi ne de manevi tazminata hükmedilebilir."
+  - "Davada istenmeyen tazminat, boşanma kararının kesinleşmesinden başlayarak bir yıl içinde ayrı bir davayla istenebilir."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

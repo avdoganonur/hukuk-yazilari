@@ -1,6 +1,10 @@
 ---
 baslik: "Apartman aidatı ödenmezse ne olur? Gecikme tazminatı, icra ve kanuni ipotek"
 aciklama: "Kat mülkiyetinde ortak gider ve avans payı, aylık yüzde beş gecikme tazminatı, kiracının sorumluluğu, icra takibi, kanuni ipotek ve mülkiyetin devri."
+kisaca:
+  - "Payının tamamını ödemeyen kat maliki, geciktiği günler için aylık yüzde beş hesabıyla gecikme tazminatı öder."
+  - "Kiracı aidat borcundan malikle birlikte sorumludur, ancak sorumluluğu ödemekle yükümlü olduğu kira miktarıyla sınırlıdır."
+  - "Mahkemece tespit edilen borcu ödemeyen kat malikinin bağımsız bölümüne, diğer kat malikleri lehine kanuni ipotek tescil edilir."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

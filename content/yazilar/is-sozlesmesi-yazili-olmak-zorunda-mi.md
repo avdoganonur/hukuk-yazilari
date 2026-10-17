@@ -1,6 +1,11 @@
 ---
 baslik: "İş sözleşmesi yazılı olmak zorunda mı? Sözlü anlaşmayla çalışanın hakları"
 aciklama: "Hangi iş sözleşmelerinin yazılı yapılması gerektiği, yazılı sözleşme yoksa işverenin iki ay içinde vermesi gereken belge ve işçinin hakları."
+kisaca:
+  - "Kural olarak iş sözleşmesi şekle bağlı değildir; sözlü anlaşmayla da kurulabilir."
+  - "Süresi bir yıl ve daha fazla olan iş sözleşmelerinin yazılı yapılması zorunludur."
+  - "Yazılı sözleşme yoksa işveren en geç iki ay içinde çalışma koşullarını gösteren yazılı bir belge vermek zorundadır."
+  - "Sözleşme yazılı değil diye işçinin ücret, yıllık izin ya da kıdem tazminatı gibi hakları ortadan kalkmaz."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

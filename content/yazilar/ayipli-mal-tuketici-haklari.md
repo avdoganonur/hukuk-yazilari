@@ -1,6 +1,11 @@
 ---
 baslik: "Ayıplı mal aldım: tüketicinin seçimlik hakları ve süreler"
 aciklama: "Bozuk ya da eksik çıkan bir malda tüketicinin seçebileceği dört hak, satıcının onarım süresi, ispat kuralı ve iki yıllık zamanaşımı."
+kisaca:
+  - "Tüketici ayıplı malda sözleşmeden dönme, bedelden indirim, ücretsiz onarım ya da ayıpsız benzeriyle değiştirme haklarından birini seçer."
+  - "Teslimden itibaren altı ay içinde ortaya çıkan ayıpların teslim tarihinde var olduğu kabul edilir."
+  - "Onarım ya da değişim talebi en fazla otuz iş günü içinde yerine getirilmelidir; konut ve tatil amaçlı taşınmazlarda süre altmış iş günüdür."
+  - "Daha uzun bir süre öngörülmemişse ayıplı maldan sorumluluk teslimden itibaren iki yıllık zamanaşımına tabidir."
 tarih: 2026-10-17
 alan: tuketici-hukuku
 dayanak:

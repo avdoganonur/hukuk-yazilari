@@ -1,6 +1,11 @@
 ---
 baslik: "Vergi ve ceza ihbarnamesi geldi: uzlaşma, cezada indirim ve dava arasında nasıl seçim yapılır?"
 aciklama: "Vergi/ceza ihbarnamesine karşı otuz günlük süre içinde başvurulabilecek yollar: cezada yarı indirim, uzlaşma, vergi mahkemesinde dava."
+kisaca:
+  - "İhbarname tebliğ edilince cezada indirim, uzlaşma ve dava yolları için otuz günlük süre işler."
+  - "Vergiyi ve cezanın kalan yarısını vadesinde ödeyeceğini otuz gün içinde bildiren mükellefin cezasının yarısı indirilir."
+  - "Uzlaşma vergi ziyaı cezaları ve belirli tutarı aşan usulsüzlük cezaları için yapılır; vergi aslı uzlaşma konusu değildir."
+  - "Vergi aslına ve cezaya birlikte itiraz etmenin tek yolu vergi mahkemesinde dava açmaktır."
 tarih: 2026-10-17
 alan: vergi-hukuku
 dayanak:

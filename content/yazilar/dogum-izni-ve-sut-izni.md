@@ -1,6 +1,10 @@
 ---
 baslik: "Doğum izni, süt izni ve yarım çalışma: kadın işçinin hakları"
 aciklama: "İş Kanunu'na göre doğum öncesi ve sonrası izin süreleri, süt izni, doğumdan sonra yarım çalışma ve altı aya kadar ücretsiz izin hakkı."
+kisaca:
+  - "Kadın işçi doğumdan önce sekiz, doğumdan sonra on altı hafta olmak üzere toplam yirmi dört hafta çalıştırılmaz."
+  - "Analık izni bitince yarım çalışma hakkı ilk doğumda altmış, ikincide yüz yirmi, sonrakilerde yüz seksen gündür."
+  - "Bir yaşından küçük çocuğu olan kadın işçiye günde toplam bir buçuk saat süt izni verilir ve ücretinden kesinti yapılamaz."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

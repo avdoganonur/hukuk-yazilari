@@ -1,6 +1,11 @@
 ---
 baslik: "Tahliye taahhütnamesi ne zaman geçerlidir, nasıl uygulanır?"
 aciklama: "Kiracının yazılı tahliye taahhüdünün geçerlilik şartları, bir aylık süre, icra yoluyla ve dava yoluyla tahliye, kiracının itiraz imkânları."
+kisaca:
+  - "Tahliye taahhüdü yazılı olmalı ve kiralananın tesliminden sonra verilmelidir; noterde yapılması şart değildir."
+  - "Kiracı yazılı tarihte çıkmazsa ev sahibi bu tarihten başlayarak bir ay içinde icraya başvurmalı ya da dava açmalıdır."
+  - "İcra yolunda kiracı, tahliye emrinin tebliğinden itibaren yedi gün içinde itiraz edebilir."
+  - "İcra yoluyla tahliyede arabulucuya gitmek gerekmez; dava yolunda ise arabuluculuk dava şartıdır."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:

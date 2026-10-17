@@ -1,6 +1,10 @@
 ---
 baslik: "Evlat edinme şartları ve süreci: kimler, hangi koşullarla evlat edinebilir?"
 aciklama: "Evlat edinmede yaş ve evlilik şartları, bir yıllık bakım süresi, ana ve babanın rızası, başvuru ve mahkeme süreci ile evlat edinmenin sonuçları."
+kisaca:
+  - "Eşler birlikte evlat edinmek için en az beş yıldır evli olmalı ya da otuz yaşını doldurmuş bulunmalıdır."
+  - "Evli olmayan kişi otuz yaşını doldurmuşsa tek başına evlat edinebilir; evlatlık ondan en az on sekiz yaş küçük olmalıdır."
+  - "Küçüğün evlat edinilmesi için bir yıllık bakım, ana ve babanın rızası ve aile mahkemesi kararı gerekir."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Vasiyetnamenin iptali davası: hangi sebeplerle ve ne zamana kadar açılır?"
 aciklama: "Vasiyetnameye karşı açılan iptal davasının dört sebebi, davayı kimin açabileceği, bir, on ve yirmi yıllık süreler ve yetkili mahkeme."
+kisaca:
+  - "İptal sebepleri ehliyetsizlik, irade sakatlığı, hukuka ya da ahlâka aykırılık ve şekle aykırılıktır."
+  - "Dava, tasarrufu, iptal sebebini ve hak sahibi olduğunu öğrenmeden itibaren bir yıl içinde açılmalıdır."
+  - "Vasiyetnamenin açılmasından itibaren iyiniyetli davalıya karşı on yıl, iyiniyetli olmayana karşı yirmi yıllık üst sınır vardır."
+  - "Dava, ölen kişinin son yerleşim yerindeki asliye hukuk mahkemesinde açılır."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:

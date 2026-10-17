@@ -1,6 +1,11 @@
 ---
 baslik: "Maaşı ödenmeyen işçinin hakları: çalışmaktan kaçınma, haklı fesih ve faiz"
 aciklama: "Ücretin ödenme zamanı, yirmi gün içinde ödenmeyen ücret nedeniyle çalışmaktan kaçınma, haklı fesih, kıdem tazminatı ve gecikme faizi."
+kisaca:
+  - "Ücreti ödeme gününden itibaren yirmi gün içinde mücbir bir neden olmadan ödenmeyen işçi çalışmaktan kaçınabilir."
+  - "Ücretin ödenmemesi ya da eksik ödenmesi, işçiye sözleşmeyi haklı nedenle derhal feshetme hakkı verir."
+  - "Bu nedenle fesheden işçi en az bir yıllık çalışması varsa kıdem tazminatı alır, ihbar tazminatı isteyemez."
+  - "Ücret alacaklarında zamanaşımı beş yıldır ve dava açmadan önce arabulucuya başvurmak zorunludur."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

@@ -16,6 +16,10 @@ Dosya `---` satırları arasındaki bilgi bölümüyle başlar:
 ---
 baslik: "Soruyu okurun diliyle soran başlık (10–110 karakter)"
 aciklama: "Arama sonuçlarında görünen özet (50–160 karakter)"
+kisaca:                    # zorunlu; yazının başındaki "Kısaca" kutusu
+  - "Okurun sorusuna doğrudan cevap veren kısa cümle."
+  - "En önemli şart ya da süre."
+  - "Dikkat edilecek sonuç."
 tarih: 2026-10-17          # yayım tarihi; ileri tarihli yazı o gün gelene kadar yayımlanmaz
 guncelleme: 2026-11-02     # isteğe bağlı; yazı sonradan güncellenirse
 alan: is-hukuku            # site.yaml içindeki alanlardan biri
@@ -32,11 +36,13 @@ sss:                       # 3–4 soru önerilir
 
 - `dayanak` satırlarında `ad` her zaman "<sayı> sayılı <Kanun adı> m. <madde>" biçiminde yazılır; site aynı kanunun maddelerini bu sayede gruplar.
 - `baglanti`, kanunun mevzuat.gov.tr adresidir; aynı kanun için bir kez yazmak yeterlidir.
+- `kisaca`: 3 madde (gerekirse 2 ya da 4); her madde tek cümle, 40–150 karakter, noktayla biter, çift tırnak içermez. Yalnızca yazının metninde açıkça yazan bilgiyi kısaltır; yeni bilgi, yorum ya da metinde olmayan süre/oran eklenmez.
 
 ## Metin
 
 - Okur hukukçu değildir. Sade Türkçe; terimler ilk geçtiği yerde açıklanır.
 - Uzunluk: metin ve sık sorulan sorular birlikte 900–1.200 kelime.
+- Paragraflar kısa tutulur: en fazla 3–4 cümle (telefonda okunurken duvar gibi görünmesin). Sayılabilen şartlar ve adımlar madde listesiyle yazılır.
 - Ana başlık (`# `) kullanılmaz; ara başlıklar `## ` ile yazılır, 3–5 ara başlık.
 - Retorik soru başlıkları, "Sonuç olarak" ile başlayan özet paragrafları, gereksiz kalın yazı kullanılmaz.
 - Sona "Bu yazı genel bilgilendirme amaçlıdır..." notu eklenmez; site bunu kendisi ekler.

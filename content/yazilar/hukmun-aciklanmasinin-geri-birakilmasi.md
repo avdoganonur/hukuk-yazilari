@@ -1,6 +1,11 @@
 ---
 baslik: "Hükmün açıklanmasının geri bırakılması (HAGB): şartları ve sonuçları"
 aciklama: "HAGB kararı için aranan şartlar, beş yıllık denetim süresi, yükümlülüklere uyulmazsa ne olacağı ve kararın kayıtlara etkisi."
+kisaca:
+  - "HAGB için mahkemenin belirlediği ceza iki yıl veya daha az süreli hapis ya da adli para cezası olmalıdır."
+  - "Sanık daha önce kasıtlı bir suçtan mahkûm olmamalı ve suçtan doğan zarar tamamen giderilmiş olmalıdır."
+  - "Beş yıllık denetim süresi kasten yeni suç işlemeden ve yükümlülüklere uyularak geçerse dava düşer."
+  - "Denetim süresinde kasten suç işlenir ya da yükümlülüklere aykırı davranılırsa mahkeme hükmü açıklar."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

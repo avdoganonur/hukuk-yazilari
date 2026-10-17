@@ -1,6 +1,11 @@
 ---
 baslik: "Karşılıksız çek suçu: ceza, şikâyet ve ödemeyle düşme"
 aciklama: "Karşılıksız çekte suçun şartları, adli para cezası ve çek yasağı, icra ceza mahkemesine şikâyet süresi ve bedelin ödenmesiyle düşme."
+kisaca:
+  - "Karşılıksız çek suçunun cezası hapis değil adli para cezasıdır; ancak ceza ödenmezse doğrudan hapse çevrilir."
+  - "Suç hamilin şikâyetine bağlıdır ve dava icra ceza mahkemesinde görülür."
+  - "Şikâyet hakkı, fiilin öğrenildiği tarihten itibaren üç ay ve her hâlde fiilin işlendiği tarihten itibaren bir yıl geçince düşer."
+  - "Karşılıksız kalan bedel faiziyle birlikte tamamen ödenirse dava düşer ve çek yasağı kalkar."
 tarih: 2026-10-17
 alan: ceza-hukuku
 dayanak:

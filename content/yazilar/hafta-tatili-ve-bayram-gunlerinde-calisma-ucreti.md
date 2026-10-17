@@ -1,6 +1,11 @@
 ---
 baslik: "Hafta tatilinde ve bayramlarda çalışan işçiye ne kadar ücret ödenir?"
 aciklama: "Hafta tatili ile ulusal bayram ve genel tatil günlerinde çalışmanın ücreti, çalışılmayan tatil günlerinin ücreti ve aylık ücretliler için kurallar."
+kisaca:
+  - "Ulusal bayram veya genel tatil gününde çalışan işçiye, o günün ücretine ek olarak bir günlük ücret daha ödenir."
+  - "Aylık ücretli işçi bayramda çalışmazsa maaşından hiçbir kesinti yapılamaz."
+  - "Hafta tatilinde çalışmaya özgü ayrı bir zam yoktur; haftalık kırk beş saati aşan saatler yüzde elli zamlı ödenir."
+  - "Sözleşmede hüküm yoksa bayram ve genel tatil günlerinde çalışmak için işçinin onayı gerekir."
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:

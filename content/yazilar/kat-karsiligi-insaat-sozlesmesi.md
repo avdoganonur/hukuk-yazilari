@@ -1,6 +1,11 @@
 ---
 baslik: "Kat karşılığı inşaat sözleşmesi: şekil şartı ve müteahhit gecikirse arsa sahibinin hakları"
 aciklama: "Arsa payı karşılığı inşaat sözleşmesinin noterde yapılma zorunluluğu, tapuya şerh, müteahhidin gecikmesinde sözleşmeden dönme, cezai şart ve ayıplı yapı."
+kisaca:
+  - "Kat karşılığı inşaat sözleşmesi noterde düzenleme şeklinde yapılmalıdır; yalnızca imzaların onaylatılması bu şekli karşılamaz."
+  - "Müteahhidin işi zamanında bitiremeyeceği açıkça anlaşılırsa arsa sahibi teslim gününü beklemeden sözleşmeden dönebilir."
+  - "Gecikme cezası istenecekse, daireler teslim alınırken bu hakkın saklı tutulduğu yazılı olarak belirtilmelidir."
+  - "Ayıplı yapı nedeniyle açılacak davalar teslimden itibaren beş yılda, müteahhidin ağır kusuru varsa yirmi yılda zamanaşımına uğrar."
 tarih: 2026-10-17
 alan: borclar-hukuku
 dayanak:

@@ -78,14 +78,30 @@ def kelime_say(metin: str) -> int:
     return len(re.findall(r"[^\W\d_]+(?:['’][^\W\d_]+)?", metin))
 
 
-def md_donustur(metin: str) -> str:
+ATIF_RE = re.compile(r"\((?=[^()<>]*\bm\.\s?(?:ek\s|geçici\s)?\d)[^()<>]{2,80}\)")
+
+
+def atiflari_sar(html: str) -> str:
+    """Metin içindeki "(4857 m. 25/II)" gibi atıfları sakin bir biçimde göstermek için sarar."""
+    parcalar = re.split(r"(<[^>]+>)", html)
+    for i, p in enumerate(parcalar):
+        if p and not p.startswith("<"):
+            parcalar[i] = ATIF_RE.sub(lambda m: f'<span class="atif">{m.group(0)}</span>', p)
+    return "".join(parcalar)
+
+
+def md_donustur(metin: str, icindekiler: bool = False):
     cevirici = markdown.Markdown(
         extensions=["extra", "sane_lists", "smarty", "toc"],
         extension_configs={"toc": {"slugify": lambda v, s: slug(v, s)}},
     )
     cikti = cevirici.convert(metin)
-    return cikti.replace("<table>", '<div class="tablo"><table>').replace(
+    cikti = cikti.replace("<table>", '<div class="tablo"><table>').replace(
         "</table>", "</table></div>")
+    if icindekiler:
+        basliklar = [(t["id"], t["name"]) for t in cevirici.toc_tokens if t.get("level") == 2]
+        return atiflari_sar(cikti), basliklar
+    return cikti
 
 
 # ---------------------------------------------------------------- yazılar
@@ -112,6 +128,14 @@ def yazi_oku(yol: Path) -> dict:
     aciklama = bilgi.get("aciklama")
     if not isinstance(aciklama, str) or not 50 <= len(aciklama) <= 160:
         hatalar.append(f"aciklama 50–160 karakter olmalı (şu an {len(aciklama or '')})")
+    kisaca = bilgi.get("kisaca") or []
+    if not isinstance(kisaca, list) or any(not isinstance(k, str) for k in kisaca):
+        hatalar.append("kisaca kısa cümlelerden oluşan bir liste olmalı")
+        kisaca = []
+    elif kisaca and not 2 <= len(kisaca) <= 4:
+        hatalar.append("kisaca 2–4 madde olmalı")
+    elif any(len(k) > 170 for k in kisaca):
+        hatalar.append("kisaca maddeleri en fazla 170 karakter olmalı")
     tarih = bilgi.get("tarih")
     if not isinstance(tarih, dt.date):
         hatalar.append("tarih YYYY-AA-GG biçiminde olmalı")
@@ -141,7 +165,7 @@ def yazi_oku(yol: Path) -> dict:
     if re.search(r"^#\s", govde, re.M):
         hatalar.append("metinde '# ' ile başlayan ana başlık olmamalı; ara başlıklar '## ' ile yazılır")
 
-    tum_metin = " ".join([str(baslik), str(aciklama), govde] +
+    tum_metin = " ".join([str(baslik), str(aciklama), govde] + [str(k) for k in kisaca] +
                          [f"{s.get('soru','')} {s.get('cevap','')}" for s in sss if isinstance(s, dict)])
     if "[doğrulanacak]" in tum_metin.lower() or "[dogrulanacak]" in tum_metin.lower():
         hatalar.append("metinde '[doğrulanacak]' işareti kalmış; doğrulanmayan bilgi yayımlanamaz")
@@ -162,6 +186,7 @@ def yazi_oku(yol: Path) -> dict:
         "slug": yol.stem,
         "baslik": baslik,
         "aciklama": aciklama,
+        "kisaca": kisaca,
         "tarih": tarih,
         "guncelleme": guncelleme,
         "alan": alan,
@@ -439,7 +464,7 @@ def konu_sayfasi(anahtar: str, ad: str, yazilar: list[dict], tumu: list[dict]) -
 
 def yazi_sayfasi(yazi: dict, tumu: list[dict]) -> str:
     y = SITE["yazar"]
-    govde = md_donustur(yazi["govde"])
+    govde, basliklar = md_donustur(yazi["govde"], icindekiler=True)
     gruplar = dayanak_gruplari(yazi["dayanak"])
     dayanak = ""
     for g in gruplar:
@@ -461,33 +486,58 @@ def yazi_sayfasi(yazi: dict, tumu: list[dict]) -> str:
     if yazi["guncelleme"]:
         meta += f' Son güncelleme: <time datetime="{yazi["guncelleme"].isoformat()}">{tarih_tr(yazi["guncelleme"])}</time>.'
     meta += f' Yaklaşık {yazi["dakika"]} dakikalık okuma.'
+    kisaca_html = ""
+    if yazi["kisaca"]:
+        kisaca_html = ('<section class="kisaca" aria-labelledby="kisaca-b"><h2 id="kisaca-b">Kısaca</h2><ul>'
+                       + "".join(f"<li>{e(k)}</li>" for k in yazi["kisaca"]) + "</ul></section>")
+    icindekiler_html = ""
+    if len(basliklar) >= 2:
+        icindekiler_html = ('<nav class="icindekiler" aria-labelledby="icindekiler-b"><details open>'
+                            '<summary><h2 id="icindekiler-b">Bu yazıda</h2></summary><ol>'
+                            + "".join(f'<li><a href="#{e(i)}">{e(ad)}</a></li>' for i, ad in basliklar)
+                            + (('<li><a href="#sss-b">Sık sorulan sorular</a></li>') if yazi["sss"] else "")
+                            + "</ol></details></nav>")
 
-    ayni = [x for x in tumu if x["alan"] == yazi["alan"] and x["slug"] != yazi["slug"]]
-    diger = [x for x in tumu if x["alan"] != yazi["alan"]]
-    ilgili = (ayni + diger)[:3]
+    def kanunlar(x):
+        return {g["kanun"] for g in dayanak_gruplari(x["dayanak"])}
+    benim = kanunlar(yazi)
+    adaylar = [x for x in tumu if x["slug"] != yazi["slug"]]
+    adaylar.sort(key=lambda x: (x["alan"] == yazi["alan"], len(benim & kanunlar(x)), x["tarih"]), reverse=True)
+    ilgili = adaylar[:3]
     ilgili_html = ""
     if ilgili:
         ilgili_html = f"""<section class="kap ilgili" aria-labelledby="ilgili-b">
-  <h2 id="ilgili-b" class="bolum-baslik">Diğer yazılar</h2>
+  <h2 id="ilgili-b" class="bolum-baslik">İlgili yazılar</h2>
   {liste(ilgili)}
 </section>"""
 
-    icerik = f"""<article class="yazi kap">
+    icerik = f"""<div class="ilerleme" aria-hidden="true"><span></span></div>
+<article class="yazi kap">
   <header class="yazi-bas">
     <p class="yazi-alan"><a href="/konu/{yazi['alan']}/">{e(yazi['alan_ad'])}</a></p>
     <h1>{e(yazi['baslik'])}</h1>
-    <p class="yazi-meta">{meta}</p>
+    <div class="yazi-ust-satir">
+      <p class="yazi-meta">{meta}</p>
+      <div class="boyut" role="group" aria-label="Yazı boyutu">
+        <button type="button" data-boyut="-1" aria-label="Yazıyı küçült">A<span aria-hidden="true">−</span></button>
+        <button type="button" data-boyut="1" aria-label="Yazıyı büyüt">A<span aria-hidden="true">+</span></button>
+      </div>
+    </div>
   </header>
   <div class="yazi-izgara">
-    <aside class="dayanak" aria-labelledby="dayanak-b">
+    <aside class="yan">
+      {icindekiler_html}
+      <div class="dayanak">
       <details class="dayanak-kutu" open>
         <summary><h2 id="dayanak-b">Bu yazının dayanağı</h2><span class="dayanak-ozet">{e(kanun_ozet)}</span></summary>
         {dayanak}
         <p class="dayanak-dip">Maddeler, yazının yayım tarihindeki metinlerine göredir.</p>
       </details>
-      <script>if(!matchMedia("(min-width: 56em)").matches)document.currentScript.previousElementSibling.open=false</script>
+      </div>
+      <script>if(!matchMedia("(min-width: 56em)").matches)document.currentScript.parentNode.querySelectorAll("details").forEach(function(d){{d.open=false}})</script>
     </aside>
     <div class="yazi-govde">
+      {kisaca_html}
       {govde}
       {sss}
       <p class="uyari">Bu yazı genel bilgilendirme amaçlıdır; somut durumunuz için bir avukattan hukuki destek almanız önerilir.</p>
@@ -498,7 +548,19 @@ def yazi_sayfasi(yazi: dict, tumu: list[dict]) -> str:
     </div>
   </div>
 </article>
-{ilgili_html}"""
+{ilgili_html}
+<script>(function(){{
+var r=document.documentElement,k="yaziBoyutu",o=[0.9,1,1.1,1.2,1.32],i=1;
+try{{var v=parseInt(localStorage.getItem(k),10);if(v>=0&&v<o.length)i=v}}catch(x){{}}
+function u(){{r.style.setProperty("--yazi-olcek",o[i]);document.querySelectorAll("[data-boyut]").forEach(function(b){{b.disabled=(b.dataset.boyut<0&&i==0)||(b.dataset.boyut>0&&i==o.length-1)}})}}
+u();document.querySelectorAll("[data-boyut]").forEach(function(b){{b.addEventListener("click",function(){{i=Math.max(0,Math.min(o.length-1,i+parseInt(b.dataset.boyut,10)));u();try{{localStorage.setItem(k,i)}}catch(x){{}}}})}});
+var a=document.querySelector("article.yazi"),c=document.querySelector(".ilerleme span"),t=0;
+function p(){{t=0;var b=a.getBoundingClientRect(),h=b.height-innerHeight,y=Math.min(1,Math.max(0,-b.top/(h>0?h:1)));c.style.transform="scaleX("+y+")"}}
+addEventListener("scroll",function(){{if(!t){{t=1;requestAnimationFrame(p)}}}},{{passive:true}});addEventListener("resize",p);p();
+var l=document.querySelectorAll(".icindekiler a");if(l.length&&"IntersectionObserver"in window){{var m={{}};l.forEach(function(x){{m[x.getAttribute("href").slice(1)]=x}});
+var ob=new IntersectionObserver(function(es){{es.forEach(function(en){{if(en.isIntersecting){{l.forEach(function(x){{x.removeAttribute("aria-current")}});var x=m[en.target.id];if(x)x.setAttribute("aria-current","true")}}}})}},{{rootMargin:"0px 0px -70% 0px"}});
+Object.keys(m).forEach(function(id){{var h=document.getElementById(id);if(h)ob.observe(h)}})}}
+}})();</script>"""
 
     ld = {
         "@context": "https://schema.org", "@type": "Article",

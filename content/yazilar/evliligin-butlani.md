@@ -1,6 +1,10 @@
 ---
 baslik: "Evliliğin butlanı: mutlak ve nispi butlan sebepleri, dava ve sonuçları"
 aciklama: "Hangi hâllerde evlilik batıl sayılır, butlan davasını kim ve hangi sürede açabilir, butlan kararının eşlere ve çocuklara etkisi nedir?"
+kisaca:
+  - "Batıl bir evlilik ancak hâkim kararıyla sona erer; karar verilinceye kadar geçerli bir evliliğin bütün sonuçlarını doğurur."
+  - "Aldatma, yanılma veya korkutmaya dayanan iptal davası, sebebin öğrenilmesinden itibaren altı ay ve evlenmeden itibaren beş yıl içinde açılmalıdır."
+  - "Butlanına karar verilen evlilikten doğan çocuklar, ana ve baba iyiniyetli olmasa bile evlilik içinde doğmuş sayılır."
 tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:

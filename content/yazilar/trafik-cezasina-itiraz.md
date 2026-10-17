@@ -1,6 +1,10 @@
 ---
 baslik: "Trafik cezasına itiraz: süre kaç gün, nereye ve nasıl başvurulur?"
 aciklama: "Trafik idari para cezasına sulh ceza hâkimliğine itirazın on beş günlük süresi, dilekçenin içeriği, ödeme ve indirim kuralları, kararın kesinleşmesi."
+kisaca:
+  - "Trafik cezasına tebliğ veya tefhim tarihinden itibaren en geç on beş gün içinde sulh ceza hâkimliğine itiraz edilir."
+  - "Süresinde itiraz edilmezse ceza kesinleşir; başvuru harca tabi değildir."
+  - "Ceza ödeme süresi içinde ödenirse yüzde yirmi beş indirim uygulanır; ödeme yapmak itiraz hakkını etkilemez."
 tarih: 2026-10-17
 alan: vergi-hukuku
 dayanak:

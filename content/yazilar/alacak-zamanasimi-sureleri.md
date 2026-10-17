@@ -1,6 +1,10 @@
 ---
 baslik: "Alacaklarda zamanaşımı: on yıl, beş yıl ve sürenin kesilmesi"
 aciklama: "Türk Borçlar Kanunu'na göre genel ve beş yıllık zamanaşımı, sürenin başlangıcı, zamanaşımını durduran ve kesen hâller, yeni sürenin işlemesi."
+kisaca:
+  - "Kanunda aksine hüküm yoksa her alacak on yıllık zamanaşımına tabidir; kira bedeli ve ücret gibi dönemsel edimlerde süre beş yıldır."
+  - "Borçlunun borcu ikrar etmesi ya da alacaklının dava açması veya icra takibi başlatması zamanaşımını keser ve süre baştan başlar."
+  - "Zamanaşımı borçlu tarafından ileri sürülmedikçe hâkim bunu kendiliğinden dikkate alamaz."
 tarih: 2026-10-17
 alan: borclar-hukuku
 dayanak:

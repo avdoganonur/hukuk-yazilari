@@ -1,6 +1,11 @@
 ---
 baslik: "Veraset ve intikal vergisi: beyanname ne zaman verilir, kimler muaftır, vergi nasıl ödenir?"
 aciklama: "Miras ve bağışta veraset ve intikal vergisi: dört aylık beyan süresi, muafiyet ve istisnalar, matrah, indirilecek borçlar, üç yılda altı taksit ödeme."
+kisaca:
+  - "Ölüm Türkiye'de gerçekleşmişse Türkiye'deki mirasçılar beyannameyi ölüm tarihini izleyen dört ay içinde verir."
+  - "Beyanname, ölenin ikametgâhının bulunduğu yerdeki vergi dairesine her mirasçı için ayrı ya da birlikte verilebilir."
+  - "Ölenin belgeye dayanan borçları ve cenaze masrafları, beyannamede gösterilmek şartıyla matrahtan düşülür."
+  - "Vergi, tahakkuktan itibaren üç yıl içinde mayıs ve kasım aylarında olmak üzere toplam altı taksitte ödenir."
 tarih: 2026-10-17
 alan: vergi-hukuku
 dayanak:

@@ -1,6 +1,11 @@
 ---
 baslik: "Miras sözleşmesi: vasiyetnameden farkı, şekli ve bağlayıcılığı"
 aciklama: "Mirasbırakanın mirasını ya da belirli bir malını sözleşmeyle bırakmayı üstlendiği olumlu miras sözleşmesi, resmî şekli, sona ermesi ve sınırları."
+kisaca:
+  - "Miras sözleşmesi, vasiyetnameden farklı olarak iki taraflıdır ve mirasbırakanı bağlar."
+  - "Sözleşme ancak resmî vasiyetname şeklinde, resmî memur ve iki tanık önünde imzalanırsa geçerlidir."
+  - "Mirasbırakan sözleşmeden sonra da malvarlığında serbestçe tasarruf edebilir; sözleşmeyle bağdaşmayan bağışlamalara itiraz edilebilir."
+  - "Taraflar yazılı bir anlaşmayla miras sözleşmesini her zaman ortadan kaldırabilir."
 tarih: 2026-10-17
 alan: miras-hukuku
 dayanak:
