@@ -23,6 +23,8 @@ dayanak:
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 4"
     not: "Kira uyuşmazlıklarında sulh hukuk mahkemesinin görevi"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
+  - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 201"
+    not: "Senede karşı tanıkla ispat yasağı"
   - ad: "6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu m. 18/B"
     not: "Kira uyuşmazlıklarında dava şartı olarak arabuluculuk ve ilamsız tahliye istisnası"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6325&MevzuatTur=1&MevzuatTertip=5"

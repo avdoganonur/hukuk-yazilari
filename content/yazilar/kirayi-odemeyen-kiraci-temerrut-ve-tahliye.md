@@ -61,7 +61,7 @@ Bu yolun bazı ayrıntıları önemlidir:
 - İhtar, kira ödeme günü geçmiş ve kira ödenmemişken yapılmışsa haklıdır. İhtar kiracıya ulaşmadan önce ödeme yapılmışsa haklı ihtar oluşmaz.
 - İhtar kiracıya ulaştıktan sonra yapılan ödeme, ihtarın haklılığını ortadan kaldırmaz.
 - İki ihtar farklı aylara ait kiralar için yapılmalıdır.
-- Yargıtay uygulamasında, kira alacağı için başlatılan icra takibinde kiracıya tebliğ edilen ödeme emri de yazılı ihtar olarak kabul edilmektedir.
+- Kira alacağı için başlatılan icra takibinde kiracıya usulüne uygun tebliğ edilen ödeme emri de, tebliğden önce ödeme yapılmamışsa yazılı ihtar olarak kabul edilmektedir.
 
 Bu sebep yalnızca dava yoluyla ileri sürülebilir. Dava açmadan önce arabulucuya başvurulmalıdır. Ev sahibi dava açma süresi içinde dava açacağını kiracıya yazılı olarak bildirirse süre bir kira yılı uzamış sayılır (m. 353).
 

@@ -51,7 +51,7 @@ Vergi uyuşmazlıklarında en sık hak kaybı, dava süresinin kaçırılmasıyl
 
 Uygulamada en sık karşılaşılan durum ihbarnamedir. Vergi Usul Kanunu, ihbarnamede vergi mahkemesinde dava açma süresinin ve dava açma şeklinin yazılmasını zorunlu tutar. Bu nedenle ihbarnamenin kendisi ve tebliğ tarihi davanın kilit belgesidir.
 
-Ödeme emrine karşı açılacak davalar, Amme Alacaklarının Tahsil Usulü Hakkında Kanundaki daha kısa özel süreye tabidir; bu konu ayrı bir yazıda ele alınmalıdır.
+Otuz günlük süre, özel kanunlarında ayrı bir süre gösterilmeyen hâller içindir. Ödeme emri gibi bazı işlemler için özel kanunlarda farklı süreler öngörülmüştür; bu durumda o süre uygulanır.
 
 ## Süre nasıl hesaplanır?
 
@@ -59,8 +59,7 @@ Süreler tebliğ, yayın veya ilan tarihini izleyen günden itibaren işler. Ör
 
 Hafta sonu ve resmî tatiller süreye dahildir. Ancak sürenin son günü tatil gününe rastlarsa süre, tatili izleyen ilk çalışma gününün bitimine kadar uzar.
 
-Kanundaki sürelerin bitişi yargının çalışmaya ara verdiği döneme (adli tatile) rastlarsa, süre ara vermenin sona erdiği günü izleyen tarihten itibaren yedi gün uzamış sayılır. Bu kural, sürenin başlamasını durdurmaz; yalnızca ara verme dönemine düşen sürenin sonunu uzatır.
-
+Kanundaki sürelerin bitişi yargının çalışmaya ara verdiği döneme (adli tatile) rastlarsa, süre ara vermenin sona erdiği günü izleyen tarihten itibaren yedi gün uzamış sayılır.
 Uzlaşma istenmişse ayrı bir kural uygulanır. Uzlaşma sağlanamadığında dava, uzlaşmanın vaki olmadığına ilişkin tutanağın tebliğinden itibaren açılır. Bu tarihte dava süresi bitmişse ya da on beş günden az kalmışsa, süre tutanağın tebliğinden itibaren on beş gün olarak uzar. Uzlaşma ve cezada indirim yolları başka bir yazıda ayrıntısıyla anlatılmıştır.
 
 ## İdareye başvuru ve görevsiz yerde açılan dava
@@ -83,7 +82,7 @@ Dava konusu ihbarname ya da kararın aslı veya örneği dilekçeye eklenir. Dil
 
 Yetkili mahkeme kural olarak, uyuşmazlık konusu vergiyi tarh ve tahakkuk ettiren, cezayı kesen dairenin bulunduğu yerdeki vergi mahkemesidir. Ödeme emrine ilişkin davalarda ödeme emrini düzenleyen, diğer uyuşmazlıklarda ise dava konusu işlemi yapan dairenin bulunduğu yer esas alınır.
 
-Mahkeme ilk incelemede dilekçede kanuna aykırılık görürse dilekçenin reddine karar verip otuz gün içinde yenilenmesini isteyebilir. Yetkisiz bir vergi mahkemesine açılan dava ise reddedilmez; dosya yetkili mahkemeye gönderilir.
+Mahkeme ilk incelemede dilekçede kanuna aykırılık görürse dilekçenin reddine karar verip otuz gün içinde yenilenmesini isteyebilir. Yetkisiz bir vergi mahkemesine açılan davada ise mahkeme yetki yönünden ret kararı verir ve dosyayı yetkili mahkemeye kendisi gönderir; dava yeniden açılmaz.
 
 ## Dava açmak tahsili durdurur mu?
 
