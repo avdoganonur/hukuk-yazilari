@@ -44,7 +44,7 @@ Kanun iki davranışı cezalandırır:
 
 Hukuka aykırılık, sistemin sahibinin rızası olmaması demektir. Sistemin sahibi girişe izin vermişse suç oluşmaz. Şifrenin bir şekilde öğrenilmiş olması, kendi başına izin anlamına gelmez.
 
-Sisteme girmek için şifre kırmak ya da özel bir program kullanmak gerekmez. Kilitsiz bırakılmış bir telefona bakmak da girme sayılabilir.
+Sisteme girmek için şifre kırmak ya da özel bir program kullanmak gerekmez. Kilitsiz bırakılmış bir telefona bakmak da girme sayılabilir. Suçun oluşması için sistemdeki bilgilerin kopyalanması ya da kullanılması da gerekmez; kanun hukuka aykırı girişi tek başına cezalandırır. Bilgilerin silinmesi veya başkasına gönderilmesi ise aşağıda anlatılan daha ağır suçları oluşturur.
 
 ## Cezası nedir?
 

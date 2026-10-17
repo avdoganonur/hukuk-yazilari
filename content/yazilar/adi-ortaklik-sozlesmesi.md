@@ -32,7 +32,7 @@ sss:
   - soru: "Ortaklıktan tek başıma ayrılabilir miyim?"
     cevap: "Ortaklık belirsiz süreli ya da bir ortağın ömrü boyunca kurulmuşsa, altı ay önceden fesih bildiriminde bulunabilirsiniz; bildirim hesap yılı sonunda hüküm doğurur. Belirli süreli ortaklıkta ise haklı bir sebep varsa mahkemeden ortaklığın feshini isteyebilirsiniz. Ortaklığın kalanlarla devam etmesi ancak sözleşmede buna ilişkin bir hüküm varsa mümkündür."
   - soru: "Yönetici ortak hesap vermiyor. Ne yapabilirim?"
-    cevap: "Yönetici ortaklar yılda en az bir defa hesap vermek ve kazanç paylarını ödemekle yükümlüdür. Yönetim yetkiniz olmasa bile defterleri ve kayıtları inceleme, örnek alma ve mali durum hakkında bilgi alma hakkınız vardır. Bu hakları kaldıran sözleşme hükümleri kesin olarak hükümsüzdür."
+    cevap: "Yönetici ortaklar yılda en az bir defa hesap vermek ve kazanç paylarını ödemekle yükümlüdür. Yönetim yetkiniz olmasa bile ortaklığın işleyişi hakkında bilgi alma, defterleri ve kayıtları inceleme, örnek alma ve mali durum hakkında özet çıkarma hakkınız vardır. Bu hakları kaldıran sözleşme hükümleri kesin olarak hükümsüzdür."
   - soru: "Ortaklar arasındaki alacaklar ne zaman zamanaşımına uğrar?"
     cevap: "Ortaklık sözleşmesinden doğan ve ortakların birbirlerine ya da ortaklığa karşı alacakları beş yıllık zamanaşımına tabidir. Süre kural olarak alacağın muaccel olduğu, yani istenebilir hâle geldiği tarihte başlar."
 ---
@@ -66,7 +66,7 @@ Ortakların birbirine karşı başlıca yükümlülükleri şunlardır:
 
 Ortaklık işleri için gider yapan ya da borç üstlenen ortağa karşı diğer ortaklar sorumludur. Ortaklığa avans veren ortak, verdiği günden itibaren faiz isteyebilir.
 
-Yönetici ortaklar yılda en az bir defa hesap vermek ve kazanç paylarını ödemekle yükümlüdür. Yönetim yetkisi olmayan ortak da defter ve kayıtları inceleme, bunlardan örnek alma ve mali durum hakkında bilgi alma hakkına sahiptir. Bu hakları kısıtlayan anlaşmalar kesin olarak hükümsüzdür.
+Yönetici ortaklar yılda en az bir defa hesap vermek ve kazanç paylarını ödemekle yükümlüdür. Yönetim yetkisi olmayan ortak da ortaklığın işleyişi hakkında bilgi alma, defter ve kayıtları inceleme, bunlardan örnek alma ve mali durum hakkında özet çıkarma hakkına sahiptir. Bu hakları kısıtlayan anlaşmalar kesin olarak hükümsüzdür.
 
 Ortaklığa yeni bir ortak alınması bütün ortakların rızasına bağlıdır. Ortaklardan biri payını tek başına bir üçüncü kişiye devrederse, o kişi ortak sıfatını kazanamaz.
 

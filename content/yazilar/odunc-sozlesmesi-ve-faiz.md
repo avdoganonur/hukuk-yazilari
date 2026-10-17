@@ -25,7 +25,7 @@ dayanak:
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 120"
     not: "Temerrüt faizi"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 146–147"
-    not: "On yıllık genel zamanaşımı; faizlerde beş yıl"
+    not: "On yıllık genel zamanaşımı; anapara faizleri gibi dönemsel edimlerde beş yıl"
   - ad: "3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin Kanun m. 1–2"
     not: "Kanuni faiz ve temerrüt faizi oranının belirlenmesi"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3095&MevzuatTur=1&MevzuatTertip=5"
@@ -44,7 +44,7 @@ sss:
   - soru: "Sözleşmeye istediğim faiz oranını yazabilir miyim?"
     cevap: "Hayır. Sözleşmeyle kararlaştırılacak yıllık faiz, kanuni faiz oranının yüzde elli fazlasını aşamaz. Faizin anaparaya eklenip yeniden faiz yürütülmesi de kararlaştırılamaz. Kanuni faiz oranı dönem dönem değiştiği için bu sınır da sabit değildir."
   - soru: "Borcu kaç yıl içinde geri istemeliyim?"
-    cevap: "Ödünç verilen paranın geri istenmesi on yıllık genel zamanaşımına tabidir ve süre alacağın muaccel olduğu tarihte başlar. Geri ödeme bir bildirime bağlıysa, süre bu bildirimin yapılabileceği günden işler. Faiz alacakları için ise beş yıllık zamanaşımı uygulanır."
+    cevap: "Ödünç verilen paranın geri istenmesi on yıllık genel zamanaşımına tabidir ve süre alacağın muaccel olduğu tarihte başlar. Geri ödeme bir bildirime bağlıysa, süre bu bildirimin yapılabileceği günden işler. Dönemsel olarak ödenen anapara faizleri için ise beş yıllık zamanaşımı uygulanır."
 ---
 Bir yakınınıza, arkadaşınıza ya da iş tanıdığınıza borç para vermek çok sık yaşanan bir durumdur. Çoğu zaman bir kâğıt bile imzalanmaz. Kanun bu ilişkiye tüketim ödüncü sözleşmesi adını verir ve faizden geri ödeme zamanına kadar belirli kurallar koyar.
 
@@ -75,7 +75,7 @@ Faiz kararlaştırılmış ama oranı belirlenmemişse, kural olarak ödüncün 
 
 ## Faiz oranının sınırları
 
-Kanun faiz oranını taraflara tamamen bırakmaz. Sözleşmede oran kararlaştırılmamışsa, faiz borcunun doğduğu tarihte yürürlükte olan mevzuata göre belirlenir. Bu oran 3095 sayılı Kanun uyarınca Merkez Bankası'nın belirlediği reeskont oranına bağlı olarak hesaplanır ve dönem dönem değişir.
+Kanun faiz oranını taraflara tamamen bırakmaz. Sınırın ölçüsü kanuni faiz oranıdır. Bu oran 3095 sayılı Kanun uyarınca Merkez Bankası'nın belirlediği reeskont oranına bağlı olarak hesaplanır ve dönem dönem değişir.
 
 Sözleşmeyle kararlaştırılacak yıllık faiz, bu kanuni oranın yüzde elli fazlasını aşamaz. Kanuni oran sabit olmadığından, sınır da onunla birlikte değişir; bu yüzden faiz borcunun doğduğu tarihte yürürlükte olan oranı kontrol etmek gerekir.
 
@@ -93,6 +93,6 @@ Temerrüde düşen borçlu, temerrüt faizi öder. Oran sözleşmede kararlaşt�
 
 Sözleşmede ödünç için bir faiz kararlaştırılmış ama temerrüt faizi ayrıca yazılmamış olabilir. Bu durumda kararlaştırılan faiz kanuni orandan yüksekse, temerrüt faizi için de o oran uygulanır.
 
-Ödünç alan parayı ödemezse alacaklı icra takibi ya da dava yoluyla alacağını isteyebilir. Paranın geri istenmesi on yıllık genel zamanaşımına tabidir. Süre, alacağın muaccel olduğu, yani istenebilir hâle geldiği tarihte başlar; faiz alacakları için ise beş yıllık zamanaşımı uygulanır.
+Ödünç alan parayı ödemezse alacaklı icra takibi ya da dava yoluyla alacağını isteyebilir. Paranın geri istenmesi on yıllık genel zamanaşımına tabidir. Süre, alacağın muaccel olduğu, yani istenebilir hâle geldiği tarihte başlar; dönemsel olarak ödenen anapara faizleri için ise beş yıllık zamanaşımı uygulanır.
 
 Ödünç sözleşmesi kurulmuş ama para henüz verilmemişse, durum farklıdır. Ödünç alanın paranın teslimini, ödünç verenin de teslim almayı isteme hakkı, karşı tarafın temerrüde düşmesinden itibaren altı ay geçince zamanaşımına uğrar. Bu kısa süre, verilmiş bir paranın geri istenmesine uygulanan on yıllık süreyle karıştırılmamalıdır.

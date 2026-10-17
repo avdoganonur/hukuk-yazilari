@@ -47,7 +47,7 @@ Durdurma, yapı tatil zaptının yapı yerine asılmasıyla yapı sahibine tebli
 
 ## Bir aylık süre ve yıkım kararı
 
-Yapı sahibine, tebliğden itibaren en çok bir ay içinde yapıyı ruhsata uygun hâle getirmesi ya da ruhsat alması için süre tanınır. Bu sürede aykırılık giderilir veya ruhsat alınırsa mühür kaldırılır ve inşaata izin verilir.
+Yapı sahibine, tebliğden itibaren en çok bir ay içinde yapıyı ruhsata uygun hâle getirmesi ya da ruhsat alması için süre tanınır. Bu sürede aykırılık giderilir veya ruhsat alınırsa mühür kaldırılır ve inşaata izin verilir. Yapıyı mevzuata uygun hâle getirmek için idarenin yazılı izniyle yapılan işler mühür bozma suçu oluşturmaz; izinsiz çalışma ise bu suçu gündeme getirebilir.
 
 Aksi durumda ruhsat iptal edilir. Ruhsatsız ya da ruhsata aykırı yapı, belediye encümeni veya il idare kurulu kararıyla yıktırılır ve masrafı yapı sahibinden alınır. İdare, yapının ruhsata bağlanamayacağını ya da aykırılığın giderilemeyeceğini tespit ederse bir ayı beklemeden ruhsatı iptal edebilir.
 

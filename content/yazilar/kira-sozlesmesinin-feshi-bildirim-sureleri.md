@@ -72,7 +72,7 @@ Ev sahibinin bu süreleri beklemeden kiracıyı çıkarabileceği ihtiyaç, yeni
 
 ## Fesih bildiriminin şekli ve aile konutu
 
-Konut ve çatılı işyeri kiralarında fesih bildiriminin geçerliliği yazılı yapılmasına bağlıdır. Sözlü bildirim bu şartı karşılamaz. Bildirimde kiralananın adresi, sözleşmenin hangi tarihte sona ereceği ve bildirimi yapanın imzası yer almalıdır. Yazılı şekilde bildirimi yapanın imzası bulunmalıdır; güvenli elektronik imza da el yazısı imzanın bütün sonuçlarını doğurur.
+Konut ve çatılı işyeri kiralarında fesih bildiriminin geçerliliği yazılı yapılmasına bağlıdır. Sözlü bildirim bu şartı karşılamaz. Bildirimde kiralananın adresinin ve sözleşmenin hangi tarihte sona ereceğinin açıkça yazılması yerinde olur. Yazılı şekilde bildirimi yapanın imzası bulunmalıdır; güvenli elektronik imza da el yazısı imzanın bütün sonuçlarını doğurur.
 
 Bildirimi noter aracılığıyla ya da iadeli taahhütlü mektupla göndermek ispatı kolaylaştırır. Önemli olan, bildirimin karşı tarafa süresinde ulaştığının gösterilebilmesidir.
 

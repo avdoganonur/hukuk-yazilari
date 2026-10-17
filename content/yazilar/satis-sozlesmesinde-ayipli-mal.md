@@ -44,7 +44,7 @@ sss:
 
 Tüketici mevzuatı, ticari ya da mesleki amaçla mal satan biriyle ticari ya da mesleki olmayan amaçla mal alan kişi arasındaki işlemlere uygulanır. Bu durumdaki alıcının hakları tüketicinin ayıplı mal hakları yazısında ayrıca anlatılmıştır. İki kişi arasındaki satışta ise Türk Borçlar Kanunu devreye girer.
 
-Satışın her iki tarafı da tacirse, Türk Ticaret Kanunu daha kısa süreler öngörür. Ayıp teslim sırasında açıkça belliyse iki gün içinde, açıkça belli değilse malın teslim alınmasından sonra sekiz gün içinde incelenip ihbar edilmesi gerekir. Bu yazı taşınır mallar üzerinde durur.
+Satışın her iki tarafı da tacirse, Türk Ticaret Kanunu daha kısa süreler öngörür. Ayıp teslim sırasında açıkça belliyse iki gün içinde satıcıya ihbar edilmesi, açıkça belli değilse malın teslim alınmasından sonra sekiz gün içinde incelenip ihbar edilmesi gerekir. Bu yazı taşınır mallar üzerinde durur.
 
 ## Satıcı hangi ayıplardan sorumlu?
 
