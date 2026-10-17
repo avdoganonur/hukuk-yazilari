@@ -83,7 +83,7 @@ Tebliğ alan kişi belgeyi dikkatle okumalı ve tarihini not etmelidir. Aşağı
 Vasiyetnamenin açılması ve ilgililere bildirilmesi, miras hukukundaki birçok sürenin başlangıcıdır. Bunlardan en sık karşılaşılanlar şunlardır:
 
 - Mirasın reddi: Vasiyetname ile atanmış mirasçılar için üç aylık ret süresi, mirasbırakanın tasarrufunun kendilerine resmen bildirildiği tarihten işlemeye başlar.
-- Mirasçılık belgesine itiraz: Mirasçı atamaya ya da vasiyete ilişkin tasarrufa, mirasçılar veya başka vasiyet alacaklıları kendilerine bildirilmesinden başlayarak bir ay içinde itiraz edebilir. İtiraz edilmezse lehine tasarruf yapılan kişiye sulh mahkemesince atanmış mirasçı veya vasiyet alacaklısı olduğunu gösteren bir belge verilir.
+- Atanmış mirasçı veya vasiyet alacaklısı belgesi için itiraz: Mirasçı atamaya ya da vasiyete ilişkin tasarrufa, mirasçılar veya başka vasiyet alacaklıları kendilerine bildirilmesinden başlayarak bir ay içinde itiraz edebilir. İtiraz edilmezse lehine tasarruf yapılan kişiye sulh mahkemesince atanmış mirasçı veya vasiyet alacaklısı olduğunu gösteren bir belge verilir.
 - İptal davası: Dava hakkı, davacının tasarrufu, iptal sebebini ve hak sahibi olduğunu öğrendiği tarihten başlayarak bir yıl geçmekle düşer. Her hâlde vasiyetnamenin açılma tarihinden başlayarak iyiniyetli davalılara karşı on yıl, iyiniyetli olmayanlara karşı yirmi yıl geçince dava açılamaz.
 
 Bu sürelere iki tane daha eklenebilir:

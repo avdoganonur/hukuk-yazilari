@@ -4,7 +4,7 @@ aciklama: "Ana ve babanın çocuğun mallarını yönetme ve kullanma hakkı, ge
 kisaca:
   - "Ana ve baba, velayet sürdükçe çocuğun mallarını yönetme hakkına sahiptir ve bununla yükümlüdür."
   - "Çocuk mallarının gelirleri öncelikle çocuğun bakımı, yetiştirilmesi ve eğitimi için harcanır."
-  - "Malların anaparasına ancak sınırlı ölçüde, zorunluluk varsa hâkimin izniyle başvurulabilir."
+  - "Tazminat gibi sermaye ödemeleri olağan ihtiyaçlar ölçüsünde bakım için kısmen kullanılabilir; çocuğun diğer mallarına ise ancak zorunluluk varsa hâkimin izniyle başvurulabilir."
   - "Mallar tehlikeye düşerse hâkim önlem alır, gerekirse yönetimi bir kayyıma devreder."
 tarih: 2026-10-18
 alan: aile-hukuku
@@ -31,7 +31,7 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Çocuğuma kalan mirası ev ihtiyaçları için harcayabilir miyim?"
-    cevap: "Ayrım önemlidir. Çocuk mallarının gelirleri, örneğin kira geliri, öncelikle çocuğun bakımı, yetiştirilmesi ve eğitimi için, hakkaniyete uyduğu ölçüde de aile ihtiyaçları için harcanabilir. Malın kendisine, yani anaparaya ise ancak çocuğun bakımı, yetiştirilmesi ve eğitimi için zorunluluk varsa ve hâkim belirlediği miktarlarda yetki verirse başvurulabilir."
+    cevap: "Ayrım önemlidir. Çocuk mallarının gelirleri, örneğin kira geliri, öncelikle çocuğun bakımı, yetiştirilmesi ve eğitimi için, hakkaniyete uyduğu ölçüde de aile ihtiyaçları için harcanabilir. Malın kendisi bakımından ise tazminat gibi sermaye biçimindeki ödemeler, olağan ihtiyaçlar gerektirdiği ölçüde çocuğun bakımı için kısmen kullanılabilir. Çocuğun diğer mallarına ancak çocuğun bakımı, yetiştirilmesi ve eğitimi için zorunluluk varsa ve hâkim belirlediği miktarlarda yetki verirse başvurulabilir."
   - soru: "Boşandıktan sonra çocuğun malları için mahkemeye bir şey vermem gerekir mi?"
     cevap: "Evet. Evlilik sona erince velayet kendisinde kalan eş, hâkime çocuğun malvarlığının dökümünü gösteren bir defter vermek zorundadır. Bu malvarlığında ya da yapılan yatırımlarda önemli değişiklikler olursa bunları da bildirmesi gerekir."
   - soru: "Çocuğun kendi kazandığı paraya ana baba karışabilir mi?"
@@ -80,8 +80,7 @@ Ana ve babanın bir meslek ya da sanatla uğraşması için çocuğa kendi malı
 Ana ve baba çocuğun mallarını yönetirken, sebebi ne olursa olsun yeterince özen göstermezse hâkim malların korunması için uygun önlemleri alır. Kanun bu önlemlere örnek verir:
 
 - Malların yönetimi konusunda talimat vermek,
-- Belirli zamanlarda bilgi ve hesap istemek,
-- Verilen bilgi ve hesap yeterli görülmezse malların tevdi edilmesine ya da güvence gösterilmesine karar vermek.
+- Belirli zamanlarda verilen bilgi ve hesap yeterli görülmezse malların tevdi edilmesine ya da güvence gösterilmesine karar vermek.
 
 Çocuğun mallarının tehlikeye düşmesi başka bir şekilde önlenemiyorsa hâkim yönetimin bir kayyıma devredilmesine karar verebilir. Kayyım, belirli işleri görmek ya da bir malvarlığını yönetmek için atanan kişidir. Gelirlerin ya da bu mallardan ayrılmış belirli miktarların kanuna uygun şekilde harcanacağından kuşku duyulursa, hâkim bunların yönetimini de bir kayyıma bırakabilir.
 

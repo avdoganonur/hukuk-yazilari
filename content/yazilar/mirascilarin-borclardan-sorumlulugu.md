@@ -32,13 +32,13 @@ sss:
   - soru: "Babamın borcunu yalnızca kendi payım kadar mı öderim?"
     cevap: "Alacaklıya karşı hayır. Mirasçılar tereke borçlarından müteselsilen sorumlu olduğu için alacaklı borcun tamamını mirasçılardan herhangi birinden isteyebilir. Payınızı aşan kısmı ödediyseniz, bunu kendi aranızda diğer mirasçılardan geri isteyebilirsiniz; aksi kararlaştırılmamışsa her mirasçı borca miras payı oranında katlanır."
   - soru: "Mirasçı borçtan kendi malvarlığıyla da sorumlu olur mu?"
-    cevap: "Mirası kayıtsız şartsız kazanan mirasçı için evet. Kanun mirasçıların ölen kişinin borçlarından kişisel olarak sorumlu olduğunu söyler; bu, sorumluluğun terekeden gelen mallarla sınırlı olmadığı anlamına gelir. Bu sonucu önlemek isteyen mirasçının mirası süresinde reddetmesi ya da resmî defter yoluna gitmesi gerekir."
+    cevap: "Mirası kayıtsız şartsız kazanan mirasçı için evet. Kanun mirasçıların ölen kişinin borçlarından kişisel olarak sorumlu olduğunu söyler; bu, sorumluluğun terekeden gelen mallarla sınırlı olmadığı anlamına gelir. Bu sonuçtan korunmak isteyen mirasçı mirası süresinde reddedebilir ya da karar vermeden önce terekenin resmî defterinin tutulmasını isteyebilir."
   - soru: "Miras paylaşıldıktan sonra alacaklı ortaya çıkarsa ne olur?"
     cevap: "Paylaşma, alacaklının hakkını ortadan kaldırmaz. Borcun bölünmesine veya bir mirasçıya devredilmesine alacaklı açıkça ya da örtülü olarak rıza göstermemişse, mirasçılar paylaşmadan sonra da bütün malvarlıklarıyla müteselsilen sorumlu kalır. Bu müteselsil sorumluluk, paylaşma tarihinden, daha sonra muaccel olacak borçlarda ise muacceliyet tarihinden başlayarak beş yıl geçince sona erer."
   - soru: "Ölen kişinin vasiyet ettiği mal, borçlardan önce mi verilir?"
     cevap: "Hayır. Kanuna göre mirasbırakanın alacaklılarının hakları, vasiyet alacaklılarının haklarından önce gelir. Vasiyet alacaklılarının hakları da mirasçıların kendi alacaklılarının haklarından önce gelir."
 ---
-Bir yakın öldüğünde geride yalnızca ev, araba ya da banka hesabı kalmaz. Kredi borçları, ödenmemiş kira, kefil olunan borçlar ve vergi borçları da mirasın parçasıdır. Mirasçıların çoğu bu borçlardan ne ölçüde sorumlu olduklarını ancak bir ihtarname ya da ödeme emri geldiğinde sorar. Türk Medeni Kanunu bu soruya oldukça net bir cevap verir: miras, borçlarıyla birlikte geçer.
+Bir yakın öldüğünde geride yalnızca ev, araba ya da banka hesabı kalmaz. Kredi borçları, ödenmemiş kira ve kefil olunan borçlar da mirasın parçasıdır. Mirasçıların çoğu bu borçlardan ne ölçüde sorumlu olduklarını ancak bir ihtarname ya da ödeme emri geldiğinde sorar. Türk Medeni Kanunu bu soruya oldukça net bir cevap verir: miras, borçlarıyla birlikte geçer.
 
 ## Miras, borçlarıyla birlikte bütün olarak geçer
 
@@ -52,7 +52,7 @@ Kayıtsız şartsız kazanılan mirasta sorumluluk, terekenin değeriyle de sın
 
 Süre dolmadan da mirası kazanmış sayılmak mümkündür. Ret süresi içinde mirasçı sıfatıyla tereke işlerine karışan, olağan yönetimi aşan işlemler yapan ya da tereke mallarını gizleyen veya kendine mal eden mirasçı artık mirası reddedemez. Örneğin ölenin aracını satıp parasını harcayan mirasçı, borçlardan kurtulma imkânını kendi eliyle kaybedebilir. Buna karşılık zamanaşımını ya da hak düşürücü sürenin dolmasını önlemek için dava açmak veya icra takibi yapmak ret hakkını ortadan kaldırmaz.
 
-Kişisel sorumluluğu önlemenin iki temel yolu, mirası süresinde reddetmek ya da terekenin resmî defterinin tutulmasını istemektir; bu yolların şartları ve süreleri sitedeki ayrı yazılarda anlatılmaktadır.
+Bu riske karşı başvurulabilecek iki temel yol, mirası süresinde reddetmek ya da karar vermeden önce terekenin resmî defterinin tutulmasını istemektir; bu yolların şartları ve süreleri sitedeki ayrı yazılarda anlatılmaktadır.
 
 ## Mirasçılar arasında müteselsil sorumluluk
 
@@ -62,7 +62,7 @@ Müteselsil sorumluluk, alacaklının borcun tamamını mirasçılardan herhangi
 
 Bu nedenle alacaklı, tahsilatın en kolay olduğu mirasçıya, örneğin düzenli maaşı ya da üzerine kayıtlı malı olana yönelebilir. Mirasçılar arasındaki iç anlaşmalar alacaklıyı bağlamaz. Bu anlaşmalar ancak kendi aralarındaki hesaplaşmada önem taşır.
 
-Paylaşmaya kadar mirasçılar terekeye elbirliğiyle sahiptir ve terekeye ait haklar üzerinde kural olarak birlikte tasarruf eder. Borçları ödemek için bir tereke malının satılması gerekiyorsa, mirasçıların bu konuda birlikte hareket etmesi gerekir. Anlaşma sağlanamıyorsa mirasçılardan birinin istemi üzerine sulh mahkemesi, paylaşmaya kadar miras ortaklığına bir temsilci atayabilir.
+Paylaşmaya kadar mirasçılar terekeye elbirliğiyle sahiptir ve terekeye ait haklar üzerinde kural olarak birlikte tasarruf eder. Borçları ödemek için bir tereke malının satılması gerekiyorsa, mirasçıların bu konuda birlikte hareket etmesi gerekir. Ayrıca mirasçılardan birinin istemi üzerine sulh mahkemesi, paylaşmaya kadar miras ortaklığına bir temsilci atayabilir.
 ## Paylaşmadan sonra sorumluluk ve beş yıllık süre
 
 Mirasın paylaşılması, alacaklıya karşı sorumluluğu kendiliğinden bitirmez. Mirasçılar, bölünmesine ya da bir mirasçıya devredilmesine alacaklının açıkça veya örtülü olarak rıza göstermediği tereke borçlarından paylaşmadan sonra da bütün malvarlıklarıyla müteselsilen sorumludur.
