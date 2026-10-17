@@ -44,9 +44,11 @@ Vergi incelemesi ya da bir yoklama sonunda mükellefe "vergi/ceza ihbarnamesi" t
 
 ## İhbarnamede ne var, ceza nasıl hesaplanır?
 
-Vergi Usul Kanunu'na göre vergi ziyaına sebep olunduğunda, ziyaa uğratılan verginin bir katı tutarında vergi ziyaı cezası kesilir. Vergi ziyaı, mükellefin vergilendirmeyle ilgili ödevlerini zamanında ya da tam yerine getirmemesi yüzünden verginin zamanında veya tam tahakkuk ettirilmemesidir. Kaçakçılık sayılan fiillerle vergi ziyaına sebep olunmuşsa ceza üç kat uygulanır. Defter tutma, belge düzenleme gibi şekli yükümlülüklere uyulmaması ise usulsüzlük ve özel usulsüzlük cezalarına konu olur.
+Vergi Usul Kanunu'na göre vergi ziyaına sebep olunduğunda, ziyaa uğratılan verginin bir katı tutarında vergi ziyaı cezası kesilir. Vergi ziyaı, mükellefin vergilendirmeyle ilgili ödevlerini zamanında ya da tam yerine getirmemesi yüzünden verginin zamanında veya tam tahakkuk ettirilmemesidir. Kaçakçılık sayılan fiillerle vergi ziyaına sebep olunmuşsa ceza üç kat uygulanır. Beyannamesini kanuni süresi geçtikten sonra, ama vergi incelemesine başlanmadan ve takdir komisyonuna sevk edilmeden önce kendiliğinden veren mükellef için bu ceza yüzde elli oranında uygulanır. Defter tutma, belge düzenleme gibi şekli yükümlülüklere uyulmaması ise usulsüzlük ve özel usulsüzlük cezalarına konu olur.
 
 İhbarnameyi alan mükellefin önünde başlıca üç yol vardır: cezada indirimden yararlanmak, uzlaşma istemek ve vergi mahkemesinde dava açmak.
+
+Seçim yapmadan önce ihbarnameye dayanak olan inceleme raporunun ya da takdir komisyonu kararının okunması gerekir. Takdir komisyonu kararı üzerine tarh edilen vergilerde, kararın ve re'sen takdiri gerektiren inceleme raporunun birer örneği ihbarnameye eklenir. Tarhiyatın gerekçesi zayıfsa dava, gerekçe güçlü ama ceza ağırsa uzlaşma ya da indirim öne çıkar. Hangi yol seçilirse seçilsin, otuz günlük süre ihbarnamenin tebliğiyle başladığı için karar beklemeye bırakılmamalıdır.
 
 ## Cezada indirim: ödemeyi kabul edip cezanın yarısından kurtulmak
 

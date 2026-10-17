@@ -43,7 +43,7 @@ sss:
   - soru: "Taşınmazımı izinsiz kullanan kişi orada yaptığı masrafları benden isteyebilir mi?"
     cevap: "Bu, kullanıcının iyiniyetli olup olmadığına bağlıdır. İyiniyetli zilyet zorunlu ve yararlı giderlerinin ödenmesini isteyebilir ve bunlar ödenene kadar taşınmazı geri vermekten kaçınabilir. İyiniyetli olmayan zilyet ise yaptığı giderlerden yalnızca hak sahibi için de zorunlu olanları isteyebilir."
   - soru: "Paydaşlardan biri ortak taşınmazı kiraya vermiş. Ne isteyebilirim?"
-    cevap: "Kiraya verilerek gelir elde edilen taşınmazlarda Yargıtay, kullanımdan alıkoyma şartını aramaz. Diğer paydaşlar kira sözleşmesini tanımayarak haksız işgal nedeniyle hareket edebilir ya da sözleşmeyi açıkça veya örtülü olarak onaylayıp kira bedelinden kendi paylarına düşeni isteyebilir."
+    cevap: "Kiraya verilerek gelir elde edilen taşınmazlarda Yargıtay, kullanımdan alıkoyma şartını aramaz. Bu nedenle böyle bir durumda payınız için ecrimisil isteyebilmek için önceden bildirimde bulunmanız gerekmez."
 ---
 Bir taşınmazı sahibinin izni ya da geçerli bir sözleşme olmadan kullanan kişi, bu kullanımın karşılığını ödemekle yükümlü olabilir. Hukuk dilinde bu karşılığa ecrimisil denir. Kelime "benzerinin ücreti" anlamına gelir ve Yargıtay kararlarında haksız işgal tazminatı olarak da anılır. Komşusunun tarlasını izinsiz eken, sözleşmesi olmadan başkasının dükkânını kullanan ya da ortak bir evi tek başına kullanan kişi, ecrimisil davasıyla karşılaşabilir.
 
@@ -61,7 +61,7 @@ Kanun iyiniyetli zilyedi korur. Bir şeyi iyiniyetle elinde bulunduran ve onu ka
 
 ## Ecrimisilin hesaplanması
 
-Yargıtay, ecrimisilin en az, taşınmazın kira geliri karşılığı olan zarar olduğunu kabul eder. Bu yüzden hesapta, taşınmazın haksız kullanıldığı dönemde getirebileceği kira geliri ya da tarım arazilerinde elde edilebilecek ürün geliri esas alınır. Mahkeme bu değerlendirmeyi yaparken bilirkişiden yararlanabilir. Kötüniyetli zilyedin taşınmaza verdiği zarar varsa, bunun ayrıca tazmini de istenebilir.
+Yargıtay, ecrimisilin en az, taşınmazın kira geliri karşılığı olan zarar olduğunu kabul eder. Bu yüzden hesapta, taşınmazın haksız kullanıldığı dönemde getirebileceği kira geliri esas alınır. Mahkeme bu değerlendirmeyi yaparken bilirkişiden yararlanabilir. Kötüniyetli zilyedin taşınmaza verdiği zarar varsa, bunun ayrıca tazmini de istenebilir.
 
 Kişiler arasındaki ecrimisil davalarına, malvarlığı haklarına ilişkin davaların genel mahkemesi olan asliye hukuk mahkemesi bakar (Hukuk Muhakemeleri Kanunu m. 2). Devletin özel mülkiyetindeki ya da hüküm ve tasarrufu altındaki taşınmazlar ile özel bütçeli idarelere ve Vakıflar Genel Müdürlüğüne ait taşınmazların işgalinde ise ecrimisil, Devlet İhale Kanunu'nun 75. maddesindeki ayrı usulle idare tarafından istenir. Bu durumda ecrimisili idarenin oluşturduğu bir komisyon, tespit tarihinden geriye doğru beş yılı geçmemek üzere belirler; idarenin zarara uğramış olması ya da işgalcinin kusuru aranmaz.
 

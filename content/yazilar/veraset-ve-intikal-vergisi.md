@@ -54,6 +54,10 @@ Beyan süreleri ölümün nerede gerçekleştiğine ve mirasçıların nerede bu
 
 Yurt dışındaki mükellefler beyannamelerini Türkiye konsolosluklarına verebilir.
 
+Beyan edilecek "mal" geniş bir kavramdır. Kanun bu terimi, mülkiyete konu olabilen taşınır ve taşınmazların yanında malvarlığına girebilen bütün hakları ve alacakları kapsayacak şekilde tanımlar. Banka hesapları, araçlar, hisse senetleri ve alacaklar da bu nedenle beyannameye yazılır.
+
+Süre kaçırılırsa Vergi Usul Kanunu'ndaki özel bir kural devreye girer: beyanname süresinin bitiminden itibaren on beş gün beklenir ve bu sürede verilen beyanname için vergi ziyaı olmamış sayılır.
+
 ## Muafiyetler ve istisnalar
 
 Muafiyet kişiye, istisna ise intikale ilişkindir. Kamu idareleri, emekli ve yardım sandıkları, sosyal sigorta kurumları, kamu yararına çalışan dernekler, siyasi partiler ve kamu yararına kurulmuş bazı kuruluşlar vergiden muaftır. Karşılıklılık şartıyla yabancı devletlerin diplomatik temsilcileri de muafiyetten yararlanır.

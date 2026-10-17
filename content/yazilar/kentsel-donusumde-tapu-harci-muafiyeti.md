@@ -65,7 +65,7 @@ Bu yapıların dönüşümüyle ilgili olarak kanun uyarınca yapılan diğer i�
 
 ## Riskli yapı tespiti istisnanın kapısıdır
 
-İstisnanın uygulanabilmesi için yapının kanun kapsamında olması gerekir. Bu da çoğu zaman riskli yapı tespitiyle başlar. Tespit kural olarak malikler tarafından, masrafı kendilerine ait olmak üzere, lisanslı kurum ve kuruluşlara yaptırılır. Maliklerin ya da kanuni temsilcilerinin tespite karşı on beş gün içinde itiraz hakkı vardır.
+İstisnanın uygulanabilmesi için yapının kanun kapsamında olması gerekir. Kanun riskli yapıyı, riskli alan içinde ya da dışında olup ekonomik ömrünü tamamlamış veya yıkılma ya da ağır hasar görme riski taşıdığı bilimsel ve teknik verilere dayanılarak tespit edilen yapı olarak tanımlar. Riskli alan ise zemin yapısı veya üzerindeki yapılaşma nedeniyle can ve mal kaybına yol açma riski taşıyan ve Cumhurbaşkanınca belirlenen alandır. Tek bir binanın dönüşümü çoğu zaman riskli yapı tespitiyle başlar. Tespit kural olarak malikler tarafından, masrafı kendilerine ait olmak üzere, lisanslı kurum ve kuruluşlara yaptırılır. Maliklerin ya da kanuni temsilcilerinin tespite karşı on beş gün içinde itiraz hakkı vardır.
 
 Riskli yapı, tespit tarihinden itibaren en geç on iş günü içinde, tapu kütüğünün beyanlar hanesine işlenmek üzere ilgili tapu müdürlüğüne bildirilir. Tespite ilişkin tutanak yapıya asılır, maliklere e-Devlet üzerinden bildirilir ve muhtarlıkta on beş gün ilan edilir. Sözleşmeler imzalanmadan önce tespitin tamamlandığını ve tapuya işlendiğini kontrol etmek, istisnadan yararlanırken doğabilecek tartışmaların önüne geçer.
 

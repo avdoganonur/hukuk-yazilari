@@ -55,7 +55,9 @@ Otuz günlük süre, özel kanunlarında ayrı bir süre gösterilmeyen hâller 
 
 ## Süre nasıl hesaplanır?
 
-Süreler tebliğ, yayın veya ilan tarihini izleyen günden itibaren işler. Örneğin ihbarname 3 Mart'ta tebliğ edildiyse ilk gün 4 Mart'tır.
+Süreler tebliğ, yayın veya ilan tarihini izleyen günden itibaren işler. Örneğin ihbarname 3 Mart'ta tebliğ edildiyse ilk gün 4 Mart, otuzuncu gün ise 2 Nisan'dır. Tebliğ tarihi, tebligat mazbatasında ya da elektronik tebligat kaydında görünen tarihtir. Bu belgeyi saklamak, ileride sürenin tartışılması hâlinde en güçlü delildir.
+
+Adresi belli olmayanlara özel kanunlarına göre ilanla bildirim yapılmışsa, özel kanunda aksine bir hüküm bulunmadıkça süre, son ilan tarihini izleyen günden itibaren on beş gün sonra işlemeye başlar.
 
 Hafta sonu ve resmî tatiller süreye dahildir. Ancak sürenin son günü tatil gününe rastlarsa süre, tatili izleyen ilk çalışma gününün bitimine kadar uzar.
 
@@ -82,7 +84,7 @@ Dava konusu ihbarname ya da kararın aslı veya örneği dilekçeye eklenir. Dil
 
 Yetkili mahkeme kural olarak, uyuşmazlık konusu vergiyi tarh ve tahakkuk ettiren, cezayı kesen dairenin bulunduğu yerdeki vergi mahkemesidir. Ödeme emrine ilişkin davalarda ödeme emrini düzenleyen, diğer uyuşmazlıklarda ise dava konusu işlemi yapan dairenin bulunduğu yer esas alınır.
 
-Mahkeme ilk incelemede dilekçede kanuna aykırılık görürse dilekçenin reddine karar verip otuz gün içinde yenilenmesini isteyebilir. Yetkisiz bir vergi mahkemesine açılan davada ise mahkeme yetki yönünden ret kararı verir ve dosyayı yetkili mahkemeye kendisi gönderir; dava yeniden açılmaz.
+Mahkeme ilk incelemede dilekçede kanuna aykırılık görürse dilekçenin reddine karar verip otuz gün içinde yenilenmesini isteyebilir. Dava hasım gösterilmeden ya da yanlış hasım, yani yanlış vergi dairesi gösterilerek açılmışsa, dilekçe mahkemece gerçek hasma tebliğ edilir; dava bu yüzden düşmez. Yetkisiz bir vergi mahkemesine açılan davada ise mahkeme yetki yönünden ret kararı verir ve dosyayı yetkili mahkemeye kendisi gönderir; dava yeniden açılmaz.
 
 ## Dava açmak tahsili durdurur mu?
 
