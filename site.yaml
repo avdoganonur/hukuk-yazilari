@@ -1,0 +1,30 @@
+# Site ayarları. Alan adı kesinleşince "url" satırını güncelleyin.
+ad: "Av. Onur Doğan"
+alt_ad: "Kayseri Barosu"
+url: "https://onurdogan.av.tr"
+aciklama: "Kayseri Barosu'na kayıtlı Av. Onur Doğan'ın hukuk yazıları: hukuki sorulara sade cevaplar ve dayandıkları kanun maddeleri."
+
+yazar:
+  ad: "Onur Doğan"
+  unvan: "Av."
+  baro: "Kayseri Barosu"
+  sicil: "3169"
+  buro: "Doğan Hukuk Bürosu"
+  adres:
+    - "Hacı Saki Mah. Çimen Sok."
+    - "A Plus İş Merkezi No: 7/30"
+    - "38090 Kocasinan / Kayseri"
+  telefon: "0530 304 34 52"
+  telefon_uluslararasi: "+905303043452"
+  eposta: ""
+
+# Yazı alanları. Anahtar, yazıların "alan" alanında kullanılır.
+alanlar:
+  is-hukuku: "İş hukuku"
+  aile-hukuku: "Aile hukuku"
+  miras-hukuku: "Miras hukuku"
+  tasinmaz-ve-kira: "Taşınmaz ve kira"
+  ceza-hukuku: "Ceza hukuku"
+  icra-hukuku: "İcra hukuku"
+  tazminat-hukuku: "Tazminat hukuku"
+  vergi-hukuku: "Vergi hukuku"
