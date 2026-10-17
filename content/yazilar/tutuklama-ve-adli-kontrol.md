@@ -90,6 +90,6 @@ Yükümlülükler sonradan değiştirilebilir ya da kaldırılabilir (m. 110). A
 
 Tutuklama kararına, salıverilme isteminin reddine ve adli kontrol kararlarına itiraz edilebilir (m. 101, 104, 111). İtiraz, kararı öğrenme gününden itibaren iki hafta içinde yapılır (m. 268). Kararı veren hâkimliğe dilekçe verilebilir ya da zabıt kâtibine sözlü beyanda bulunulup tutanağa geçirtilebilir.
 
-Kararı veren hâkim itirazı yerinde görürse kararını kendisi düzeltir. Yerinde görmezse en geç üç gün içinde dosyayı itirazı incelemeye yetkili mercie gönderir. Sulh ceza hâkimliğinin tutuklama ve adli kontrol kararlarına yapılan itirazları, yargı çevresindeki asliye ceza mahkemesi hâkimi inceler. İtiraz incelenirken savcıdan görüş alınırsa bu görüş şüpheliye veya avukatına bildirilir; şüpheli üç gün içinde kendi görüşünü sunabilir (m. 270).
+Kararı veren hâkim itirazı yerinde görürse kararını kendisi düzeltir. Yerinde görmezse en geç üç gün içinde dosyayı itirazı incelemeye yetkili mercie gönderir. Sulh ceza hâkimliğinin tutuklama ve adli kontrol kararlarına yapılan itirazları, yargı çevresindeki asliye ceza mahkemesi hâkimi inceler. Tutuklamaya itiraz incelenirken savcıdan görüş alınırsa bu görüş şüpheliye veya avukatına bildirilir; şüpheli üç gün içinde kendi görüşünü sunabilir (m. 270).
 
 İtiraz kural olarak duruşma yapılmadan, mümkün olan en kısa sürede karara bağlanır (m. 271). İtiraz edilmesi kararın uygulanmasını kendiliğinden durdurmaz. Kararı veren ya da itirazı inceleyen merci uygulamanın geri bırakılmasına ayrıca karar vermedikçe kişi tutuklu kalır (m. 269).

@@ -37,7 +37,7 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2886&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Ecrimisil ile kira bedeli aynı şey mi?"
-    cevap: "Hayır. Kira bedeli bir sözleşmeye dayanır; ecrimisil ise sözleşme olmadan yapılan haksız kullanımın karşılığıdır. Yargıtay, haksız işgali bir kira ilişkisi olarak görmez. Bu yüzden kira artışına ilişkin sınırlar ecrimisil hesabında uygulanmaz; ecrimisil ise en az, taşınmazın o dönemde getirebileceği kira geliri kadar kabul edilir."
+    cevap: "Hayır. Kira bedeli bir sözleşmeye dayanır; ecrimisil ise sözleşme olmadan yapılan haksız kullanımın karşılığıdır. Yargıtay, haksız işgali bir kira ilişkisi olarak görmez. Kira geliri ise hesapta bir ölçü olarak kullanılır: ecrimisil en az, taşınmazın o dönemde getirebileceği kira geliri kadar kabul edilir."
   - soru: "Kardeşimle ortak olduğumuz evde yalnızca o oturuyor. Benim payım için ecrimisil isteyebilir miyim?"
     cevap: "Yargıtay uygulamasına göre bunun için önce sizin de taşınmazdan yararlanmak istediğinizi kardeşinize bildirmeniz gerekir. Bildirimden sonra da kullanıma izin verilmezse, o tarihten sonraki dönem için payınıza düşen kısım üzerinden ecrimisil isteyebilirsiniz. Bildirimi ispat edebilmek için yazılı ve belgelenebilir bir yol seçmek, örneğin noter ihtarnamesi göndermek ileride işi kolaylaştırır."
   - soru: "Taşınmazımı izinsiz kullanan kişi orada yaptığı masrafları benden isteyebilir mi?"
@@ -49,7 +49,7 @@ Bir taşınmazı sahibinin izni ya da geçerli bir sözleşme olmadan kullanan k
 
 ## Kanuni dayanak ve kötüniyetli kullanıcı
 
-Ecrimisilin dayanağı Türk Medeni Kanunu'nun zilyetlik hükümleridir. Zilyet, bir şey üzerinde fiilî hâkimiyeti bulunan kişidir (m. 973); taşınmazı fiilen kullanan kişi de zilyettir. Kanunun 995. maddesine göre iyiniyetli olmayan zilyet, geri vermekle yükümlü olduğu şeyi haksız olarak alıkoyduğu için hak sahibine verdiği zararları ve elde ettiği ya da elde etmeyi ihmal ettiği ürünlerin karşılığını tazmin etmek zorundadır. Kötüniyetli zilyet, taşınmaz için yaptığı giderlerden yalnızca hak sahibi için de zorunlu olanları geri isteyebilir. Şeyi kime geri vereceğini bilmediği sürece ise yalnızca kusuruyla verdiği zararlardan sorumlu olur.
+Ecrimisilin dayanağı Türk Medeni Kanunu'nun zilyetlik hükümleridir. Zilyet, bir şey üzerinde fiilî hâkimiyeti bulunan kişidir (m. 973); taşınmazı fiilen kullanan kişi de zilyettir. Kanunun 995. maddesine göre iyiniyetli olmayan, yani kötüniyetli zilyet, geri vermekle yükümlü olduğu şeyi haksız olarak alıkoyduğu için hak sahibine verdiği zararları ve elde ettiği ya da elde etmeyi ihmal ettiği ürünlerin karşılığını tazmin etmek zorundadır. Kötüniyetli zilyet, taşınmaz için yaptığı giderlerden yalnızca hak sahibi için de zorunlu olanları geri isteyebilir. Şeyi kime geri vereceğini bilmediği sürece ise yalnızca kusuruyla verdiği zararlardan sorumlu olur.
 
 Malik, ecrimisil istemiyle birlikte taşınmazın geri verilmesini ya da haksız elatmanın önlenmesini de dava edebilir (m. 683). Bu istemler aynı davada birlikte ileri sürülebilir.
 
