@@ -52,7 +52,7 @@ On yıllık sigortalılık süresi, ilk kez malullük, yaşlılık ve ölüm sig
 
 ## Aylık nasıl hesaplanır ve ne zaman başlar
 
-Malullük aylığı hesabında prim günü az olan sigortalı korunur. Prim gün sayısı 9000 günden az olanların aylığı 9000 gün üzerinden, daha fazla olanlarınki ise toplam prim günü üzerinden hesaplanır (m. 27). 4/a kapsamındaki sigortalılar için bu sınır 7200 gün olarak uygulanır. Sigortalı başka birinin sürekli bakımına muhtaçsa aylık bağlama oranı 10 puan artırılır.
+Malullük aylığı hesabında prim günü az olan sigortalı korunur. Prim gün sayısı 9000 günden az olanların aylığı 9000 gün üzerinden, 9000 gün ve daha fazla olanlarınki ise toplam prim günü üzerinden hesaplanır (m. 27). 4/a kapsamındaki sigortalılar için bu sınır 7200 gün olarak uygulanır. Sigortalı başka birinin sürekli bakımına muhtaçsa aylık bağlama oranı 10 puan artırılır.
 
 Aylığın başlangıcı, malul sayılmaya esas alınan rapor tarihi ile yazılı istek tarihinin sırasına bağlıdır. Bu kural 4/a ve 4/b sigortalıları ile 4/c kapsamında iken görevinden ayrılıp başka bir statüde çalışmamış olanlar için geçerlidir:
 
@@ -67,6 +67,6 @@ Rapor tarihinin istekten önce olduğu durumda aylık istek tarihine göre başl
 
 Malullük aylığı alan kişi 5510 sayılı Kanuna tabi olarak ya da yabancı bir ülke mevzuatı kapsamında çalışmaya başlarsa aylığı, çalışmaya başladığı tarihi takip eden ödeme dönemi başında kesilir. Bu dönemde kazancı üzerinden prim alınır.
 
-Kişi daha sonra işten ayrılıp yazılı istekte bulunursa kontrol muayenesine alınır. İlk aylığa esas olan malullüğün devam ettiği anlaşılırsa, istek tarihini takip eden ödeme döneminden itibaren aylık yeniden hesaplanarak bağlanır. Yeni aylık, eski aylığın kesildiği tarihten sonra aylıklara yapılan artışlar uygulanarak bulunan tutarın altında olamaz.
+Kişi daha sonra işten ayrılıp yazılı istekte bulunursa kontrol muayenesine alınır. İlk aylığa esas olan malullüğün devam ettiği anlaşılırsa, istek tarihini (4/c kapsamında çalışıyorsa görevinden ayrıldığı tarihi) takip eden ödeme döneminden itibaren aylık yeniden hesaplanarak bağlanır. Yeni aylık, eski aylığın kesildiği tarihten sonra aylıklara yapılan artışlar uygulanarak bulunan tutarın altında olamaz.
 
 4/c kapsamındaki sigortalılar, yazılı talepleri hâlinde malullük hükümleri uygulanmadan, malullüklerinin engel olmadığı başka bir vazife ya da sınıfa nakledilmek üzere istifa etmiş sayılabilir. Bu kişilerin sonradan Kanun hükümlerinin uygulanmasını isteme hakkı saklıdır.

@@ -32,6 +32,8 @@ dayanak:
     not: "Kişisel verilere ilişkin suçlarda TCK m. 135–140'ın uygulanması"
   - ad: "6698 sayılı Kişisel Verilerin Korunması Kanunu m. 18"
     not: "Veri sorumlularına uygulanan idari para cezaları"
+  - ad: "6698 sayılı Kişisel Verilerin Korunması Kanunu m. 28"
+    not: "Kişisel ve aile içi faaliyetler gibi Kanunun uygulanmadığı hâller"
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 253"
     not: "Uzlaştırma kapsamındaki suçlar"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5"
@@ -49,7 +51,7 @@ Telefon numaranızın tanımadığınız bir gruba eklenmesi, bir sağlık rapor
 
 ## Kişisel veri nedir?
 
-KVKK'ya göre kişisel veri, kimliği belirli ya da belirlenebilir gerçek kişiye ilişkin her türlü bilgidir. Ad soyad, T.C. kimlik numarası, telefon, adres, e-posta, fotoğraf, ses kaydı, plaka, banka hesap bilgisi bu kapsamdadır. Bilginin tek başına kişiyi göstermesi gerekmez; başka bilgilerle birleştirildiğinde kişiyi belirlemeye yetiyorsa yine kişisel veridir.
+KVKK'ya göre kişisel veri, kimliği belirli ya da belirlenebilir gerçek kişiye ilişkin her türlü bilgidir. Ad soyad, T.C. kimlik numarası, telefon, adres, e-posta, fotoğraf, ses kaydı, plaka, banka hesap bilgisi bu kapsamdadır. Bilginin tek başına kişiyi göstermesi gerekmez; başka bilgilerle birleştirildiğinde kişiyi belirlemeye yetiyorsa yine kişisel veridir. Adı hiç geçmeden paylaşılan, ama çalıştığı yer, oturduğu sokak ve aracının plakası birlikte verildiği için kim olduğu anlaşılan bir kişinin bilgileri buna örnektir.
 
 Bazı veriler daha hassastır. Kanun ırk, etnik köken, siyasi düşünce, felsefi inanç, din, mezhep, kılık ve kıyafet, dernek, vakıf ya da sendika üyeliği, sağlık, cinsel hayat, ceza mahkûmiyeti ve güvenlik tedbirleriyle ilgili veriler ile biyometrik ve genetik verileri özel nitelikli kişisel veri sayar (KVKK m. 6).
 
@@ -63,7 +65,7 @@ Kaydedilen veri kişilerin siyasi, felsefi veya dini görüşlerine, ırki köke
 
 ## Verileri başkasına vermek, yaymak veya ele geçirmek
 
-Uygulamada en çok karşılaşılan hâl budur. Kişisel verileri hukuka aykırı olarak bir başkasına veren, yayan ya da ele geçiren kişi iki yıldan dört yıla kadar hapis cezasıyla cezalandırılır (m. 136/1). Üç ayrı hareket sayılmıştır:
+Kişisel verileri hukuka aykırı olarak bir başkasına veren, yayan ya da ele geçiren kişi iki yıldan dört yıla kadar hapis cezasıyla cezalandırılır (m. 136/1). Üç ayrı hareket sayılmıştır:
 
 - Vermek: veriyi belirli bir kişiye ya da kuruma iletmek, örneğin müşteri bilgilerini rakip bir firmaya göndermek.
 - Yaymak: veriyi belirsiz sayıda kişinin öğrenebileceği hâle getirmek, örneğin bir kişinin adresini ya da numarasını sosyal medyada paylaşmak.
@@ -77,10 +79,10 @@ Kaydetme ya da verme, yayma, ele geçirme suçu bir kamu görevlisi tarafından 
 
 Kanun bir de yok etmeme suçunu düzenler. Kanunların belirlediği süreler geçmesine rağmen verileri sistem içinde yok etmekle yükümlü olup bu görevi yerine getirmeyenlere bir yıldan iki yıla kadar hapis cezası verilir (m. 138/1). Veri, Ceza Muhakemesi Kanunu gereği ortadan kaldırılması ya da yok edilmesi gereken bir veriyse ceza bir kat artırılır. KVKK'ya göre kişisel verileri silmesi veya anonim hâle getirmesi gerektiği hâlde bunu yapmayanlar da bu hükme göre cezalandırılır.
 
-Bu suçlar bir şirket yararına işlenmişse, şirket hakkında da kendisine özgü güvenlik tedbirlerine hükmolunur (m. 140).
+Bu suçların işlenmesi dolayısıyla şirket gibi tüzel kişiler hakkında da kendilerine özgü güvenlik tedbirlerine hükmolunur (m. 140).
 
 ## Şikâyet, uzlaştırma ve KVKK yolu
 
 Kişisel verileri kaydetme, verme, yayma, ele geçirme ve yok etmeme suçları şikâyete bağlı değildir (m. 139). Savcılık suçu öğrendiğinde kendiliğinden soruşturma yapar ve mağdurun vazgeçmesi süreci durdurmaz. Bu suçlar uzlaştırma kapsamında da sayılmamıştır. Aynı bölümde yer alan haberleşmenin gizliliğini ve özel hayatın gizliliğini ihlal gibi suçlar ise ayrı hükümlere tabidir ve bu yazının konusu dışındadır.
 
-Ceza yolunun yanında idari bir yol da vardır. Verileri işlenen kişi önce veri sorumlusuna, yani verileri işleyen şirkete ya da kuruma yazılı olarak başvurur. Veri sorumlusu en geç otuz gün içinde cevap vermek zorundadır (KVKK m. 13). Başvuru reddedilir, cevap yetersiz bulunur ya da süresinde cevap verilmezse, cevabın öğrenildiği tarihten itibaren otuz ve her hâlde başvurudan itibaren altmış gün içinde Kişisel Verileri Koruma Kuruluna şikâyette bulunulabilir (KVKK m. 14). Kurul, kanuna aykırılık tespit ederse veri sorumlusuna idari para cezası uygulayabilir (KVKK m. 18). Bu cezaların tutarları her yıl yeniden değerleme oranında güncellendiği için burada rakam verilmemiştir.
+Ceza yolunun yanında idari bir yol da vardır. Verileri işlenen kişi önce veri sorumlusuna, yani verileri işleyen şirkete ya da kuruma yazılı olarak başvurur. Veri sorumlusu en geç otuz gün içinde cevap vermek zorundadır (KVKK m. 13). Başvuru reddedilir, cevap yetersiz bulunur ya da süresinde cevap verilmezse, cevabın öğrenildiği tarihten itibaren otuz ve her hâlde başvurudan itibaren altmış gün içinde Kişisel Verileri Koruma Kuruluna şikâyette bulunulabilir (KVKK m. 14). Kurul, kanuna aykırılık tespit ederse veri sorumlusuna idari para cezası uygulayabilir (KVKK m. 18). Bu cezaların tutarları dönem dönem yeniden belirlendiği için burada rakam verilmemiştir.
