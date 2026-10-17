@@ -11,7 +11,7 @@ Bu sitede, hukukçu olmayan okurların günlük hayatta karşılaştığı sorul
 **Doğan Hukuk Bürosu**<br>
 Hacı Saki Mah. Çimen Sok.<br>
 A Plus İş Merkezi No: 7/30<br>
-38090 Kocasinan / Kayseri
+38010 Kocasinan / Kayseri
 
 Telefon: [0530 304 34 52](tel:+905303043452)
 
