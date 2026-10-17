@@ -45,7 +45,7 @@ Velayet kararı ya da çocukla kişisel ilişki düzenlemesi, ancak uygulandığ
 
 Çocuk teslimi ya da kişisel ilişki kurulmasına dair aile mahkemesi kararları, ister kesin hüküm (ilam) ister dava sürerken verilen tedbir kararı olsun, Adalet Bakanlığınca kurulan adli destek ve mağdur hizmetleri müdürlüklerince yerine getirilir (m. 41/A). Müdürlük bulunmayan yerlerde bu görevi, Adalet Bakanlığının belirlediği hukuk mahkemesi yazı işleri müdürlüğü yürütür.
 
-Yetkili müdürlük, çocuğun yerleşim yerindeki müdürlüktür. Teslim işlemleri psikolog, pedagog, sosyal çalışmacı, çocuk gelişimci veya rehber öğretmen gibi uzmanlar eliyle, uzman bulunmayan yerlerde öğretmen eliyle yapılır. Teslimler de müdürlüğün belirlediği teslim mekânlarında gerçekleştirilir (m. 41/D).
+Yetkili müdürlük, çocuğun yerleşim yerindeki müdürlüktür. Teslim işlemleri psikolog, pedagog, sosyal çalışmacı, çocuk gelişimci veya rehber öğretmen gibi uzmanlar eliyle, uzman bulunmayan yerlerde öğretmen eliyle yapılır (m. 41/A). Teslimler de müdürlüğün belirlediği teslim mekânlarında gerçekleştirilir (m. 41/D).
 
 Bu işlemler harçlardan istisnadır. İşlemler için yapılan masraflar, avukatlık ücreti hariç, Adalet Bakanlığı bütçesinden karşılanır (m. 41/H).
 
@@ -63,7 +63,7 @@ Kişisel ilişki, yani velayet kendisinde olmayan ebeveynin çocukla düzenli g�
 
 Bu sistemde hak sahibinin de yükümlülükleri vardır. Hak sahibi, teslim saatinden en az kırk sekiz saat önce çocuğu almaya geleceğini müdürlüğe bildirmek zorundadır. Bildirim yapılmazsa yükümlüye çocuğu getirme zorunluluğu olmadığı haber verilir. Hak sahibi bildirimde bulunduğu hâlde haklı bir mazeret olmadan art arda iki kez ya da bir yılda üç kez gelmezse dosya işlemden kaldırılır ve teslim emri hükümsüz hâle gelir.
 
-Kişisel ilişki süresi bitince hak sahibinin çocuğu belirlenen yere geri getirmesi gerekir. Getirmezse müdürlük suç duyurusunda bulunur. Yükümlü teslim emrine ilk kez aykırı davrandığında müdürlük, aile mahkemesinden yükümlü hakkında danışmanlık tedbiri istenmesini talep eder.
+Kişisel ilişki süresi bitince hak sahibinin çocuğu belirlenen yere geri getirmesi gerekir. Getirmezse müdürlük suç duyurusunda bulunur. Yükümlü teslim emrine ilk kez aykırı davrandığında müdürlük, yükümlü hakkında danışmanlık tedbiri uygulanmasını aile mahkemesinden talep eder.
 
 Yükümlü en az bir yıl boyunca emre düzenli olarak uyar ve bundan sonra da karara uygun davranacağını taahhüt ederse, müdürlük uzman görüşünü de alarak dosyayı işlemden kaldırabilir. Taahhüde uyulmazsa hak sahibinin talebiyle yükümlüye doğrudan yeni teslim emri tebliğ edilir.
 
@@ -77,8 +77,8 @@ Teslim emrine aykırı davranan ya da emrin yerine getirilmesini engelleyen kiş
 - Kişisel ilişkiye ilişkin emre aykırılıkta üç günden on güne kadar disiplin hapsi,
 - Kişisel ilişki için çocuk kendisine teslim edilen hak sahibinin süre sonunda çocuğu getirmemesinde üç aya kadar disiplin hapsi.
 
-Şikâyete, işlemi yapan müdürlüğün bulunduğu yer aile mahkemesi bakar. Disiplin hapsi kararı kesinleşince Cumhuriyet başsavcılığınca infaz edilir; kesinleşmeden itibaren iki yıl geçerse artık yerine getirilemez. Şikâyetten vazgeçilirse ya da çocuk teslimine ilişkin hâllerde çocuk velayet hakkı sahibine teslim edilirse dava ve bütün sonuçlarıyla ceza düşer.
+Şikâyete, işlemi yapan müdürlüğün bulunduğu yer aile mahkemesi bakar. Disiplin hapsi kararı kesinleşince Cumhuriyet başsavcılığınca infaz edilir; kesinleşmeden itibaren iki yıl geçerse artık yerine getirilemez. Şikâyetten vazgeçilirse ya da çocuk teslimi emrine aykırılık ile süre sonunda çocuğun getirilmemesi hâllerinde çocuk velayet hakkı sahibine teslim edilirse dava ve bütün sonuçlarıyla ceza düşer.
 
 Müdürlüğün işlem ve kararlarına karşı, öğrenme ya da tebliğ tarihinden itibaren bir hafta içinde müdürlüğün bulunduğu yer aile mahkemesine şikâyette bulunulabilir (m. 41/E). Mahkeme işlemi durdurabilir ve ivedilikle karar verir. Bu karara karşı tebliğden itibaren iki hafta içinde itiraz edilebilir. İtiraz süresi 2024 yılında 7499 sayılı Kanunla bir haftadan iki haftaya çıkarıldı. İtiraz merciinin kararı kesindir.
 
-Taraflardan biri hakkında 6284 sayılı Kanun uyarınca gizlilik kararı ya da başka bir koruyucu tedbir varsa, teslim işlemleri bu kararlar dikkate alınarak yapılır. Teslim sırasında kayda alınan görüntülerin internette yayımlanması hâlinde ilgililer içeriğin çıkarılmasını ya da erişimin engellenmesini isteyebilir (m. 41/G).
+Taraflardan biri hakkında 6284 sayılı Kanun uyarınca gizlilik kararı ya da başka bir koruyucu tedbir varsa, teslim işlemleri bu kararlar dikkate alınarak yapılır (m. 41/C). Teslim sırasında kayda alınan görüntülerin internette yayımlanması hâlinde ilgililer içeriğin çıkarılmasını ya da erişimin engellenmesini isteyebilir (m. 41/G).

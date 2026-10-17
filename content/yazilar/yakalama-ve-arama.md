@@ -66,7 +66,7 @@ Yakalama emri, belirli bir kişinin yakalanması için yazılı olarak verilen k
 
 Yakalama emrinde kişinin eşkâli, biliniyorsa kimliği, yüklenen suç ve yakalanınca nereye gönderileceği yazılır. Hâkim veya mahkemenin yakalama emri üzerine yakalanan kişi en geç yirmi dört saat içinde yetkili hâkim veya mahkeme önüne çıkarılır; bu mümkün değilse aynı süre içinde sesli ve görüntülü sistemle ifadesi alınır ya da sorgusu yapılır (m. 94).
 
-İfadesi alınmak için çıkarılan bir yakalama emri üzerine mesai saatleri dışında yakalanan kişi, belirlenen tarihte yargı mercii önünde hazır bulunmayı taahhüt ederse savcının emriyle serbest bırakılabilir. Bu imkân her yakalama emri için yalnızca bir kez kullanılabilir; taahhüdüne uymayan kişiye idari para cezası verilir. Yakalama emrinin amacı gerçekleşmişse, örneğin kişi kendiliğinden gelip ifade vermişse, emri veren merci emrin derhâl geri alınmasını ister (m. 90/6).
+İfadesi alınmak için çıkarılan bir yakalama emri üzerine mesai saatleri dışında yakalanan kişi, belirlenen tarihte yargı mercii önünde hazır bulunmayı taahhüt ederse savcının emriyle serbest bırakılabilir. Bu imkân her yakalama emri için yalnızca bir kez kullanılabilir; taahhüdüne uymayan kişiye idari para cezası verilir (m. 94/3). Yakalama emrinin amacı gerçekleşmişse, örneğin kişi kendiliğinden gelip ifade vermişse, mahkeme, hâkim veya savcı emrin derhâl iadesini ister (m. 90/6).
 
 ## Arama hangi kararla yapılır?
 

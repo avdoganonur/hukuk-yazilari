@@ -60,7 +60,7 @@ Denetimli serbestliğe ayrılan hükümlü, cezaevinden çıktıktan sonra taleb
 
 Hükümlü beş gün içinde başvurmazsa, yükümlülüklere uymamakta ısrar ederse ya da cezaevine dönmek isterse, infaz hâkimi koşullu salıverilme tarihine kadar açık cezaevine gönderilmesine karar verir. Denetim başladıktan sonra işlendiği iddia edilen ve cezasının alt sınırı bir yıl veya daha fazla olan kasıtlı bir suçtan kamu davası açılırsa da açık cezaevine gönderme kararı verilebilir. Bu davada beraat ya da düşme gibi bir karar çıkarsa denetimli serbestliğe devam edilir.
 
-Başvuru süresinin bitiminden itibaren iki gün geçmesine rağmen müdürlüğe gitmeyen veya iade kararına rağmen iki gün içinde teslim olmayan hükümlü hakkında Türk Ceza Kanunu'nun hükümlü ve tutukluların kaçmasına ilişkin hükümleri uygulanır.
+Başvuru süresinin bitiminden itibaren iki gün geçmesine rağmen müdürlüğe gitmeyen veya iade kararına rağmen iki gün içinde teslim olmayan hükümlü hakkında Türk Ceza Kanunu'nun 292 ve 293. maddelerindeki hükümler uygulanır.
 
 ## Koşullu salıverilme kararı ve denetim süresi
 

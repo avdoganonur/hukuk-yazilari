@@ -23,7 +23,7 @@ sss:
   - soru: "Seri muhakemeyi kabul etmek ile kamu davasının açılmasının ertelenmesi aynı şey mi?"
     cevap: "Hayır. Kamu davasının açılmasının ertelenmesinde savcı davayı beş yıl boyunca açmaz ve bu sürede kasıtlı suç işlenmezse kovuşturmaya yer olmadığına karar verilir. Seri muhakemede ise mahkemenin kurduğu bir hüküm vardır. Kanun, seri muhakemenin ancak erteleme kararı verilmediği takdirde uygulanacağını söyler."
 ---
-Seri muhakeme usulü, belirli ve görece hafif suçlarda ceza davasının uzun bir yargılama yapılmadan sonuçlandırılmasını sağlayan bir yoldur. Savcı, soruşturmanın sonunda şüpheliye bu usulü teklif eder. Şüpheli avukatının yanında kabul ederse savcı cezayı belirler ve yarı oranında indirir; mahkeme de şüpheliyi dinledikten sonra hükmü kurar. Usul, 2019 yılında Ceza Muhakemesi Kanunu'nun (CMK) 250. maddesine eklenmiş, sonradan birkaç kez değiştirilmiş ve Anayasa Mahkemesi kararlarıyla da daraltılmıştır. Bu yazı maddenin güncel hâlini anlatır.
+Seri muhakeme usulü, belirli ve görece hafif suçlarda ceza davasının uzun bir yargılama yapılmadan sonuçlandırılmasını sağlayan bir yoldur. Savcı, soruşturmanın sonunda şüpheliye bu usulü teklif eder. Şüpheli avukatının yanında kabul ederse savcı cezayı belirler ve yarı oranında indirir; mahkeme de şüpheliyi dinledikten sonra hükmü kurar. Usul, 2019 yılında Ceza Muhakemesi Kanunu'nun (CMK) 250. maddesine eklenmiş, sonradan birkaç kez değiştirilmiş, bazı ibareleri de Anayasa Mahkemesince iptal edilmiştir. Bu yazı maddenin güncel hâlini anlatır.
 
 ## Hangi suçlarda uygulanır?
 
