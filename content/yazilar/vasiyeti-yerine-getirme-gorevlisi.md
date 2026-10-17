@@ -72,8 +72,6 @@ Terekeyi yönetmek, malları dilediği gibi satmak anlamına gelmez. Mirasbırak
 
 Olağan giderleri karşılayacak ölçüdeki tasarruflar için izin alınması gerekmez. Örneğin terekedeki bir binanın aidatını ya da elektrik faturasını ödemek için hâkime gitmek gerekmez. Bir dairenin satışı ise, mirasbırakan bu konuda taahhütte bulunmamışsa izne tabidir.
 
-Kanundaki taahhüt istisnası da pratik bir sonuç doğurur. Mirasbırakan sağlığında bir taşınmazı satmayı taahhüt etmiş ama devir yapılmadan ölmüşse, görevlinin bu taahhüdü yerine getirmek için ayrıca izin alması gerekmez. Hâkimin izni, mirasbırakanın önceden bağlanmadığı yeni tasarruflar için bir güvencedir.
-
 ## Denetim, sona erme ve sorumluluk
 
 Görevli, görevini yaparken sulh hâkiminin denetimindedir. Hâkim şikâyet üzerine ya da kendiliğinden gereken önlemleri alır. Görevlinin yetersiz olduğu, görevini kötüye kullandığı ya da ağır ihmali tespit edilirse sulh hâkimi görevine son verir. Bu karara karşı, tebliğinden başlayarak on beş gün içinde asliye mahkemesine itiraz edilebilir; itiraz üzerine verilen karar kesindir (m. 555).

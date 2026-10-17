@@ -45,7 +45,7 @@ sss:
   - soru: "Lehine miras sözleşmesi yapılan kişi benden önce ölürse ne olur?"
     cevap: "Mirasçı atanan ya da kendisine belirli mal bırakılan kişi mirasbırakanın ölümünde sağ değilse sözleşme kendiliğinden ortadan kalkar. Önce ölen kişinin mirasçıları, aksi kararlaştırılmamışsa, mirasbırakanın sözleşme uyarınca elde ettiği ve ölüm tarihinde mevcut olan zenginleşmeyi geri isteyebilir."
   - soru: "Kardeşlerle aramızda babamızın mirasını önceden paylaşan bir sözleşme yapabilir miyiz?"
-    cevap: "Mirasbırakanın katılması ya da izni olmadan, henüz açılmamış bir miras hakkında mirasçılar arasında yapılan sözleşmeler geçerli değildir. Böyle bir sözleşmeyle verilen şeylerin geri verilmesi istenebilir. Babanın da taraf olduğu düzenleme için ise miras sözleşmesinin şekil kuralları uygulanır."
+    cevap: "Mirasbırakanın katılması ya da izni olmadan, henüz açılmamış bir miras hakkında mirasçılar arasında yapılan sözleşmeler geçerli değildir. Böyle bir sözleşmeyle verilen şeylerin geri verilmesi istenebilir."
 ---
 Bir kişi ölümünden sonra malvarlığının kime kalacağını iki yolla belirleyebilir: vasiyetname ya da miras sözleşmesiyle (Türk Medeni Kanunu m. 514). Vasiyetname tek taraflıdır; onu yapan kişi istediği zaman değiştirir ya da yırtıp atar. Miras sözleşmesi ise adından da anlaşılacağı gibi iki taraflıdır ve mirasbırakanı, yani malvarlığını bırakacak kişiyi bağlar. Bu bağlayıcılık, sözleşmenin hem işe yarayan hem de dikkat isteyen yanıdır.
 

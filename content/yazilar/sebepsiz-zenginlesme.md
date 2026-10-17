@@ -42,9 +42,9 @@ Yanlış hesaba giden parada, gönderen ile alan arasında ödemeyi haklı kıla
 
 Kanun, borçlanmadığı bir edimi kendi isteğiyle yerine getiren kişinin bunu ancak kendini borçlu sanarak yaptığını ispat ederse geri isteyebileceğini söyler. Bu kural, bilerek yapılan bağışların sonradan "sebepsiz zenginleşme" denilerek geri istenmesini önler.
 
-Yanlış IBAN'a gönderilen parada ispat çoğu zaman belgelerle yapılır. Gerçek alıcının IBAN numarası, ona ait faturalar ya da yazışmalar, aynı gün doğru hesaba yapılan ikinci ödeme ve gönderenle alıcı arasında hiçbir ilişki olmaması, paranın yanlışlıkla gittiğini gösterir. İlk iş, işlemi yaptığınız bankaya durumu hemen bildirmek ve bu yazışmaları saklamaktır. Alıcı parayı kendiliğinden iade ederse sorun orada kapanır.
+Yanlış IBAN'a gönderilen parada ispat çoğu zaman belgelerle yapılır. Gerçek alıcının IBAN numarası, ona ait faturalar ya da yazışmalar, aynı gün doğru hesaba yapılan ikinci ödeme ve gönderenle alıcı arasında hiçbir ilişki olmaması, paranın yanlışlıkla gittiğini gösterir. Gönderilen tutarın gerçek alıcıya olan bir borçla aynı olması da güçlü bir işarettir. Hata fark edildiği anda ekran görüntüsü almak ve işlem bilgilerini kaydetmek ileride ispatı kolaylaştırır. İlk iş, işlemi yaptığınız bankaya durumu hemen bildirmek ve bu yazışmaları saklamaktır. Alıcı parayı kendiliğinden iade ederse sorun orada kapanır.
 
-Banka kayıtları da önemlidir. Havale veya EFT dekontu paranın hangi hesaba, hangi tarihte ve hangi açıklamayla gittiğini gösterir. Açıklama kısmına yazılan not, örneğin bir kira ödemesi ya da fatura numarası, paranın asıl kime gönderilmek istendiğini ortaya koyabilir. Alıcının kimlik ve adres bilgileri ise çoğu zaman takip ya da dava aşamasında mahkeme veya icra dairesi aracılığıyla bankadan istenir.
+Banka kayıtları da önemlidir. Havale veya EFT dekontu paranın hangi hesaba, hangi tarihte ve hangi açıklamayla gittiğini gösterir. Açıklama kısmına yazılan not, örneğin bir kira ödemesi ya da fatura numarası, paranın asıl kime gönderilmek istendiğini ortaya koyabilir.
 
 Kanun iki durumda geri istemeye izin vermez. Zamanaşımına uğramış bir borcun ödenmesi ya da ahlaki bir ödevin yerine getirilmesi sonucunda oluşan zenginleşme geri istenemez. Hukuka ya da ahlaka aykırı bir sonucun gerçekleşmesi için verilen şey de geri istenemez; açılan davada hâkim bunun Devlete mal edilmesine karar verebilir.
 
@@ -52,7 +52,7 @@ Kanun iki durumda geri istemeye izin vermez. Zamanaşımına uğramış bir borc
 
 Sebepsiz zenginleşen kişi, geri isteme anında elinden çıkmış olduğunu ispat ettiği kısım dışındakini geri vermekle yükümlüdür. Bu kural iyi niyetli zenginleşeni korur. Örneğin hesabına gelen parayı kendi alacağı sanıp olağan biçimde harcayan biri, harcadığı kısmı ispat ederse o kısımdan sorumlu tutulmayabilir.
 
-İyi niyetli olmayan zenginleşen için durum farklıdır. Zenginleşmeyi iyi niyetli olmadan elden çıkaran ya da elden çıkarırken ileride geri vermek zorunda kalabileceğini hesaba katması gereken kişi, zenginleşmenin tamamını geri verir. Hesabına tanımadığı birinden para geldiğini gören, gönderenin ya da bankanın iade talebinden haberdar olan ve buna rağmen parayı harcayan kişi bu korumadan yararlanamaz. Bu yüzden alıcıya iade talebini yazılı ve ispatlanabilir biçimde bildirmek, ileride iyi niyet tartışmasında gönderenin elini güçlendirir.
+İyi niyetli olmayan zenginleşen için durum farklıdır. Zenginleşmeyi iyi niyetli olmadan elden çıkaran ya da elden çıkarırken ileride geri vermek zorunda kalabileceğini hesaba katması gereken kişi, zenginleşmenin tamamını geri verir. Hesabına tanımadığı birinden para geldiğini gören, gönderenin ya da bankanın iade talebinden haberdar olan ve buna rağmen parayı harcayan kişi bu korumadan yararlanamaz. Bu yüzden alıcıya iade talebini yazılı ve ispatlanabilir biçimde bildirmek, ileride iyi niyet tartışmasında gönderenin elini güçlendirir. Bildirimde gönderim tarihi, tutar, alıcının hesabına ait IBAN numarası, paranın asıl kime gönderilmek istendiği ve iadenin yapılacağı hesap açıkça yazılmalıdır. Noter aracılığıyla gönderilen bir ihtarname, bildirimin tarihini ve içeriğini tartışmasız biçimde ortaya koyar.
 
 Zenginleşen, yaptığı giderleri de gündeme getirebilir. İyi niyetli zenginleşen zorunlu ve yararlı giderlerini isteyebilir. İyi niyetli olmayan zenginleşen ise zorunlu giderlerini ve yararlı giderlerinden yalnızca geri verme anında mevcut olan değer artışını isteyebilir.
 
@@ -66,6 +66,6 @@ Davada gönderen; paranın alıcının hesabına geçtiğini, aralarında ödeme
 
 Sebepsiz zenginleşmeden doğan istem hakkı, hak sahibinin geri isteme hakkı olduğunu öğrendiği tarihten itibaren iki yılda ve her hâlde zenginleşmenin gerçekleştiği tarihten itibaren on yılda zamanaşımına uğrar. Yanlış havalede gönderen çoğu zaman hatasını kısa sürede fark eder; bu yüzden pratikte belirleyici olan genellikle iki yıllık süredir.
 
-Zamanaşımı, icra takibi başlatılması ya da dava açılmasıyla kesilir. İade için yapılan yazışmalar ve görüşmeler süreyi kendiliğinden durdurmaz. Uzun süren pazarlıklar sırasında iki yılın dolmamasına dikkat etmek gerekir.
+Zamanaşımı, icra takibi başlatılması ya da dava açılmasıyla kesilir. Alıcının borcu kabul etmesi, örneğin paranın bir kısmını iade etmesi de zamanaşımını keser ve süre yeniden başlar. İade için yapılan yazışmalar ve görüşmeler süreyi kendiliğinden durdurmaz. Uzun süren pazarlıklar sırasında iki yılın dolmamasına dikkat etmek gerekir.
 
 Zenginleşme, zenginleşenin bir alacak hakkı kazanması biçiminde gerçekleşmişse, diğer taraf istem hakkı zamanaşımına uğramış olsa bile bu borcu ödemekten her zaman kaçınabilir. Bu kural, örneğin geçersiz bir işlem nedeniyle borç senedi vermiş kişiyi korur.

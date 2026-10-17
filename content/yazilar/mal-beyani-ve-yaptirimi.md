@@ -56,17 +56,19 @@ Süresinde mal beyanında bulunmayan borçlu, alacaklının istemi üzerine icra
 
 Ödeme emirlerinde borçluya, beyanda bulunmazsa ayrıca hapisle cezalandırılacağı da ihtar edilir. Ancak mal beyanında bulunmayan borçluya on gün disiplin hapsi öngören 337. maddenin birinci fıkrası, Anayasa Mahkemesinin 2008 yılında verdiği kararla iptal edilmiştir. Mahkeme, aynı davranış için hem tazyik hapsi hem disiplin hapsi verilmesini hukuk devleti ilkesine aykırı bulmuştur. Bugün beyanda hiç bulunmamanın kanundaki karşılığı tazyik hapsidir.
 
+Süreç uygulamada şöyle işler: borçlu süresinde beyanda bulunmaz, alacaklı icra mahkemesine başvurarak tazyik hapsi ister, mahkeme kararını verir. Borçlu bu aşamada da icra dairesine giderek beyanda bulunursa hapis uygulanmaz ya da uygulanmaya başlanmışsa sona erer. Yani borçlunun elinde, beyanda bulunarak hapisten kurtulma imkânı her zaman vardır.
+
 Kanun bu yaptırıma iki sınır daha koyar. Nafaka alacakları dışında, alacak miktarı her yıl belirlenen aylık en yüksek brüt asgari ücretin altında kalan takiplerde tazyik ve disiplin hapsi uygulanmaz. İcra mahkemesinin verdiği tazyik veya disiplin hapsi kararı, kesinleştiği tarihten itibaren iki yıl geçtikten sonra da yerine getirilmez.
 
 ## Gerçeğe aykırı beyanın cezası
 
-Mal beyanında bulunmak kadar doğru beyanda bulunmak da yükümlülüktür. Kanuna göre istenen beyanı gerçeğe aykırı biçimde yapan kişi, alacaklının şikâyeti üzerine üç aydan bir yıla kadar hapis cezasıyla cezalandırılır. Üzerine kayıtlı aracı ya da düzenli kira gelirini gizleyip "hiçbir malım yok" diyen borçlu bu tehlikeyle karşılaşır.
+Mal beyanında bulunmak kadar doğru beyanda bulunmak da yükümlülüktür. Kanuna göre istenen beyanı gerçeğe aykırı biçimde yapan kişi, alacaklının şikâyeti üzerine üç aydan bir yıla kadar hapis cezasıyla cezalandırılır. Üzerine kayıtlı aracı ya da düzenli kira gelirini gizleyip "hiçbir malım yok" diyen borçlu bu tehlikeyle karşılaşır. Beyanında yalnızca bir banka hesabını gösterip ücretinin yattığı diğer hesabı saklayan borçlu da aynı durumdadır.
 
 Bu suç, tazyik hapsinden farklı olarak gerçek bir cezadır. Davaya icra mahkemesi bakar. Alacaklının şikâyet hakkı, fiili öğrendiği tarihten itibaren üç ay ve her hâlde fiilin işlendiği tarihten itibaren bir yıl geçmekle düşer.
 
 ## Sonradan edinilen mallar
 
-Mal beyanında malı olmadığını söyleyen, borcunu karşılayacak mal göstermeyen ya da beyanda bulunmaktan kaçınan borçlunun yükümlülüğü burada bitmez. Sonradan kazandığı malları ve kazancında ya da gelirinde ortaya çıkan artışları yedi gün içinde icra dairesine taahhütlü mektupla ya da sözlü olarak bildirmek zorundadır.
+Mal beyanında malı olmadığını söyleyen, borcunu karşılayacak mal göstermeyen ya da beyanda bulunmaktan kaçınan borçlunun yükümlülüğü burada bitmez. Sonradan kazandığı malları ve kazancında ya da gelirinde ortaya çıkan artışları yedi gün içinde icra dairesine taahhütlü mektupla ya da sözlü olarak bildirmek zorundadır. Örneğin işsizken beyanda bulunan borçlu yeni bir işe girerse, aldığı ücreti bu süre içinde bildirmelidir.
 
 Bunu makul bir mazereti olmadan yapmayan borçlu, alacaklının şikâyeti üzerine disiplin hapsiyle cezalandırılır. Mal ya da kazanç hâlâ duruyorsa ceza on gün, borçlu bunları makul bir sebep olmadan elden çıkarmışsa bir aya kadardır. Borçlu takip konusu borcun tamamını öderse bu ceza düşer.
 

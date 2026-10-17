@@ -81,7 +81,7 @@ Güvencenin süresi kaybolmanın türüne göre değişir:
 - Uzun zamandan beri haber alınamamada on beş yıl; bu süre son haber tarihinden başlar,
 - Her iki durumda da güvence en çok gaibin yüz yaşına varmasına kadar geçecek süre için gösterilir.
 
-Gaip ortaya çıkarsa ya da daha üstün hak sahibi olduğunu ileri sürenler bunu ispat ederse, malları teslim alanlar aldıklarını zilyetlik kuralları uyarınca geri vermekle yükümlüdür. İyiniyetli olanların üstün hak sahiplerine geri verme yükümlülüğü, miras sebebiyle istihkak davasındaki zamanaşımı sürelerine tabidir (m. 585). Bu süreler, davacının mirasçı olduğunu ve iyiniyetli davalının malı elinde tuttuğunu öğrenmesinden başlayarak bir yıl ve her hâlde on yıldır; iyiniyetli olmayanlara karşı yirmi yıldır (m. 639).
+Gaip ortaya çıkarsa ya da daha üstün hak sahibi olduğunu ileri sürenler bunu ispat ederse, malları teslim alanlar aldıklarını zilyetlik kuralları uyarınca geri vermekle yükümlüdür. İyiniyetli olanların üstün hak sahiplerine geri verme yükümlülüğü, miras sebebiyle istihkak davasındaki zamanaşımı sürelerine tabidir (m. 585). Bu süre, davacının mirasçı olduğunu ve iyiniyetli davalının malı elinde tuttuğunu öğrenmesinden başlayarak bir yıl, her hâlde mirasbırakanın ölümünün ya da vasiyetnamenin açılmasının üzerinden on yıldır; iyiniyetli olmayanlara karşı yirmi yıldır (m. 639).
 
 ## Gaip bir mirastan pay alacaksa
 

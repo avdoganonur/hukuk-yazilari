@@ -80,11 +80,11 @@ Bazı ilişkilerde alacaklıdan dava açması beklenemez. Kanun bu durumlarda za
 - Hizmet ilişkisi sürdükçe ev hizmetlilerinin onları çalıştıranlardan olan alacakları,
 - Alacağın Türk mahkemelerinde ileri sürülme imkânı bulunmadığı süre.
 
-Durma sebebi ortadan kalktığı günün bitiminde zamanaşımı işlemeye başlar ya da kaldığı yerden devam eder. Örneğin evlilik içinde eşlerden birinin diğerine verdiği borç için zamanaşımı, evlilik sona erene kadar işlemez.
+Durmada, durma sebebi ortaya çıkmadan önce geçmiş olan süre korunur; yalnızca durma süresi hesaba katılmaz. Durma sebebi ortadan kalktığı günün bitiminde zamanaşımı işlemeye başlar ya da kaldığı yerden devam eder. Örneğin evlilik içinde eşlerden birinin diğerine verdiği borç için zamanaşımı, evlilik sona erene kadar işlemez.
 
 ## Zamanaşımının kesilmesi
 
-Kesilmede durmadan farklı olarak, o ana kadar geçen süre silinir ve süre baştan başlar. Kanun iki grup kesme sebebi sayar.
+Kesilmede durmadan farklı olarak, o ana kadar geçen süre silinir ve süre baştan başlar. Bu nedenle süresi dolmak üzere olan bir alacak için kesme sebeplerinden birinin zamanında gerçekleştirilmesi büyük önem taşır. Kanun iki grup kesme sebebi sayar.
 
 Birincisi borçlunun borcu ikrar etmesidir. Faiz ödemek, borcun bir kısmını ödemek, rehin vermek ya da kefil göstermek de ikrar sayılır.
 
