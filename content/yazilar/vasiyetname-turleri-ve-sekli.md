@@ -7,6 +7,8 @@ dayanak:
   - ad: "4721 sayılı Türk Medeni Kanunu m. 502"
     not: "Vasiyet ehliyeti"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 503"
+    not: "Miras sözleşmesi ehliyeti"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 531"
     not: "Vasiyetin üç şekli"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 532"

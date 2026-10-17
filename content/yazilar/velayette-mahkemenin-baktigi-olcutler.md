@@ -60,13 +60,13 @@ Aynı ölçüt anlaşmalı boşanmada da geçerlidir. Eşler velayeti protokolde
 
 Taraflar bu konulardaki iddialarını tanık anlatımları, okul ve sağlık kayıtları gibi kanıtlarla destekleyebilir. Genel ve soyut suçlamalar yerine, çocuğun gündelik hayatına dokunan somut olayların anlatılması değerlendirmeyi kolaylaştırır.
 
-Gelir farkı tek başına belirleyici değildir. Velayet kendisine verilmeyen ebeveyn de çocuğun bakım ve eğitim giderlerine gücü oranında katılmak zorundadır (m. 182). Bu yüzden daha az kazanan ebeveyn, yalnızca bu nedenle velayeti kaybetmez.
+Gelir farkı tek başına belirleyici değildir. Velayet kendisine verilmeyen ebeveyn de çocuğun bakım ve eğitim giderlerine gücü oranında katılmak zorundadır (m. 182). Kanun böylece ebeveynler arasındaki gelir farkının, giderlere katılma yoluyla dengelenmesine imkân tanır.
 
 Aile mahkemeleri bu değerlendirmede psikolog, pedagog ve sosyal çalışmacılardan yararlanır. Bu uzmanlar mahkemenin istediği konularda araştırma ve inceleme yapar, sonucunu bildirir; mahkeme gerekli görürse duruşmada da hazır bulunurlar (4787 sayılı Kanun m. 5). Uygulamada sosyal inceleme raporu olarak bilinen bu rapor önemli bir kanıttır, ama hâkimi bağlamaz. Boşanma yargılamasında hâkim kanıtları serbestçe takdir eder (TMK m. 184).
 
 ## Çocuğun dinlenmesi
 
-Medeni Kanun'un 182. maddesi dinlenecek kişiler olarak ana ve babayı, çocuk vesayet altındaysa vasiyi ve vesayet makamını sayar; çocuğun dinlenmesinden ayrıca söz etmez. Bu konudaki dayanak, Çocuk Haklarına Dair Sözleşme'nin 12. maddesidir. Maddeye göre görüşlerini oluşturabilecek durumdaki çocuk, kendisini etkileyen her konuda görüşünü serbestçe açıklama hakkına sahiptir. Bu görüşlere çocuğun yaşına ve olgunluk derecesine uygun ağırlık verilir. Sözleşme ayrıca çocuğu etkileyen adli süreçlerde ona, doğrudan ya da bir temsilci veya uygun bir makam aracılığıyla, ulusal usul kurallarına uygun biçimde dinlenme fırsatı tanınmasını ister.
+Medeni Kanun'un 182. maddesi, mahkemenin ana ve babayı dinlemesini, çocuk vesayet altındaysa vasinin ve vesayet makamının düşüncesini almasını öngörür; çocuğun dinlenmesinden ayrıca söz etmez. Bu konudaki dayanak, Çocuk Haklarına Dair Sözleşme'nin 12. maddesidir. Maddeye göre görüşlerini oluşturabilecek durumdaki çocuk, kendisini etkileyen her konuda görüşünü serbestçe açıklama hakkına sahiptir. Bu görüşlere çocuğun yaşına ve olgunluk derecesine uygun ağırlık verilir. Sözleşme ayrıca çocuğu etkileyen adli süreçlerde ona, doğrudan ya da bir temsilci veya uygun bir makam aracılığıyla, ulusal usul kurallarına uygun biçimde dinlenme fırsatı tanınmasını ister.
 
 Dinlenmek, karar vermek anlamına gelmez. Çocuğun söyledikleri, yaşı ve olgunluğu ölçüsünde değerlendirmeye katılır. Medeni Kanun da aynı anlayışı aile içi ilişkiler için benimser: ana ve baba, önemli konularda çocuğun düşüncesini olabildiğince göz önünde tutar (m. 339). Ebeveynlerin dava sürerken çocuğu yönlendirmeye çalışması ise hem çocuğu yıpratır hem de anlattıklarının inandırıcılığını zayıflatabilir.
 

@@ -14,7 +14,7 @@ dayanak:
   - ad: "4857 sayılı İş Kanunu m. 55"
     not: "İzin hakkının hesabında çalışılmış gibi sayılan süreler"
   - ad: "4857 sayılı İş Kanunu m. 56"
-    not: "İşverenin izin kayıt belgesi tutma yükümlülüğü"
+    not: "İzin kayıt belgesi, alt işveren değişse de aynı işyerindeki sürelerin birlikte hesaplanması"
   - ad: "4857 sayılı İş Kanunu m. 57"
     not: "İzin ücretinin hesabı, değişken ücretlilerde ortalama"
   - ad: "4857 sayılı İş Kanunu m. 50"
@@ -43,15 +43,15 @@ sss:
 ---
 Yıllık ücretli izin, işçinin dinlenmesi için tanınmış bir haktır ve normalde çalışırken kullanılır. Yine de pek çok işçi, işten ayrılırken yıllardır kullanmadığı izin günleri biriktiğini fark eder. Kanun bu günlerin boşa gitmesine izin vermez. İş sözleşmesi hangi sebeple sona ererse ersin, işçinin hak kazanıp da kullanmadığı izin sürelerinin ücreti kendisine ödenir (4857 sayılı İş Kanunu m. 59).
 
-## İzin ücretine kimler hak kazanır?
+## İzin ücretine hak kazanma
 
 Yıllık izne hak kazanmak için işyerinde, deneme süresi de dahil, en az bir yıl çalışmış olmak gerekir (m. 53). Bir yılı doldurmadan ayrılan işçinin kanundan doğan bir izin hakkı oluşmadığından, ödenecek izin ücreti de yoktur.
 
-Hak, tamamlanan her hizmet yılı için ayrı ayrı doğar. Üç yıl sekiz ay çalışan bir işçi, tamamladığı üç yılın her biri için izne hak kazanmıştır; son sekiz ay için kanundan doğan bir izin hakkı yoktur. Aynı işverenin farklı işyerlerinde geçen süreler birleştirilerek hesaplanır (m. 54). İşçinin işe gelmediği bazı günler de izin hakkının hesabında çalışılmış gibi sayılır: hafta tatilleri, ulusal bayram ve genel tatil günleri, kadın işçinin doğumdan önce ve sonra çalıştırılmadığı günler ya da kanundaki sınırlar içinde kalmak üzere hastalık veya kaza nedeniyle işe gidilemeyen günler bunlardandır (m. 55).
+Hak, tamamlanan her hizmet yılı için ayrı ayrı doğar. Üç yıl sekiz ay çalışan bir işçi, tamamladığı üç yılın her biri için izne hak kazanmıştır; son sekiz ay için kanundan doğan bir izin hakkı yoktur. Aynı işverenin farklı işyerlerinde geçen süreler birleştirilerek hesaplanır (m. 54). Alt işveren değiştiği hâlde aynı işyerinde çalışmaya devam eden işçinin izin süresi de o işyerinde geçen toplam süre dikkate alınarak hesaplanır (m. 56); yeni alt işverenle sıfırdan başlanmaz. İşçinin işe gelmediği bazı günler de izin hakkının hesabında çalışılmış gibi sayılır: hafta tatilleri, ulusal bayram ve genel tatil günleri, kadın işçinin doğumdan önce ve sonra çalıştırılmadığı günler ya da kanundaki sınırlar içinde kalmak üzere hastalık veya kaza nedeniyle işe gidilemeyen günler bunlardandır (m. 55).
 
 Sözleşmenin nasıl sona erdiği önemli değildir. İşçi istifa etse, taraflar anlaşarak ayrılsa ya da işveren sözleşmeyi feshetse de kullanılmamış izinlerin ücreti ödenir. İşçi ölmüşse bu ücret hak sahiplerine verilir.
 
-## Ücret nasıl hesaplanır?
+## Ücretin hesaplanması
 
 Kanun, hesapta sözleşmenin sona erdiği tarihteki ücreti esas alır. İşçi yıllar önce hak kazandığı bir izni kullanmamış olsa bile, o yılın düşük ücretiyle değil, ayrıldığı tarihteki ücretiyle hesap yapılır.
 
@@ -63,15 +63,15 @@ Hesaba hangi kalemlerin gireceği de önemlidir. Kanun, yıllık izin ücretinin
 
 İşveren sözleşmeyi kendisi feshediyorsa, işçiye verdiği bildirim süresini ve bu süre içindeki iş arama izinlerini yıllık izinle iç içe kullandıramaz (m. 59). "İhbar süren boyunca izinli say" diyerek biriken izinler eritilemez.
 
-## Zamanaşımı ne zaman başlar?
+## Zamanaşımı sözleşmenin bittiği gün başlar
 
 Yıllık izin ücreti için zamanaşımı süresi beş yıldır (Ek m. 3). Bu süre geçtikten sonra da dava açılabilir; ancak işveren zamanaşımını ileri sürerse alacak artık dava yoluyla alınamaz. Hâkim zamanaşımını kendiliğinden dikkate almaz (6098 sayılı Türk Borçlar Kanunu m. 161).
 
-Burada asıl önemli olan, sürenin ne zaman başladığıdır. Kanun, izin ücretine ilişkin zamanaşımının iş sözleşmesinin sona erdiği tarihten itibaren başlayacağını açıkça söyler (m. 59). Bu yüzden çalışma devam ettiği sürece eski yılların izinleri zamanaşımına uğramaz. On yıl önce hak edilip kullanılmamış bir izin de sözleşme sona erdiğinde ücrete dönüşür ve beş yıllık süre ancak o tarihte işlemeye başlar.
+Burada asıl önemli olan, sürenin ne zaman başladığıdır. Kanun, izin ücretine ilişkin zamanaşımının iş sözleşmesinin sona erdiği tarihten itibaren başlayacağını açıkça söyler (m. 59). Bu yüzden çalışma devam ettiği sürece eski yılların izinleri zamanaşımına uğramaz. On yıl önce hak edilip kullanılmamış bir izin de sözleşme sona erdiğinde ücrete dönüşür ve beş yıllık süre ancak o tarihte işlemeye başlar. Örneğin sözleşmesi Ekim 2026'da sona eren bir işçi, çalıştığı bütün yıllara ait kullanılmamış izinlerin ücretini Ekim 2031'e kadar isteyebilir. Ayrılırken izin hesabını hemen yapmak yine de akıllıca olur; aradan yıllar geçtikçe hangi tarihlerde izin kullanıldığını göstermek zorlaşır.
 
 İzin ücreti için dava açmadan önce arabulucuya başvurmak zorunludur. Arabulucuya gidilmeden açılan dava, dava şartı yokluğu nedeniyle usulden reddedilir (7036 sayılı İş Mahkemeleri Kanunu m. 3). Sözleşme sona erdiği hâlde hak edilmiş izin ücretini ödemeyen işverene ayrıca idari para cezası uygulanır (m. 103).
 
-## İzin kullanıldı mı, kullanılmadı mı?
+## İzin kayıtlarının önemi
 
 Uyuşmazlıkların çoğu ödenecek gün sayısında çıkar. İşveren izinlerin kullandırıldığını, işçi ise kullanmadığını söyler. Kanun işverene, işçilerin yıllık izinlerini gösteren bir izin kayıt belgesi tutma yükümlülüğü getirir (m. 56). İzin kullanılırken imzalanan izin formları, izin kayıtları ve bordrolardaki ödemeler bu yüzden sonradan belirleyici olabilir.
 

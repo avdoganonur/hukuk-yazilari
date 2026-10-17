@@ -30,6 +30,8 @@ sss:
     cevap: "Sürenin son günü resmî tatil gününe rastlarsa süre, tatili izleyen günde biter (m. 19). Yine de bu kurala güvenip son güne kalmak risklidir. Sürenin hangi gün dolduğunu baştan hesaplayıp itirazı erken vermek en güvenli yoldur."
   - soru: "İtiraz edersem sonradan tazminat ödemem gerekir mi?"
     cevap: "İtiraz etmek tek başına tazminat doğurmaz. Alacaklı itirazın iptali davası açar ya da icra mahkemesinden itirazın kaldırılmasını ister ve itirazınız haksız bulunursa, alacaklının talebi üzerine yüzde yirmiden az olmamak üzere tazminata mahkûm edilebilirsiniz (m. 67 ve 68). Bu yüzden itirazı gerçekten karşı çıktığınız tutara yöneltmek, kabul ettiğiniz kısmı ise ayrıca belirtmek önemlidir."
+  - soru: "Süresinde itiraz ettim. Takip tamamen sona erdi mi?"
+    cevap: "Hayır, takip yalnızca durur. Alacaklı, itirazın kendisine tebliğinden itibaren bir yıl içinde genel mahkemede itirazın iptali davası açabilir (m. 67). Elinde kanunun saydığı türden bir belge varsa, aynı tebliğden itibaren altı ay içinde icra mahkemesinden itirazın kaldırılmasını da isteyebilir; bu altı ay geçerse aynı alacak için yeniden ilamsız takip yapamaz (m. 68). Bu süreler boyunca dosyayı takip etmek gerekir."
 ---
 Elinize bir ödeme emri geçtiyse, bir alacaklı sizin hakkınızda mahkeme kararına dayanmadan icra takibi başlatmış demektir. Buna ilamsız takip denir; ilam, mahkeme kararı anlamına gelir. Ortada bir mahkeme kararı olmadığı için kanun borçluya, ödeme emrine itiraz ederek takibi durdurma hakkı tanır. Bu hakkın süresi kısadır. Süre geçince takip kendi yolunda ilerler.
 
@@ -49,13 +51,13 @@ Süreyi başlatan şey tebliğdir. Ödeme emrini ve tebliğ tarihini gösteren b
 
 İtirazınız, alacaklının peşin yatırdığı masraftan karşılanarak üç gün içinde alacaklıya tebliğ edilir.
 
-## Neye itiraz edilebilir: borç, imza, yetki
+## İtirazın konusu: borç, imza, yetki
 
 Borcun tamamına ya da bir kısmına itiraz edebileceğiniz gibi, alacaklının takip yapma hakkına da itiraz edebilirsiniz. Her itiraz türünün kendine göre kuralları vardır.
 
 Borcun yalnızca bir kısmına karşı çıkıyorsanız, itiraz ettiğiniz kısmı ve tutarını açıkça göstermeniz gerekir. Aksi hâlde kanun sizi hiç itiraz etmemiş sayar. Örneğin anaparayı kabul edip yalnızca istenen faize karşı çıkıyorsanız, hangi tutara itiraz ettiğinizi dilekçede ayrıca belirtmelisiniz. Kısmi itirazda takip, kabul ettiğiniz tutar için devam eder (m. 66).
 
-Takip bir senede dayanıyorsa ve senetteki imza size ait değilse, bunu itirazınızda ayrıca ve açıkça yazmalısınız. "Borcum yoktur" demek imza itirazı yerine geçmez; imzaya açıkça itiraz etmeyen borçlu, icra takibi bakımından imzayı kabul etmiş sayılır. İmzayı haksız yere inkâr etmenin de bir bedeli vardır: icra mahkemesi imzanın size ait olduğuna karar verirse, takip konusu alacağın yüzde onu oranında para cezasına mahkûm edilirsiniz (m. 68/a).
+Takip bir senede dayanıyorsa ve senetteki imza size ait değilse, bunu itirazınızda ayrıca ve açıkça yazmalısınız. "Borcum yoktur" demek imza itirazı yerine geçmez; imzaya açıkça itiraz etmeyen borçlu, icra takibi bakımından imzayı kabul etmiş sayılır. İmzaya itiraz edilmişse alacaklı, icra mahkemesinden itirazın geçici olarak kaldırılmasını isteyebilir. Takibi yapan icra dairesinin yetki çevresi içinde bulunan borçlu, mazeretini önceden bildirip belgelemediyse bu duruşmada bizzat bulunmak zorundadır; ödeme emri de gelmeyen borçlunun itirazının geçici olarak kaldırılacağı uyarısını içerir (m. 60). İmzayı haksız yere inkâr etmenin ayrıca bir bedeli vardır: icra mahkemesi imzanın size ait olduğuna karar verirse, takip konusu alacağın yüzde onu oranında para cezasına mahkûm edilirsiniz (m. 68/a).
 
 Takibin yetkisiz bir icra dairesinde başlatıldığını düşünüyorsanız, yetki itirazını borca ilişkin itirazla birlikte yapmanız gerekir (m. 50).
 

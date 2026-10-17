@@ -50,7 +50,7 @@ Bunların dışındaki hastalık, kaza, doğum ve gebelik gibi hâllerde işvere
 
 ## Ahlak ve iyiniyet kurallarına uymayan davranışlar
 
-Uygulamada en sık karşılaşılan grup budur. Kanun şu davranışları sayar:
+Kanunun en ayrıntılı düzenlediği grup budur. Madde şu davranışları sayar:
 
 - İşe alınırken, sözleşmenin esaslı noktalarından biri için gereken nitelik ya da şartlar kendisinde yokken varmış gibi göstermek veya gerçeğe aykırı bilgi vererek işvereni yanıltmak.
 - İşverenin ya da aile üyelerinin şeref ve namusuna dokunan sözler söylemek, davranışlarda bulunmak; işveren hakkında şeref ve haysiyet kırıcı asılsız ihbar ve isnatlarda bulunmak.
@@ -80,4 +80,4 @@ Fesih sebebi ne olursa olsun, işçinin hak kazanıp kullanmadığı yıllık iz
 
 ## İşçinin feshe itiraz imkânı
 
-İşçi, feshin kanunda sayılan sebeplere uymadığını düşünüyorsa yargı yoluna başvurabilir. İş güvencesi kapsamındaki işçi, fesih bildiriminin tebliğinden itibaren bir ay içinde işe iade talebiyle arabulucuya başvurmalıdır (m. 20). Kapsam dışındaki işçi ise kıdem ve ihbar tazminatı gibi alacaklarını isteyebilir; bu alacaklar için dava açmadan önce de arabulucuya başvurmak zorunludur (7036 sayılı Kanun m. 3). İşverenin dayandığı olayı ispat edemediği durumda fesih haklı sayılmaz ve işçinin tazminat hakları gündeme gelir.
+İşçi, feshin kanunda sayılan sebeplere uymadığını düşünüyorsa yargı yoluna başvurabilir. İş güvencesi kapsamındaki işçi işe iade isteyecekse, fesih bildiriminin tebliğinden itibaren bir ay içinde arabulucuya başvurmalıdır (m. 20). Kapsam dışındaki işçi işe iade isteyemez, ama kıdem ve ihbar tazminatı gibi alacaklarını isteyebilir; bu alacaklar için dava açmadan önce de arabulucuya başvurmak zorunludur (7036 sayılı Kanun m. 3). İşverenin dayandığı olayı ispat edemediği durumda fesih haklı sayılmaz ve işçinin tazminat hakları gündeme gelir.

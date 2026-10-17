@@ -22,17 +22,17 @@ sss:
   - soru: "Sözleşme imzalamadım. İşten çıkarılırsam kıdem tazminatı alabilir miyim?"
     cevap: "Kıdem tazminatına hak kazanma şartları, sözleşmenin yazılı olup olmamasına göre değişmez. Kanunun aradığı şartlar varsa yazılı sözleşmesi olmayan işçi de kıdem tazminatı isteyebilir. Uygulamada sorun genellikle ispattadır: işe başlama tarihi, ücret ve çalışma süresi tartışmalı hâle gelebilir. Bu yüzden bordroları, banka hesabına yatan ücret kayıtlarını ve e-Devlet üzerinden alınabilen SGK hizmet dökümünü saklamak gerekir."
   - soru: "Her yıl bir yıllık yeni sözleşme imzalıyoruz. Bu sözleşme belirli süreli mi sayılır?"
-    cevap: "Belirli süreli iş sözleşmesi, esaslı bir neden olmadıkça birden fazla üst üste yapılamaz. Esaslı bir neden olmadan art arda yenilenen sözleşme, başlangıçtan itibaren belirsiz süreli kabul edilir (m. 11). Esaslı nedene dayanan zincirleme sözleşmeler ise belirli süreli olma özelliğini korur. Hangisinin söz konusu olduğu, yapılan işin niteliğine bakılarak değerlendirilir."
+    cevap: "Belirli süreli iş sözleşmesi, esaslı bir neden olmadıkça birden fazla üst üste yapılamaz. Esaslı bir neden olmadan art arda yenilenen sözleşme, başlangıçtan itibaren belirsiz süreli kabul edilir (m. 11). Esaslı nedene dayanan zincirleme sözleşmeler ise belirli süreli olma özelliğini korur. Esaslı bir nedenin bulunup bulunmadığı her somut olayda ayrıca değerlendirilir."
   - soru: "İşveren, sözleşmedeki ücretimi ya da çalışma saatlerimi tek başına değiştirebilir mi?"
-    cevap: "İşveren, çalışma koşullarında esaslı bir değişikliği ancak işçiye yazılı olarak bildirerek yapabilir. İşçi bu öneriyi altı işgünü içinde yazılı olarak kabul etmezse değişiklik işçiyi bağlamaz. Bu durumda işveren, değişikliğin geçerli bir nedene dayandığını yazılı olarak açıklayıp bildirim süresine uyarak sözleşmeyi feshedebilir; işçi de bu feshe karşı dava açabilir. Taraflar anlaşarak çalışma koşullarını her zaman değiştirebilir, ancak değişiklik geçmişe etkili olarak yürürlüğe konulamaz (m. 22)."
+    cevap: "İşveren, çalışma koşullarında esaslı bir değişikliği ancak işçiye yazılı olarak bildirerek yapabilir. İşçi bu öneriyi altı işgünü içinde yazılı olarak kabul etmezse değişiklik işçiyi bağlamaz. Bu durumda işveren, değişikliğin geçerli bir nedene dayandığını ya da fesih için başka bir geçerli nedenin bulunduğunu yazılı olarak açıklayıp bildirim süresine uyarak sözleşmeyi feshedebilir; işçi de bu feshe karşı dava açabilir. Taraflar anlaşarak çalışma koşullarını her zaman değiştirebilir, ancak değişiklik geçmişe etkili olarak yürürlüğe konulamaz (m. 22)."
 ---
-Pek çok kişi işe bir el sıkışmayla başlar. Ücret konuşulur, başlama günü belirlenir, ortada imzalanmış bir kâğıt yoktur. Aylar sonra bir anlaşmazlık çıktığında ilk sorulan şey, yazılı sözleşme olmadan işçinin bir hakkı olup olmadığıdır. İş Kanunu'nun 8. maddesi bu soruya iki yönlü bir cevap verir: bazı sözleşmelerin yazılı yapılması zorunludur, ama yazılı sözleşme yapılmamış olması iş ilişkisini ortadan kaldırmaz.
+Pek çok kişi işe bir el sıkışmayla başlar. Ücret konuşulur, başlama günü belirlenir, ortada imzalanmış bir kâğıt yoktur. Aylar sonra bir anlaşmazlık çıktığında ilk sorulan şey, yazılı sözleşme olmadan işçinin bir hakkı olup olmadığıdır. İş Kanunu'nun 8. maddesine bakıldığında cevap iki yönlüdür: bazı sözleşmelerin yazılı yapılması zorunludur, ama kanun yazılı sözleşme yapılmayan durumları da düzenler ve işçiyi bu durumda da korur.
 
 ## Kural olarak iş sözleşmesi şekle bağlı değildir
 
-İş sözleşmesi, bir tarafın (işçi) işverene bağlı olarak iş görmeyi, diğer tarafın (işveren) da ücret ödemeyi üstlendiği sözleşmedir. Kanun, aksi belirtilmedikçe bu sözleşmenin özel bir şekle tabi olmadığını söyler. Sözlü anlaşmayla da iş sözleşmesi kurulabilir. İşçi işe başlamış ve işveren ücretini ödüyorsa, aradaki ilişki kâğıda dökülmemiş olsa bile bir iş ilişkisidir.
+İş sözleşmesi, bir tarafın (işçi) işverene bağlı olarak iş görmeyi, diğer tarafın (işveren) da ücret ödemeyi üstlendiği sözleşmedir. Kanun, aksi belirtilmedikçe bu sözleşmenin özel bir şekle tabi olmadığını söyler. Sözlü anlaşmayla da iş sözleşmesi kurulabilir. İşçi işverene bağlı olarak çalışıyor ve karşılığında ücret alıyorsa, aradaki ilişki kâğıda dökülmemiş olsa bile bir iş ilişkisidir.
 
-Yazılı şekil zorunluluğu, süresi bir yıl ve daha fazla olan iş sözleşmeleri için getirilmiştir. Kanun bu sözleşmelerin yazılı yapılmasını zorunlu tutar ve bu belgeleri damga vergisinden, her çeşit resim ve harçtan muaf sayar. Sözleşmeyi yazıya dökmek, taraflara vergi ya da harç yükü getirmez.
+Yazılı şekil zorunluluğu, süresi bir yıl ve daha fazla olan iş sözleşmeleri için getirilmiştir. Kanun bu sözleşmelerin yazılı yapılmasını zorunlu tutar ve bu belgeleri damga vergisinden, her çeşit resim ve harçtan muaf sayar. Sözleşmeyi yazıya dökmek bu nedenle taraflara damga vergisi ya da harç yükü getirmez.
 
 Burada dikkat edilmesi gereken nokta şudur: Kanun, yazılı yapılmamış bir iş sözleşmesinin geçersiz olacağını söylemez. Tam tersine, yazılı sözleşme yapılmayan hâlleri baştan öngörür ve bu durumda işverene ayrı bir yükümlülük yükler. Sözleşme yazılı değil diye işçinin ücret, fazla çalışma ücreti, yıllık izin ya da kıdem tazminatı gibi hakları ortadan kalkmaz.
 
@@ -49,13 +49,13 @@ Yazılı sözleşme yapılmamışsa işveren, işçiye en geç iki ay içinde ya
 
 Süresi bir ayı geçmeyen belirli süreli sözleşmelerde bu belgeyi verme yükümlülüğü yoktur. İş sözleşmesi iki aylık süre dolmadan sona ererse, aynı bilgilerin en geç sözleşmenin sona erdiği tarihte işçiye yazılı olarak verilmesi gerekir.
 
-Bu kural, işçinin hangi şartlarla çalıştığını sonradan ispat edebilmesi için önemlidir. Ücretin brüt mü net mi konuşulduğu, haftada kaç saat çalışılacağı, primlerin ücrete dahil olup olmadığı gibi konular, ilişki bozulduğunda en çok tartışılan konulardır. Belgeyi vermeyen işveren hakkında, bu durumdaki her işçi için idari para cezası öngörülmüştür (m. 99). Ceza işverene uygulanır; belgenin verilmemiş olması işçinin haklarını azaltmaz.
+Bu kural, işçinin hangi şartlarla çalıştığını sonradan ispat edebilmesi için önemlidir. Ücretin brüt mü net mi konuşulduğu, haftada kaç saat çalışılacağı, primlerin ücrete dahil olup olmadığı gibi sorular, ilişki bozulduğunda sık tartışılan konulardır. Belgeyi vermeyen işveren hakkında, bu durumdaki her işçi için idari para cezası öngörülmüştür (m. 99). Ceza işverene uygulanır; belgenin verilmemiş olması işçinin haklarını azaltmaz.
 
 ## Bazı çalışma biçimlerinde yazılı sözleşme ayrıca aranır
 
 Kanun, genel kuralın yanında bazı sözleşme türlerinde yazılı şekle ayrıca yer verir.
 
-Belirli süreli iş sözleşmesi bunların başında gelir. Kanun bu sözleşmeyi, belirli süreli işlerde ya da belli bir işin tamamlanması veya belirli bir olgunun ortaya çıkması gibi objektif koşullara bağlı olarak, işveren ile işçi arasında yazılı şekilde yapılan sözleşme olarak tanımlar (m. 11). İş ilişkisi bir süreye bağlanmamışsa sözleşme belirsiz süreli sayılır. Belirli süreli ile belirsiz süreli sözleşme arasındaki fark, sözleşmenin sona ermesinde ve bazı tazminatlarda önem taşıdığı için, sürenin yazılı olarak belirlenip belirlenmediği uyuşmazlıklarda sık sık gündeme gelir.
+Belirli süreli iş sözleşmesi bunların başında gelir. Kanun bu sözleşmeyi, belirli süreli işlerde ya da belli bir işin tamamlanması veya belirli bir olgunun ortaya çıkması gibi objektif koşullara bağlı olarak, işveren ile işçi arasında yazılı şekilde yapılan sözleşme olarak tanımlar (m. 11). İş ilişkisi bir süreye bağlanmamışsa sözleşme belirsiz süreli sayılır. Belirli süreli ile belirsiz süreli sözleşme arasındaki fark, sözleşmenin sona ermesinde ve bazı tazminatlarda önem taşıdığından, sürenin yazılı olarak belirlenmiş olması bir uyuşmazlık çıktığında ayrıca önem kazanır.
 
 Çağrı üzerine çalışma da yazılı sözleşme ile kurulur (m. 14). Bu çalışma biçiminde işçi, işverenin kendisine ihtiyaç duyduğu zamanlarda çağrılarak çalışır. Taraflar hafta, ay ya da yıl gibi bir zaman dilimi içinde işçinin ne kadar çalışacağını belirlememişse, haftalık çalışma süresi yirmi saat kararlaştırılmış sayılır. İşçi, belirlenen sürede çalıştırılsın ya da çalıştırılmasın ücrete hak kazanır.
 
@@ -63,9 +63,9 @@ Yazılı belge, sözleşmenin yapıldığı anda olduğu kadar sonradan da önem
 
 ## Yazılı sözleşme ile sigorta bildirimi ayrı yükümlülüklerdir
 
-Yazılı sözleşme ile SGK'ya bildirim çoğu zaman birbirine karıştırılır. Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre işveren, çalıştırdığı kişiyi sigortalılığın başladığı tarihten önce, sigortalı işe giriş bildirgesiyle Sosyal Güvenlik Kurumuna bildirmek zorundadır. İnşaat, balıkçılık ve tarım işyerlerinde bu bildirim en geç çalışmaya başlatıldığı gün yapılabilir. Kanun bazı başka durumlar için de ayrı süreler tanır.
+Sigorta bildirimi, yazılı sözleşmeden ayrı bir yükümlülüktür. Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre işveren, çalıştırdığı kişiyi sigortalılığın başladığı tarihten önce, sigortalı işe giriş bildirgesiyle Sosyal Güvenlik Kurumuna bildirmek zorundadır. İnşaat, balıkçılık ve tarım işyerlerinde bu bildirim en geç çalışmaya başlatıldığı gün yapılabilir. Kanun bazı başka durumlar için de ayrı süreler tanır.
 
-Bu yükümlülük, yazılı sözleşme olup olmamasından bağımsızdır. Sözlü anlaşmayla işe başlayan işçinin de sigortası işe başlamadan bildirilmelidir. Kanun, sigortalının da çalışmaya başladığı tarihten itibaren en geç bir ay içinde durumu Kuruma bildireceğini söyler. Bununla birlikte sigortalının kendini bildirmemesi, onun aleyhine delil sayılmaz.
+Bu yükümlülük, yazılı sözleşme olup olmamasından bağımsızdır. Sözlü anlaşmayla işe başlayan işçinin sigortası da kural olarak işe başlamadan bildirilmelidir. Kanun, sigortalının da çalışmaya başladığı tarihten itibaren en geç bir ay içinde durumu Kuruma bildireceğini söyler. Bununla birlikte sigortalının kendini bildirmemesi, onun aleyhine delil sayılmaz.
 
 ## İşe başlarken dikkat edilecekler
 

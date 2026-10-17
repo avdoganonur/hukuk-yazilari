@@ -58,17 +58,17 @@ Kanun tedbir nafakası için kusur şartı aramaz. Yargıtay kararlarında da ku
 
 Boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak koşuluyla geçimi için diğer taraftan, onun mali gücü oranında nafaka isteyebilir (m. 175). Kusur bakımından kanun yalnızca nafaka isteyen eşe bakar. İsteyenin kusuru diğerinden ağır olmamalıdır; eşit kusurlu eş de nafaka isteyebilir. Ödeyecek eşin kusuru ise aranmaz. Yani hiç kusuru olmayan eş de yoksulluk nafakası ödemekle yükümlü tutulabilir. Miktar, ödeyecek eşin mali gücüne göre belirlenir.
 
-Kanun bu nafakanın "süresiz olarak" isteneceğini söyler. Anayasa Mahkemesi 2026 yılında verdiği bir kararla bu ibareyi iptal etti; iptal hükmü 30 Haziran 2027'de yürürlüğe girecek. O tarihe kadar maddenin mevcut hâli uygulanır. Bu yazının yayımlandığı tarihte maddede yeni bir yasal düzenleme bulunmuyor. Bu tarihten sonra nafakanın süresi konusunda hangi kuralın uygulanacağını izlemek gerekir.
+Kanun bu nafakanın "süresiz olarak" isteneceğini söyler. Anayasa Mahkemesi 2026 yılında verdiği bir kararla bu ibareyi iptal etti; iptal hükmü 30 Haziran 2027'de yürürlüğe girecek. O tarihe kadar maddenin mevcut hâli uygulanır. Bu yazının yayımlandığı tarihte maddede yeni bir yasal düzenleme bulunmuyor. İptal yürürlüğe girdikten sonra nafakanın süresi konusunda hangi kuralın uygulanacağını izlemek gerekir.
 
 Yoksulluk nafakası toptan ya da aylık (irat) olarak ödenebilir (m. 176). Aylık ödenen nafaka, nafaka alan eşin yeniden evlenmesi ya da taraflardan birinin ölümüyle kendiliğinden kalkar. Nafaka alanın evlenmeden fiilen evliymiş gibi yaşaması, yoksulluğunun ortadan kalkması veya haysiyetsiz hayat sürmesi hâlinde ise mahkeme kararıyla kaldırılır. Boşanmadan doğan dava hakları, boşanma kararının kesinleşmesinden başlayarak bir yıl içinde zamanaşımına uğrar (m. 178); nafaka boşanma davasında istenmediyse bu süre göz önünde tutulmalıdır.
 
 ## İştirak nafakası: çocuk için
 
-Boşanmada velayet eşlerden birine verilir. Velayet kendisine verilmeyen ebeveyn, çocuğun bakım ve eğitim giderlerine gücü oranında katılmak zorundadır (m. 182). "İştirak" katılmak anlamına gelir; bu nafakanın adı da buradan gelir.
+Mahkeme boşanmaya karar verirken ana ve babanın çocuk üzerindeki haklarını da düzenler. Velayetin kullanılması kendisine verilmeyen eş, çocuğun bakım ve eğitim giderlerine gücü oranında katılmak zorundadır (m. 182). "İştirak" katılmak anlamına gelir; bu nafakanın adı da buradan gelir.
 
 Çocuğun bakımı, eğitimi ve korunması için gerekli giderleri ana ve baba birlikte karşılar (m. 327). Nafaka miktarı belirlenirken çocuğun ihtiyaçları, ana ve babanın hayat koşulları ve ödeme güçleri dikkate alınır; çocuğun bir geliri varsa o da göz önünde tutulur. Nafaka her ay peşin ödenir (m. 330).
 
-İştirak nafakası boşanmaya bağlı değildir. Küçük çocuğa fiilen bakan ana veya baba, evlilik devam ederken de diğerine karşı çocuk adına nafaka davası açabilir. Ayırt etme gücüne sahip küçük de bu davayı kendisi açabilir (m. 329).
+Çocuk için nafaka istemek boşanmaya bağlı değildir. Küçük çocuğa fiilen bakan ana veya baba, evlilik devam ederken de diğerine karşı çocuk adına nafaka davası açabilir. Ayırt etme gücüne sahip küçük de bu davayı kendisi açabilir (m. 329).
 
 Bakım borcu çocuğun ergin olmasına kadar sürer (m. 328). Erginlik on sekiz yaşın doldurulmasıyla başlar; evlenme de kişiyi ergin kılar (m. 11). Çocuk ergin olduktan sonra eğitimine devam ediyorsa bakım borcu, durum ve koşullara göre eğitim bitinceye kadar uzayabilir.
 

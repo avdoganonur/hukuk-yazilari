@@ -46,7 +46,7 @@ Zorlayıcı sebep ise tarafların elinde olmayan ve önlenemeyen bir olaydır. �
 
 ## Ahlak ve iyiniyet kurallarına uymayan hâller
 
-Uygulamada en çok başvurulan grup budur. Kanuna göre işçi şu durumlarda sözleşmeyi derhal feshedebilir:
+Kanunun en ayrıntılı düzenlediği grup budur. Kanuna göre işçi şu durumlarda sözleşmeyi derhal feshedebilir:
 
 - İşveren, sözleşme yapılırken esaslı noktalardan biri hakkında yanlış nitelikler veya şartlar göstererek ya da gerçeğe aykırı bilgi vererek işçiyi yanıltırsa.
 - İşveren işçinin ya da aile üyelerinden birinin şeref ve namusuna dokunacak sözler söyler, davranışlarda bulunur ya da işçiye cinsel tacizde bulunursa.
@@ -69,4 +69,10 @@ Ahlak ve iyiniyet kurallarına uymayan hâllere dayanan fesih hakkı süreye ba�
 
 Sözleşme sona erdiğinde işçinin ücreti ile sözleşmeden ve kanundan doğan para ile ölçülebilen menfaatleri tam olarak ödenmelidir (m. 32). Hak kazanılıp kullanılmamış yıllık izinlerin ücreti de ödenir (m. 59). Kıdem tazminatı zamanında ödenmezse, mahkeme gecikme süresi için mevduata uygulanan en yüksek faize hükmeder.
 
-Ücret alacaklarında ve kıdem tazminatında zamanaşımı beş yıldır (m. 32 ve ek m. 3). Bu alacaklar için dava açmadan önce arabulucuya başvurmak zorunludur (7036 sayılı Kanun m. 3). Davada haklı nedeni ispat yükü işçidedir (Türk Medeni Kanunu m. 6); bu yüzden fesihten önce delilleri bir araya getirmek, sonradan yaşanacak tartışmaları azaltır.
+Ücret alacaklarında ve kıdem tazminatında zamanaşımı beş yıldır (m. 32 ve ek m. 3). Bu alacaklar için dava açmadan önce arabulucuya başvurmak zorunludur (7036 sayılı Kanun m. 3).
+
+## Fesihten önce dikkat edilecekler
+
+Haklı nedenle fesih, geri dönüşü zor bir adımdır. Dayandığınız sebebi ispat etmek size düşer (Türk Medeni Kanunu m. 6). Bu yüzden delilleri fesihten önce bir araya getirin. Ücretle ilgili bir sorunda bordrolar ve banka hesap dökümleri, hakaret ya da sataşmada tanıklar ve yazışmalar, sağlık sebeplerinde hekim raporları işe yarar. e-Devlet üzerinden alınabilen sigorta hizmet dökümü de çalışma sürenizi gösterir.
+
+Fesih yazısında hangi olaya dayandığınızı somut olarak anlatın ve ahlak ve iyiniyet hâllerinde altı iş günlük süreyi kaçırmayın. Şunu da bilmek gerekir: sözleşmeyi kendisi sona erdiren işçi işe iade davası açamaz, çünkü işe iade işverenin yaptığı fesihlere karşı tanınmış bir yoldur. Haklı fesihte işçinin talepleri bu nedenle parasal alacaklarla sınırlıdır.

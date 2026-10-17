@@ -25,6 +25,8 @@ dayanak:
     not: "Müdafi ile görüşme"
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 156"
     not: "Baronun müdafi görevlendirmesi"
+  - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 202"
+    not: "Türkçe bilmeyen ve engelli şüpheli için tercüman"
 sss:
   - soru: "İfadeye çağrıldım ama gitmek istemiyorum. Ne olur?"
     cevap: "İfade için gönderilen davetiyede, gelinmezse zorla getirileceği yazılır. Çağrıya uymayan şüpheli hakkında zorla getirme kararı verilebilir. Zorla getirilen kişi derhâl, bu mümkün değilse yol süresi hariç en geç yirmi dört saat içinde, onu çağıran hâkim, mahkeme ya da cumhuriyet savcısının önüne çıkarılır. İfadeye gitmek susma hakkını ortadan kaldırmaz; gidip hiç açıklama yapmamak da bir seçenektir."
@@ -39,7 +41,7 @@ Bir suç şüphesiyle karakola ya da adliyeye çağrılan kişi çoğu zaman, ne
 
 ## İfadenin başında size söylenmesi gerekenler
 
-İfadesi alınacak kişi davetiyeyle çağrılır. Davetiyede çağrının nedeni açıkça yazılır (m. 145). İfade başlamadan önce görevlinin yerine getirmesi gereken işler kanunda tek tek sayılmıştır (m. 147).
+İfadesi alınacak kişi davetiyeyle çağrılır. Davetiyede çağrının nedeni açıkça yazılır (m. 145). Bu sayede hangi olay nedeniyle çağrıldığınızı ifadeye gitmeden önce öğrenebilir, hazırlık yapabilirsiniz. İfade başlamadan önce görevlinin yerine getirmesi gereken işler kanunda tek tek sayılmıştır (m. 147).
 
 Önce kimliğiniz tespit edilir. Kimliğinize ilişkin sorulara doğru cevap vermek zorundasınız; susma hakkı bu sorular için geçerli değildir. Ardından size hangi suçun yüklendiği anlatılır. Daha sonra şu hususlar bildirilir:
 
@@ -48,11 +50,13 @@ Bir suç şüphesiyle karakola ya da adliyeye çağrılan kişi çoğu zaman, ne
 - Şüpheden kurtulmanız için somut delillerin toplanmasını isteyebileceğiniz.
 - Yakalanmışsanız, yakınlarınızdan istediğinize yakalandığınızın derhâl bildirileceği.
 
-Size ayrıca aleyhinize olan şüphe nedenlerini ortadan kaldırma ve lehinize olan hususları ileri sürme olanağı tanınır. Kişisel ve ekonomik durumunuz hakkında da sorular sorulur. İfadenin kaydında teknik imkânlardan yararlanılır.
+Size ayrıca aleyhinize olan şüphe nedenlerini ortadan kaldırma ve lehinize olan hususları ileri sürme olanağı tanınır. Delil toplanmasını isteme hakkı çoğu zaman gözden kaçar. Olay sırasında başka bir yerde olduğunuzu gösterecek kayıtların ya da anlattıklarınızı doğrulayacak tanıkların tespit edilmesini isteyebilirsiniz; bu isteğin tutanağa geçmesini sağlamak yararlı olur. Kişisel ve ekonomik durumunuz hakkında da sorular sorulur. İfadenin kaydında teknik imkânlardan yararlanılır.
+
+Türkçeyi derdini anlatabilecek ölçüde bilmeyen şüpheli için tercüman atanır ve ifadeye ilişkin esaslı noktalar ona tercüme edilir. Soruşturma evresinde tercümanı hâkim ya da cumhuriyet savcısı atar. Engelli şüpheliye de bu noktalar anlayabileceği biçimde anlatılır (m. 202). Bu yazıdaki haklar şüpheli ve sanık içindir; tanık olarak çağrılan kişi için ayrı kurallar uygulanır.
 
 ## Susma hakkı ve avukat yardımı
 
-Yüklenen suç hakkında açıklama yapmamak kanuni bir haktır. Bu hak her ifade ve sorguda yeniden hatırlatılır. Kollukta susmayı tercih eden kişi, daha sonra savcı ya da hâkim karşısında açıklama yapabilir.
+Yüklenen suç hakkında açıklama yapmamak kanuni bir haktır. Buradaki ayrıma dikkat etmek gerekir: adınız, soyadınız, doğum yeriniz ve tarihiniz gibi kimlik soruları cevaplanmak zorundadır, olayla ilgili sorular ise cevaplanmak zorunda değildir. Bu hak her ifade ve sorguda yeniden hatırlatılır. Kollukta susmayı tercih eden kişi, daha sonra savcı ya da hâkim karşısında açıklama yapabilir.
 
 Şüpheli, soruşturmanın her aşamasında bir veya birden fazla müdafiin yardımından yararlanabilir (m. 149). Soruşturma evresinde ifade alınırken en çok üç avukat hazır bulunabilir. Avukatın şüpheliyle görüşme, ifade süresince yanında olma ve hukuki yardımda bulunma hakkı engellenemez, kısıtlanamaz. Şüpheli avukatıyla vekâletname aranmaksızın, her zaman ve konuşulanları başkalarının duyamayacağı bir ortamda görüşebilir (m. 154). Terör suçları gibi kanunda sayılan bazı suçlarda, gözaltındaki şüphelinin avukatıyla görüşme hakkı savcının istemi ve hâkim kararıyla yirmi dört saat kısıtlanabilir. Bu süre içinde ifade alınamaz.
 
@@ -62,10 +66,12 @@ Avukat tutacak durumda değilseniz ve avukat yardımı istiyorsanız, ifadeyi al
 
 İfade, şüphelinin özgür iradesine dayanmalıdır (m. 148). Kötü davranma, işkence, ilaç verme, yorma, aldatma, cebir veya tehdit ve bazı araçların kullanılması gibi bedensel ya da ruhsal müdahaleler yasaktır. Kanuna aykırı bir yarar vaat etmek de yasaktır. Bu yollarla alınan ifadeler, kişi rıza göstermiş olsa bile delil olarak kullanılamaz.
 
-Kanunun getirdiği bir başka güvence, avukatsız alınan kolluk ifadesiyle ilgilidir. Müdafi hazır bulunmadan kollukta alınan ifade, şüpheli ya da sanık tarafından hâkim veya mahkeme önünde doğrulanmadıkça hükme esas alınamaz. Aynı olayla ilgili yeniden ifade alınması gerekirse bunu yalnızca cumhuriyet savcısı yapabilir.
+Kanunun getirdiği bir başka güvence, avukatsız alınan kolluk ifadesiyle ilgilidir. Müdafi hazır bulunmadan kollukta alınan ifade, şüpheli ya da sanık tarafından hâkim veya mahkeme önünde doğrulanmadıkça hükme esas alınamaz. Aynı olayla ilgili yeniden ifade alınması gerekirse bunu yalnızca cumhuriyet savcısı yapabilir. Yani kolluk, aynı olay için sizden ikinci kez ifade alamaz.
 
 ## İfade tutanağını imzalamadan önce
 
 İfade bir tutanağa geçirilir. Tutanakta ifadenin alındığı yer ve tarih, hazır bulunan kişilerin isim ve sıfatları ve ifade verenin açık kimliği yazılır. Yukarıda sayılan hakların bildirilip bildirilmediği de tutanağa geçer; bildirilmemişse nedeni gösterilir. Tutanak ifade veren kişi ile hazır bulunan müdafi tarafından okunur ve imzalanır. İmzadan kaçınılırsa bunun nedenleri de tutanağa yazılır (m. 147).
 
-İmza atmadan önce tutanağı baştan sona okumak gerekir. Söylemediğiniz bir cümle yazılmışsa ya da söylediğiniz bir şey eksik geçirilmişse düzeltilmesini isteyin. Haklarınızın size bildirildiğini gösteren kısmın gerçeği yansıtıp yansıtmadığına da bakın. İmzaladığınız tutanak, dosyada sizin anlatımınız olarak yer alacaktır.
+İmza atmadan önce tutanağı baştan sona okumak gerekir. Söylemediğiniz bir cümle yazılmışsa ya da söylediğiniz bir şey eksik geçirilmişse düzeltilmesini isteyin. Haklarınızın size bildirildiğini gösteren kısmın gerçeği yansıtıp yansıtmadığına da bakın. Avukatınız ifadede bulunduysa adı ve sıfatı tutanağa yazılır, tutanağı o da okuyup imzalar. İmzaladığınız tutanak, dosyada sizin anlatımınız olarak yer alacaktır.
+
+İfade sırasında anlamadığınız bir soru olursa açıklanmasını isteyin. Yorulduğunuzu ya da ara vermek istediğinizi söylemekten de çekinmeyin. Kanun, yorma yoluyla ifade alınmasını açıkça yasak yöntemler arasında sayar.

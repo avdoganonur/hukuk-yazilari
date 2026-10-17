@@ -19,6 +19,8 @@ dayanak:
     not: "Ödeme emrinin tebliği"
   - ad: "2004 sayılı İcra ve İflas Kanunu m. 62 ve 66"
     not: "İtiraz süresi ve itirazın takibi durdurması"
+  - ad: "2004 sayılı İcra ve İflas Kanunu m. 16"
+    not: "Takip talebinin reddine karşı şikâyet"
   - ad: "2004 sayılı İcra ve İflas Kanunu m. 78"
     not: "Haciz isteme ve haciz isteme hakkının düşmesi"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 6"
@@ -36,23 +38,23 @@ sss:
   - soru: "Borçlu itiraz etmezse ne kadar süre içinde haciz istemeliyim?"
     cevap: "Haciz isteme hakkı, ödeme emrinin tebliğinden itibaren bir yıl geçmekle düşer. İtiraz ya da dava süreci yaşanmışsa, bunların başladığı tarihten kararın kesinleşmesine kadar geçen süre hesaba katılmaz. Bu süre içinde haciz istenmezse dosya işlemden kaldırılır; yeniden haciz istemek için yenileme talebinde bulunmak ve bunu borçluya tebliğ ettirmek gerekir (m. 78)."
 ---
-Bir alacağı tahsil etmek için her zaman önce dava açmak gerekmez. Kanun, elinde mahkeme kararı olmayan alacaklıya da doğrudan icra dairesine başvurma imkânı tanır. Mahkeme kararına ilam denir; bu yüzden karara dayanmayan takibe ilamsız icra takibi adı verilir. Kira bedeli, ödenmeyen bir fatura, borç olarak verilmiş para gibi alacaklar bu yolla takip edilebilir.
+Bir alacağı tahsil etmek için her zaman önce dava açmak gerekmez. Kanun, elinde mahkeme kararı olmayan alacaklıya da doğrudan icra dairesine başvurma imkânı tanır. Mahkeme kararına ilam denir; bu yüzden karara dayanmayan takibe ilamsız icra takibi adı verilir. Ödenmeyen bir fatura ya da borç olarak verilmiş para gibi alacaklar bu yolla takip edilebilir.
 
-İlamsız takibin hızlı olmasının bir bedeli vardır: borçlu itiraz ederse takip durur. Bu yüzden takip talebinin doğru ve eksiksiz hazırlanması, sonraki aşamaların da sağlıklı ilerlemesini sağlar.
+İlamsız takibin zayıf yanı, borçlunun tek bir itirazla takibi durdurabilmesidir. Bu yüzden takip talebini doğru ve eksiksiz hazırlamak, sonraki aşamaları da kolaylaştırır.
 
 ## İlamsız takibin kapsamı
 
-İcra ve İflas Kanunu'nun 42. maddesine göre bir paranın ödenmesine ya da bir teminatın verilmesine yönelik cebri icra, takip talebiyle başlar. Takip; haciz, rehnin paraya çevrilmesi ya da iflas yoluyla yürür. Bu yazı, en sık kullanılan yol olan haciz yoluyla ilamsız takibi anlatır. Çek ve senet gibi kambiyo senetlerine dayanan takiplerin ayrı ve özel kuralları vardır.
+İcra ve İflas Kanunu'nun 42. maddesine göre bir paranın ödenmesine ya da bir teminatın verilmesine yönelik cebri icra, takip talebiyle başlar. Takip; haciz, rehnin paraya çevrilmesi ya da iflas yoluyla yürür. Bu yazı, haciz yoluyla yapılan ilamsız takibi anlatır. Çek, bono ve poliçe gibi kambiyo senetlerine dayanan takiplerin ayrı ve özel kuralları vardır.
 
-Kanun iki durumda ilamsız takibe kapıyı kapatır. Yabancı bir devlet aleyhine ilamsız takip yapılamaz. İdari yargının görev alanına giren konularda da bu yola başvurulamaz.
+Aynı madde iki durumda ilamsız takibe kapıyı kapatır. Yabancı bir devlet aleyhine ilamsız takip yapılamaz. İdari yargının görev alanına giren konularda da bu yola başvurulamaz.
 
-## Hangi icra dairesinde başlatılır?
+## Yetkili icra dairesi
 
 Takibin hangi icra dairesinde yapılacağını kanunun 50. maddesi düzenler. Buna göre Hukuk Muhakemeleri Kanunu'nun yetki kuralları icra takibine de kıyasen uygulanır. Bunun pratikteki karşılığı şudur: takip, kural olarak borçlunun yerleşim yerindeki icra dairesinde başlatılabilir (HMK m. 6). Alacak bir sözleşmeden doğuyorsa, sözleşmenin ifa edileceği yerdeki icra dairesi de yetkilidir (HMK m. 10). Kanun ayrıca, takibe esas sözleşmenin yapıldığı yerdeki icra dairesini de yetkili sayar.
 
-Yetkisiz bir icra dairesinde takip başlatılırsa borçlu, borca itirazla birlikte yetkiye de itiraz edebilir. Yetki itirazı yerinde görülürse takip yanlış yerde açılmış olur ve süreç uzar. Doğru icra dairesini baştan seçmek zaman kaybını önler.
+Yetkisiz bir icra dairesinde başlatılan takipte borçlu, borca itirazla birlikte yetkiye de itiraz edebilir. Doğru icra dairesini baştan seçmek, bu yüzden yaşanacak zaman kaybını önler.
 
-## Takip talebinde neler yazılır?
+## Takip talebinin içeriği
 
 Takip talebi icra dairesine yazılı ya da sözlü olarak yapılabileceği gibi, elektronik ortamda da yapılabilir (m. 58). Talepte şu bilgiler yer alır:
 
@@ -68,7 +70,7 @@ Takip masrafları sonunda borçluya aittir. Yine de alacaklı, istediği işlemi
 
 ## Ödeme emri ve tebliği
 
-İcra müdürü, takip talebinin kanunda aranan şartları taşıdığına karar verirse bir ödeme emri düzenler. Talebi kabul etmezse bu kararı tutanağa yazar (m. 60). Ödeme emri, borçluya şunları bildirir:
+İcra müdürü, takip talebinin kanunda aranan şartları taşıdığına karar verirse bir ödeme emri düzenler. Talebi kabul etmezse bu kararı tutanağa yazar (m. 60). Bu ret kararı da icra dairesinin bir işlemidir; alacaklı buna karşı, öğrendiği tarihten itibaren yedi gün içinde icra mahkemesine şikâyet yoluna gidebilir (m. 16). Ödeme emri, borçluya şunları bildirir:
 
 - Takip talebindeki bilgiler (alacaklının banka hesap numarası hariç).
 - Borcun ve masrafların yedi gün içinde ödeme emrinde yazılı banka hesabına ödenmesi gerektiği.
@@ -82,6 +84,6 @@ Kanunun 61. maddesine göre ödeme emri, takip talebinden itibaren en geç üç 
 
 ## Tebliğden sonra süreç
 
-Borçlu, ödeme emrinin tebliğinden itibaren yedi gün içinde borcu öder ya da itiraz eder (m. 62). Süresinde yapılan itiraz takibi durdurur (m. 66). Bu durumda alacaklının, itirazı mahkeme yoluyla ortadan kaldırması gerekir; itirazın süresi ve sonrasındaki davalar ayrı yazıların konusudur.
+Borçlu, ödeme emrinin tebliğinden itibaren yedi gün içinde borcu öder ya da itiraz eder (m. 62). İtiraz, icra dairesince üç gün içinde alacaklıya tebliğ edilir. Süresinde yapılan itiraz takibi durdurur. Borçlu borcun yalnızca bir kısmına itiraz etmişse, takip kabul ettiği tutar için devam eder (m. 66). İtiraz edilen kısım için takibe devam edebilmek isteyen alacaklının, itirazı mahkeme yoluyla ortadan kaldırması gerekir; itirazın şekli ve sonrasındaki davalar ayrı yazıların konusudur.
 
-Borçlu süresinde itiraz etmezse, alacaklı mal beyanını beklemeden haciz isteyebilir (m. 78). Alacaklı dilerse haciz talebinde bulunmadan önce Ulusal Yargı Ağı Bilişim Sistemi (UYAP) üzerinden borçlunun mal, hak ve alacaklarını sorgulayabilir; bulunan malvarlığı için haczi de sistem üzerinden isteyebilir.
+Borçlu süresinde itiraz etmezse, ödeme emrindeki yedi günlük süre geçtikten sonra alacaklı, borçlunun mal beyanını beklemeden haciz isteyebilir (m. 78). Alacaklı dilerse haciz talebinde bulunmadan önce Ulusal Yargı Ağı Bilişim Sistemi (UYAP) üzerinden borçlunun mal, hak ve alacaklarını sorgulayabilir; bulunan malvarlığı için haczi de sistem üzerinden isteyebilir.
