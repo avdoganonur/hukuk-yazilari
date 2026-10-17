@@ -67,7 +67,7 @@ Kanun itiraz sebeplerini üç başlıkta sayar:
 
 Borcun olmadığı itirazında, ödeme emrindeki borcun kişiye ait olmadığı ya da hukuken doğmadığı ileri sürülür ve bunu gösteren belgeler dilekçeye eklenir. Borcun bir kısmı ödenmişse, ödeme makbuzları ya da banka dekontlarıyla bu kısım gösterilir.
 
-Zamanaşımı itirazında 102. madde esas alınır. Amme alacağı, vadesinin rastladığı takvim yılını izleyen takvim yılı başından itibaren beş yıl içinde tahsil edilmezse zamanaşımına uğrar. Örneğin vadesi 2020 yılında olan bir borç için süre 1 Ocak 2021'de başlar ve kesilmezse 2025 yılı sonunda dolar. Para cezalarına ait özel kanunlardaki zamanaşımı hükümleri ise saklıdır ve kanunda zamanaşımını kesen sebepler ayrıca düzenlenmiştir. Zamanaşımı dolduktan sonra borçlunun kendi rızasıyla yaptığı ödemeler ise kabul edilir; bu ödemeler sonradan geri istenemez.
+Zamanaşımı itirazında 102. madde esas alınır. Amme alacağı, vadesinin rastladığı takvim yılını izleyen takvim yılı başından itibaren beş yıl içinde tahsil edilmezse zamanaşımına uğrar. Örneğin vadesi 2020 yılında olan bir borç için süre 1 Ocak 2021'de başlar ve kesilmezse 2025 yılı sonunda dolar. Para cezalarına ait özel kanunlardaki zamanaşımı hükümleri ise saklıdır ve kanunda zamanaşımını kesen sebepler ayrıca düzenlenmiştir. Zamanaşımı dolduktan sonra borçlunun kendi rızasıyla yaptığı ödemeler ise kanuna göre kabul edilir; yani zamanaşımı, borcun gönüllü olarak ödenmesine engel değildir.
 
 Borcun yalnızca bir kısmına itiraz eden borçlu, o kısmın neden ve miktarını açıkça göstermelidir; aksi hâlde itiraz edilmemiş sayılır. Vergi cezasına ya da tarhiyata karşı başvuru yolları ise ayrı bir konudur ve kendi süreleri vardır.
 
