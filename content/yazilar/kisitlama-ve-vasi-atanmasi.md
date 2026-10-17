@@ -19,6 +19,8 @@ dayanak:
     not: "Atama, geçici önlemler, ilan ve itiraz süresi"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 429"
     not: "Yasal danışman atanması"
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 436"
+    not: "Sağlık kurulu raporu için örnek alınması ve en fazla yirmi gün kuruma yerleştirme"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 449"
     not: "Vesayet altındaki kişi adına yasak işlemler"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 456"

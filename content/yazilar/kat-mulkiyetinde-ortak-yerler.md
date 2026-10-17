@@ -1,6 +1,6 @@
 ---
 baslik: "Apartmanda ortak yerler: çatı, bodrum ve koridorda kim, neyi, hangi kararla yapabilir?"
-aciklama: "Kat Mülkiyeti Kanunu'na göre ortak yerler, kullanım hakkı, ortak alanda değişiklik için gereken çoğunluklar ve kurala uymayan komşuya karşı yollar."
+aciklama: "Kat Mülkiyeti Kanunu'na göre ortak yerler, kullanım hakkı, değişiklik için gereken çoğunluklar ve kurala uymayan komşuya karşı yollar."
 tarih: 2026-10-17
 alan: tasinmaz-ve-kira
 dayanak:
@@ -42,7 +42,7 @@ Ortak yer, bağımsız bölümlerin (daire, dükkân gibi ayrı tapusu olan biri
 - Temeller, ana duvarlar, kolon, kiriş ve perde duvarlar gibi taşıyıcı sistem; bağımsız bölümleri ayıran ortak duvarlar, tavan ve tabanlar,
 - Avlular, genel giriş kapıları, antreler, merdivenler, asansörler, sahanlıklar, koridorlar,
 - Kapıcı dairesi, genel çamaşırlık, kömürlük, ortak garajlar, kalorifer dairesi, su depoları, sığınaklar,
-- Bağımsız bölüm dışındaki kanalizasyon, elektrik, su, doğalgaz ve ısıtma tesisatı, ortak anten ve şebekeler,
+- Bağımsız bölüm dışındaki kanalizasyon, elektrik, su, havagazı ve kalorifer tesisatı, ortak anten ve şebekeler,
 - Çatılar, bacalar, genel dam terasları, yağmur olukları, yangın merdivenleri.
 
 Bunların dışında kalsa da ortaklaşa kullanma, korunma ya da faydalanma için zorunlu olan yerler de ortak yer sayılır. Hangi yerin ortak olduğu konusunda tereddüt varsa önce tapudaki kat mülkiyeti kayıtlarına, onaylı projeye ve yönetim planına bakılır.
@@ -65,7 +65,7 @@ Ortak yerlerin daha düzgün, daha rahat kullanılır ya da daha faydalı hâle 
 
 Engelli bir kişinin yaşamı için zorunlu olan proje değişikliği, kat malikleri tarafından en geç üç ay içinde yapılacak toplantıda sayı ve arsa payı çoğunluğuyla karara bağlanır. Toplantı yapılamaz ya da talep kabul edilmezse, ilgili malikin isteği üzerine bina güvenliğini tehlikeye sokmadığını gösteren komisyon raporuna dayanılarak işlem yapılabilir.
 
-Yapılmak istenen yenilik çok masraflıysa ya da binanın özel durumuna göre lüks sayılıyorsa ve herkesin kullanması zorunlu yerlerde değilse, bundan yararlanmak istemeyen malik gidere katılmak zorunda değildir. Sonradan arsa payı oranında giderlere katılırsa o yenilikten yararlanma hakkını kazanır.
+Yapılmak istenen yenilik çok masraflıysa ya da binanın özel durumuna göre lüks sayılıyorsa ya da bütün kat maliklerinin kullanması zorunlu yerlerde bulunmuyorsa, bundan yararlanmak istemeyen malik gidere katılmak zorunda değildir. Sonradan arsa payı oranında giderlere katılırsa o yenilikten yararlanma hakkını kazanır.
 
 Bazı işler ise oybirliği ister. Binanın dış duvarlarının, çatısının ya da damının reklam amacıyla kiralanması gibi önemli yönetim işleri bütün kat maliklerinin oybirliğiyle verilecek kararla yapılabilir. Çatıya kat ilavesi gibi yeni bağımsız bölüm yapımı da oybirliğine ve ayrıca tapuda yapılacak işlemlere bağlıdır.
 

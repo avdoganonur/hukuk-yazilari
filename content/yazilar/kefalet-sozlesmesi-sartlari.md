@@ -25,10 +25,10 @@ dayanak:
     not: "Kefilin güvence ve borçtan kurtarılma isteme hakkı"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 596"
     not: "Kefilin rücu hakkı"
-  - ad: "6098 sayılı Türk Borçlar Kanunu m. 598"
-    not: "Asıl borcun sona ermesi ve on yıllık süre"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 597"
     not: "Ödeme yapan kefilin bildirim yükü"
+  - ad: "6098 sayılı Türk Borçlar Kanunu m. 598"
+    not: "Asıl borcun sona ermesi ve on yıllık süre"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 603"
     not: "Başka ad altında verilen kişisel güvenceler"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 449"
@@ -82,7 +82,7 @@ Kefil, her durumda sözleşmede yazan azami miktara kadar sorumludur. Bu sınır
 
 Sözleşmede açıkça kararlaştırılmamışsa kefil, borçlunun yalnızca kefalet sözleşmesi kurulduktan sonraki borçlarından sorumludur. Kefilin, asıl borç ilişkisinin hükümsüz hâle gelmesinden doğan zarardan ya da ceza koşulundan sorumlu olacağına dair anlaşmalar kesin olarak hükümsüzdür.
 
-Kefalet, asıl borca bağlıdır. Hangi sebeple olursa olsun asıl borç sona erince kefil de borcundan kurtulur. Kefil, borçlunun alacaklıya karşı ileri sürebileceği ve ödeme güçsüzlüğünden doğmayan savunmaları da ileri sürebilir.
+Kefalet, asıl borca bağlıdır. Hangi sebeple olursa olsun asıl borç sona erince kefil de borcundan kurtulur. Kefil, borçlunun alacaklıya karşı ileri sürebileceği ve ödeme güçsüzlüğünden doğmayan savunmaları da ileri sürebilir; kanun bu savunmaları ileri sürmeyi kefil için bir yükümlülük olarak da öngörür.
 
 Kefaletin bir de zaman sınırı vardır. Bir gerçek kişinin verdiği her türlü kefalet, sözleşmenin kurulmasından başlayarak on yıl geçince kendiliğinden ortadan kalkar. Kefalet on yıldan uzun süre için verilmiş olsa bile, uzatılmadıkça ya da yeni bir kefalet verilmedikçe kefil ancak on yıl doluncaya kadar takip edilebilir. Süre, en erken kefaletin sona ermesinden bir yıl önce, kefilin şekle uygun yazılı açıklamasıyla en fazla on yıllık yeni bir dönem için uzatılabilir.
 
