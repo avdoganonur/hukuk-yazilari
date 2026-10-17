@@ -31,7 +31,7 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6325&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Komşum yıllardır tarlamın bir kısmını ekiyor. Zamanla orası onun olur mu?"
-    cevap: "Tapuda adınıza kayıtlı bir taşınmazda bu yolla mülkiyet kazanılamaz. Kanun, yirmi yıllık zilyetliğe dayanan olağanüstü zamanaşımını tapuda kayıtlı olmayan taşınmazlar ile maliki tapudan anlaşılamayan ya da gaipliğine karar verilmiş kişi adına kayıtlı taşınmazlar için tanır. Bu nedenle uzun süre geçmiş olması, tapulu taşınmazın malikinin el atmanın önlenmesini istemesine engel değildir."
+    cevap: "Tapuda adınıza kayıtlı bir taşınmazda bu yolla mülkiyet kazanılamaz. Kanun, yirmi yıllık zilyetliğe dayanan olağanüstü zamanaşımını tapuda kayıtlı olmayan taşınmazlar ile maliki tapudan anlaşılamayan ya da yirmi yıl önce gaipliğine karar verilmiş kişi adına kayıtlı taşınmazlar için tanır. Bu nedenle uzun süre geçmiş olması, tapulu taşınmazın malikinin el atmanın önlenmesini istemesine engel değildir."
   - soru: "Arsama izinsiz duvar ören komşunun duvarını kendim yıkabilir miyim?"
     cevap: "Kanun zilyede, saldırıyı kuvvet kullanarak defetme ve taşınmaza el koyanı kovma imkânı tanır; ancak durumun haklı göstermediği derecede kuvvet kullanmaktan kaçınmak zorunludur. Saldırı anında olmayan, sonradan yapılmış bir duvarı kendi başınıza yıkmak sizi hukuki ve cezai sorumlulukla karşı karşıya bırakabilir. Güvenli yol, duvarın kaldırılmasını mahkemeden istemektir."
   - soru: "Kiracım kirayı ödemiyor ve evden çıkmıyor. El atmanın önlenmesi davası açabilir miyim?"

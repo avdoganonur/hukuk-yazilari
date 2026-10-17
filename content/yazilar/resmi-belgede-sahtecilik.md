@@ -45,7 +45,7 @@ Sahte bir diploma, üzerinde oynanmış bir kimlik kartı, kurumun kaşesi takli
 
 Resmî belge, bir kamu görevlisinin görevi gereği ve yetkisi dahilinde düzenlediği belgedir. Nüfus cüzdanı, pasaport, sürücü belgesi, tapu senedi, diploma, noter senedi, mahkeme kararı, belediyeden alınan ruhsat ve kamu hastanesinde düzenlenen rapor bu türdendir.
 
-Özel belge ise kişilerin kendi aralarında düzenlediği belgedir; kira sözleşmesi, adi senet, makbuz gibi. Özel belgede sahteciliğin cezası daha hafiftir (m. 207): belgeyi sahte düzenleyen ya da gerçek belgeyi değiştirip kullanan kişiye bir yıldan üç yıla kadar hapis cezası verilir. Kanun bazı özel belgeleri ise resmî belge gibi korur (m. 210). Emre ya da hamile yazılı kambiyo senetleri (çek, bono, poliçe), emtiayı temsil eden belgeler, hisse senedi, tahvil ve vasiyetname üzerinde işlenen sahtecilikte resmî belgede sahtecilik hükümleri uygulanır.
+Özel belge ise kişilerin kendi aralarında düzenlediği belgedir; kira sözleşmesi, adi senet, makbuz gibi. Özel belgede sahteciliğin cezası daha hafiftir (m. 207): özel belgeyi sahte olarak düzenleyen ya da gerçek bir özel belgeyi değiştiren ve kullanan kişiye bir yıldan üç yıla kadar hapis cezası verilir. Kanun bazı özel belgeleri ise resmî belge gibi korur (m. 210). Emre ya da hamile yazılı kambiyo senetleri (çek, bono, poliçe), emtiayı temsil eden belgeler, hisse senedi, tahvil ve vasiyetname üzerinde işlenen sahtecilikte resmî belgede sahtecilik hükümleri uygulanır.
 
 Belgenin hangi gruba girdiği cezayı doğrudan değiştirir. Aynı davranış, özel belgede bir ila üç yıl, resmî belgede iki ila beş yıl hapis cezası öngören hükme bağlanır. Bu yüzden bir sahtecilik iddiasında önce belgeyi kimin, hangi sıfatla düzenlediğine bakmak gerekir.
 

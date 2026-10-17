@@ -71,7 +71,7 @@ Kişisel verileri hukuka aykırı olarak bir başkasına veren, yayan ya da ele 
 - Yaymak: veriyi belirsiz sayıda kişinin öğrenebileceği hâle getirmek, örneğin bir kişinin adresini ya da numarasını sosyal medyada paylaşmak.
 - Ele geçirmek: hukuka aykırı yollarla veriye ulaşıp elde etmek, örneğin başkasının hesabına girip bilgilerini almak.
 
-Suçun konusu, Ceza Muhakemesi Kanunu uyarınca kayda alınan bazı mağdur çocuk beyan ve görüntüleri ise ceza bir kat artırılır (m. 136/2).
+Suçun konusu, Ceza Muhakemesi Kanunu'nun 236. maddesinin beşinci ve altıncı fıkraları uyarınca kayda alınan, bazı cinsel suçların mağdurlarına ait beyan ve görüntüler ise ceza bir kat artırılır (m. 136/2).
 
 ## Ağırlaştırıcı hâller ve verileri yok etmeme
 

@@ -34,10 +34,14 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2004&MevzuatTur=1&MevzuatTertip=3"
   - ad: "2004 sayılı İcra ve İflas Kanunu m. 148"
     not: "İpoteğin paraya çevrilmesi için takip talebi"
-  - ad: "2004 sayılı İcra ve İflas Kanunu m. 149"
+  - ad: "2004 sayılı İcra ve İflas Kanunu m. 149, 149/a"
     not: "İcra emri ve otuz günlük ödeme süresi; icranın geri bırakılması"
-  - ad: "2004 sayılı İcra ve İflas Kanunu m. 150"
-    not: "Ödeme emrine itiraz; tapuya şerh, satış süresi ve rehin açığı belgesi"
+  - ad: "2004 sayılı İcra ve İflas Kanunu m. 149/b, 150"
+    not: "Ödeme emri, otuz günlük ödeme ve yedi günlük itiraz süresi; rehin hakkının itiraz konusu yapılamaması"
+  - ad: "2004 sayılı İcra ve İflas Kanunu m. 150/c, 150/e, 150/f"
+    not: "Tapuya şerh, bir yıllık satış isteme süresi ve geçici rehin açığı belgesi"
+  - ad: "2004 sayılı İcra ve İflas Kanunu m. 150/ı"
+    not: "Kredi ilişkilerini güvenceye alan ipoteklerde noter ihtarıyla icra emri yolu"
 sss:
   - soru: "Kredimi kapattım ama ipotek hâlâ tapuda görünüyor. Ne yapmalıyım?"
     cevap: "Borcun bitmesi ipoteği kendiliğinden silmez; ipotek tapudaki tescil terkin edilince sona erer. Alacak sona erdiğinde taşınmaz maliki, alacaklıdan ipoteği terkin ettirmesini isteyebilir. Bankanın tapu müdürlüğüne terkin yazısı göndermesini ya da size vermesini istemek gerekir; alacaklı kaçınırsa terkin için dava yoluna gidilebilir."
@@ -80,7 +84,7 @@ Başkasının borcu için taşınmazını ipotek ettirmiş olan malik, borçlunu
 
 İpotekli alacaklı, kural olarak doğrudan borçlunun diğer mallarına haciz koyduramaz; önce rehnin paraya çevrilmesi yoluyla takip yapmak zorundadır. Rehin borcu karşılamazsa kalan alacak için haciz ya da iflas yoluna gidilebilir. Kanun konut finansmanından doğan alacaklar gibi bazı durumlarda alacaklıya seçme hakkı tanır.
 
-Takip, alacaklının ipotek akit tablosunun tapudan alınmış resmî örneğiyle icra dairesine başvurmasıyla başlar. Akit tablosu kayıtsız şartsız bir para borcu ikrarı içeriyorsa ve borcun ödeme zamanı gelmişse borçluya, taşınmaz başkasına aitse ona da icra emri gönderilir. İcra emrinde borcun otuz gün içinde ödenmesi istenir. Borçlunun itiraz imkânı burada sınırlıdır; icranın geri bırakılması için icra mahkemesine başvurması gerekir. Bankaların kredi ipoteklerinde, hesap kat ihtarnamesinin noter aracılığıyla tebliğ edildiğini gösteren belgeyle de bu yol izlenebilir.
+Takip, alacaklının ipotek akit tablosunun tapudan alınmış resmî örneğiyle icra dairesine başvurmasıyla başlar. Akit tablosu kayıtsız şartsız bir para borcu ikrarı içeriyorsa ve borcun ödeme zamanı gelmişse borçluya, taşınmaz başkasına aitse ona da icra emri gönderilir. İcra emrinde borcun otuz gün içinde ödenmesi istenir. Borçlunun itiraz imkânı burada sınırlıdır; icranın geri bırakılması için icra mahkemesine başvurması gerekir. Cari hesap ya da kredi şeklinde işleyen kredileri güvenceye alan ipoteklerde, akit tablosu böyle bir ikrar içermese bile, hesap özetinin ya da borcun ödenmesine ilişkin ihtarın noter aracılığıyla krediyi kullanana tebliğ edildiğini gösteren belgeyle de bu yol izlenebilir.
 
 Akit tablosu böyle bir ikrar içermiyorsa ödeme emri gönderilir. Borçlu ya da taşınmaz maliki, ödeme emrinin tebliğinden itibaren yedi gün içinde itiraz edebilir; ödeme süresi otuz gündür. Ancak rehin hakkının kendisi bu itirazın konusu yapılamaz. Bu süreler kısa olduğu için tebligat geldiği gün hangi belgenin gönderildiğine bakmak önemlidir.
 
