@@ -16,7 +16,7 @@ dayanak:
   - ad: "657 sayılı Devlet Memurları Kanunu m. 129"
     not: "Yüksek disiplin kurulunda memurun hakları"
   - ad: "657 sayılı Devlet Memurları Kanunu m. 130"
-    not: "Savunma hakkı ve yedi günlük savunma süresi"
+    not: "Savunma hakkı ve en az yedi günlük savunma süresi"
   - ad: "657 sayılı Devlet Memurları Kanunu m. 131"
     not: "Ceza kovuşturması ile disiplin kovuşturmasının ilişkisi"
   - ad: "657 sayılı Devlet Memurları Kanunu m. 132"
@@ -65,7 +65,7 @@ Savunması alınmadan memura disiplin cezası verilemez (m. 130). Savunma için 
 - Fiilin öğrenildiği tarihten itibaren uyarma, kınama, aylıktan kesme ve kademe ilerlemesinin durdurulması cezalarında bir ay, memurluktan çıkarmada altı ay içinde soruşturmaya başlanmalıdır.
 - Fiilin işlendiği tarihten itibaren en geç iki yıl içinde ceza verilmelidir.
 
-Bu süreler geçerse ceza verme yetkisi zamanaşımına uğrar. 2026 yılında yapılan değişiklikle maddeye yeni bir kural eklendi: Disiplin cezası mahkemece iptal edilirse, idare kalan zamanaşımı süresi içinde, süre dolmuşsa ya da altı aydan az kalmışsa en geç altı ay içinde, mahkeme kararının gerekçesini dikkate alarak yeniden ceza verebilir. Usul hatası nedeniyle iptal edilen bir ceza bu nedenle yeniden karşınıza çıkabilir.
+Bu süreler geçerse ceza verme yetkisi zamanaşımına uğrar. 2026 yılında yapılan değişiklikle maddeye yeni bir kural eklendi: Disiplin cezası mahkemece iptal edilirse, idare kararın kendisine ulaştığı tarihten itibaren kalan zamanaşımı süresi içinde, süre dolmuşsa ya da altı aydan az kalmışsa en geç altı ay içinde, mahkeme kararının gerekçesini dikkate alarak yeniden ceza verebilir. Usul hatası nedeniyle iptal edilen bir ceza bu nedenle yeniden karşınıza çıkabilir.
 
 Kanun ceza verme süresini de sınırlar (m. 128). Disiplin amirleri uyarma, kınama ve aylıktan kesme cezalarını soruşturmanın tamamlandığı günden itibaren on beş gün içinde vermek zorundadır. Kademe ilerlemesinin durdurulmasını gerektiren hâllerde soruşturma dosyası on beş gün içinde disiplin kuruluna gönderilir ve kurul dosyayı aldığı tarihten itibaren otuz gün içinde kararını bildirir. Memurluktan çıkarma istenen dosyalarda yüksek disiplin kurulu, dosyanın kendisine gönderilmesinden itibaren en çok altı ay içinde karar verir.
 

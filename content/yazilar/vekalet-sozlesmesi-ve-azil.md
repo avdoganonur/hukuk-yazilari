@@ -69,7 +69,7 @@ Birden fazla kişi vekâleti birlikte üstlenmişse, ifadan müteselsil, yani he
 
 ## Vekâlet verenin borçları
 
-Vekâlet ilişkisinde borç yalnızca vekile ait değildir. 510. maddeye göre vekâlet veren, vekâletin gereği gibi yerine getirilmesi için vekilin yaptığı giderleri ve verdiği avansları faiziyle ödemek ve vekili üstlendiği borçlardan kurtarmak zorundadır. Vekil, vekâletin ifası nedeniyle uğradığı zararı da isteyebilir; vekâlet veren ancak kusuru olmadığını ispat ederek bu sorumluluktan kurtulur. Bir kişiye birlikte vekâlet verenler de vekile karşı müteselsil olarak sorumludur.
+Vekâlet ilişkisinde borç yalnızca vekile ait değildir. 510. maddeye göre vekâlet veren, vekâletin gereği gibi yerine getirilmesi için vekilin yaptığı giderleri ve verdiği avansları faiziyle ödemek ve vekili üstlendiği borçlardan kurtarmak zorundadır. Vekil, vekâletin ifası nedeniyle uğradığı zararı da isteyebilir; vekâlet veren ancak kusuru olmadığını ispat ederek bu sorumluluktan kurtulur. Bir kişiye birlikte vekâlet verenler de vekile karşı müteselsil olarak sorumludur (m. 511).
 
 ## Azil, istifa ve sona erme
 

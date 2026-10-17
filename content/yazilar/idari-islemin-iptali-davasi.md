@@ -25,7 +25,7 @@ sss:
   - soru: "Süre son gün resmî tatile denk gelirse ne olur?"
     cevap: "Tatil günleri süreye dahildir. Ancak sürenin son günü tatile rastlarsa süre, tatili izleyen ilk çalışma gününün bitimine kadar uzar. Sürenin bitişi çalışmaya ara verme dönemine denk gelirse, ara vermenin bittiği günü izleyen tarihten itibaren yedi gün uzamış sayılır."
   - soru: "Mahkeme işlemi iptal ederse idare ne zamana kadar gereğini yapar?"
-    cevap: "İdare, mahkemenin esasa ve yürütmenin durdurulmasına ilişkin kararlarının gereğini gecikmeden yerine getirmek zorundadır. Bu süre hiçbir şekilde kararın idareye tebliğinden itibaren otuz günü geçemez."
+    cevap: "İdare, mahkemenin esasa ve yürütmenin durdurulmasına ilişkin kararlarının gereğini gecikmeden yerine getirmek zorundadır. Bu süre hiçbir şekilde kararın idareye tebliğinden itibaren otuz günü geçemez. Kanun, bazı güvenlik ve kamu personeli davalarında göreve iade sonucunu doğuran kararların ancak kesinleştikten sonra uygulanacağını ayrıca düzenlemiştir."
   - soru: "Yürütmeyi durdurma isteğim reddedilirse dava da reddedilmiş olur mu?"
     cevap: "Hayır. Yürütmenin durdurulması, dava sürerken işlemin uygulanmasını geçici olarak engelleyen bir karardır. İsteğin reddi, davanın esası hakkında karar verildiği anlamına gelmez; mahkeme yargılamanın sonunda işlemi yine iptal edebilir. Ret kararına karşı yedi gün içinde bir defalık itiraz yolu da vardır."
 ---
