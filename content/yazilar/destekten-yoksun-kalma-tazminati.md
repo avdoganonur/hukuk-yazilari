@@ -30,6 +30,8 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2918&MevzuatTur=1&MevzuatTertip=5"
   - ad: "2918 sayılı Karayolları Trafik Kanunu m. 109"
     not: "Motorlu araç kazalarında zamanaşımı"
+  - ad: "2918 sayılı Karayolları Trafik Kanunu m. 88"
+    not: "Birden fazla sorumlunun müteselsil sorumluluğu"
   - ad: "2918 sayılı Karayolları Trafik Kanunu m. 97"
     not: "Sigorta şirketine yazılı başvuru"
 sss:
@@ -52,15 +54,15 @@ Türk Borçlar Kanunu'nun 49. maddesine göre kusurlu ve hukuka aykırı bir fii
 2. Ölüm hemen gerçekleşmemişse tedavi giderleri ile çalışma gücünün azalmasından ya da yitirilmesinden doğan kayıplar.
 3. Ölenin desteğinden yoksun kalan kişilerin bu sebeple uğradıkları kayıplar.
 
-Destekten yoksun kalma tazminatı bu üçüncü kaleme dayanır. Tazminat, ölüme kusurlu ve hukuka aykırı davranışıyla yol açan kişiden istenir. Trafik kazalarında araç işleteninin sorumluluğu Karayolları Trafik Kanunu'nda ayrıca düzenlenir ve tazminat, şartları varsa zorunlu trafik sigortasından da istenebilir; bunun için önce sigorta şirketine yazılı başvuru yapılması gerekir.
+Destekten yoksun kalma tazminatı bu üçüncü kaleme dayanır. Tazminat, ölüme kusurlu ve hukuka aykırı davranışıyla yol açan kişiden istenir. Trafik kazalarında araç işleteninin sorumluluğu Karayolları Trafik Kanunu'nda ayrıca düzenlenir ve tazminat, şartları varsa zorunlu trafik sigortasından da istenebilir; bunun için önce sigorta şirketine yazılı başvuru yapılması gerekir. Kazada birden fazla kişi tazminatla yükümlüyse, örneğin iki aracın sürücüsü de kusurluysa, bunlar zarar görene karşı müteselsil olarak, yani her biri zararın tamamından sorumlu tutulur (Karayolları Trafik Kanunu m. 88).
 
 Ölüm bir idarenin eylem ya da işleminden veya idarenin sorumlu olduğu başka bir sebepten kaynaklanmışsa da sonuç değişmez. Türk Borçlar Kanunu'nun destekten yoksun kalma zararına ilişkin hükümleri, bu tür ölümlere bağlı istem ve davalarda da uygulanır (m. 55).
 
-Ölüme yol açan olay için ayrıca bir ceza davası görülüyorsa, hukuk hâkimi zarar verenin kusurlu olup olmadığına karar verirken ceza hâkiminin beraat kararıyla ve ceza hâkiminin kusura ilişkin değerlendirmesiyle bağlı değildir (m. 74). Ceza hâkiminin kusurun değerlendirilmesine ve zararın belirlenmesine ilişkin kararı da hukuk hâkimini bağlamaz.
+Ölüme yol açan olay için ayrıca bir ceza davası görülüyorsa, hukuk hâkimi zarar verenin kusurlu olup olmadığına karar verirken ceza hâkiminin verdiği beraat kararıyla bağlı değildir. Ceza hâkiminin kusurun değerlendirilmesine ve zararın belirlenmesine ilişkin kararı da hukuk hâkimini bağlamaz (m. 74).
 
 ## Kimler isteyebilir?
 
-Kanun burada mirasçılardan değil, ölenin desteğinden yoksun kalan kişilerden söz eder. Bu yüzden tazminat hakkı mirasçılığa bağlı değildir. Belirleyici olan, ölenin bu kişinin geçimine katkıda bulunması ve ölümle birlikte bu katkının kesilmesidir.
+Kanun burada mirasçılardan değil, ölenin desteğinden yoksun kalan kişilerden söz eder. Bu yüzden tazminat hakkı mirasçılığa bağlı değildir. Kanun hak sahipleri için bir akrabalık derecesi ya da yaş sınırı da öngörmez. Belirleyici olan, ölenin bu kişinin geçimine katkıda bulunması ve ölümle birlikte bu katkının kesilmesidir.
 
 Ölenin eşi ve çocukları en sık karşılaşılan hak sahipleridir. Ölenin bakımını üstlendiği anne, baba ya da kardeşler de bu desteği gördüklerini ortaya koyarak tazminat isteyebilir. Zarar gören, zararını ispat etmekle yükümlü olduğundan (m. 50), destek ilişkisini gösteren belgeler ve tanık anlatımları burada önem kazanır.
 

@@ -57,7 +57,7 @@ Manevi tazminat, kişilik hakkını korumaya yönelik tek yol da değildir. Tür
 
 Bir kimsenin bedensel bütünlüğü zedelenirse hâkim, olayın özelliklerini göz önünde tutarak zarar görene uygun bir miktar paranın manevi tazminat olarak ödenmesine karar verebilir (Türk Borçlar Kanunu m. 56). Trafik kazasında, bir saldırıda ya da iş kazasında yaralanan kişi bu hükme dayanır.
 
-Ağır bedensel zarar ya da ölüm hâlinde manevi tazminatı yalnızca zarar gören değil, zarar görenin ya da ölenin yakınları da isteyebilir. Kanun "yakın" kavramını tek tek saymaz. Kimin yakın sayılacağını hâkim, kişinin zarar görenle ya da ölenle arasındaki bağa bakarak belirler. Eş, çocuklar, anne ve baba bunun ilk akla gelen örnekleridir.
+Ağır bedensel zarar ya da ölüm hâlinde manevi tazminatı yalnızca zarar gören değil, zarar görenin ya da ölenin yakınları da isteyebilir. Kanun "yakın" kavramını tek tek saymaz. Kimin yakın sayılacağını hâkim, kişinin zarar görenle ya da ölenle arasındaki bağa bakarak belirler. Eş, çocuklar, anne ve baba bunun ilk akla gelen örnekleridir. Ölüm hâlinde yakınların manevi tazminatı, ölenin desteğinden yoksun kalmaktan doğan maddi tazminattan ayrı bir taleptir. Kanun bu iki kalemi ayrı maddelerde düzenler.
 
 Zarar bir sözleşmenin ihlalinden doğmuş olsa da sonuç değişmez. Haksız fiil sorumluluğuna ilişkin hükümler, sözleşmeye aykırılık hâllerine de kıyas yoluyla uygulanır (m. 114). Örneğin bir hizmetin kusurlu ifası sırasında yaralanan kişi de manevi tazminat isteyebilir.
 
@@ -67,9 +67,9 @@ Boşanma davalarında ise ayrı bir hüküm vardır. Boşanmaya sebep olan olayl
 
 Manevi tazminat için bir tarife yoktur. Kanun "uygun bir miktar" demekle yetinir ve miktarın belirlenmesini hâkime bırakır. Hâkim, olayın özelliklerini göz önünde tutar; tazminatın kapsamını belirlerken durumun gereğini ve özellikle kusurun ağırlığını dikkate alır (m. 51 ve 56). Bu yüzden benzer görünen iki olayda bile farklı miktarlara hükmedilebilir.
 
-Zarar görenin kendi davranışı da hesaba katılır. Zarar gören, zarar doğuran fiile razı olmuş ya da zararın doğmasında veya artmasında etkili olmuşsa hâkim tazminatı indirebilir, hatta tamamen kaldırabilir (m. 52).
+Zarar görenin kendi davranışı da hesaba katılır. Zarar gören, zarar doğuran fiile razı olmuş ya da zararın doğmasında veya artmasında etkili olmuşsa hâkim tazminatı indirebilir, hatta tamamen kaldırabilir (m. 52). Zarara hafif kusuruyla sebep olan kişi, tazminatı ödediğinde yoksulluğa düşecekse ve hakkaniyet de gerektiriyorsa hâkim bu nedenle de indirim yapabilir.
 
-Olay aynı zamanda bir suç oluşturuyorsa ceza davasının sonucu da belirleyici değildir. Hukuk hâkimi, zarar verenin kusurlu olup olmadığına karar verirken ceza hâkiminin verdiği beraat kararıyla ve ceza hâkiminin kusura ilişkin değerlendirmesiyle bağlı değildir (m. 74).
+Olay aynı zamanda bir suç oluşturuyorsa, ceza davasındaki bazı değerlendirmeler hukuk hâkimini bağlamaz. Hukuk hâkimi, zarar verenin kusurlu olup olmadığına karar verirken ceza hâkiminin verdiği beraat kararıyla ve ceza hâkiminin kusura ilişkin değerlendirmesiyle bağlı değildir (m. 74).
 
 Davada manevi zararın büyüklüğünü anlatan olgular, örneğin tedavinin süresi, kalıcı iz ya da sakatlık, olayın kişinin hayatına etkisi veya saldırının ne kadar yayıldığı, mümkün olduğunca belgelenmelidir. Hâkimin takdiri bu olgular üzerinden şekillenir.
 

@@ -46,7 +46,7 @@ Bu yazı konut ve çatılı işyeri (dükkân, büro gibi üstü kapalı işyerl
 
 ## Temerrüt ihtarı ve otuz günlük süre
 
-Temerrüt, borcun zamanında ödenmemesi demektir. Kiracı, kiralananı teslim aldıktan sonra ödeme günü gelmiş (muaccel) kira bedelini ya da yan gideri ödemezse, ev sahibi ona yazılı olarak bir ödeme süresi verir. Bu sürede de ödeme yapılmazsa sözleşmeyi feshedeceğini bildirir (m. 315). Hüküm, kiralananın tesliminden sonra ödeme günü gelen kira ve yan giderler içindir. İhtarda hangi aya ait ne kadar borcun ödenmediği ve süre içinde ödenmezse sözleşmenin feshedileceği açıkça yazılmalıdır.
+Temerrüt, borcun zamanında ödenmemesi demektir. Kiracı, kiralananı teslim aldıktan sonra ödeme günü gelmiş (muaccel) kira bedelini ya da yan gideri ödemezse, ev sahibi ona yazılı olarak bir ödeme süresi verir. Bu sürede de ödeme yapılmazsa sözleşmeyi feshedeceğini bildirir (m. 315). Kanun bu bildirimin yazılı yapılmasını arar; sözlü bir uyarı ya da telefon görüşmesi süreyi başlatmaz. İhtarda hangi aya ait ne kadar borcun ödenmediği ve süre içinde ödenmezse sözleşmenin feshedileceği açıkça yazılmalıdır.
 
 Konut ve çatılı işyeri kiralarında bu süre en az otuz gündür. Süre, yazılı bildirimin kiracıya yapıldığı tarihi izleyen günden itibaren işler. Kiracı süre içinde öderse fesih hakkı doğmaz. Ödemezse ev sahibi sözleşmeyi feshedebilir. Kiracı yine de çıkmazsa tahliye için sulh hukuk mahkemesinde dava açılır (6100 sayılı Kanun m. 4). Dava açmadan önce arabulucuya başvurmak zorunludur (6325 sayılı Kanun m. 18/B). Arabuluculuk bürosuna başvurulduğu tarihten son tutanağın düzenlendiği tarihe kadar hak düşürücü süreler işlemez (m. 18/A).
 

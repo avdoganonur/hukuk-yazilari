@@ -9,6 +9,8 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2918&MevzuatTur=1&MevzuatTertip=5"
   - ad: "2918 sayılı Karayolları Trafik Kanunu m. 85"
     not: "İşletenin hukuki sorumluluğu"
+  - ad: "2918 sayılı Karayolları Trafik Kanunu m. 88"
+    not: "Zarar verenlerin birden fazla olması"
   - ad: "2918 sayılı Karayolları Trafik Kanunu m. 89"
     not: "Kazaya karışan araçların işletenleri arasında zararın giderilmesi"
   - ad: "2918 sayılı Karayolları Trafik Kanunu m. 90"
@@ -54,6 +56,8 @@ Kazada hasar gören bir araç onarılıp yola dönse bile, satışa çıkarıld�
 Karayolları Trafik Kanunu'nun 85. maddesine göre bir motorlu aracın işletilmesi bir şeyin zarara uğramasına yol açarsa, aracın işleteni bu zarardan sorumludur. İşleten kural olarak araç sahibidir. Mülkiyeti saklı tutularak satılan araçta sicilde kayıtlı alıcı; uzun süreli kiralama, ödünç verme ya da rehin hâllerinde ise kiracı, ödünç alan veya rehin alan kişi işleten sayılır (m. 3). İşleten, sürücünün kusurundan kendi kusuru gibi sorumludur. Araç bir teşebbüsün unvanı ya da işletme adı altında işletiliyorsa, işleten ile teşebbüsün sahibi zarardan müştereken ve müteselsilen, yani her biri zararın tamamından sorumlu olur.
 
 İki aracın karıştığı kazalarda araca gelen zarar için Kanun ayrı bir kural koyar. 89. maddeye göre aracı zarar gören işleten, tazminat alabilmek için karşı aracın işleteninin ya da onun sorumlu olduğu kişilerin, örneğin sürücünün kusurunu ispat etmelidir. Kusur yerine, karşı taraftaki kişinin ayırt etme gücünü geçici olarak kaybettiği ya da karşı araçtaki bir bozukluğun kazaya yol açtığı da ispatlanabilir. Bu yüzden değer kaybı uyuşmazlıklarında ilk tartışılan konu kusur dağılımıdır. Kazanın nasıl olduğunu gösteren tutanak, fotoğraflar ve kamera kayıtları bu noktada belirleyici olabilir.
+
+Bir kazada üçüncü kişinin uğradığı zarardan birden fazla kişi sorumluysa, örneğin zincirleme bir çarpışmada, bunlar zarar görene karşı müteselsil olarak sorumlu tutulur; aralarındaki paylaşımda ise özel durumlar başka türlü bir paylaşımı haklı göstermedikçe kusur oranları esas alınır (m. 88).
 
 Kusur oranı tartışmalıysa, mahkeme ya da hakem bunu önündeki delillere göre kendisi değerlendirir. Kaza nedeniyle bir ceza davası görülmüşse, ceza hâkiminin kusura ilişkin değerlendirmesi ve verdiği beraat kararı hukuk hâkimini bağlamaz (Türk Borçlar Kanunu m. 74).
 

@@ -60,7 +60,7 @@ Uygulamada depozito çoğu zaman ev sahibine elden ya da onun hesabına havale y
 
 ## Sözleşme bitince iade
 
-Kanun iade için ev sahibine bir süre tanır. Ev sahibi, kira sözleşmesinin sona ermesini izleyen üç ay içinde kiracıya karşı sözleşmeyle ilgili bir dava açtığını ya da icra veya iflas yoluyla takip başlattığını bankaya yazılı olarak bildirmezse, banka kiracının istemi üzerine güvenceyi geri vermek zorundadır. Bu üç ay geçtikten sonra kiracı, ev sahibinin onayına ihtiyaç duymadan bankaya başvurabilir.
+Kanun iade için ev sahibine bir süre tanır. Ev sahibi, kira sözleşmesinin sona ermesini izleyen üç ay içinde kiracıya karşı sözleşmeyle ilgili bir dava açtığını ya da icra veya iflas yoluyla takip başlattığını bankaya yazılı olarak bildirmezse, banka kiracının istemi üzerine güvenceyi geri vermek zorundadır. Böyle bir bildirim yapılmamışsa kiracı, üç ay geçtikten sonra ev sahibinin onayına ihtiyaç duymadan bankaya başvurabilir.
 
 Ev sahibi güvenceden ancak kiracının gerçekten ödemediği borçları ve sorumlu olduğu zararları karşılayabilir. Ödenmemiş kira, kiracının ödemesi gereken ama ödemediği yan giderler ve sözleşmeye aykırı kullanımdan doğan zararlar bu kapsamdadır. Bunlar düşüldükten sonra kalan tutar kiracıya geri verilir. Kesinti yapılacaksa hangi kalem için ne kadar düşüldüğünün yazılı olarak bildirilmesi, sonradan çıkabilecek tartışmayı azaltır. Burada iki kural önemlidir:
 
@@ -75,4 +75,4 @@ Taşınırken ve teslim ederken evin fotoğraflarının çekilmesi, mümkünse i
 
 Ev sahibi haklı bir sebep olmadan depozitoyu geri vermezse kiracı alacağı için icra takibi başlatabilir ya da dava açabilir. Kira ilişkisinden doğan davalara, dava konusunun değerine bakılmaksızın sulh hukuk mahkemesi bakar (6100 sayılı Kanun m. 4). Dava açmadan önce arabulucuya başvurmak zorunludur; arabulucuya gidilmeden açılan dava usulden reddedilir (6325 sayılı Kanun m. 18/A ve 18/B). Arabuluculuk görüşmesinde taraflar iade edilecek tutar üzerinde anlaşabilir. Bu durumda anlaşma belgesi için sulh hukuk mahkemesinden icra edilebilirlik şerhi alınması zorunludur.
 
-Para bankada vadeli hesapta duruyorsa yol daha kısadır: sözleşmenin bitiminden itibaren üç ay içinde ev sahibi bankaya dava ya da takip bildiriminde bulunmamışsa kiracı doğrudan bankadan iade isteyebilir.
+Para bankadaysa ve ev sahibi süresi içinde dava ya da takip başlattığını bankaya bildirmişse, banka parayı ancak iki tarafın rızasıyla ya da takibin veya mahkeme kararının kesinleşmesinden sonra verir. Uyuşmazlığın sonucu bu yüzden bankadaki paranın kime ödeneceğini de belirler.

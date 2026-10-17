@@ -13,8 +13,12 @@ dayanak:
     not: "Kiracı ve oturanların sorumluluğu, kanuni ipotek, alacağın önceliği"
   - ad: "634 sayılı Kat Mülkiyeti Kanunu m. 25"
     not: "Kat mülkiyetinin devri mecburiyeti"
+  - ad: "634 sayılı Kat Mülkiyeti Kanunu m. 28"
+    not: "Yönetim planının bağlayıcılığı"
   - ad: "634 sayılı Kat Mülkiyeti Kanunu m. 33"
     not: "Kat malikleri kurulu kararlarının iptali"
+  - ad: "634 sayılı Kat Mülkiyeti Kanunu m. 34"
+    not: "Yönetici atanması zorunluluğu"
   - ad: "634 sayılı Kat Mülkiyeti Kanunu m. 35"
     not: "Yöneticinin avans toplama, dava ve icra takibi görevleri"
   - ad: "634 sayılı Kat Mülkiyeti Kanunu m. 37"
@@ -44,13 +48,13 @@ Halk arasında aidat denen ödeme, Kat Mülkiyeti Kanunu'nda gider ve avans pay�
 
 ## Payın nasıl belirlendiği
 
-Kat malikleri aralarında başka türlü anlaşmadıkça giderler iki şekilde paylaştırılır (m. 20). Kapıcı, kaloriferci, bahçıvan ve bekçi giderleri ile bunlar için toplanan avansa herkes eşit katılır. Sigorta primleri, ortak yerlerin bakım, koruma, güçlendirme ve onarım giderleri, yönetici aylığı ve ortak tesislerin işletme giderleri ise arsa payı oranında paylaştırılır. Arsa payı, arsanın her bağımsız bölüme ayrılmış ortak mülkiyet payıdır (m. 2).
+Kat malikleri aralarında başka türlü anlaşmadıkça giderler iki şekilde paylaştırılır (m. 20). Kapıcı, kaloriferci, bahçıvan ve bekçi giderleri ile bunlar için toplanan avansa herkes eşit katılır. Sigorta primleri, ortak yerlerin bakım, koruma, güçlendirme ve onarım giderleri, yönetici aylığı ve ortak tesislerin işletme giderleri ise arsa payı oranında paylaştırılır. Arsa payı, arsanın her bağımsız bölüme ayrılmış ortak mülkiyet payıdır (m. 2). Farklı bir paylaştırma esası kat malikleri arasında kararlaştırılabilir; böyle bir düzenleme, bütün kat maliklerini bağlayan bir sözleşme hükmündeki yönetim planında da yer alabilir (m. 28). Bir gidere kat maliklerinden birinin ya da onun bölümünden yararlanan kişinin kusurlu davranışı yol açmışsa, gideri karşılayan diğer kat malikleri ödediklerini ondan geri isteyebilir (m. 20).
 
 Aidat tutarı işletme projesiyle belirlenir. Bu proje, binanın bir yıllık tahmini gelir ve giderlerini, her kat malikine düşecek tahmini miktarı ve ödenmesi gereken avans tutarını gösterir. Kanunun Mayıs 2026'da değişen 37. maddesine göre işletme projesi kat malikleri genel kurulunda onaylanır. Onaylanmış bir proje yoksa yönetici gecikmeden geçici bir proje hazırlar ve bu proje en geç üç ay içinde kurulda karara bağlanır. Proje, kat maliklerine ya da bölümden fiilen yararlananlara imza karşılığında veya taahhütlü mektupla bildirilir. Yürürlükte bir işletme projesi varsa, geçici projedeki bedel belirlenirken mevcut proje bedeline, bir önceki yıl için Vergi Usul Kanunu'na göre ilan edilen yeniden değerleme oranından fazla artış yapılamaz (m. 37).
 
 ## Ödemeyen kat malikine karşı yollar
 
-Gider ya da avans payını ödemeyen kat maliki hakkında diğer kat maliklerinden her biri veya yönetici dava açabilir ve icra takibi yapabilir (m. 20). Ödemeyenlere karşı dava ve takip yürütmek, kanunun saydığı yönetici görevleri arasındadır (m. 35).
+Gider ya da avans payını ödemeyen kat maliki hakkında diğer kat maliklerinden her biri veya yönetici dava açabilir ve icra takibi yapabilir (m. 20). Ödemeyenlere karşı dava ve takip yürütmek, kanunun saydığı yönetici görevleri arasındadır (m. 35). Sekiz ya da daha fazla bağımsız bölümü olan binalarda yönetici atanması zorunludur (m. 34). Yönetici topladığı paraları ve avansları, kendi adına ama yönetici sıfatı gösterilerek açılan bir banka hesabında tutar.
 
 Gecikmenin bir bedeli de vardır. Payının tamamını ödemeyen kat maliki, geciktiği günler için aylık yüzde beş hesabıyla gecikme tazminatı öder.
 

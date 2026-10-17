@@ -20,6 +20,8 @@ dayanak:
     not: "Meskende açılması kurul kararına bağlı işyerleri"
   - ad: "634 sayılı Kat Mülkiyeti Kanunu m. 25"
     not: "Hâkim emrine rağmen ısrar hâlinde mülkiyetin devri"
+  - ad: "634 sayılı Kat Mülkiyeti Kanunu m. 28"
+    not: "Yönetim planının bağlayıcılığı ve içeriği"
   - ad: "634 sayılı Kat Mülkiyeti Kanunu m. 33"
     not: "Hâkimin müdahalesi"
   - ad: "634 sayılı Kat Mülkiyeti Kanunu m. Ek 1"
@@ -48,7 +50,7 @@ Mülkiyet hakkı, sahibine malını dilediği gibi kullanma yetkisi verir, ama b
 
 ## Taşkın kullanım ve hoşgörü sınırı
 
-Türk Medeni Kanunu'nun 737. maddesi herkese, taşınmaz mülkiyetinden doğan yetkilerini kullanırken komşularını olumsuz etkileyecek taşkınlıktan kaçınma yükümlülüğü getirir. Taşkınlık, mülkiyet hakkının sınırını aşan ve komşuya zarar veren kullanımdır. Kanun örnekleri de sayar: taşınmazın durumuna, niteliğine ve yerel âdete göre komşular arasında hoş görülebilecek dereceyi aşan duman, buğu, kurum, toz, koku çıkarmak, gürültü ya da sarsıntı yaparak rahatsızlık vermek yasaktır.
+Türk Medeni Kanunu'nun 737. maddesi herkese, taşınmaz mülkiyetinden doğan yetkilerini kullanırken komşularını olumsuz etkileyecek taşkınlıktan kaçınma yükümlülüğü getirir. Taşkınlık, mülkiyet hakkının sınırını aşan ve komşuya zarar veren kullanımdır. Kanun örnekleri de sayar: taşınmazın durumuna, niteliğine ve yerel âdete göre komşular arasında hoş görülebilecek dereceyi aşan duman, buğu, kurum, toz, koku çıkarmak, gürültü ya da sarsıntı yaparak rahatsızlık vermek yasaktır. Kanun bu yükümlülüğü özellikle işletme faaliyetleri için vurgular; bir atölye, fırın ya da eğlence yeri de aynı sınırlara tabidir.
 
 Ölçüt kişinin hassasiyeti değil, hoşgörü sınırıdır. Bu sınır yere göre değişir. Bir sanayi bölgesinde olağan sayılan ses, bir konut sitesinde katlanılamaz olabilir. Mahkeme taşınmazın konumunu, kullanım amacını ve çevredeki yerleşik alışkanlıkları birlikte değerlendirir.
 
@@ -58,13 +60,13 @@ Kanun bir dengeyi de korur. Yerel âdete uygun ve kaçınılmaz taşkınlıklar 
 
 Taşkın kullanımdan zarar gören ya da zarar tehlikesiyle karşılaşan kişi, Türk Medeni Kanunu'nun 730. maddesine göre üç şey isteyebilir: durumun eski hâline getirilmesi, tehlikenin giderilmesi ve uğradığı zararın tazmini. Örneğin komşu duvara dayanan ve sarsıntı yapan bir makinenin kaldırılması, bacadan gelen dumanın önlenmesi için önlem alınması ya da evde oluşan hasarın ödenmesi bu davayla istenebilir. Zarar henüz doğmamış olsa bile, zarar tehlikesiyle karşılaşmak dava açmak için yeterlidir.
 
-Malik ayrıca, mülkiyetine yönelik her türlü haksız elatmanın önlenmesini dava edebilir (m. 683).
+Malik ayrıca, mülkiyetine yönelik her türlü haksız elatmanın önlenmesini dava edebilir (m. 683). Mahkeme, taşkınlığın hoşgörü sınırını aşıp aşmadığını belirlemek için gerektiğinde yerinde inceleme (keşif) yapabilir ve bilirkişiden görüş alabilir.
 
 Bu davalara kural olarak asliye hukuk mahkemesi bakar (Hukuk Muhakemeleri Kanunu m. 2). Kat Mülkiyeti Kanunu'nun uygulanmasından doğan uyuşmazlıklar ise sulh hukuk mahkemesinde görülür (634 sayılı Kanun ek m. 1). Her iki durumda da 1 Eylül 2023'ten bu yana dava açmadan önce arabulucuya başvurmak dava şartıdır; Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'nun 18/B maddesi komşu hakkından ve Kat Mülkiyeti Kanunu'ndan kaynaklanan uyuşmazlıkları bu kapsama almıştır.
 
 ## Apartmanda rahatsızlık: Kat Mülkiyeti Kanunu
 
-Apartman ve sitelerde komşuluk ilişkisi Kat Mülkiyeti Kanunu ile ayrıca düzenlenir. Kanunun 18. maddesine göre kat malikleri, hem kendi bölümlerini hem ortak yerleri kullanırken doğruluk kurallarına uymak, özellikle birbirini rahatsız etmemek, birbirinin haklarını çiğnememek ve yönetim planına uymakla yükümlüdür. Bu yükümlülükler kiracılara, oturma (sükna) hakkı sahiplerine ve bağımsız bölümden sürekli yararlanan herkese de uygulanır. Bunlara uymayanlar kat malikiyle birlikte müteselsilen sorumludur.
+Apartman ve sitelerde komşuluk ilişkisi Kat Mülkiyeti Kanunu ile ayrıca düzenlenir. Kanunun 18. maddesine göre kat malikleri, hem kendi bölümlerini hem ortak yerleri kullanırken doğruluk kurallarına uymak, özellikle birbirini rahatsız etmemek, birbirinin haklarını çiğnememek ve yönetim planına uymakla yükümlüdür. Bu yükümlülükler kiracılara, oturma (sükna) hakkı sahiplerine ve bağımsız bölümden sürekli yararlanan herkese de uygulanır. Bunlara uymayanlar kat malikiyle birlikte müteselsilen sorumludur. Yönetim planı da bütün kat maliklerini bağlayan bir sözleşme hükmündedir ve bağımsız bölümlerin kullanma maksadı ve şekli gibi konuları düzenler (m. 28). Planda yer alan kullanım kurallarına aykırı davranmak da 18. maddedeki yükümlülüğün ihlalidir.
 
 Bir kat malikinin ya da onun bölümünde oturan kişinin bu borçlara uymaması yüzünden zarar gören kat maliki, binanın bulunduğu yerdeki sulh mahkemesine başvurarak hâkimin müdahalesini isteyebilir (m. 33). Hâkim ilgilileri dinledikten sonra kanuna, yönetim planına, bunlarda hüküm yoksa genel hükümlere ve hakkaniyete göre hemen karar verir ve kararın kısa bir süre içinde yerine getirilmesini ister. Belirlenen sürede karara uymayana aynı mahkeme idari para cezası verir.
 
@@ -76,6 +78,6 @@ Kütükte mesken olarak gösterilen bir bölümde kahvehane, bar, lokanta, pasta
 
 Dava tek yol değildir. Başkalarının huzur ve sükûnunu bozacak şekilde gürültüye neden olan kişiye Kabahatler Kanunu'nun 36. maddesine göre idari para cezası verilir. Bu cezaya kolluk ya da belediye zabıtası karar verir; gürültü bir ticari işletmenin faaliyetinden kaynaklanıyorsa ceza işletme sahibine verilir ve daha yüksektir.
 
-Rahatsızlığa bir kiracı yol açıyorsa ev sahibine bildirmek de sonuç verebilir. Türk Borçlar Kanunu'nun 316. maddesi kiracıya, kiralananın bulunduğu taşınmazda oturanlara ve komşulara gerekli saygıyı gösterme borcu yükler. Bu borca aykırılık, kiraya verene belirli koşullarla sözleşmeyi feshetme hakkı verir.
+Rahatsızlığa bir kiracı yol açıyorsa ev sahibine bildirmek de sonuç verebilir. Türk Borçlar Kanunu'nun 316. maddesi kiracıya, kiralananın bulunduğu taşınmazda oturanlara ve komşulara gerekli saygıyı gösterme borcu yükler. Konut ve çatılı işyeri kirasında bu borca aykırılık hâlinde kiraya veren, kiracıya en az otuz gün süre vererek aykırılığı gidermesini, aksi takdirde sözleşmeyi feshedeceğini yazılı olarak ihtar eder. Kiracının davranışı aynı taşınmazda oturanlar ya da komşular bakımından çekilmez hâle gelmişse, kiraya veren yazılı bir bildirimle sözleşmeyi hemen feshedebilir.
 
 Hangi yol seçilirse seçilsin, rahatsızlığın tarihlerini ve saatlerini not etmek, kolluk ya da zabıta tutanaklarını saklamak ve durumu bilen tanıkları belirlemek ispatı kolaylaştırır.

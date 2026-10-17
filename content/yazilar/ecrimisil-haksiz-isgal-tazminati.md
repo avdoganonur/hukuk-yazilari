@@ -27,6 +27,11 @@ dayanak:
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 2"
     not: "Asliye hukuk mahkemesinin genel görevi"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
+  - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 4"
+    not: "Ortaklığın giderilmesi davalarında sulh hukuk mahkemesinin görevi"
+  - ad: "6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu m. 18/B"
+    not: "Ortaklığın giderilmesi uyuşmazlıklarında dava şartı olarak arabuluculuk"
+    baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6325&MevzuatTur=1&MevzuatTertip=5"
   - ad: "2886 sayılı Devlet İhale Kanunu m. 75"
     not: "Kamu taşınmazlarının işgalinde ecrimisil"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2886&MevzuatTur=1&MevzuatTertip=5"
@@ -35,6 +40,8 @@ sss:
     cevap: "Hayır. Kira bedeli bir sözleşmeye dayanır; ecrimisil ise sözleşme olmadan yapılan haksız kullanımın karşılığıdır. Yargıtay, haksız işgali bir kira ilişkisi olarak görmez. Bu yüzden kira artışına ilişkin sınırlar ecrimisil hesabında uygulanmaz; ecrimisil ise en az, taşınmazın o dönemde getirebileceği kira geliri kadar kabul edilir."
   - soru: "Kardeşimle ortak olduğumuz evde yalnızca o oturuyor. Benim payım için ecrimisil isteyebilir miyim?"
     cevap: "Yargıtay uygulamasına göre bunun için önce sizin de taşınmazdan yararlanmak istediğinizi kardeşinize bildirmeniz gerekir. Bildirimden sonra da kullanıma izin verilmezse, o tarihten sonraki dönem için payınıza düşen kısım üzerinden ecrimisil isteyebilirsiniz. Bildirimi ispat edebilmek için yazılı ve belgelenebilir bir yol seçmek, örneğin noter ihtarnamesi göndermek ileride işi kolaylaştırır."
+  - soru: "Taşınmazımı izinsiz kullanan kişi orada yaptığı masrafları benden isteyebilir mi?"
+    cevap: "Bu, kullanıcının iyiniyetli olup olmadığına bağlıdır. İyiniyetli zilyet zorunlu ve yararlı giderlerinin ödenmesini isteyebilir ve bunlar ödenene kadar taşınmazı geri vermekten kaçınabilir. İyiniyetli olmayan zilyet ise yaptığı giderlerden yalnızca hak sahibi için de zorunlu olanları isteyebilir."
   - soru: "Paydaşlardan biri ortak taşınmazı kiraya vermiş. Ne isteyebilirim?"
     cevap: "Kiraya verilerek gelir elde edilen taşınmazlarda Yargıtay, kullanımdan alıkoyma şartını aramaz. Diğer paydaşlar kira sözleşmesini tanımayarak haksız işgal nedeniyle hareket edebilir ya da sözleşmeyi açıkça veya örtülü olarak onaylayıp kira bedelinden kendi paylarına düşeni isteyebilir."
 ---
@@ -48,7 +55,7 @@ Malik, ecrimisil istemiyle birlikte taşınmazın geri verilmesini ya da haksız
 
 ## İyiniyetli kullanıcı
 
-Kanun iyiniyetli zilyedi korur. Bir şeyi iyiniyetle elinde bulunduran ve onu karine olarak sahip olduğu hakka uygun biçimde kullanan zilyet, geri vermekle yükümlü olduğu kişiye bu kullanım yüzünden tazminat ödemez. Şeyin kaybolmasından, yok olmasından ya da hasara uğramasından da sorumlu tutulmaz (m. 993). İyiniyetli zilyet ayrıca yaptığı zorunlu ve yararlı giderlerin ödenmesini isteyebilir ve bu ödeme yapılana kadar taşınmazı geri vermekten kaçınabilir (m. 994).
+Kanun iyiniyetli zilyedi korur. Bir şeyi iyiniyetle elinde bulunduran ve onu karine olarak sahip olduğu hakka uygun biçimde kullanan zilyet, geri vermekle yükümlü olduğu kişiye bu kullanım yüzünden tazminat ödemez. Şeyin kaybolmasından, yok olmasından ya da hasara uğramasından da sorumlu tutulmaz (m. 993). İyiniyetli zilyet ayrıca yaptığı zorunlu ve yararlı giderlerin ödenmesini isteyebilir ve bu ödeme yapılana kadar taşınmazı geri vermekten kaçınabilir. Diğer giderleri için tazminat isteyemez; ancak bunlar için kendisine bir tazminat önerilmezse, taşınmaza eklediği ve zarar vermeden ayrılabilen şeyleri geri vermeden önce ayırıp alabilir. Zilyedin taşınmazdan elde ettiği ürünler, giderlerden doğan alacağından düşülür (m. 994).
 
 İyiniyet kanunda asıl kabul edilir; yani iyiniyetsizliği iddia eden ispat etmelidir. Bununla birlikte durumun gerektirdiği özeni göstermeyen kişi iyiniyet iddiasında bulunamaz (m. 3). Kullanıcının taşınmaz üzerinde hakkı olmadığını bildiği ya da gereken özeni gösterseydi bilebileceği dönem için iyiniyet savunması bu yüzden sonuç vermez.
 
@@ -56,7 +63,7 @@ Kanun iyiniyetli zilyedi korur. Bir şeyi iyiniyetle elinde bulunduran ve onu ka
 
 Yargıtay, ecrimisilin en az, taşınmazın kira geliri karşılığı olan zarar olduğunu kabul eder. Bu yüzden hesapta, taşınmazın haksız kullanıldığı dönemde getirebileceği kira geliri ya da tarım arazilerinde elde edilebilecek ürün geliri esas alınır. Mahkeme bu değerlendirmeyi yaparken bilirkişiden yararlanabilir. Kötüniyetli zilyedin taşınmaza verdiği zarar varsa, bunun ayrıca tazmini de istenebilir.
 
-Kişiler arasındaki ecrimisil davalarına, malvarlığı haklarına ilişkin davaların genel mahkemesi olan asliye hukuk mahkemesi bakar (Hukuk Muhakemeleri Kanunu m. 2). Devletin özel mülkiyetindeki ya da hüküm ve tasarrufu altındaki taşınmazlar ile özel bütçeli idarelere ve Vakıflar Genel Müdürlüğüne ait taşınmazların işgalinde ise ecrimisil, Devlet İhale Kanunu'nun 75. maddesindeki ayrı usulle idare tarafından istenir.
+Kişiler arasındaki ecrimisil davalarına, malvarlığı haklarına ilişkin davaların genel mahkemesi olan asliye hukuk mahkemesi bakar (Hukuk Muhakemeleri Kanunu m. 2). Devletin özel mülkiyetindeki ya da hüküm ve tasarrufu altındaki taşınmazlar ile özel bütçeli idarelere ve Vakıflar Genel Müdürlüğüne ait taşınmazların işgalinde ise ecrimisil, Devlet İhale Kanunu'nun 75. maddesindeki ayrı usulle idare tarafından istenir. Bu durumda ecrimisili idarenin oluşturduğu bir komisyon, tespit tarihinden geriye doğru beş yılı geçmemek üzere belirler; idarenin zarara uğramış olması ya da işgalcinin kusuru aranmaz.
 
 ## Paylı mülkiyette durum
 
@@ -66,6 +73,8 @@ Bir paydaşın ortak taşınmazı kullanması tek başına haksız işgal sayıl
 
 Yargıtay bazı durumlarda bu koşulu aramaz. Taşınmazın kiraya verilerek gelir elde edilen bir yer olması, kullanan paydaşın taşınmazın tamamında hak iddia edip diğerlerinin paydaşlığını inkâr etmesi ya da paydaşlar arasında her birinin kullanacağı bölümü belirleyen bir anlaşma bulunması bunlardandır. Davacı paydaşın daha önce elatmanın önlenmesi, ortaklığın giderilmesi ya da ecrimisil davası açmış veya icra takibi yapmış olması da aynı sonucu doğurur. Fındık bahçesi ya da çayır gibi kendiliğinden ürün veren yerler ile başlı başına gelir getiren işletmelerin işgali de istisnalar arasında sayılır.
 
+Kullanımdan alıkonulan paydaş, ecrimisilin yanında elatmanın önlenmesini de isteyebilir. Paylı malın kullanımı sürekli bir anlaşmazlık konusuysa, kullanma biçiminin hâkim tarafından belirlenmesi ya da ortaklığın giderilmesi de gündeme gelir. Ortaklığın giderilmesi davaları sulh hukuk mahkemesinde görülür ve bu davalardan önce arabulucuya başvurmak zorunludur (Hukuk Muhakemeleri Kanunu m. 4; 6325 sayılı Kanun m. 18/B).
+
 ## Zamanaşımı
 
-Yargıtay uygulamasında ecrimisil istemleri beş yıllık zamanaşımına bağlı tutulur ve bu süre dava tarihinden geriye doğru hesaplanır. Bu nedenle dava tarihinden beş yıldan daha eski dönemler için istenen ecrimisil, karşı taraf zamanaşımını ileri sürerse reddedilir. Zamanaşımı ileri sürülmedikçe hâkim bunu kendiliğinden dikkate alamaz (Türk Borçlar Kanunu m. 161).
+Yargıtay uygulamasında ecrimisil istemleri beş yıllık zamanaşımına bağlı tutulur ve bu süre dava tarihinden geriye doğru hesaplanır. Bu nedenle dava tarihinden beş yıldan daha eski dönemler için istenen ecrimisil, karşı taraf zamanaşımını ileri sürerse reddedilir. Zamanaşımı ileri sürülmedikçe hâkim bunu kendiliğinden dikkate alamaz (Türk Borçlar Kanunu m. 161). Haksız kullanım yıllardır sürüyorsa beklemek, geriye dönük istenebilecek tutarı her geçen ay azaltır.
