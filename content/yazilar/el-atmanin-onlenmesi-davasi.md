@@ -8,7 +8,7 @@ dayanak:
     not: "Mülkiyetin içeriği; istihkak ve elatmanın önlenmesi davası"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 713"
-    not: "Olağanüstü kazandırıcı zamanaşımının tapuda kayıtlı olmayan taşınmazlarla sınırlı olması"
+    not: "Olağanüstü kazandırıcı zamanaşımı: tapuda kayıtlı olmayan ya da maliki tapudan anlaşılamayan veya yirmi yıl önce gaipliğine karar verilmiş kişi adına kayıtlı taşınmazlar"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 737"
     not: "Komşulara taşkın etkide bulunma yasağı"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 981"
@@ -37,7 +37,7 @@ sss:
   - soru: "Kiracım kirayı ödemiyor ve evden çıkmıyor. El atmanın önlenmesi davası açabilir miyim?"
     cevap: "Aranızda bir kira sözleşmesi varsa uyuşmazlık kira ilişkisinden doğar ve kira hukukunun tahliye yollarıyla çözülür. Kira ilişkisinden doğan davalara, değerine bakılmaksızın sulh hukuk mahkemesi bakar ve bu uyuşmazlıklarda, ilamsız icra yoluyla tahliye hariç, dava açmadan önce arabulucuya başvurmak dava şartıdır."
   - soru: "Zilyetlik davası mı açmalıyım, el atmanın önlenmesi davası mı?"
-    cevap: "Zilyetlik davası, mülkiyet tartışmasına girmeden fiilî durumu korur; ancak fiilin ve failin öğrenilmesinden itibaren iki ay ve her hâlde fiilin üzerinden bir yıl içinde açılmalıdır ve sulh hukuk mahkemesinde görülür. Bu süreler geçmişse ya da mülkiyet tartışması da çözülmek isteniyorsa malik, mülkiyetine dayanarak asliye hukuk mahkemesinde el atmanın önlenmesi davası açar. Kiracı gibi malik olmayan zilyet ise yalnızca zilyetlik davalarına başvurabilir."
+    cevap: "Zilyetlik davası, mülkiyet tartışmasına girmeden fiilî durumu korur; ancak fiilin ve failin öğrenilmesinden itibaren iki ay ve her hâlde fiilin üzerinden bir yıl içinde açılmalıdır ve sulh hukuk mahkemesinde görülür. Bu süreler geçmişse ya da mülkiyet tartışması da çözülmek isteniyorsa malik, mülkiyetine dayanarak asliye hukuk mahkemesinde el atmanın önlenmesi davası açar. Kiracı gibi malik olmayan zilyet ise mülkiyete dayanan bu davayı açamaz; zilyetlik davalarına başvurabilir."
 ---
 Arsanızın bir köşesine komşunun çit çektiğini, tarlanızın bir kısmının izinsiz ekildiğini ya da boş dairenize başkasının yerleştiğini fark ettiniz. Böyle durumlarda malikin başvurabileceği temel yol, el atmanın önlenmesi davasıdır. Uygulamada bu dava eski adıyla "müdahalenin men'i" davası olarak da bilinir. Davanın amacı, haksız müdahaleyi durdurmak ve taşınmazı müdahaleden arındırmaktır.
 
