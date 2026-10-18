@@ -24,9 +24,9 @@ sss:
   - soru: "Basit yargılama usulünün uygulanmasını reddedebilir miyim?"
     cevap: "Kanun, usulün uygulanmasını sanığın onayına bağlamaz; karar mahkemeye aittir. Sanığın elindeki imkân, verilen hükme itiraz etmektir. İtiraz edilirse duruşma açılır ve yargılama genel hükümlere göre yapılır. Ayrıca mahkeme gerekli görürse hüküm verilinceye kadar her aşamada duruşma açabilir."
   - soru: "İtiraz edersem dörtte birlik indirimi kaybeder miyim?"
-    cevap: "Kaybedebilirsiniz. İtiraz üzerine hüküm kuran mahkeme, basit yargılama usulüyle verilen hükümle bağlı değildir. Kanun, dörtte birlik indirimin itirazın sanık dışındaki kişilerce yapıldığı hâllerde uygulanacağını söyler. Yalnızca sanık itiraz ettiyse bu indirim uygulanmaz; bu yüzden itiraz etmeden önce dosyanın iyi değerlendirilmesi gerekir."
+    cevap: "Kaybedebilirsiniz. İtiraz üzerine hüküm kuran mahkeme, basit yargılama usulüyle verilen hükümle bağlı değildir. Kanun, dörtte birlik indirimin yalnızca itirazın sanık dışındaki kişilerce yapıldığı hâllerde korunacağını söyler. Sanık itiraz ettiyse kanun bu indirimin korunmasını öngörmez; bu yüzden itiraz etmeden önce dosyanın iyi değerlendirilmesi gerekir."
   - soru: "Mağdur ya da şikâyetçi olarak bu süreçte ne yapabilirim?"
-    cevap: "İddianame mağdura ve şikâyetçiye de tebliğ edilir. Siz de beyanlarınızı ve varsa delillerinizi iki hafta içinde yazılı olarak mahkemeye bildirebilirsiniz. Mahkemenin hükmüne itiraz edilmesi hâlinde dosya duruşmalı olarak yeniden görülür; itiraz sanık dışındaki biri tarafından yapılmışsa sonuç cezada dörtte birlik indirim yine uygulanır."
+    cevap: "İddianame mağdura ve şikâyetçiye de tebliğ edilir. Siz de beyanlarınızı ve varsa delillerinizi iki hafta içinde yazılı olarak mahkemeye bildirebilirsiniz. Mahkemenin hükmüne itiraz edilmesi hâlinde dosya duruşmalı olarak yeniden görülür; itiraz sanık dışındaki biri tarafından yapılmışsa sonuç cezadaki dörtte birlik indirim korunur."
   - soru: "Basit yargılama ile seri muhakeme aynı şey mi?"
     cevap: "Hayır. Seri muhakeme, soruşturma aşamasında savcının teklif ettiği ve şüphelinin avukatı huzurunda kabul ettiği bir usuldür; ayrı bir yazıda anlatılmaktadır. Basit yargılama ise dava açıldıktan sonra asliye ceza mahkemesinin kendisinin uyguladığı, sanığın kabulünü gerektirmeyen bir usuldür. İndirim oranları da farklıdır."
 ---
@@ -60,7 +60,7 @@ Mahkeme gerekli görürse, hüküm verilinceye kadar her aşamada duruşma açar
 
 ## Hükme itiraz ve sonuçları
 
-Basit yargılama usulüyle verilen hükme itiraz edilebilir. Hükümde itiraz yolu ve itirazın sonuçları gösterilir. İtiraz süresi, CMK'daki genel itiraz kuralına göre iki haftadır. Süresi içinde itiraz edilmeyen hüküm kesinleşir.
+Basit yargılama usulüyle verilen hükme itiraz edilebilir. Hükümde itiraz yolu ve itirazın sonuçları gösterilir. İtiraz süresi, CMK 268. maddedeki genel itiraz kuralına göre kararın öğrenildiği günden itibaren iki haftadır. Süresi içinde itiraz edilmeyen hüküm kesinleşir.
 
 2024 değişikliğinden sonra itirazı hükmü veren hâkim incelemez. Yerde birden fazla asliye ceza mahkemesi varsa dosya, dağıtım kurallarına göre belirlenen başka bir asliye ceza mahkemesine gönderilir. Tek asliye ceza mahkemesi olan yerlerde ise kanunun gösterdiği şekilde görevlendirilen başka bir hâkim dosyaya bakar. İtiraz üzerine duruşma açılır ve yargılama genel hükümlere göre sürdürülür.
 
@@ -68,11 +68,11 @@ Basit yargılama usulüyle verilen hükme itiraz edilebilir. Hükümde itiraz yo
 
 1. Taraflar gelmese bile duruşma yapılır ve yokluklarında hüküm verilebilir.
 2. Duruşmadan önce itirazdan vazgeçilirse duruşma yapılmaz ve itiraz edilmemiş sayılır.
-3. Mahkeme, basit yargılama usulüyle verilen hükümle bağlı değildir. Dörtte birlik indirim, yalnızca itirazın sanık dışındaki kişilerce yapıldığı hâllerde uygulanır.
+3. Mahkeme, basit yargılama usulüyle verilen hükümle bağlı değildir. Dörtte birlik indirim, yalnızca itirazın sanık dışındaki kişilerce yapıldığı hâllerde korunur.
 4. İtiraz üzerine verilen hüküm sanık lehineyse ve uygulanma imkânı varsa, itiraz etmeyen diğer sanıklar da itiraz etmiş gibi bu karardan yararlanır.
 5. Bu duruşma sonunda verilen hükme karşı genel hükümlere göre kanun yoluna başvurulabilir.
 
-İtiraz yalnızca yargılama gideri, vekâlet ücreti ya da maddi bir hata gibi yan konulara ilişkinse duruşma açılmaz; itiraz genel itiraz usulüne göre incelenir.
+İtiraz yargılama giderine, vekâlet ücretine ya da maddi bir hataya ilişkinse, CMK 268. maddenin ikinci fıkrası uygulanır; bu itirazı genel itiraz usulündeki yetkili merci inceler.
 
 ## Tebligat gelince nelere dikkat edilmeli?
 

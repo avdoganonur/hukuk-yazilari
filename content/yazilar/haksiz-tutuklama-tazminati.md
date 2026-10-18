@@ -61,7 +61,7 @@ Başvuruya hazırlanırken zararı gösteren belgeler erkenden toplanmalıdır. 
 
 Kural olarak istem, zarara uğrayanın oturduğu yer ağır ceza mahkemesine yapılır. Tazminata konu işlem bu mahkemeyle ilgiliyse ve aynı yerde başka ağır ceza dairesi yoksa, en yakın yer ağır ceza mahkemesi görevlidir.
 
-1 Haziran 2024'ten itibaren önemli bir ayrım vardır. Kovuşturmaya yer olmadığı ya da beraat kararı, gözaltı ve tutukluluğun hükümlülük süresinden fazla olması ve yukarıda anlatılan adli kontrol sonrası beraat hâllerinde istem, 6384 sayılı Kanun hükümlerine göre Tazminat Komisyonunca incelenir. Bu istemler yanlışlıkla ağır ceza mahkemesine yapılmışsa dosya Komisyona gönderilir ve ağır ceza mahkemesine yapılan istemin tarihi esas alınır. Komisyona başvurunun ayrıntıları ve kararlarına karşı başvuru yolu 6384 sayılı Kanun'da düzenlenmiştir. Kanuna aykırı yakalama, ölçüsüz arama ya da usulsüz el koyma gibi diğer hâllerde ise başvuru yine ağır ceza mahkemesine yapılır.
+1 Haziran 2024'ten itibaren önemli bir ayrım vardır. Kovuşturmaya yer olmadığı ya da beraat kararı, gözaltı ve tutukluluğun hükümlülük süresinden fazla olması ve yukarıda anlatılan adli kontrol sonrası beraat hâllerinde istem, 6384 sayılı Kanun hükümlerine göre Tazminat Komisyonunca incelenir. Bu kapsamdaki istemler ağır ceza mahkemesine yapılmışsa dosya Komisyona gönderilir ve istemin ağır ceza mahkemesine yapıldığı tarih esas alınır. Komisyona başvurunun ayrıntıları 6384 sayılı Kanun'da düzenlenmiştir. Kanuna aykırı yakalama, ölçüsüz arama ya da usulsüz el koyma gibi diğer hâllerde ise başvuru yine ağır ceza mahkemesine yapılır.
 
 ## Mahkemede süreç nasıl işler?
 

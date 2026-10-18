@@ -17,7 +17,7 @@ dayanak:
   - ad: "5237 sayılı Türk Ceza Kanunu m. 52"
     not: "Adli para cezasının belirlenmesi"
   - ad: "6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun m. 2"
-    not: "Şiddet, psikolojik ve ekonomik şiddet tanımları"
+    not: "Şiddet tanımı (fiziksel, cinsel, psikolojik, sözlü veya ekonomik)"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6284&MevzuatTur=1&MevzuatTertip=5"
   - ad: "6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun m. 5"
     not: "Şiddet uygulayana yönelik önleyici tedbirler"
@@ -27,7 +27,7 @@ sss:
   - soru: "Şantajcı istediğini alamadıysa yine de ceza verilir mi?"
     cevap: "Şeref ve saygınlığa zarar verecek bilgileri açıklama tehdidinde kanun, bu tehdidin yarar sağlamak amacıyla yapılmasını yeterli görür ve birinci fıkradaki cezanın verileceğini söyler. İstenen paranın ödenmiş olması gerekmez. Somut olayın hangi fıkraya girdiği, savcılık ve mahkemenin değerlendirmesine bağlıdır."
   - soru: "Şantaj yapan kişi eşim ya da eski eşimse başka bir yol var mı?"
-    cevap: "Ceza soruşturmasının yanında, şantaj kadına ya da aile bireylerine yönelik psikolojik veya ekonomik şiddet niteliğindeyse 6284 sayılı Kanun'a göre koruma ve önleyici tedbir istenebilir. Bu tedbirler, failin mağdura yaklaşmasının, iletişim araçlarıyla rahatsız etmesinin yasaklanması gibi kararları içerebilir ve ceza davasının sonucunu beklemeden verilebilir."
+    cevap: "Ceza soruşturmasının yanında, şantaj kadına ya da aile bireylerine yönelik psikolojik veya ekonomik şiddet niteliğindeyse 6284 sayılı Kanun'a göre koruma ve önleyici tedbir istenebilir. Bu tedbirler, failin mağdura yaklaşmasının, iletişim araçlarıyla rahatsız etmesinin yasaklanması gibi kararları içerebilir."
   - soru: "Şikâyetimi geri alırsam dava düşer mi?"
     cevap: "Hayır. Şantaj suçu için kanunda şikâyet şartı öngörülmemiştir. Mağdurun şikâyetten vazgeçmesi soruşturma ya da kovuşturmayı kendiliğinden sona erdirmez."
 ---
