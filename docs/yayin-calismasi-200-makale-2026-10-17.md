@@ -2,7 +2,7 @@
 
 Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 
-18 Ekim 2026 itibarıyla 20 metin ayrı kayıtlarla main dalına eklenmiştir. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
+19 Ekim 2026 itibarıyla 24 metin ayrı kayıtlarla main dalına eklenmiştir. 23 yazının canlı kontrolü tamamlanmıştır; 24. yazının kontrolü beklenmektedir. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
 
 ## Eklenen makaleler
 
@@ -27,6 +27,11 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 19. [Sözleşme ağırlaşınca uyarlama veya sona erdirme istenebilir mi?](https://avukatonurdogan.com/yazilar/asiri-ifa-guclugu-ve-sozlesmenin-uyarlanmasi/) — 951 kelime; live_verified.
 20. [Vekâlet olmadan yapılan işin masrafları geri istenebilir mi?](https://avukatonurdogan.com/yazilar/vekaletsiz-is-gorme-ve-masraflarin-iadesi/) — 975 kelime; live_verified.
 
+21. [Delil kaybolmadan nasıl korunur? Dava öncesinde ve sırasında delil tespiti](https://avukatonurdogan.com/yazilar/delil-tespiti-ve-kaybolabilecek-deliller/) — 968 kelime; live_verified.
+22. [Ceza soruşturmasında veya davasında tanıklıktan kimler çekinebilir?](https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-tanikliktan-cekinme/) — 910 kelime; live_verified.
+23. [Saklanması için bırakılan eşya kullanılabilir mi, ne zaman geri verilir?](https://avukatonurdogan.com/yazilar/saklama-sozlesmesi-ve-emanet-esyanin-iadesi/) — 942 kelime; live_verified.
+24. [Satın aldığım hizmet vaat edilenden farklı: hangi hakları kullanabilirim?](https://avukatonurdogan.com/yazilar/ayipli-hizmette-tuketicinin-secimlik-haklari/) — 998 kelime; uploaded.
+
 ## Doğruluk ve devam kuralları
 
 - Her turda güncel main ve YAZIM-KURALLARI.md okunur; başka oturumların değişiklikleri korunur.
@@ -47,3 +52,10 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 - 213: SHA-256 `f04c9b088672ddaf6e861738346bc9eb07b2475e278a8eab7e06e8c46ef5f200`
 - 4857: SHA-256 `cd75c7fe92bd438443549c3e973e7ea6d03137e9a6bb2652aded52a8ca95e84e`
 - 5271: SHA-256 `46d9b6447ac516eaf56f2619665a01c079d5aa305b48b7b1a773a87b4045064a`
+
+
+## 19 Ekim 2026 devam kaydı
+
+21–23. yazıların bekleyen kontrolleri tamamlandı: yayın akışı 39150023077 başarılı, üç canlı sayfa HTTP 200 ve kayıtlı başlıklarla doğrulandı. Yazılar yeniden oluşturulmadı.
+
+24. yazı ayıplı hizmette tüketicinin seçimlik hakları hakkındadır; 998 kelime, dört ara başlık, üç Kısaca maddesi ve üç soru içerir. `python build.py --kontrol` başarılıdır. 6502 sayılı Kanun PDF’si 19 Ekim 2026 tarihinde mevzuat.gov.tr üzerinden yeniden indirildi; SHA-256: `943f70aa212af092d04aa9d1035f756ff513261042adb6932a98fa3a92cd2c46`.
