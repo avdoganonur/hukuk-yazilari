@@ -2,7 +2,7 @@
 
 Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 
-19 Ekim 2026 itibarıyla 24 metin ayrı kayıtlarla main dalına eklenmiştir. 23 yazının canlı kontrolü tamamlanmıştır; 24. yazının kontrolü beklenmektedir. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
+19 Ekim 2026 itibarıyla 24 metin ayrı kayıtlarla main dalına eklenmiştir. 24 yazının tamamının canlı kontrolü tamamlanmıştır. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
 
 ## Eklenen makaleler
 
@@ -30,7 +30,7 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 21. [Delil kaybolmadan nasıl korunur? Dava öncesinde ve sırasında delil tespiti](https://avukatonurdogan.com/yazilar/delil-tespiti-ve-kaybolabilecek-deliller/) — 968 kelime; live_verified.
 22. [Ceza soruşturmasında veya davasında tanıklıktan kimler çekinebilir?](https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-tanikliktan-cekinme/) — 910 kelime; live_verified.
 23. [Saklanması için bırakılan eşya kullanılabilir mi, ne zaman geri verilir?](https://avukatonurdogan.com/yazilar/saklama-sozlesmesi-ve-emanet-esyanin-iadesi/) — 942 kelime; live_verified.
-24. [Satın aldığım hizmet vaat edilenden farklı: hangi hakları kullanabilirim?](https://avukatonurdogan.com/yazilar/ayipli-hizmette-tuketicinin-secimlik-haklari/) — 998 kelime; uploaded.
+24. [Satın aldığım hizmet vaat edilenden farklı: hangi hakları kullanabilirim?](https://avukatonurdogan.com/yazilar/ayipli-hizmette-tuketicinin-secimlik-haklari/) — 998 kelime; live_verified.
 
 ## Doğruluk ve devam kuralları
 
@@ -59,3 +59,5 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 21–23. yazıların bekleyen kontrolleri tamamlandı: yayın akışı 39150023077 başarılı, üç canlı sayfa HTTP 200 ve kayıtlı başlıklarla doğrulandı. Yazılar yeniden oluşturulmadı.
 
 24. yazı ayıplı hizmette tüketicinin seçimlik hakları hakkındadır; 998 kelime, dört ara başlık, üç Kısaca maddesi ve üç soru içerir. `python build.py --kontrol` başarılıdır. 6502 sayılı Kanun PDF’si 19 Ekim 2026 tarihinde mevzuat.gov.tr üzerinden yeniden indirildi; SHA-256: `943f70aa212af092d04aa9d1035f756ff513261042adb6932a98fa3a92cd2c46`.
+
+24. makalenin yayın akışı 39168124294 başarılıdır. Canlı sayfa 19 Ekim 2026 tarihinde HTTP 200 ve doğru H1 başlığı ile doğrulandı. Bu devam adımında bir yeni makale yayımlandı ve önceki üç makalenin bekleyen canlı kontrolleri kayda geçirildi. Hedef ilerlemesi: 24/200; kalan 176.
