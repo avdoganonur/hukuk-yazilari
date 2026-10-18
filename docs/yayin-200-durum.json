@@ -1,0 +1,361 @@
+{
+  "target": 200,
+  "scope": "Bu çalışma kapsamında üretilen 200 yeni yazı; site toplamı veya başka oturumların yazı sayısı değildir.",
+  "repository": "avdoganonur/hukuk-yazilari",
+  "branch": "main",
+  "site": "https://avukatonurdogan.com",
+  "updated_date": "2026-10-18",
+  "articles": [
+    {
+      "slug": "telafi-calismasi-sartlari-ve-sinirlari",
+      "title": "Telafi çalışması hangi durumlarda ve ne kadar yaptırılabilir?",
+      "url": "https://avukatonurdogan.com/yazilar/telafi-calismasi-sartlari-ve-sinirlari/",
+      "word_count": 912,
+      "status": "live_verified",
+      "published_date": "2026-10-17",
+      "verified_sources": [
+        {
+          "ad": "4857 sayılı İş Kanunu m. 63–64",
+          "not": "Normal çalışma süresi, denkleştirme ve telafi çalışmasının koşulları",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4857.pdf"
+        }
+      ],
+      "commit": null
+    },
+    {
+      "slug": "evliligin-iptali-mutlak-ve-nisbi-butlan",
+      "title": "Evliliğin iptali hangi şartlarda istenebilir?",
+      "url": "https://avukatonurdogan.com/yazilar/evliligin-iptali-mutlak-ve-nisbi-butlan/",
+      "word_count": 906,
+      "status": "live_verified",
+      "published_date": "2026-10-17",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 145–160",
+          "not": "Evlenmenin butlan sebepleri, dava hakkı, süreler ve kararın sonuçları",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf"
+        }
+      ],
+      "commit": null
+    },
+    {
+      "slug": "zorunlu-gecit-hakki-ve-yola-cikis",
+      "title": "Yola çıkışı olmayan taşınmaz için zorunlu geçit hakkı",
+      "url": "https://avukatonurdogan.com/yazilar/zorunlu-gecit-hakki-ve-yola-cikis/",
+      "word_count": 901,
+      "status": "live_verified",
+      "published_date": "2026-10-17",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 747–748",
+          "not": "Zorunlu geçit ve diğer geçit hakları",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf"
+        },
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 780–781, 783–785",
+          "not": "İrtifakın kurulması, resmî şekil ve sona erme sebepleri",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf"
+        }
+      ],
+      "commit": null
+    },
+    {
+      "slug": "takipsizlik-kararina-itiraz",
+      "title": "Takipsizlik kararına nasıl itiraz edilir?",
+      "url": "https://avukatonurdogan.com/yazilar/takipsizlik-kararina-itiraz/",
+      "word_count": 908,
+      "status": "live_verified",
+      "published_date": "2026-10-17",
+      "verified_sources": [
+        {
+          "ad": "5271 sayılı Ceza Muhakemesi Kanunu m. 172–173",
+          "not": "Kovuşturmaya yer olmadığı kararı ve itiraz usulü",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf"
+        }
+      ],
+      "commit": null
+    },
+    {
+      "slug": "mirasciliktan-cikarma-sebepleri-ve-itiraz",
+      "title": "Mirasçılıktan çıkarma hangi şartlarda geçerlidir?",
+      "url": "https://avukatonurdogan.com/yazilar/mirasciliktan-cikarma-sebepleri-ve-itiraz/",
+      "word_count": 905,
+      "status": "live_verified",
+      "published_date": "2026-10-17",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 510–513",
+          "not": "Mirasçılıktan çıkarmanın sebepleri, hükümleri ve ispatı",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf"
+        }
+      ],
+      "commit": null
+    },
+    {
+      "slug": "ucuncu-kisiye-haciz-ihbarnamesi",
+      "title": "İcra dosyasının borçlusu değilim: haciz ihbarnamesine nasıl cevap verilir?",
+      "url": "https://avukatonurdogan.com/yazilar/ucuncu-kisiye-haciz-ihbarnamesi/",
+      "word_count": 992,
+      "status": "live_verified",
+      "published_date": "2026-10-17",
+      "verified_sources": [
+        {
+          "ad": "2004 sayılı İcra ve İflas Kanunu m. 89",
+          "not": "Üçüncü kişideki mal ve alacakların haczi, ihbarnameler ve itiraz",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2004.pdf"
+        }
+      ],
+      "commit": null
+    },
+    {
+      "slug": "hayvanin-verdigi-zarardan-sorumluluk",
+      "title": "Hayvanın verdiği zarardan kim sorumludur?",
+      "url": "https://avukatonurdogan.com/yazilar/hayvanin-verdigi-zarardan-sorumluluk/",
+      "word_count": 907,
+      "status": "live_verified",
+      "published_date": "2026-10-17",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 67–68",
+          "not": "Hayvan bulunduranın sorumluluğu ve alıkoyma hakkı",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf"
+        },
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 51–52",
+          "not": "Tazminatın belirlenmesi ve indirim sebepleri",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf"
+        }
+      ],
+      "commit": null
+    },
+    {
+      "slug": "vergi-incelemesinde-mukellefin-haklari",
+      "title": "Vergi incelemesinde mükellefin hakları ve dikkat edilecek işlemler",
+      "url": "https://avukatonurdogan.com/yazilar/vergi-incelemesinde-mukellefin-haklari/",
+      "word_count": 970,
+      "status": "live_verified",
+      "published_date": "2026-10-17",
+      "verified_sources": [
+        {
+          "ad": "213 sayılı Vergi Usul Kanunu m. 134–141",
+          "not": "Vergi incelemesinin amacı, yetkisi, yeri, süreleri ve tutanakları",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.213.pdf"
+        }
+      ],
+      "commit": null
+    },
+    {
+      "slug": "alacagin-devri-ve-borclunun-haklari",
+      "title": "Alacağın devri için borçlunun izni gerekir mi?",
+      "url": "https://avukatonurdogan.com/yazilar/alacagin-devri-ve-borclunun-haklari/",
+      "word_count": 944,
+      "status": "live_verified",
+      "published_date": "2026-10-17",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 183–194",
+          "not": "Alacağın devri, şekli, borçlunun korunması ve garanti",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf"
+        }
+      ],
+      "commit": null
+    },
+    {
+      "slug": "bagislama-sozlesmesi-ve-geri-alma",
+      "title": "Bağışlanan mal hangi şartlarda geri alınabilir?",
+      "url": "https://avukatonurdogan.com/yazilar/bagislama-sozlesmesi-ve-geri-alma/",
+      "word_count": 988,
+      "status": "live_verified",
+      "published_date": "2026-10-17",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 285–298",
+          "not": "Bağışlamanın kurulması, yüklemeleri ve geri alma koşulları",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf"
+        }
+      ],
+      "commit": null
+    },
+    {
+      "slug": "toplu-isci-cikarma-bildirim-ve-sartlar",
+      "title": "Toplu işçi çıkarma hangi şartlarda gerçekleşir?",
+      "url": "https://avukatonurdogan.com/yazilar/toplu-isci-cikarma-bildirim-ve-sartlar/",
+      "word_count": 909,
+      "status": "live_verified",
+      "published_date": "2026-10-17",
+      "verified_sources": [
+        {
+          "ad": "4857 sayılı İş Kanunu m. 29",
+          "not": "Toplu işçi çıkarmanın kapsamı, bildirimleri ve iş güvencesiyle ilişkisi",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4857.pdf"
+        }
+      ],
+      "commit": null
+    },
+    {
+      "slug": "evlilik-birliginin-temsili-ve-esin-borcu",
+      "title": "Eşin yaptığı borçtan diğer eş de sorumlu olur mu?",
+      "url": "https://avukatonurdogan.com/yazilar/evlilik-birliginin-temsili-ve-esin-borcu/",
+      "word_count": 961,
+      "status": "live_verified",
+      "published_date": "2026-10-17",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 188–191",
+          "not": "Evlilik birliğinin temsili ve temsil yetkisinin sınırlandırılması",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf"
+        },
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 195, 198–199",
+          "not": "Hâkimin müdahalesi ve ekonomik koruma önlemleri",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf"
+        }
+      ],
+      "commit": null
+    },
+    {
+      "slug": "ust-hakki-kurulmasi-suresi-ve-sona-ermesi",
+      "title": "Üst hakkı nedir, sona erince yapı kime kalır?",
+      "url": "https://avukatonurdogan.com/yazilar/ust-hakki-kurulmasi-suresi-ve-sona-ermesi/",
+      "word_count": 1067,
+      "status": "live_verified",
+      "published_date": "2026-10-17",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 826–836",
+          "not": "Üst hakkının kuruluşu, kapsamı, sona ermesi ve güvenceleri",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf"
+        }
+      ],
+      "commit": null
+    },
+    {
+      "slug": "ceza-sorusturmasinda-elkoyma-ve-esyanin-iadesi",
+      "title": "Elkonulan eşya ne zaman geri verilir?",
+      "url": "https://avukatonurdogan.com/yazilar/ceza-sorusturmasinda-elkoyma-ve-esyanin-iadesi/",
+      "word_count": 1021,
+      "status": "live_verified",
+      "published_date": "2026-10-18",
+      "verified_sources": [
+        {
+          "ad": "5271 sayılı Ceza Muhakemesi Kanunu m. 123–127",
+          "not": "Muhafaza altına alma, teslim, belgelerin korunması ve elkoyma yetkisi",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf"
+        },
+        {
+          "ad": "5271 sayılı Ceza Muhakemesi Kanunu m. 131–132",
+          "not": "Elkonulan eşyanın iadesi ve muhafazası",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf"
+        }
+      ],
+      "commit": "253b09dfc3e1ed6a9d03f3f9dc5dc3d2430fc1ac"
+    },
+    {
+      "slug": "terekenin-resmi-tasfiyesi",
+      "title": "Terekenin resmî tasfiyesi hangi durumlarda istenir?",
+      "url": "https://avukatonurdogan.com/yazilar/terekenin-resmi-tasfiyesi/",
+      "word_count": 950,
+      "status": "live_verified",
+      "published_date": "2026-10-18",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 632–636",
+          "not": "Resmî tasfiyeyi isteme hakkı, yönetim ve tasfiye usulleri",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf"
+        }
+      ],
+      "commit": "fa74a34390fa40a4c64a0dc310de4c625c9596e6"
+    },
+    {
+      "slug": "icra-borcunun-taksitlendirilmesi-ve-taahhut",
+      "title": "İcra borcu taksitle ödenirse takip durur mu?",
+      "url": "https://avukatonurdogan.com/yazilar/icra-borcunun-taksitlendirilmesi-ve-taahhut/",
+      "word_count": 931,
+      "status": "live_verified",
+      "published_date": "2026-10-18",
+      "verified_sources": [
+        {
+          "ad": "2004 sayılı İcra ve İflas Kanunu m. 111",
+          "not": "Borçlunun taksit taahhüdü ve tarafların taksitlendirme sözleşmeleri",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2004.pdf"
+        },
+        {
+          "ad": "2004 sayılı İcra ve İflas Kanunu m. 340",
+          "not": "Ödeme şartının ihlali ve tazyik hapsi",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2004.pdf"
+        }
+      ],
+      "commit": "1a9cf097879396b8e57883e38d288ddf625eccd9"
+    },
+    {
+      "slug": "yapi-malikinin-sorumlulugu-ve-zarar-tehlikesi",
+      "title": "Binadan kaynaklanan zarardan yapı maliki ne zaman sorumludur?",
+      "url": "https://avukatonurdogan.com/yazilar/yapi-malikinin-sorumlulugu-ve-zarar-tehlikesi/",
+      "word_count": 971,
+      "status": "live_verified",
+      "published_date": "2026-10-18",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 69–70",
+          "not": "Yapı malikinin sorumluluğu ve zarar tehlikesinin önlenmesi",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf"
+        },
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 51–52, 61–62",
+          "not": "Tazminatın kapsamı, indirim ve birden çok kişinin sorumluluğu",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf"
+        }
+      ],
+      "commit": "c4044e3fd330a744d25d9f3968bae393017ad8c8"
+    },
+    {
+      "slug": "vergide-pismanlik-ve-islah-sartlari",
+      "title": "Vergide pişmanlık başvurusu hangi şartlarda yapılabilir?",
+      "url": "https://avukatonurdogan.com/yazilar/vergide-pismanlik-ve-islah-sartlari/",
+      "word_count": 945,
+      "status": "live_verified",
+      "published_date": "2026-10-18",
+      "verified_sources": [
+        {
+          "ad": "213 sayılı Vergi Usul Kanunu m. 371",
+          "not": "Pişmanlık ve ıslahın kapsamı, koşulları ve tamamlayıcı işlemler",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.213.pdf"
+        }
+      ],
+      "commit": "8ec6347fc085b4034852a75fe1af5a08dd2e10bb"
+    },
+    {
+      "slug": "asiri-ifa-guclugu-ve-sozlesmenin-uyarlanmasi",
+      "title": "Sözleşme ağırlaşınca uyarlama veya sona erdirme istenebilir mi?",
+      "url": "https://avukatonurdogan.com/yazilar/asiri-ifa-guclugu-ve-sozlesmenin-uyarlanmasi/",
+      "word_count": 951,
+      "status": "live_verified",
+      "published_date": "2026-10-18",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 136–138",
+          "not": "İfa imkânsızlığı, kısmi imkânsızlık ve aşırı ifa güçlüğü",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf"
+        }
+      ],
+      "commit": "9b8d82bdb1a3881a51753d6b4a3bc927c035dc66"
+    },
+    {
+      "slug": "vekaletsiz-is-gorme-ve-masraflarin-iadesi",
+      "title": "Vekâlet olmadan yapılan işin masrafları geri istenebilir mi?",
+      "url": "https://avukatonurdogan.com/yazilar/vekaletsiz-is-gorme-ve-masraflarin-iadesi/",
+      "word_count": 975,
+      "status": "live_verified",
+      "published_date": "2026-10-18",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 526–531",
+          "not": "Vekâletsiz iş görenin sorumluluğu ve iş sahibinin hak ve borçları",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf"
+        }
+      ],
+      "commit": "0f52589fbb6f71020c5e9c89c72c2f655b90e995"
+    }
+  ],
+  "next_sequence": 21
+}
