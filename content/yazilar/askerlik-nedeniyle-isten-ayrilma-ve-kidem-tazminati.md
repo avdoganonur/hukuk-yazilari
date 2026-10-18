@@ -67,8 +67,6 @@ Ayrılmadan önce şu belgeleri hazırlamak yararlıdır:
 
 Dilekçede ayrılma sebebi yazılmazsa, işveren ayrılmayı sıradan bir istifa gibi gösterebilir. Bu, tazminatı ortadan kaldırmasa da ileride ispatı zorlaştırır.
 
-Bedelli askerlik ya da sözleşmeli er veya uzman erbaş olarak orduya katılmak için ayrılmanın bu hükmün kapsamına girip girmediği tartışmalıdır. Kanun metni yalnızca muvazzaf askerlik hizmetinden söz eder. Bu durumdaki işçinin, ayrılmadan önce kendi durumunu ayrıca değerlendirmesi gerekir.
-
 ## Tazminatın hesabı ve diğer alacaklar
 
 Tazminat, işe giriş tarihinden ayrılma tarihine kadar geçen bütün süre üzerinden hesaplanır. Aynı işverenin farklı işyerlerinde geçen süreler de birleştirilir. Örneğin iki yıl dokuz ay çalıştıktan sonra askere giden bir işçi, iki yıl için altmış günlük, kalan dokuz ay için yirmi iki buçuk günlük ücreti tutarında tazminat alır.

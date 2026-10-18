@@ -3,7 +3,7 @@ baslik: "Boşanmada düğün takıları kimde kalır? Ziynet eşyası alacağı 
 aciklama: "Düğünde takılan altın ve takıların boşanmada kime ait sayıldığı, ziynet eşyası alacağı davasının açılışı, aynen iade ya da bedel istemi ve ispat yükü."
 kisaca:
   - "Ziynet eşyası, eşin kişisel malı sayılır ve mal rejiminin tasfiyesindeki paylaşıma girmez."
-  - "Yargıtay uzun yıllar düğün takılarını kime takılırsa takılsın kadına ait saymış, 2024'te bu görüşünü değiştirmiştir."
+  - "Yargıtay uzun yıllar düğün takılarını, aksine anlaşma ya da gelenek yoksa, kime takılırsa takılsın kadına ait saymış, 2024'te bu görüşünü değiştirmiştir."
   - "Davada takıların varlığını ve karşı tarafta kaldığını, bunu iddia eden eş ispat eder."
   - "Takılar aynen geri istenebilir; aynen iade mümkün değilse bedelinin ödenmesi talep edilir."
 tarih: 2026-10-18
@@ -19,8 +19,8 @@ dayanak:
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 203"
     not: "Eşler arasındaki işlemlerde senetle ispat zorunluluğunun istisnası"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
-  - ad: "4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanun m. 4"
-    not: "Aile mahkemesinin görevi"
+  - ad: "4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanun m. 2 ve 4"
+    not: "Aile mahkemesi kurulamayan yerlerde asliye hukuk mahkemesi, aile mahkemesinin görevi"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4787&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Evden ayrılırken takılarımı yanıma alamadım. Ne yapmalıyım?"
@@ -78,9 +78,9 @@ Tek bir delil her zaman yeterli olmayabilir. Örneğin düğün videosu takılar
 
 ## Davanın açılması: aynen iade ya da bedel
 
-Ziynet eşyası istemine aile mahkemesi bakar; aile mahkemesi bulunmayan yerlerde bu görevi asliye hukuk mahkemesi yürütür (4787 sayılı Kanun m. 4). İstem, boşanma davasıyla birlikte ya da ayrı bir davayla ileri sürülebilir.
+Ziynet eşyası istemine aile mahkemesi bakar; aile mahkemesi bulunmayan yerlerde bu görevi asliye hukuk mahkemesi yürütür (4787 sayılı Kanun m. 2 ve 4). İstem, boşanma davasıyla birlikte ya da ayrı bir davayla ileri sürülebilir.
 
-Takılar eşin kendisinde değil de ailesinde, örneğin kayınvalidede kalmışsa, istem o kişiye karşı da yöneltilebilir. Nişanda verilen takıların nişanın bozulmasıyla geri istenmesi ise farklı kurallara tabidir ve ayrı bir yazıda ele alınmıştır.
+Takılar eşin kendisinde değil de ailesinde, örneğin kayınvalidede kalmışsa, Yargıtay'ın aradığı şartlar bulunduğunda istem o kişiye karşı da yöneltilebilir. Nişanda verilen takıların nişanın bozulmasıyla geri istenmesi ise farklı kurallara tabidir ve ayrı bir yazıda ele alınmıştır.
 
 Dava açmadan önce takıların geri verilmesini yazılı olarak, örneğin noter ihtarnamesiyle istemek, karşı tarafın tutumunu belgelemeye yarar.
 

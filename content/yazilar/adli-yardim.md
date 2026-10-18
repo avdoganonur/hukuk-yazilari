@@ -81,7 +81,7 @@ Gelir durumunu, varsa sosyal yardım ya da işsizlik kayıtlarını ve üzerine 
 
 Mahkeme adli yardım talebi hakkında duruşma yapmadan karar verebilir. Talep edilirse inceleme duruşmalı yapılır (m. 337). Talebi reddeden kararda, sunulan bilgi ve belgelerin neden kabul edilmediği açıkça belirtilmelidir.
 
-Ret kararına karşı, tebliğinden itibaren iki hafta içinde kararı veren mahkemeye dilekçe verilerek itiraz edilebilir. İtirazı aynı yerdeki başka bir mahkeme inceler. O yerde aynı türden birden fazla mahkeme varsa dosya numara olarak sonraki mahkemeye, tek mahkeme varsa en yakın mahkemeye gönderilir. İtiraz üzerine verilen karar kesindir.
+Ret kararına karşı, tebliğinden itibaren iki hafta içinde kararı veren mahkemeye dilekçe verilerek itiraz edilebilir. İtirazı kararı veren mahkeme değil, başka bir mahkeme inceler. O yerde aynı türden birden fazla mahkeme varsa dosya numara olarak sonraki mahkemeye, tek mahkeme varsa en yakın mahkemeye gönderilir. İtiraz üzerine verilen karar kesindir.
 
 İki haftalık itiraz süresi kaçırılırsa ret kararına karşı bu yol kapanır. Talep reddedilen kişi, ödeme gücünde sonradan ciddi bir azalma olursa yeniden başvurabilir; örneğin dava sürerken işini kaybeden kişi bu imkândan yararlanabilir.
 

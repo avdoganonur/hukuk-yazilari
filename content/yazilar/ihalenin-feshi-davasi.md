@@ -26,7 +26,7 @@ sss:
   - soru: "İhaleye hiç katılmamış bir komşu ya da akraba fesih isteyebilir mi?"
     cevap: "Hayır. Fesih isteyebilecek kişiler kanunda sayılmıştır: satışı isteyen alacaklı, borçlu, tapuda kayıtlı ilgililer, sınırlı ayni hak sahipleri ve teklif vererek ihaleye katılanlar. Bunların dışında kalan birinin talebi, 2025 sonunda yapılan değişiklikle dosya üzerinden ve kesin olarak reddedilir. İhaleye teklif vererek katılan kişi ise fesih isteyebilir, ancak nispi harç yatırmak ve ihale bedelinin yüzde beşi oranında teminat göstermek zorundadır."
   - soru: "Fesih talebi kabul edilirse ne olur?"
-    cevap: "İhale ortadan kalkar ve taşınmaz yeniden satışa çıkarılabilir. Alıcının yatırdığı bedel, karar kesinleştikten sonra nemalarıyla birlikte hak sahiplerine ödenir. Kanunda sayılanlar dışındaki kişilerden alınan nispi harç, talep kabul edilirse başka birine yüklenmez ve istenirse iade edilir; gösterilen teminat da talep üzerine ilgilisine geri verilir."
+    cevap: "İhale ortadan kalkar ve taşınmaz yeniden satışa çıkarılabilir. Alıcının yatırdığı bedel, karar kesinleştikten sonra nemalarıyla birlikte hak sahiplerine ödenir. Kanunda sayılanlar dışındaki kişilerden alınan nispi harç, talep kabul edilirse başka birine yüklenmez ve istenirse iade edilir."
 ---
 Borcunu ödemeyen kişinin taşınmazı icra dairesince satışa çıkarılır. Satış, açık artırma yoluyla yapılır ve en yüksek teklifi veren kişiye "ihale edilir". Bu andan itibaren alıcı, tapuya tescil beklenmeden taşınmazın mülkiyetini kazanmış olur (İcra ve İflas Kanunu m. 134). Satış sürecinde kanuna aykırı bir işlem yapılmışsa ihalenin geçersiz kılınması istenebilir. Buna ihalenin feshi denir.
 

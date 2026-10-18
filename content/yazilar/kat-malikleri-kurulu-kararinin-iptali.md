@@ -45,7 +45,7 @@ Bir kat maliki kararın kanuna ya da yönetim planına aykırı olduğunu düş�
 İptal davasında en çok tartışılan konular, toplantının ve kararın usulüne uygun olup olmadığıdır. Bu yüzden temel kuralları bilmek gerekir:
 
 - Kurul, yönetim planında belirtilen zamanlarda toplanır. Önemli bir sebep varsa her zaman toplantıya çağrılabilir (m. 29).
-- Toplantı çağrısı, toplantı sebebi de bildirilerek, istenen tarihten en az on beş gün önce yapılır. Çağrı bütün kat maliklerine imza karşılığı tebliğ edilir ya da taahhütlü mektupla gönderilir.
+- Önemli bir sebeple yapılacak toplantı için çağrı, toplantı sebebi de bildirilerek, istenen tarihten en az on beş gün önce yapılır. Çağrı bütün kat maliklerine imza karşılığı tebliğ edilir ya da taahhütlü mektupla gönderilir. İlk çağrıda, yeter sayı sağlanamazsa yapılacak ikinci toplantının yeri ve tarihi de belirtilir; iki toplantı arasında en az yedi gün bulunmalıdır.
 - Toplantı ve karar için kanunda ve yönetim planında belirlenen yeter sayılar aranır (m. 30). Bazı konularda kanun özel çoğunluk ya da bütün kat maliklerinin onayını şart koşar.
 - Kararlar noterden onaylı bir karar defterine yazılır ve toplantıdaki bütün kat maliklerince imzalanır. Karara aykırı oy verenler, aykırılığın sebebini belirterek imza atar (m. 32).
 
@@ -66,7 +66,7 @@ Toplantıya katılmayan kat maliki için "öğrenme" tarihi çoğu zaman tartı�
 
 Kanun, bazı kararlar için süre şartını kaldırır. Kat malikleri kurulu kararının yok ya da mutlak butlanla hükümsüz sayıldığı durumlarda bir aylık ve altı aylık süreler aranmaz.
 
-Yok hükmündeki karar, hukuken hiç doğmamış sayılan karardır. Mutlak butlan ise kararın baştan itibaren geçersiz olmasıdır; örneğin kanunun emredici bir hükmüne açıkça aykırı kararlar bu kapsamda değerlendirilebilir. Kanun bu kavramları tek tek tanımlamaz. Hiç toplantı yapılmadan deftere yazılmış bir karar ya da bütün kat maliklerinin onayını gerektiren bir konuda çoğunlukla alınmış karar, bu tartışmanın sık görülen örnekleridir. Her olay ayrıca değerlendirilir; bu yüzden süreye bağlı olmadığı düşünülen bir karar için de dava geciktirilmemelidir.
+Yok hükmündeki karar, hukuken hiç doğmamış sayılan karardır. Mutlak butlan ise kararın baştan itibaren geçersiz olmasıdır; örneğin kanunun emredici bir hükmüne açıkça aykırı kararlar bu kapsamda değerlendirilebilir. Kanun bu kavramları tek tek tanımlamaz. Her olay ayrıca değerlendirilir; bu yüzden süreye bağlı olmadığı düşünülen bir karar için de dava geciktirilmemelidir.
 
 ## Dava nerede açılır ve arabuluculuk
 

@@ -35,7 +35,7 @@ sss:
   - soru: "Tahliye kararına karşı istinafa gidilirse kiracı evde kalabilir mi?"
     cevap: "Kanun yoluna başvurmak tek başına tahliyeyi durdurmaz; kararın uygulanması için kesinleşmesi beklenmez. Kiracı, tahliyenin geri bırakılmasını istemek için İcra ve İflas Kanununun 36. maddesindeki imkândan yararlanabilir. Bunun için teminat göstererek icra dairesinden süre istemesi ve kanun yolu merciinden icranın geri bırakılması kararı getirmesi gerekir."
   - soru: "Kiracı ödeme emrinden sonra otuz gün içinde borcu öderse ne olur?"
-    cevap: "Kiracı otuz günlük süre içinde birikmiş kirayı öderse, icra mahkemesi bu takibe dayanarak tahliyeye karar veremez. Takip, varsa ödenmemiş kalan alacak ve giderler için devam eder. Ancak ödeme emri bir yazılı ihtar niteliği taşıdığından, aynı kira yılında ikinci bir haklı ihtar oluşursa ev sahibi dava yoluyla tahliye isteyebilir; bu yol ayrı bir yazıda anlatılmıştır."
+    cevap: "Kiracı otuz günlük süre içinde birikmiş kirayı öderse, icra mahkemesi bu takibe dayanarak tahliyeye karar veremez. Takip, varsa ödenmemiş kalan alacak ve giderler için devam eder. Dava yoluyla tahliye imkânları ayrı bir yazıda anlatılmıştır."
 ---
 Kira ödenmediğinde ev sahibinin önünde birkaç yol vardır. Bunlardan biri, mahkemede dava açmadan icra dairesinde takip başlatmak ve aynı takipte kiracının çıkarılmasını da istemektir. Bu yola kiralanan taşınmazın icra yoluyla tahliyesi denir. Temerrüt ihtarı ve iki haklı ihtar gibi dava yolları, sitedeki kiracının temerrüdü yazısında ayrıca anlatılmıştır. Bu yazı yalnızca icra yolunu adım adım ele alır.
 
@@ -77,7 +77,7 @@ Kiracı itiraz ederse ev sahibi, itirazın kendisine tebliğinden itibaren altı
 - Kiracı kiranın ödendiğini ya da takas istediğini ileri sürmüşse, bunu noterce düzenlenmiş ya da imzası onaylanmış bir belgeyle, ev sahibinin kabul ettiği bir belgeyle ya da resmî makamların usulüne göre verdiği bir makbuzla ispat etmek zorundadır (m. 269/c).
 - İtiraz ve itirazın kaldırılmasına ilişkin genel hükümler bu takipte de kıyasen uygulanır (m. 269/d).
 
-Banka dekontu gibi resmî nitelikteki ödeme belgeleri bu nedenle önemlidir. Kiranın hangi aya ait olduğunun açıklama kısmına yazılması, ödemenin ispatını kolaylaştırır.
+Bu nedenle kiracı açısından ödemeyi belgeleyen kayıtların saklanması önemlidir. Kiranın hangi aya ait olduğunun ödeme açıklamasına yazılması, ödemenin ispatını kolaylaştırır.
 
 ## Tahliye kararının uygulanması
 
