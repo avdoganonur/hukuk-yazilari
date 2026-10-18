@@ -24,13 +24,13 @@ dayanak:
     not: "Tüketici işlemlerinde kıymetli evrakın nama yazılı ve her taksit için ayrı düzenlenmesi"
 sss:
   - soru: "Kredi kartıyla taksitli alışveriş de bu kurallara mı tabi?"
-    cevap: "Taksitle Satış Sözleşmeleri Hakkında Yönetmelik, kredi kartıyla yapılan alışverişleri kendi kapsamı dışında tutar. Kredi kartıyla taksitlendirmede ilişki bankayla kurulur ve kendi kurallarına göre yürür. Bu yazıdaki kurallar, satıcının bedeli doğrudan taksitlendirdiği alışverişler içindir."
+    cevap: "Taksitle Satış Sözleşmeleri Hakkında Yönetmelik, kredi kartıyla yapılan alışverişleri kendi kapsamı dışında tutar. Bu yazıdaki kurallar, satıcının bedeli doğrudan taksitlendirdiği alışverişler içindir."
   - soru: "Satıcı bir taksit için birden fazla taksiti kapsayan tek senet imzalatabilir mi?"
     cevap: "Hayır. Kanuna göre tüketici işlemlerinde kıymetli evrak yalnızca nama yazılı olarak ve her taksit için ayrı ayrı düzenlenebilir. Yönetmelik ayrıca her senedin tutarının taksit tutarını aşamayacağını belirtir. Bu kurallara aykırı düzenlenen senet tüketici yönünden geçersizdir."
   - soru: "Taksitle aldığım ürün bozuk çıktı, taksitleri ödemeye devam etmek zorunda mıyım?"
     cevap: "Ayıplı mal hakları taksitle yapılan satışlarda da geçerlidir. Mal ayıplı çıkarsa tüketici, malı geri verip sözleşmeden dönme, malı tutup bedelden indirim isteme, ücretsiz onarım ya da imkân varsa ayıpsız bir benzeriyle değiştirilmesini isteme haklarından birini seçebilir; satıcı bu seçime uymak zorundadır. Hangi hakkın seçildiğini satıcıya yazılı olarak bildirmek, sonraki adımlar için iz bırakır."
   - soru: "Cayma bildirimini nasıl göndermeliyim?"
-    cevap: "Bildirimi yedi günlük süre dolmadan yazılı olarak ya da e-posta gibi kalıcı veri saklayıcısıyla satıcıya yöneltin. Bildirimin bu süre içinde gönderilmiş olması yeterlidir; satıcıya sonradan ulaşması hakkı ortadan kaldırmaz. Gönderim tarihini gösteren belgeyi saklayın. Mal size teslim edildiyse, yönetmelikteki yedi günlük iade süresini de kaçırmamak gerekir."
+    cevap: "Bildirimi yedi günlük süre dolmadan yazılı olarak ya da e-posta gibi kalıcı veri saklayıcısıyla satıcıya yöneltin. Kanuna göre bildirimin bu süre içinde satıcıya yöneltilmiş olması yeterlidir. Gönderim tarihini gösteren belgeyi saklayın. Mal size teslim edildiyse, yönetmelikteki yedi günlük iade süresini de kaçırmamak gerekir."
   - soru: "Gecikme faizi istenebilir mi, oranı ne kadar olabilir?"
     cevap: "Sözleşmede gecikme faizinin yazılması gerekir. Yönetmeliğe göre gecikme faizi, sözleşmede kararlaştırılan faiz oranının yüzde otuz fazlasını geçemez. Satıcı bu sınırın üzerinde bir oran uygulayamaz."
 ---
@@ -48,7 +48,7 @@ Sözleşme yazılı kurulmadıkça geçerli olmaz. Geçerli bir sözleşme yapma
 - Cayma hakkı, süresi ve nasıl kullanılacağı.
 - Erken ödeme hakkı ve temerrüdün sonuçları.
 
-Peşin fiyatla taksitli fiyatın yan yana yazılması, tüketicinin vadeye ne kadar ödediğini görmesini sağlar. Sözleşmenin bir örneği kâğıt üzerinde ya da kalıcı veri saklayıcısıyla, yani e-posta gibi bilginin değiştirilmeden saklanabildiği bir araçla tüketiciye verilmelidir. Tüketici sonradan isterse, kendisine ücret alınmadan bir kez daha örnek verilir. Yönetmelik sözleşmenin en az on iki punto büyüklüğünde, açık, sade ve okunabilir biçimde yazılmasını da ister.
+Peşin fiyatla taksitli fiyatın yan yana yazılması, tüketicinin vadeye ne kadar ödediğini görmesini sağlar. Sözleşmenin bir örneği kâğıt üzerinde ya da kalıcı veri saklayıcısıyla, yani e-posta gibi bilginin değiştirilmeden saklanabildiği bir araçla tüketiciye verilmelidir. Tüketici sonradan isterse, kendisine ücret alınmadan bir kez daha örnek verilir. Yönetmelik sözleşmenin en az on iki punto büyüklüğünde yazılmasını da ister.
 
 ## Yedi günlük cayma hakkı
 

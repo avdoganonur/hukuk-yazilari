@@ -14,7 +14,7 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6502&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Otelde tanıtım toplantısında imzaladım, ertesi gün pişman oldum. Ne yapmalıyım?"
-    cevap: "Sözleşmenin kurulduğu andan itibaren on dört gün içinde cayma bildiriminizi yazılı olarak veya e-posta gibi kalıcı veri saklayıcısıyla satıcıya gönderin. Gerekçe yazmanız gerekmez. Bildirimin süre içinde gönderilmiş olması yeterlidir. Sözleşme devre mülk hakkı veriyorsa, yönetmelik bildirimin noter aracılığıyla yapılmasını ister. Satın alma için kredi kullandıysanız bildirimi kredi verene de yapın."
+    cevap: "Sözleşmenin kurulmasından itibaren on dört gün içinde cayma bildiriminizi yazılı olarak veya e-posta gibi kalıcı veri saklayıcısıyla satıcıya gönderin. Gerekçe yazmanız gerekmez. Bildirimin süre içinde gönderilmiş olması yeterlidir. Sözleşme devre mülk hakkı veriyorsa, yönetmelik bildirimin noter aracılığıyla yapılmasını ister. Satın alma için kredi kullandıysanız bildirimi kredi verene de yapın."
   - soru: "Satıcı imza sırasında kredi kartımdan peşinat çekti, bu geçerli mi?"
     cevap: "Kanun, cayma süresi dolmadan tüketiciden herhangi bir bedel istenmesini yasaklar. Bu yasağa aykırı alınan bedel derhal iade edilmelidir, tüketiciyi borç altına sokan belgeler de tüketici açısından geçersizdir. Cayma bildiriminizde çekilen tutarın iadesini ayrıca istemeniz yararlı olur."
   - soru: "Devre mülk ile devre tatil aynı şey mi?"
@@ -26,7 +26,7 @@ Tatil köyünde ücretsiz konaklama davetiyle başlayan bir tanıtım toplantıs
 
 Devre tatil sözleşmesi, bir yıldan uzun süreli olarak kurulan ve tüketiciye bir bedel karşılığında, bu süre içinde birden fazla dönem için bir veya daha fazla gecelik konaklama imkânı veren sözleşmedir. Tüketiciye tanınan hakkın şahsi hak ya da ayni hak olması sonucu değiştirmez. Şahsi hak yalnızca satıcıya karşı ileri sürülebilen bir haktır; ayni hak ise tapuya bağlı, herkese karşı ileri sürülebilen bir haktır.
 
-Uzun süreli tatil hizmeti sözleşmesi de bir yıldan uzun süreli kurulur. Bu sözleşmeyle tüketiciye konaklama ya da konaklamayla birlikte seyahat ve benzeri hizmetlerde indirim veya başka menfaatler sağlanır. "Tatil kulübü üyeliği" adıyla satılan paketler çoğu zaman bu türdendir.
+Uzun süreli tatil hizmeti sözleşmesi de bir yıldan uzun süreli kurulur. Bu sözleşmeyle tüketiciye konaklama ya da konaklamayla birlikte seyahat ve benzeri hizmetlerde indirim veya başka menfaatler sağlanır.
 
 Kanun 2022'de yapılan değişiklikle bu alanda bazı kesin sınırlar koydu:
 
@@ -39,13 +39,13 @@ Kanun 2022'de yapılan değişiklikle bu alanda bazı kesin sınırlar koydu:
 
 Satıcı, sözleşme kurulmadan en az bir gün önce tüketiciye Bakanlıkça belirlenen içerikte bir ön bilgilendirme formu vermek zorundadır. Bu kural devre tatil ve uzun süreli tatil hizmeti sözleşmelerinin yanında, bunlara bağlı değişim ve yeniden satım sözleşmeleri için de geçerlidir. Değişim sözleşmesi, tüketicinin kendi dönemini başka tesislerdeki dönemlerle takas etmesini sağlayan sözleşmedir.
 
-Mesafeli satışlar dışında satıcı, tüketicinin sözleşme tarihini kendi el yazısıyla yazmasını ve sözleşmeyi imzalamasını sağlar. Sözleşmenin bir nüshası kâğıt üzerinde veya kalıcı veri saklayıcısıyla, yani e-posta gibi bilginin değiştirilmeden saklanabildiği bir araçla tüketiciye verilir. Yönetmelik, ön bilgilendirme formu ile sözleşmenin en az on iki punto büyüklüğünde, açık ve anlaşılır biçimde düzenlenmesini ister.
+Mesafeli satışlar dışında satıcı, tüketicinin sözleşme tarihini kendi el yazısıyla yazmasını ve sözleşmeyi imzalamasını sağlar. Sözleşmenin bir nüshası kâğıt üzerinde veya kalıcı veri saklayıcısıyla, yani e-posta gibi bilginin değiştirilmeden saklanabildiği bir araçla tüketiciye verilir. Yönetmelik, ön bilgilendirme formu ile sözleşmenin en az on iki punto büyüklüğünde, açık, sade ve okunabilir biçimde düzenlenmesini ister.
 
 ## On dört günlük cayma hakkı ve ödeme yasağı
 
-Tüketici, on dört gün içinde herhangi bir gerekçe göstermeden ve cezai şart ödemeden sözleşmeden cayabilir. Yönetmeliğe göre süre sözleşmenin kurulduğu andan başlar. Bildirim süre dolmadan yazılı olarak veya kalıcı veri saklayıcısıyla yapılır; devre mülk sözleşmelerinde yönetmelik noter aracılığını arar. Satıcı, yönetmeliğin ekindeki cayma formunu sözleşme sırasında tüketiciye vermekle yükümlüdür.
+Tüketici, on dört gün içinde herhangi bir gerekçe göstermeden ve cezai şart ödemeden sözleşmeden cayabilir. Yönetmeliğe göre süre sözleşmenin kurulmasından itibaren işler. Bildirim süre dolmadan yazılı olarak veya kalıcı veri saklayıcısıyla yapılır; devre mülk sözleşmelerinde yönetmelik noter aracılığını arar. Satıcı, yönetmeliğin ekindeki cayma formunu sözleşme sırasında tüketiciye vermekle yükümlüdür.
 
-Cayma süresi dolmadan tüketiciden herhangi bir bedel istenemez. Bu yasağa aykırı olarak alınan bedel derhal iade edilir. Tüketiciyi borç altına sokan belgeler de tüketici yönünden geçersizdir. Tüketici caydığında devre tatil ya da uzun süreli tatil hizmeti sözleşmesi ile buna bağlı değişim ve yeniden satım sözleşmeleri kendiliğinden sona erer. Yönetmeliğe göre değişim ya da yeniden satım sözleşmesi devre tatil sözleşmesiyle birlikte ve aynı anda yapılmışsa, cayma süresi iki sözleşme için de aynı şekilde işler. Yeniden satım sözleşmelerinde, yani tüketicinin kendi hakkını satması için aracılık edilen sözleşmelerde, satış gerçekleşmeden tüketiciden ödeme istenemez.
+Cayma süresi dolmadan tüketiciden herhangi bir bedel istenemez. Bu yasağa aykırı olarak alınan bedel derhal iade edilir. Tüketiciyi borç altına sokan belgeler de tüketici yönünden geçersizdir. Tüketici caydığında devre tatil ya da uzun süreli tatil hizmeti sözleşmesi ile buna bağlı değişim ve yeniden satım sözleşmeleri kendiliğinden sona erer. Yönetmeliğe göre değişim sözleşmesi devre tatil sözleşmesiyle birlikte yapılmışsa, cayma süreleri iki sözleşme için de geçerlidir. Yeniden satım sözleşmelerinde, yani tüketicinin kendi hakkını satması için aracılık edilen sözleşmelerde, satış gerçekleşmeden tüketiciden ödeme istenemez.
 
 Satıcı ön bilgilendirme ya da sözleşmenin içeriğine ilişkin yükümlülüklerine uymamışsa on dört günlük süre tüketiciyi bağlamaz. Yönetmeliğe göre bu durumda cayma hakkı, normal cayma süresinin bitiminden itibaren en geç bir yıl sonra sona erer. Eksiklik bu bir yıl içinde giderilirse on dört günlük süre o tarihten itibaren işlemeye başlar.
 

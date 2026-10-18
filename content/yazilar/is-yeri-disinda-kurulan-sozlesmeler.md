@@ -48,9 +48,9 @@ Sözleşme yazılı yapılmalıdır; yazılı yapılmayan sözleşme geçerli de
 - Sözleşmenin bir nüshasının tüketiciye verilmesi.
 - Malın teslimi ya da hizmetin sunulması.
 
-Sözleşmenin tüketiciye verildiğini ve malın teslim edildiğini ispat etmek de satıcıya düşer. Yönetmelik ayrıca tüketicinin bazı ifadeleri, örneğin cayma hakkı konusunda bilgilendirildiğini, kendi el yazısıyla yazmasını ister. Cayma hakkına ilişkin ifade, sözleşmenin birinci sayfasında büyük ve koyu harflerle yer almalıdır.
+Sözleşmenin tüketiciye verildiğini ve malın teslim edildiğini ispat etmek de satıcıya düşer. Yönetmelik ayrıca tüketicinin cayma hakkına ilişkin bazı ifadeleri, örneğin cayma hakkının bulunduğunu ya da hangi durumlarda kullanılamayacağını, kendi el yazısıyla yazmasını ister. Cayma hakkına ilişkin ifade, sözleşmenin birinci sayfasında on altı punto büyüklüğünde koyu harflerle yer almalıdır.
 
-Satıcı, malı veya hizmeti taahhüt ettiği süre içinde sunmak zorundadır. Sözleşme kurulduktan sonra kararlaştırılan teslimat veya nakliye masrafları tüketiciden istenemez. Mal tüketiciye ya da onun belirlediği kişiye teslim edilinceye kadar malın kaybolması veya zarar görmesinin sonuçlarına da satıcı katlanır.
+Satıcı, malı veya hizmeti taahhüt ettiği süre içinde sunmak zorundadır. Mal tüketiciye ya da onun belirlediği kişiye teslim edilinceye kadar malın kaybolması veya zarar görmesinin sonuçlarına da satıcı katlanır.
 
 ## On dört günlük cayma hakkı
 

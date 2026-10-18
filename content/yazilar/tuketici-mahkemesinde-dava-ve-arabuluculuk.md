@@ -4,7 +4,7 @@ aciklama: "Hakem heyeti sınırını aşan tüketici uyuşmazlıklarında dava �
 kisaca:
   - "Hakem heyeti sınırını aşan tüketici uyuşmazlıklarında dava açmadan önce arabulucuya başvurmak dava şartıdır."
   - "Arabulucu başvuruyu üç hafta içinde sonuçlandırır; zorunlu hâllerde bu süre en fazla bir hafta uzatılabilir."
-  - "Anlaşma olmazsa tüketicinin ödemesi gereken arabuluculuk ücreti iki saatlik tutarla sınırlı olarak Adalet Bakanlığınca karşılanır."
+  - "Taraflar anlaşsa da anlaşmasa da tüketicinin ödeyeceği arabuluculuk ücreti, iki saatlik tutarla sınırlı olarak Adalet Bakanlığınca karşılanır."
   - "Tüketicilerin tüketici mahkemesinde açtığı davalar harçtan muaftır ve dava tüketicinin yerleşim yerinde de açılabilir."
 tarih: 2026-10-18
 alan: tuketici-hukuku
@@ -59,13 +59,13 @@ Dava şartı arabuluculuğun nasıl işleyeceği Hukuk Uyuşmazlıklarında Arab
 
 Taraflar başka bir yer kararlaştırmadıkça görüşmeler, arabulucuyu görevlendiren büronun bağlı olduğu adalet komisyonunun yetki alanında yapılır. Bu yüzden başvurunun hangi büroya yapıldığı, toplantıların nerede yapılacağını da belirler.
 
-Karşı taraf büronun yetkili olmadığını düşünüyorsa, bu itirazını en geç ilk toplantıda yapmalıdır. Bu durumda dosya sulh hukuk mahkemesine gönderilir; mahkeme harç almadan dosya üzerinden inceleme yapar ve en geç bir hafta içinde kesin olarak karar verir. İtiraz kabul edilirse kararın tebliğinden itibaren bir hafta içinde yetkili büroya başvurulabilir ve ilk başvurunun tarihi korunur.
+Karşı taraf büronun yetkili olmadığını düşünüyorsa, bu itirazını en geç ilk toplantıda yapmalıdır. Bu durumda dosya sulh hukuk mahkemesine gönderilir; mahkeme harç almadan dosya üzerinden inceleme yapar ve en geç bir hafta içinde kesin olarak karar verir. İtiraz kabul edilirse bir hafta içinde yetkili büroya başvurulabilir ve ilk başvurunun tarihi korunur.
 
 Büroya başvurulduğu tarihten son tutanağın düzenlendiği tarihe kadar zamanaşımı durur ve hak düşürücü süreler işlemez. Başvurudan sonra başvuran aleyhine aynı uyuşmazlıkla ilgili bir icra takibi başlatılırsa, başvuran son tutanağın düzenlendiği tarihten itibaren iki hafta içinde borçlu olmadığının tespiti için menfi tespit davası açabilir. Anlaşma sağlanamazsa tüketici, son tutanağın aslını ya da arabulucunun onayladığı bir örneğini dava dilekçesine ekleyerek dava açar.
 
 ## Arabuluculuk ücreti ve toplantıya katılmama
 
-Tüketiciyi koruyan özel kurallar, arabuluculuğun masrafında ortaya çıkar. Arabulucuya ulaşılamazsa, taraflar katılmadığı için görüşme yapılamazsa ya da taraflar anlaşamazsa, tüketicinin ödemesi gereken arabuluculuk ücreti Adalet Bakanlığı bütçesinden karşılanır. Bu ödeme, arabuluculuk ücret tarifesinin birinci kısmına göre belirlenen iki saatlik ücret tutarını aşamaz.
+Tüketiciyi koruyan özel kurallar, arabuluculuğun masrafında ortaya çıkar. Arabuluculuk sonunda taraflara ulaşılamazsa, taraflar katılmadığı için görüşme yapılamazsa ya da taraflar anlaşsa da anlaşamasa da, tüketicinin ödemesi gereken arabuluculuk ücreti Adalet Bakanlığı bütçesinden karşılanır. Bu ödeme, arabuluculuk ücret tarifesinin birinci kısmına göre belirlenen iki saatlik ücret tutarını aşamaz.
 
 Arabuluculuktan sonra açılan dava tüketici lehine sonuçlanırsa, Bakanlıkça ödenen bu ücret davalıdan, yani satıcı veya sağlayıcıdan tahsil edilir.
 
