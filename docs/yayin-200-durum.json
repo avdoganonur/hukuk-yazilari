@@ -371,7 +371,26 @@
         }
       ],
       "commit": "5b3f107a923d49dd2d048b4b797da8b4c9be8db4"
+    },
+    {
+      "slug": "ceza-yargilamasinda-tanikliktan-cekinme",
+      "title": "Ceza soruşturmasında veya davasında tanıklıktan kimler çekinebilir?",
+      "url": "https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-tanikliktan-cekinme/",
+      "word_count": 910,
+      "status": "uploaded",
+      "published_date": "2026-10-18",
+      "verified_sources": [
+        {
+          "ad": "5271 sayılı Ceza Muhakemesi Kanunu m. 2, 43–46, 48–51",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf"
+        },
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 17–18",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf"
+        }
+      ],
+      "commit": "61624d8e5705f3ee03b77ab9b9878fec1009245a"
     }
   ],
-  "next_sequence": 22
+  "next_sequence": 23
 }
