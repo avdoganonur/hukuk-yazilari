@@ -1,88 +1,91 @@
 ---
-baslik: Sözleşme ağırlaşınca uyarlama veya sona erdirme istenebilir mi?
-aciklama: Aşırı ifa güçlüğünün koşulları, uyarlama ve dönme ayrımı, yabancı para borçları, tam ve kısmi ifa imkânsızlığı.
+baslik: "Koşullar olağanüstü değişti: sözleşmenin uyarlanması ve ifa imkânsızlığından farkı"
+aciklama: "Aşırı ifa güçlüğünde sözleşmenin yeni koşullara uyarlanması, dönme ve fesih hakkı; borcu sona erdiren ifa imkânsızlığı ile aradaki fark."
+kisaca:
+  - "Öngörülemeyen olağanüstü bir durum ifayı borçlu aleyhine aşırı güçleştirirse, borçlu hâkimden sözleşmenin uyarlanmasını isteyebilir."
+  - "Uyarlama mümkün değilse borçlu sözleşmeden dönebilir; sürekli edimli sözleşmelerde kural olarak fesih hakkı kullanılır."
+  - "İfa borçlunun sorumlu olmadığı sebeplerle imkânsızlaşırsa borç kendiliğinden sona erer."
+  - "Aşırı ifa güçlüğü hükmü yabancı para borçlarında da uygulanır."
 tarih: 2026-10-18
 alan: borclar-hukuku
 dayanak:
-- ad: 6098 sayılı Türk Borçlar Kanunu m. 136–138
-  not: İfa imkânsızlığı, kısmi imkânsızlık ve aşırı ifa güçlüğü
-  baglanti: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf
+  - ad: "6098 sayılı Türk Borçlar Kanunu m. 138"
+    not: "Aşırı ifa güçlüğü, uyarlama, dönme ve fesih"
+    baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5"
+  - ad: "6098 sayılı Türk Borçlar Kanunu m. 136"
+    not: "Borçlunun sorumlu olmadığı ifa imkânsızlığı"
+  - ad: "6098 sayılı Türk Borçlar Kanunu m. 137"
+    not: "Kısmi ifa imkânsızlığı"
+  - ad: "6098 sayılı Türk Borçlar Kanunu m. 112"
+    not: "Borca aykırılık hâlinde tazminat"
 sss:
-- soru: Her maliyet artışı uyarlama sağlar mı?
-  cevap: Hayır. 138. maddede öngörülemeyen olağanüstü durum, borçludan kaynaklanmama, ağır değişiklik ve ifa durumuna
-    ilişkin koşullar birlikte düzenlenmiştir.
-- soru: Yabancı para borcu kapsam dışında mı?
-  cevap: Hayır. 138. madde yabancı para borçlarında da uygulanır. Ancak diğer şartların gerçekleşmesi yine gerekir.
-- soru: İmkânsızlığı bildirmek gerekir mi?
-  cevap: 136. madde, alacaklıya gecikmeden bildirim yapılmaması ve zararın artmasını önleyecek tedbirlerin alınmaması
-    halinde doğacak zararların giderilmesini düzenler.
-kisaca:
-- Her maliyet artışı, sözleşmenin kendiliğinden değişmesini veya sona ermesini sağlamaz.
-- Uyarlama talebinde 138. maddede belirtilen koşullar birlikte değerlendirilir.
-- İfa imkânsızlığı ile aşırı ifa güçlüğü farklı hükümlere ve sonuçlara tabidir.
+  - soru: "Fiyatların arttığını söyleyerek sözleşmeyi uyarlatabilir miyim?"
+    cevap: "Olağan fiyat dalgalanmaları ve sözleşme yapılırken öngörülebilecek artışlar yeterli değildir. Değişikliğin, taraflarca öngörülmeyen ve öngörülmesi de beklenmeyen olağanüstü bir durumdan kaynaklanması ve ifayı istemeyi dürüstlük kurallarına aykırı kılacak ölçüde borçlu aleyhine olması gerekir."
+  - soru: "Borcumu zaten ödedim. Yine de uyarlama isteyebilir miyim?"
+    cevap: "Borcunu ifa etmiş olan borçlu, ancak ifanın aşırı ölçüde güçleşmesinden doğan haklarını saklı tutarak ifa ettiyse uyarlama isteyebilir. Bu yüzden ifa etmek zorunda kalıyorsanız, ödemeyi bu haklarınızı saklı tuttuğunuzu belirten bir çekinceyle yapmanız önemlidir."
+  - soru: "Döviz cinsinden borçlarda da bu kural uygulanır mı?"
+    cevap: "Evet. Kanun, aşırı ifa güçlüğü hükmünün yabancı para borçlarında da uygulanacağını açıkça belirtir. Ancak kurdaki her artış uyarlama sebebi değildir; maddedeki diğer şartların da bulunması gerekir."
+  - soru: "İmkânsızlık benim yüzümden doğduysa ne olur?"
+    cevap: "Borcun sona ermesi kuralı, yalnızca borçlunun sorumlu tutulamayacağı sebeplerle ortaya çıkan imkânsızlık için geçerlidir. İmkânsızlık borçludan kaynaklanıyorsa borca aykırılık söz konusudur; borçlu kusursuzluğunu ispat edemezse alacaklının zararını gidermek zorunda kalır."
 ---
+Sözleşmeler kural olarak yapıldıkları gibi uygulanır. Taraflardan biri sonradan işin kendisi için kârlı olmadığını anlasa da sözleşmeyle bağlıdır. Ancak bazen sözleşme kurulduktan sonra kimsenin beklemediği bir olay dengeyi tamamen bozar ya da ifayı hiç mümkün olmaktan çıkarır. Türk Borçlar Kanunu bu iki durumu ayrı ayrı düzenler: aşırı ifa güçlüğü (m. 138) ve ifa imkânsızlığı (m. 136).
 
-Bir sözleşmenin yerine getirilmesinin güçleşmesi, borcun kendiliğinden ortadan kalktığı anlamına gelmez. Türk Borçlar Kanunu, ifa imkânsızlığı ile aşırı ifa güçlüğünü farklı hükümlerle düzenler. İfa, borcun yerine getirilmesidir. İmkânsızlıkta yerine getirmenin mümkün olmaması, aşırı güçlükte ise kanundaki koşullarla sözleşme dengesinin ağır biçimde değişmesi tartışılır.
+## Aşırı ifa güçlüğünün şartları
 
-Bu nedenle öncelikle karşılaşılan durumun niteliği belirlenmelidir. Maliyetin artması, gelir azalması veya sözleşmeden beklenen yararın düşmesi tek başına hangi hükmün uygulanacağını göstermez. Sözleşmenin yapıldığı koşullar, sonradan gerçekleşen olay, borçlunun sorumluluğu ve ödeme veya ifa durumu birlikte incelenmelidir. Her ekonomik gelişme için otomatik uyarlama sonucu çıkarılmamalıdır.
+Aşırı ifa güçlüğünde borç hâlâ yerine getirilebilir; ama sözleşmedeki denge, borçluyu o hâliyle ifaya zorlamanın hakkaniyete aykırı olacağı kadar bozulmuştur. Kanun, uyarlama istenebilmesi için şu şartları arar:
 
-## Aşırı ifa güçlüğünün birlikte aranan koşulları
+- Sözleşme yapılırken taraflarca öngörülmeyen ve öngörülmesi de beklenmeyen olağanüstü bir durum ortaya çıkmalıdır.
+- Bu durum borçludan kaynaklanmayan bir sebeple doğmalıdır.
+- Durum, sözleşme yapılırken mevcut olguları, borçludan ifanın istenmesini dürüstlük kurallarına aykırı düşürecek ölçüde borçlu aleyhine değiştirmelidir.
+- Borçlu borcunu henüz ifa etmemiş olmalı ya da ifanın aşırı güçleşmesinden doğan haklarını saklı tutarak ifa etmiş olmalıdır.
 
-138. madde, sözleşme yapılırken öngörülmeyen ve öngörülmesi de beklenmeyen olağanüstü bir durum arar. Bu durumun borçludan kaynaklanmayan bir sebeple ortaya çıkması gerekir. Ayrıca sözleşmenin yapıldığı sıradaki olgular borçlu aleyhine öyle değişmelidir ki ifanın istenmesi dürüstlük kurallarına aykırı hale gelsin. Bu koşulların her biri ayrı değerlendirme konusudur.
+Sonradan ortaya çıkan her zorluk bu kapsama girmez. Ham madde fiyatlarındaki olağan dalgalanmalar ya da piyasa riskinin bilinen bir parçası olan değişiklikler, ticari hayatın sıradan riskleri arasında sayılabilir. Olağanüstülük ve öngörülemezlik şartlarının her somut olayda ayrıca değerlendirilmesi gerekir.
 
-Maddede birlikte incelenecek başlıklar şöyle sıralanabilir:
+Bir örnekle açıklamak gerekirse, bir yüklenici iki yıl sürecek bir inşaat için sabit fiyatla anlaşmış olsun. Sözleşmeden sonra hiç beklenmeyen bir olay yüzünden temel malzemelerin fiyatı birkaç katına çıkarsa ve bu artış sözleşmede öngörülen her riskin çok ötesindeyse, yükleniciyi aynı fiyatla işi bitirmeye zorlamak dürüstlük kuralına aykırı düşebilir. Buna karşılık yüklenicinin kendi gecikmesi yüzünden işin pahalı bir döneme kalması, borçludan kaynaklanan bir sebep olduğu için bu kapsama girmez.
 
-- Sözleşmenin kurulduğu anda öngörülmeyen ve öngörülmesi beklenmeyen olağanüstü durum.
-- Değişikliğin borçludan kaynaklanmayan bir sebeple ortaya çıkması.
-- Mevcut olguların borçlu aleyhine kanunda belirtilen ağırlıkta değişmesi.
-- Borcun henüz ifa edilmemiş veya ilgili haklar saklı tutularak ifa edilmiş olması.
+## Uyarlama, dönme ve fesih
 
-Bu başlıklardan yalnızca birinin bulunması diğer koşulların varlığını göstermez. Özellikle olağanüstü olduğu ileri sürülen olayın sözleşmenin kuruluşunda öngörülebilir olup olmadığı ayrıca tartışılmalıdır. Sözleşmenin tarihi ve hükümleri bilinmeden soyut ekonomik bilgilerle kesin hukuki sonuç kurulması sağlıklı değildir. Değişikliğin bu sözleşmeyi nasıl etkilediği ortaya konulmalıdır.
+Şartlar gerçekleşmişse borçlu hâkimden sözleşmenin yeni koşullara uyarlanmasını isteyebilir. Uyarlamada sözleşme ayakta kalır; bedel, teslim süresi ya da başka bir şart değişen koşullara göre yeniden belirlenir.
 
+Hâkim uyarlama yaparken sözleşmeyi baştan yazmaz; değişen koşulların yarattığı yükü taraflar arasında hakkaniyete uygun biçimde dağıtmaya çalışır. Olağanüstü durumun bütün sonucunu yalnızca bir tarafa yüklemek de, bütün riski karşı tarafa aktarmak da bu amaçla bağdaşmaz.
 
-6098 sayılı Kanun’un 138. maddesinden:
+Uyarlama mümkün değilse borçlu sözleşmeden dönebilir. Dönmede sözleşme ortadan kalkar ve taraflar aldıklarını iade eder. Kira, hizmet ya da abonelik gibi sürekli edimli sözleşmelerde ise borçlu, kural olarak dönme yerine fesih hakkını kullanır; sözleşme ileriye dönük olarak sona erer.
 
-> Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi de beklenmeyen olağanüstü bir durum, borçludan kaynaklanmayan bir sebeple ortaya çıkar ve sözleşmenin yapıldığı sırada mevcut olguları, kendisinden ifanın istenmesini dürüstlük kurallarına aykırı düşecek derecede borçlu aleyhine değiştirir ve borçlu da borcunu henüz ifa etmemiş veya ifanın aşırı ölçüde güçleşmesinden doğan haklarını saklı tutarak ifa etmiş olursa borçlu, hâkimden sözleşmenin yeni koşullara uyarlanmasını isteme, bu mümkün olmadığı takdirde sözleşmeden dönme hakkına sahiptir. Sürekli edimli sözleşmelerde borçlu, kural olarak dönme hakkının yerine fesih hakkını kullanır. Bu madde hükmü yabancı para borçlarında da uygulanır.
+Kanun bu hükmün yabancı para borçlarında da uygulanacağını açıkça belirtir. Döviz cinsinden yapılmış sözleşmelerde kurdaki olağanüstü değişiklikler de aynı şartlar çerçevesinde değerlendirilebilir.
 
+Borçlu borcunu ödemek zorunda kalıyorsa, ödemeyi aşırı ifa güçlüğünden doğan haklarını saklı tuttuğunu belirterek yapmalıdır. Çekincesiz yapılan ifadan sonra uyarlama istemek mümkün olmayabilir.
 
-## Uyarlama, dönme ve sürekli sözleşmeler
+Uygulamada izlenecek yol kabaca şöyledir:
 
-Kanun öncelikle hâkimden sözleşmenin yeni koşullara uyarlanmasının istenmesini düzenler. Uyarlama mümkün değilse sözleşmeden dönme hakkı gündeme gelir. Sürekli edimli sözleşmelerde ise kural olarak dönme yerine fesih hakkı kullanılır. Bu sıralama, her güçlük yaşayan tarafın dilediği sonucu koşulsuz seçebileceği anlamına gelmez.
+- Olağanüstü durumu ve sözleşme dengesine etkisini gösteren belgeleri toplamak: fiyat endeksleri, tedarikçi yazışmaları, maliyet hesapları.
+- Karşı tarafa durumu bildirmek ve sözleşmenin yeniden düzenlenmesi için görüşme önermek. Tarafların kendi aralarında anlaşması her zaman mümkündür.
+- Ödeme ya da teslim yapılacaksa bunu çekinceyle yapmak.
+- Anlaşma sağlanamazsa mahkemeden uyarlama, bu mümkün değilse dönme ya da fesih istemek.
 
-Dönme ve fesih, sözleşmenin sona erdirilmesine ilişkin farklı hukuki yollardır. Hangi yolun tartışılacağı, sözleşmenin niteliği ve kanundaki koşullarla bağlantılıdır. Bir belgenin üzerine yalnızca fesih veya dönme yazılması, hukuki şartları kendiliğinden oluşturmaz. Talebin hangi olgulara ve hangi hükme dayandığı açıklanmalıdır.
+Konut ve çatılı işyeri kiralarında kira bedelinin belirlenmesi için kanunda ayrıca özel kurallar bulunur; bu konu kira tespit davası kapsamında değerlendirilir.
 
-138. madde yabancı para borçlarında da uygulanır. Ancak bu cümle, her döviz değişiminin otomatik olarak uyarlama sebebi olduğu anlamına gelmez. Maddenin diğer koşulları yine birlikte aranır. Doğrulanmış somut sözleşme ve olay incelemesi olmadan belirli bir kur değişimine kesin hukuki sonuç bağlanmamalıdır.
+## İfa imkânsızlığı: borcun sona ermesi
 
-## İfa imkânsızlığı ve bildirim yükümlülüğü
+İfa imkânsızlığında ise borç artık hiç yerine getirilemez. Satılan tek ve eşi olmayan bir tablo yangında yok olmuşsa, satıcı ne kadar isterse istesin onu teslim edemez. İmkânsızlık fiilî olabileceği gibi hukuki de olabilir; ifanın sonradan çıkan bir yasakla engellenmesi gibi.
 
-136. madde, borçlunun sorumlu tutulamayacağı sebeplerle ifanın imkânsızlaşmasını düzenler. Bu durumda borcun sona ermesi öngörülür. Karşılıklı borç yükleyen sözleşmelerde daha önce alınan edimin geri verilmesi ve henüz yerine getirilmemiş karşı edimi isteme hakkı bakımından da hükümler bulunur. Kanun veya sözleşmeyle hasarın alacaklıya yüklendiği durumlar ayrıca ayrılır.
+Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa borç sona erer. Bunun karşılıklı sözleşmelerdeki sonuçları şöyledir:
 
+- Borçtan kurtulan borçlu, karşı taraftan almış olduğu edimi sebepsiz zenginleşme hükümlerine göre geri verir.
+- Henüz kendisine ifa edilmemiş karşı edimi isteme hakkını kaybeder.
+- Kanun ya da sözleşme gereği hasarın ifadan önce alacaklıya geçtiği durumlar bu kuralın dışındadır.
 
-6098 sayılı Kanun’un 136. maddesinden:
+Borçlu, ifanın imkânsızlaştığını alacaklıya gecikmeden bildirmeli ve zararın artmaması için gerekli önlemleri almalıdır. Bunu yapmazsa doğan zararlardan sorumlu olur.
 
-> Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa, borç sona erer. Karşılıklı borç yükleyen sözleşmelerde imkânsızlık sebebiyle borçtan kurtulan borçlu, karşı taraftan almış olduğu edimi sebepsiz zenginleşme hükümleri uyarınca geri vermekle yükümlü olup, henüz kendisine ifa edilmemiş olan edimi isteme hakkını kaybeder. Kanun veya sözleşmeyle borcun ifasından önce doğan hasarın alacaklıya yükletilmiş olduğu durumlar, bu hükmün dışındadır.
->
-> Borçlu ifanın imkânsızlaştığını alacaklıya gecikmeksizin bildirmez ve zararın artmaması için gerekli önlemleri almazsa, bundan doğan zararları gidermekle yükümlüdür.
+İmkânsızlık borcun yalnızca bir kısmını etkiliyorsa, borçlu kural olarak yalnızca o kısımdan kurtulur. Ancak kısmi imkânsızlık önceden öngörülseydi tarafların sözleşmeyi yapmayacakları açıkça anlaşılıyorsa borcun tamamı sona erer.
 
+İmkânsızlığa borçlunun kendisi sebep olmuşsa borç bu şekilde sona ermez. Bu durumda borca aykırılık hükümleri uygulanır ve borçlu, kusursuzluğunu ispat edemezse alacaklının zararını gidermek zorundadır.
 
-İmkânsızlığın alacaklıya gecikmeden bildirilmesi ve zararın artmasını önleyecek tedbirlerin alınması ayrıca önemlidir. Borcun sona ermesi tartışması, bu yükümlülüklerin ihlalinden doğan zarar sorununu yok saymaz. Bu nedenle olayın gerçekleşme tarihi, öğrenilmesi, yapılan bildirim ve alınan önlemler ayrı kaydedilmelidir. Sadece sözleşmenin artık yerine getirilemeyeceğinin söylenmesi bütün sonuçları açıklamaz.
+## İki kurum arasındaki temel farklar
 
-İmkânsızlık ile aşırı güçlük aynı hukuki sonuçları doğurmadığından, dilekçede veya ihtarda kavramlar dikkatle kullanılmalıdır. Hangi edimin ne sebeple yerine getirilemediği somutlaştırılmalıdır. Gerçekten imkânsız olan bir işlemle daha maliyetli hale gelen işlem aynı kabul edilmemelidir. Nitelendirme, olay ve belgelerle bağlantılı olarak yapılmalıdır.
+Aşırı ifa güçlüğü ile ifa imkânsızlığı sık karıştırılır. Aynı olay, bir sözleşmede yalnızca maliyeti artırırken başka bir sözleşmede ifayı tamamen engelleyebilir; bu yüzden değerlendirme her sözleşme için ayrı yapılır. Farkları kısaca şöyle sıralanabilir:
 
-## Kısmi imkânsızlık ve sözleşmenin kalan bölümü
+- Aşırı ifa güçlüğünde ifa mümkündür ama aşırı ölçüde güçleşmiştir; imkânsızlıkta ifa hiç mümkün değildir.
+- Aşırı ifa güçlüğünde borç kendiliğinden sona ermez; borçlunun hâkimden uyarlama istemesi ya da dönme veya fesih hakkını kullanması gerekir. İmkânsızlıkta ise borç kendiliğinden sona erer.
+- Aşırı ifa güçlüğünün öncelikli sonucu, sözleşmenin ayakta tutularak yeni koşullara uyarlanmasıdır.
 
-137. madde, borcun yalnızca bir bölümünün imkânsızlaşmasını ayrı düzenler. Kural olarak borçlu sadece imkânsızlaşan kısımdan kurtulur. Ancak kanundaki koşullarla borcun tamamının sona ermesi de mümkündür. Bu yüzden kısmi bir sorunun bulunduğu her durumda sözleşmenin bütünüyle sona erdiği söylenemez.
-
-
-6098 sayılı Kanun’un 137. maddesinden:
-
-> Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle kısmen imkânsızlaşırsa borçlu, borcunun sadece imkânsızlaşan kısmından kurtulur. Ancak, bu kısmi ifa imkânsızlığı önceden öngörülseydi taraflarca böyle bir sözleşmenin yapılmayacağı açıkça anlaşılırsa, borcun tamamı sona erer. Karşılıklı borç yükleyen sözleşmelerde, bir tarafın borcu kısmen imkânsızlaşır ve alacaklı kısmi ifaya razı olursa, karşı edim de o oranda ifa edilir.
->
-> Alacaklının böyle bir ifaya razı olmaması veya karşı edimin bölünemeyen nitelikte olması durumunda, tam imkânsızlık hükümleri uygulanır.
-
-
-Karşılıklı borçlarda alacaklının kısmi ifaya rızası ve karşı edimin bölünüp bölünememesi önem taşır. Kanun bu olasılıklara farklı sonuçlar bağlar. Sadece yerine getirilemeyen bölümün miktarını belirlemek yeterli olmayabilir. Tarafların sözleşmeyi hangi bütünlük içinde kurduğu da değerlendirilmelidir.
-
-Dosya hazırlığında sözleşmenin ilk hali, sonraki değişiklikler, ifa kayıtları ve tarafların bildirimleri birlikte incelenmelidir. Borcun henüz yerine getirilmemiş olmasıyla haklar saklı tutularak yerine getirilmesi farklı olgulardır. İleri sürülen saklı tutma açıklamasının gerçekten bulunup bulunmadığı belgelerden belirlenmelidir. Sonradan yapılmış bir açıklamanın geçmişteki ifanın bütün sonuçlarını değiştirdiği varsayılmamalıdır.
-
-Talep edilen yeni koşulların hangi değişikliğe cevap verdiği de açık olmalıdır. Uyarlama talebi, dayanaksız bir bedel veya oran önerisiyle sınırlı bırakılmamalıdır. Sözleşmenin başlangıçtaki dengesiyle sonraki koşullar arasındaki ilişki somutlaştırılmalıdır. Doğrulanamayan piyasa verileri veya bulunamayan karar künyeleri değerlendirmeye eklenmemelidir.
+Hangi kurumun uygulanacağı, olayın borçlu açısından ifayı gerçekten imkânsız mı yoksa yalnızca aşırı külfetli mi kıldığına bağlıdır. Bu ayrım, alacaklının hangi talepte bulunabileceğini de belirler.
