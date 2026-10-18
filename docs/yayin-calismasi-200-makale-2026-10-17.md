@@ -2,7 +2,7 @@
 
 Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 
-19 Ekim 2026 itibarıyla 24 metin ayrı kayıtlarla main dalına eklenmiştir. 24 yazının tamamının canlı kontrolü tamamlanmıştır. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
+19 Ekim 2026 itibarıyla 25 metin ayrı kayıtlarla main dalına eklenmiştir. İlk 24 yazının canlı kontrolü tamamlanmıştır; 25. yazının kontrolü beklenmektedir. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
 
 ## Eklenen makaleler
 
@@ -31,6 +31,8 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 22. [Ceza soruşturmasında veya davasında tanıklıktan kimler çekinebilir?](https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-tanikliktan-cekinme/) — 910 kelime; live_verified.
 23. [Saklanması için bırakılan eşya kullanılabilir mi, ne zaman geri verilir?](https://avukatonurdogan.com/yazilar/saklama-sozlesmesi-ve-emanet-esyanin-iadesi/) — 942 kelime; live_verified.
 24. [Satın aldığım hizmet vaat edilenden farklı: hangi hakları kullanabilirim?](https://avukatonurdogan.com/yazilar/ayipli-hizmette-tuketicinin-secimlik-haklari/) — 998 kelime; live_verified.
+
+25. [Davadan vazgeçmek ne anlama gelir? Feragat, kabul ve davayı geri alma](https://avukatonurdogan.com/yazilar/davadan-feragat-kabul-ve-geri-alma/) — 1033 kelime; uploaded.
 
 ## Doğruluk ve devam kuralları
 
@@ -61,3 +63,5 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 24. yazı ayıplı hizmette tüketicinin seçimlik hakları hakkındadır; 998 kelime, dört ara başlık, üç Kısaca maddesi ve üç soru içerir. `python build.py --kontrol` başarılıdır. 6502 sayılı Kanun PDF’si 19 Ekim 2026 tarihinde mevzuat.gov.tr üzerinden yeniden indirildi; SHA-256: `943f70aa212af092d04aa9d1035f756ff513261042adb6932a98fa3a92cd2c46`.
 
 24. makalenin yayın akışı 39168124294 başarılıdır. Canlı sayfa 19 Ekim 2026 tarihinde HTTP 200 ve doğru H1 başlığı ile doğrulandı. Bu devam adımında bir yeni makale yayımlandı ve önceki üç makalenin bekleyen canlı kontrolleri kayda geçirildi. Hedef ilerlemesi: 24/200; kalan 176.
+
+25. makale 19 Ekim 2026 tarihinde eklendi. HMK m. 74, 123 ve 307–315 güncel resmî PDF üzerinden kontrol edildi; PDF SHA-256: `481c1389a8b144ff84e4674848dc566503a748b39d2d035d762d7dc9ef171edd`. Güncel main başlık ve içeriklerinde aynı soruyu ele alan bir yazı bulunmadı. Makale 1033 kelime, dört ara başlık, üç Kısaca maddesi ve üç soru içerir; `python build.py --kontrol` başarılıdır.
