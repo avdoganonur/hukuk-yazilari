@@ -355,7 +355,23 @@
         }
       ],
       "commit": "0f52589fbb6f71020c5e9c89c72c2f655b90e995"
+    },
+    {
+      "slug": "delil-tespiti-ve-kaybolabilecek-deliller",
+      "title": "Delil kaybolmadan nasıl korunur? Dava öncesinde ve sırasında delil tespiti",
+      "url": "https://avukatonurdogan.com/yazilar/delil-tespiti-ve-kaybolabilecek-deliller/",
+      "word_count": 968,
+      "status": "uploaded",
+      "published_date": "2026-10-18",
+      "verified_sources": [
+        {
+          "ad": "6100 sayılı Hukuk Muhakemeleri Kanunu m. 400–405, 190–191, 198, 281–282",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf",
+          "not": "Güncel PDF 18 Ekim 2026 tarihinde yeniden indirildi; delil tespiti ve rapor incelemesi doğrulandı."
+        }
+      ],
+      "commit": "5b3f107a923d49dd2d048b4b797da8b4c9be8db4"
     }
   ],
-  "next_sequence": 21
+  "next_sequence": 22
 }
