@@ -2,7 +2,7 @@
 
 Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 
-19 Ekim 2026 itibarıyla 25 metin ayrı kayıtlarla main dalına eklenmiştir. İlk 24 yazının canlı kontrolü tamamlanmıştır; 25. yazının kontrolü beklenmektedir. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
+19 Ekim 2026 itibarıyla 25 metin ayrı kayıtlarla main dalına eklenmiştir. 25 yazının tamamının canlı kontrolü tamamlanmıştır. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
 
 ## Eklenen makaleler
 
@@ -32,7 +32,7 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 23. [Saklanması için bırakılan eşya kullanılabilir mi, ne zaman geri verilir?](https://avukatonurdogan.com/yazilar/saklama-sozlesmesi-ve-emanet-esyanin-iadesi/) — 942 kelime; live_verified.
 24. [Satın aldığım hizmet vaat edilenden farklı: hangi hakları kullanabilirim?](https://avukatonurdogan.com/yazilar/ayipli-hizmette-tuketicinin-secimlik-haklari/) — 998 kelime; live_verified.
 
-25. [Davadan vazgeçmek ne anlama gelir? Feragat, kabul ve davayı geri alma](https://avukatonurdogan.com/yazilar/davadan-feragat-kabul-ve-geri-alma/) — 1033 kelime; uploaded.
+25. [Davadan vazgeçmek ne anlama gelir? Feragat, kabul ve davayı geri alma](https://avukatonurdogan.com/yazilar/davadan-feragat-kabul-ve-geri-alma/) — 1033 kelime; live_verified.
 
 ## Doğruluk ve devam kuralları
 
@@ -65,3 +65,5 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 24. makalenin yayın akışı 39168124294 başarılıdır. Canlı sayfa 19 Ekim 2026 tarihinde HTTP 200 ve doğru H1 başlığı ile doğrulandı. Bu devam adımında bir yeni makale yayımlandı ve önceki üç makalenin bekleyen canlı kontrolleri kayda geçirildi. Hedef ilerlemesi: 24/200; kalan 176.
 
 25. makale 19 Ekim 2026 tarihinde eklendi. HMK m. 74, 123 ve 307–315 güncel resmî PDF üzerinden kontrol edildi; PDF SHA-256: `481c1389a8b144ff84e4674848dc566503a748b39d2d035d762d7dc9ef171edd`. Güncel main başlık ve içeriklerinde aynı soruyu ele alan bir yazı bulunmadı. Makale 1033 kelime, dört ara başlık, üç Kısaca maddesi ve üç soru içerir; `python build.py --kontrol` başarılıdır.
+
+25. yazının yayın akışı 39172158154 başarıyla tamamlandı. Canlı sayfa 19 Ekim 2026 tarihinde HTTP 200 ve doğru başlıkla doğrulandı; yerel derleme ve site haritası kontrolü de başarılıdır. Güncel ilerleme 25/200, kalan 175 makaledir.
