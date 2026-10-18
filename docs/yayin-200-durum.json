@@ -452,7 +452,23 @@
       "http_status": 200,
       "live_verified_date": "2026-10-19",
       "deployment_run_id": 39172158154
+    },
+    {
+      "slug": "karsilikli-borclarda-takas-sartlari",
+      "title": "O da bana borçlu: alacağımı borcumdan takas yoluyla düşebilir miyim?",
+      "url": "https://avukatonurdogan.com/yazilar/karsilikli-borclarda-takas-sartlari/",
+      "word_count": 1044,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 139–145, 407",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "19 Ekim 2026 tarihinde resmî PDF yeniden alındı; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "058baf6398e25d04d60d91b363ad09a518f4502e"
     }
   ],
-  "next_sequence": 26
+  "next_sequence": 27
 }
