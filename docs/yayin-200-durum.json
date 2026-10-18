@@ -390,7 +390,22 @@
         }
       ],
       "commit": "61624d8e5705f3ee03b77ab9b9878fec1009245a"
+    },
+    {
+      "slug": "saklama-sozlesmesi-ve-emanet-esyanin-iadesi",
+      "title": "Saklanması için bırakılan eşya kullanılabilir mi, ne zaman geri verilir?",
+      "url": "https://avukatonurdogan.com/yazilar/saklama-sozlesmesi-ve-emanet-esyanin-iadesi/",
+      "word_count": 942,
+      "status": "uploaded",
+      "published_date": "2026-10-18",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 561–570",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf"
+        }
+      ],
+      "commit": "721f39a1e88fc1731fc7f321e8f0c38cd6c15a71"
     }
   ],
-  "next_sequence": 23
+  "next_sequence": 24
 }
