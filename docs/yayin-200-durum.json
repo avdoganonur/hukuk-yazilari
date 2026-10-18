@@ -439,7 +439,7 @@
       "title": "Davadan vazgeçmek ne anlama gelir? Feragat, kabul ve davayı geri alma",
       "url": "https://avukatonurdogan.com/yazilar/davadan-feragat-kabul-ve-geri-alma/",
       "word_count": 1033,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -448,7 +448,10 @@
           "not": "19 Ekim 2026 tarihinde resmî PDF yeniden alındı; SHA-256 481c1389a8b144ff84e4674848dc566503a748b39d2d035d762d7dc9ef171edd."
         }
       ],
-      "commit": "10a6e6c3a4b6f2bcb75d982065d5226190fd31aa"
+      "commit": "10a6e6c3a4b6f2bcb75d982065d5226190fd31aa",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39172158154
     }
   ],
   "next_sequence": 26
