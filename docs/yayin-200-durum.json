@@ -4,7 +4,7 @@
   "repository": "avdoganonur/hukuk-yazilari",
   "branch": "main",
   "site": "https://avukatonurdogan.com",
-  "updated_date": "2026-10-18",
+  "updated_date": "2026-10-19",
   "articles": [
     {
       "slug": "telafi-calismasi-sartlari-ve-sinirlari",
@@ -361,7 +361,7 @@
       "title": "Delil kaybolmadan nasıl korunur? Dava öncesinde ve sırasında delil tespiti",
       "url": "https://avukatonurdogan.com/yazilar/delil-tespiti-ve-kaybolabilecek-deliller/",
       "word_count": 968,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-18",
       "verified_sources": [
         {
@@ -370,14 +370,17 @@
           "not": "Güncel PDF 18 Ekim 2026 tarihinde yeniden indirildi; delil tespiti ve rapor incelemesi doğrulandı."
         }
       ],
-      "commit": "5b3f107a923d49dd2d048b4b797da8b4c9be8db4"
+      "commit": "5b3f107a923d49dd2d048b4b797da8b4c9be8db4",
+      "live_verified_date": "2026-10-19",
+      "http_status": 200,
+      "deployment_run_id": 39150023077
     },
     {
       "slug": "ceza-yargilamasinda-tanikliktan-cekinme",
       "title": "Ceza soruşturmasında veya davasında tanıklıktan kimler çekinebilir?",
       "url": "https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-tanikliktan-cekinme/",
       "word_count": 910,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-18",
       "verified_sources": [
         {
@@ -389,14 +392,17 @@
           "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf"
         }
       ],
-      "commit": "61624d8e5705f3ee03b77ab9b9878fec1009245a"
+      "commit": "61624d8e5705f3ee03b77ab9b9878fec1009245a",
+      "live_verified_date": "2026-10-19",
+      "http_status": 200,
+      "deployment_run_id": 39150023077
     },
     {
       "slug": "saklama-sozlesmesi-ve-emanet-esyanin-iadesi",
       "title": "Saklanması için bırakılan eşya kullanılabilir mi, ne zaman geri verilir?",
       "url": "https://avukatonurdogan.com/yazilar/saklama-sozlesmesi-ve-emanet-esyanin-iadesi/",
       "word_count": 942,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-18",
       "verified_sources": [
         {
@@ -404,7 +410,10 @@
           "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf"
         }
       ],
-      "commit": "721f39a1e88fc1731fc7f321e8f0c38cd6c15a71"
+      "commit": "721f39a1e88fc1731fc7f321e8f0c38cd6c15a71",
+      "live_verified_date": "2026-10-19",
+      "http_status": 200,
+      "deployment_run_id": 39150023077
     }
   ],
   "next_sequence": 24
