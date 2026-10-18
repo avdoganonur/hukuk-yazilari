@@ -414,7 +414,23 @@
       "live_verified_date": "2026-10-19",
       "http_status": 200,
       "deployment_run_id": 39150023077
+    },
+    {
+      "slug": "ayipli-hizmette-tuketicinin-secimlik-haklari",
+      "title": "Satın aldığım hizmet vaat edilenden farklı: hangi hakları kullanabilirim?",
+      "url": "https://avukatonurdogan.com/yazilar/ayipli-hizmette-tuketicinin-secimlik-haklari/",
+      "word_count": 998,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 2–3, 13–16",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6502.pdf",
+          "not": "19 Ekim 2026 tarihinde yeniden indirilen resmî PDF üzerinden doğrulandı."
+        }
+      ],
+      "commit": "dbeed766c7f91cb8776f950fd6f5579223364e08"
     }
   ],
-  "next_sequence": 24
+  "next_sequence": 25
 }
