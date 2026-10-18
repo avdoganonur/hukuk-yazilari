@@ -82,7 +82,7 @@ Karar, ön inceleme dâhil, suçun öğrenilmesinden itibaren en geç otuz gün 
 - Soruşturma izni verilmesine karşı yalnızca hakkında inceleme yapılan görevli itiraz edebilir.
 - İzin verilmemesine karşı Cumhuriyet başsavcılığı ya da şikâyetçi itiraz edebilir. Şikâyetçi, şikâyetin işleme konulmaması kararına karşı da itiraz edebilir.
 
-İtirazı kural olarak izin merciinin yargı çevresinde bulunduğu bölge idare mahkemesi inceler; kaymakam ve vali kararlarına karşı itirazlar buraya gider. Cumhurbaşkanı kararıyla atananlar ile büyükşehir, il ve ilçe belediye başkanları gibi kanunda sayılan kişiler hakkındaki kararlarda itiraz mercii Danıştay İkinci Dairesi'dir. İtirazlar öncelikle incelenir ve en geç üç ay içinde karara bağlanır. Bu kararlar kesindir.
+İtirazı kural olarak izin merciinin yargı çevresinde bulunduğu bölge idare mahkemesi inceler; kaymakam ve vali kararlarına karşı itirazlar buraya gider. Cumhurbaşkanı kararıyla atananlar ile büyükşehir, il ve ilçe belediye başkanları gibi kanunda sayılan kişiler hakkındaki kararlarda itirazı Danıştay inceler. İtirazlar öncelikle incelenir ve en geç üç ay içinde karara bağlanır. Bu kararlar kesindir.
 
 İzin kesinleşirse ya da izin verilmemesine karşı yapılan itiraz kabul edilirse dosya derhâl yetkili Cumhuriyet başsavcılığına gönderilir (m. 11). Bu aşamadan sonra soruşturma, Ceza Muhakemesi Kanunu'nun genel kurallarına göre yürür.
 

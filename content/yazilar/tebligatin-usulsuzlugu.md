@@ -10,7 +10,7 @@ alan: vergi-hukuku
 dayanak:
   - ad: "7201 sayılı Tebligat Kanunu m. 7/a"
     not: "Elektronik tebligat, zorunlu olanlar, tebliğ tarihi"
-    baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7201&MevzuatTur=1&MevzuatTertip=4"
+    baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7201&MevzuatTur=1&MevzuatTertip=3"
   - ad: "7201 sayılı Tebligat Kanunu m. 10"
     not: "Bilinen en son adres ve adres kayıt sistemi"
   - ad: "7201 sayılı Tebligat Kanunu m. 11"

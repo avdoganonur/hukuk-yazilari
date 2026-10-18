@@ -19,7 +19,7 @@ sss:
   - soru: "İstemim reddedildi, aynı istemi yeniden yapabilir miyim?"
     cevap: "Aynı sebeplere dayanarak yürütmenin durdurulması ikinci kez istenemez. Bu nedenle ilk istemde bütün sebeplerin ve zararların eksiksiz anlatılması gerekir."
   - soru: "Mahkeme durdurma kararı verdi ama idare uygulamaya devam ediyor; ne olur?"
-    cevap: "İdare, yürütmenin durdurulması kararının gereğini gecikmeden yerine getirmek zorundadır. Bu süre, kanunda bazı kamu görevlileri için öngörülen özel durumlar dışında, kararın idareye tebliğinden itibaren hiçbir şekilde otuz günü geçemez. Kararı uygulamayan görevliler hakkında disiplin hükümleri de saklıdır."
+    cevap: "İdare, yürütmenin durdurulması kararının gereğini gecikmeden yerine getirmek zorundadır. Bu süre, kanunda bazı davalar için öngörülen ayrık hâller dışında, kararın idareye tebliğinden itibaren hiçbir şekilde otuz günü geçemez. Kararı uygulamayan görevliler hakkında disiplin hükümleri de saklıdır."
   - soru: "Teminatı ödeyemezsem karar uygulanmaz mı?"
     cevap: "Yürütmenin durdurulması kararı kural olarak teminat karşılığında verilir, ancak mahkeme durumun gereğine göre teminat istemeyebilir. Adli yardımdan yararlananlardan teminat alınmaz. Mali gücü yetmeyen kişi, bu yüzden adli yardım talebini de değerlendirmelidir."
 ---
@@ -73,4 +73,4 @@ YD isteminin kabulüne ya da reddine ilişkin karara karşı, tebliğden itibare
 
 İtiraz mercii dosyanın kendisine gelişinden itibaren yedi gün içinde karar verir ve bu karar kesindir. YD kararı verilen dosyalar öncelikle incelenir ve YD kararları on beş gün içinde yazılıp imzalanır. Aynı sebeplere dayanarak YD ikinci kez istenemez.
 
-YD kararı verildiğinde idare, kararın gereğini gecikmeden yerine getirmek zorundadır. Bu süre, kanunda bazı kamu görevlileri için öngörülen özel durumlar dışında, kararın idareye tebliğinden itibaren hiçbir şekilde otuz günü geçemez (m. 28).
+YD kararı verildiğinde idare, kararın gereğini gecikmeden yerine getirmek zorundadır. Bu süre, kararın idareye tebliğinden itibaren hiçbir şekilde otuz günü geçemez (m. 28). Kanun, bazı kurumların personeline ve bazı özel davalara ilişkin göreve iade sonucunu doğuran kararlar için ayrık bir kural öngörür; bu kararlar ancak kesinleştikten sonra yerine getirilir.
