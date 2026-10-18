@@ -420,7 +420,7 @@
       "title": "Satın aldığım hizmet vaat edilenden farklı: hangi hakları kullanabilirim?",
       "url": "https://avukatonurdogan.com/yazilar/ayipli-hizmette-tuketicinin-secimlik-haklari/",
       "word_count": 998,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -429,7 +429,10 @@
           "not": "19 Ekim 2026 tarihinde yeniden indirilen resmî PDF üzerinden doğrulandı."
         }
       ],
-      "commit": "dbeed766c7f91cb8776f950fd6f5579223364e08"
+      "commit": "dbeed766c7f91cb8776f950fd6f5579223364e08",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39168124294
     }
   ],
   "next_sequence": 25
