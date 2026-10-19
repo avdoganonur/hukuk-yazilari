@@ -1,0 +1,242 @@
+---
+baslik: "Vekâlet ücreti hesaplama: karşı tarafa yükletilecek yasal avukatlık ücreti"
+kisa_ad: "Yasal vekâlet ücreti"
+aciklama: "Davayı kaybeden tarafa yargılama gideri olarak yükletilen avukatlık ücretini Avukatlık Asgari Ücret Tarifesinin nispi ve maktu kurallarıyla hesaplar."
+grup: ucret
+sira: 10
+guncelleme: 2026-10-19
+veri: [ucret]
+ilgili_yazilar: [itirazin-iptali-davasi, ilamsiz-icra-takibi-nasil-baslar, hukuk-davalarinda-istinaf-ve-temyiz-sureleri, adli-yardim]
+kaynaklar:
+  - ad: "Avukatlık Asgari Ücret Tarifesi (RG 04/11/2025, sayı 33067)"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42687&MevzuatTur=9&MevzuatTertip=5"
+    not: "Genel hükümler m. 3, 6, 11, 13, 15, 21 ve ekindeki ikinci ve üçüncü kısım; 08/01/2026 ve 28/03/2026 değişiklikleri işlenmiş metin"
+  - ad: "Türkiye Barolar Birliği, 2025-2026 tarife karşılaştırma cetveli"
+    url: "https://d.barobirlik.org.tr/2025/20251103_tbbtablo_karsilastirmacetveli.pdf"
+    not: "Tutarların karşılaştırması için"
+  - ad: "7036 sayılı İş Mahkemeleri Kanunu m. 2 ve 4787 sayılı Aile Mahkemeleri Kanunu m. 2"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7036&MevzuatTur=1&MevzuatTertip=5"
+    not: "İş ve aile mahkemeleri asliye mahkemesi derecesindedir; tarifede asliye mahkemeleri satırı uygulanır"
+nasil: |
+  Bu araç, davayı kaybeden tarafın yargılama gideri olarak ödemeye mahkûm edildiği yasal vekâlet ücretini hesaplar. Bu ücret avukata aittir (AAÜT m. 3/1). Avukat ile müvekkili arasındaki sözleşme ücreti bundan ayrıdır ve bu araçla hesaplanmaz.
+
+  Tarife iki tür ücret öngörür. **Maktu ücret**, ikinci kısımda mahkeme ya da iş türüne göre belirlenmiş sabit tutardır. **Nispi ücret**, konusu para olan işlerde üçüncü kısımdaki dilimlere göre hesaplanır: ilk 600.000 TL için %16, sonraki 600.000 TL için %15 ve tutar büyüdükçe azalan oranlarla, 18.600.000 TL'nin üstü için %1. Her dilim yalnızca kendi aralığına uygulanır ve sonuçlar toplanır.
+
+  Konusu para olan davada nispi ücret, davanın görüldüğü mahkemenin maktu ücretinden az olamaz; ancak kabul ya da reddedilen miktarı da geçemez (m. 13/1-2). Maddi tazminat davasının tamamen reddinde ve manevi tazminat davasının tamamen reddinde maktu ücrete hükmedilir (m. 13/4, m. 10/3). Uyuşmazlık ön inceleme tutanağı imzalanmadan feragat, kabul, sulh ya da konusuz kalma ile biterse ücretin yarısına hükmedilir (m. 6); idari yargıda bu sınır birinci savunma dilekçesi süresinin bitimidir (m. 15).
+
+  İcra takiplerinde takip miktarı 56.250 TL'ye kadarsa icra dairesi maktu ücreti uygulanır ve ücret asıl alacağı geçemez; borçlu ödeme süresinde öderse ücretin dörtte üçü alınır (m. 11/1, 11/4). İcra mahkemesinde nispi ücret ilgili maktu tutarı geçemez (m. 11/3); istihkak davalarında ise nispi ücret uygulanır. Vergi mahkemeleri, ortaklığın giderilmesi davaları, ceza davaları ile istinaf ve temyiz duruşmaları için yalnızca maktu ücret vardır.
+
+  Mahkeme ücreti, avukatın emeği ve işin niteliğine göre tarifedeki tutarın üç katına kadar artırabilir (m. 3/1); araç tarifedeki en düşük tutarı gösterir. Hükmün verildiği tarihte yürürlükte olan tarife uygulanır (m. 21); araç yalnızca 4 Kasım 2025'te yürürlüğe giren tarifeyi kullanır. Kısmen kabul kararlarında her iki taraf için ayrı hesap yapılır; nafaka, kira tespiti ve tahliye davalarındaki özel matrah (m. 9), seri davalar (m. 22), karşılık dava ve birleşen davalar ayrıca değerlendirilmelidir.
+---
+<form class="arac-form" id="vekalet-form" novalidate>
+  <div class="alan">
+    <label for="tur">Mahkeme ya da iş türü</label>
+    <select id="tur" name="tur">
+      <optgroup label="Hukuk davaları">
+        <option value="sulh-hukuk">Sulh hukuk mahkemesi</option>
+        <option value="asliye-hukuk" selected>Asliye hukuk ya da asliye ticaret mahkemesi</option>
+        <option value="is">İş mahkemesi</option>
+        <option value="aile">Aile mahkemesi</option>
+        <option value="tuketici">Tüketici mahkemesi</option>
+        <option value="fikri">Fikri ve sınai haklar mahkemesi</option>
+        <option value="ortaklik">Ortaklığın giderilmesi (taksim) davası</option>
+      </optgroup>
+      <optgroup label="İcra">
+        <option value="icra-takip">İcra dairesinde takip</option>
+        <option value="tahliye-takip">Tahliyeye ilişkin icra takibi</option>
+        <option value="icra-mah-is">İcra mahkemesinde takip edilen iş (şikâyet, itiraz vb.)</option>
+        <option value="icra-mah-dava">İcra mahkemesinde dava ya da duruşmalı iş</option>
+        <option value="istihkak">İcra mahkemesinde istihkak davası</option>
+      </optgroup>
+      <optgroup label="İdari yargı">
+        <option value="idare-durusmasiz">İdare mahkemesi, duruşmasız</option>
+        <option value="idare-durusmali">İdare mahkemesi, duruşmalı</option>
+        <option value="vergi-durusmasiz">Vergi mahkemesi, duruşmasız</option>
+        <option value="vergi-durusmali">Vergi mahkemesi, duruşmalı</option>
+      </optgroup>
+      <optgroup label="Ceza">
+        <option value="sorusturma">Ceza soruşturması</option>
+        <option value="sulh-ceza">Sulh ceza ya da infaz hâkimliği</option>
+        <option value="asliye-ceza">Asliye ceza mahkemesi</option>
+        <option value="cocuk">Çocuk mahkemesi</option>
+        <option value="agir-ceza">Ağır ceza mahkemesi</option>
+      </optgroup>
+      <optgroup label="Kanun yolu duruşmaları">
+        <option value="istinaf-bir">İstinaf, bir duruşmalı iş</option>
+        <option value="istinaf-cok">İstinaf, birden fazla duruşma ya da keşif</option>
+        <option value="temyiz">Yargıtay, Danıştay ya da Sayıştay'da temyiz duruşması</option>
+      </optgroup>
+      <optgroup label="Dava dışında geçici hukuki koruma">
+        <option value="ihtiyati-durusmasiz">İhtiyati haciz, ihtiyati tedbir, delil tespiti; duruşmasız</option>
+        <option value="ihtiyati-durusmali">İhtiyati haciz, ihtiyati tedbir, delil tespiti; duruşmalı</option>
+      </optgroup>
+    </select>
+    <p class="ipucu">İş ve aile mahkemeleri asliye mahkemesi derecesindedir; tarifede asliye mahkemeleri tutarı uygulanır.</p>
+  </div>
+  <div class="alan">
+    <label for="tutar">Kabul ya da reddedilen tutar (konusu para olan işlerde)</label>
+    <input id="tutar" name="tutar" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 1.000.000">
+    <p class="ipucu">Hüküm altına alınan ya da reddedilen miktar; icra takibinde takip miktarı. Konusu para değilse boş bırakın.</p>
+  </div>
+  <div class="alan">
+    <label for="hukum">Karar tarihi (isteğe bağlı)</label>
+    <input id="hukum" name="hukum" type="date">
+    <p class="ipucu">Boş bırakırsanız bugünkü tarife uygulanır. Araç 4 Kasım 2025'ten önceki kararları hesaplamaz.</p>
+  </div>
+  <fieldset>
+    <legend>Özel durumlar</legend>
+    <label class="secim"><input type="checkbox" name="erken"> Uyuşmazlık ön inceleme tutanağı imzalanmadan (idari yargıda birinci savunma süresi bitmeden) feragat, kabul, sulh ya da konusuz kalma ile sona erdi</label>
+    <label class="secim"><input type="checkbox" name="tamamenRet"> Maddi ya da manevi tazminat davası tamamen reddedildi</label>
+    <label class="secim"><input type="checkbox" name="odeme"> İcra takibinde borçlu ödeme süresi içinde ödedi</label>
+  </fieldset>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="vekalet-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  /* tip: hukuk = nispi + m. 6; hukukMaktu = yalnız maktu + m. 6; icra = m. 11/1; icraMaktu = maktu + m. 11/5;
+     icraMah = nispi, maktu tavanı (m. 11/3); istihkak = nispi (m. 11/3 son cümle); idare = nispi + m. 15;
+     vergi = maktu + m. 15; maktu = yalnız maktu. */
+  var TURLER = {
+    "sulh-hukuk": ["sulhHukuk", "hukuk", "Sulh hukuk mahkemesi"],
+    "asliye-hukuk": ["asliye", "hukuk", "Asliye hukuk / asliye ticaret mahkemesi"],
+    "is": ["asliye", "hukuk", "İş mahkemesi"],
+    "aile": ["asliye", "hukuk", "Aile mahkemesi"],
+    "tuketici": ["tuketici", "hukuk", "Tüketici mahkemesi"],
+    "fikri": ["fikri", "hukuk", "Fikri ve sınai haklar mahkemesi"],
+    "ortaklik": ["ortaklik", "hukukMaktu", "Ortaklığın giderilmesi davası"],
+    "icra-takip": ["icraDairesi", "icra", "İcra dairesinde takip"],
+    "tahliye-takip": ["tahliyeTakip", "icraMaktu", "Tahliyeye ilişkin icra takibi"],
+    "icra-mah-is": ["icraMahIs", "icraMah", "İcra mahkemesinde takip edilen iş"],
+    "icra-mah-dava": ["icraMahDava", "icraMah", "İcra mahkemesinde dava ya da duruşmalı iş"],
+    "istihkak": ["icraMahDava", "istihkak", "İcra mahkemesinde istihkak davası"],
+    "idare-durusmasiz": ["idareDurusmasiz", "idare", "İdare mahkemesi, duruşmasız"],
+    "idare-durusmali": ["idareDurusmali", "idare", "İdare mahkemesi, duruşmalı"],
+    "vergi-durusmasiz": ["vergiDurusmasiz", "vergi", "Vergi mahkemesi, duruşmasız"],
+    "vergi-durusmali": ["vergiDurusmali", "vergi", "Vergi mahkemesi, duruşmalı"],
+    "sorusturma": ["sorusturma", "maktu", "Ceza soruşturması"],
+    "sulh-ceza": ["sulhCeza", "maktu", "Sulh ceza / infaz hâkimliği"],
+    "asliye-ceza": ["asliye", "maktu", "Asliye ceza mahkemesi"],
+    "cocuk": ["cocuk", "maktu", "Çocuk mahkemesi"],
+    "agir-ceza": ["agirCeza", "maktu", "Ağır ceza mahkemesi"],
+    "istinaf-bir": ["istinafBir", "maktu", "İstinaf, bir duruşmalı iş"],
+    "istinaf-cok": ["istinafCok", "maktu", "İstinaf, birden fazla duruşma ya da keşif"],
+    "temyiz": ["temyizDurusma", "maktu", "Temyiz duruşması"],
+    "ihtiyati-durusmasiz": ["ihtiyatiDurusmasiz", "maktu", "Dava dışında ihtiyati haciz/tedbir, delil tespiti (duruşmasız)"],
+    "ihtiyati-durusmali": ["ihtiyatiDurusmali", "maktu", "Dava dışında ihtiyati haciz/tedbir, delil tespiti (duruşmalı)"]
+  };
+  var NISPI_TIPLER = { hukuk: 1, icra: 1, icraMah: 1, istihkak: 1, idare: 1 };
+
+  function sira(k) {
+    var p = k.split("-");
+    return (p[0] === "2/1" ? "İkinci kısım birinci bölüm " : "İkinci kısım ikinci bölüm ") + p[1] + ". sıra" + (p[2] ? " (" + p[2] + ")" : "");
+  }
+
+  function nispi(tutar, T) {
+    var kalan = tutar, alt = 0, toplam = 0, adimlar = [];
+    for (var i = 0; i < T.dilimler.length && kalan > 0; i++) {
+      var d = T.dilimler[i], pay = Math.min(kalan, d.tutar), u = pay * d.oran / 100;
+      adimlar.push([HA.tl(alt) + " – " + HA.tl(alt + pay) + " (%" + HA.bicim(d.oran, 0) + ")", HA.tl(u)]);
+      toplam += u; kalan -= pay; alt += pay;
+    }
+    if (kalan > 0) {
+      var s = kalan * T.sonOran / 100;
+      adimlar.push([HA.tl(alt) + " üzeri (%" + HA.bicim(T.sonOran, 0) + ")", HA.tl(s)]);
+      toplam += s;
+    }
+    return { toplam: HA.yuvarla(toplam), adimlar: adimlar };
+  }
+
+  HA.bagla(document.getElementById("vekalet-form"), document.getElementById("vekalet-sonuc"), function (f) {
+    var tur = TURLER[f.deger("tur")];
+    if (!tur) throw new Error("Mahkeme ya da iş türünü seçin.");
+    var bugun = HA.tarih(new Date());
+    var hukum = f.deger("hukum") ? f.tarih("hukum", "Karar tarihi") : bugun;
+    var kayit = HA.donem(HV.ucret.aaut, hukum);
+    if (!kayit) throw new Error("Bu karar tarihinde önceki bir tarife yürürlükteydi. Araç yalnızca 4 Kasım 2025'te yürürlüğe giren tarifeyle hesap yapar.");
+    var T = kayit.deger, m = T.maktu[tur[0]], tip = tur[1];
+    var tutar = f.deger("tutar") ? f.sayi("tutar", "Tutar") : null;
+    if (tutar !== null && tutar <= 0) throw new Error("Tutar sıfırdan büyük olmalı.");
+    if (tip === "icra" && tutar === null) throw new Error("İcra takibi için takip miktarını girin.");
+
+    var satirlar = [["İş türü", tur[2]], ["Tarifedeki yeri", sira(m.kisim)], ["Maktu ücret", HA.tl(m.tutar)]];
+    var notlar = [];
+    var ucret, gerekce;
+    var nispiVar = tutar !== null && NISPI_TIPLER[tip];
+
+    if (tutar !== null && !NISPI_TIPLER[tip]) {
+      notlar.push("Bu iş türünde tarife yalnızca maktu ücret öngörür; girdiğiniz tutar hesaba katılmadı.");
+    }
+
+    if (nispiVar) {
+      satirlar.push(["Tutar", HA.tl(tutar)]);
+      var n = nispi(tutar, T);
+      n.adimlar.forEach(function (a) { satirlar.push(["Üçüncü kısım: " + a[0], a[1]]); });
+      satirlar.push(["Nispi ücret (üçüncü kısım toplamı)", HA.tl(n.toplam)]);
+      if (tip === "icra") {
+        if (tutar <= T.icraEsik) {
+          ucret = m.tutar;
+          gerekce = "Takip miktarı " + HA.tl(T.icraEsik) + "'ye kadar olduğundan icra dairesi maktu ücreti uygulanır (m. 11/1).";
+        } else {
+          ucret = n.toplam;
+          gerekce = "Takip miktarı " + HA.tl(T.icraEsik) + "'yi aştığından üçüncü kısma göre hesaplanır (m. 11/1).";
+        }
+      } else if (tip === "icraMah") {
+        ucret = m.tutar;
+        gerekce = "İcra mahkemesinde üçüncü kısma göre ücret bu sıradaki tutarı geçemez (m. 11/3); maktu ücretin altında da kalamaz (m. 13/1). Bu nedenle ücret maktu tutara eşittir.";
+      } else if (f.secili("tamamenRet")) {
+        ucret = m.tutar;
+        gerekce = "Tazminat davasının tamamen reddinde ikinci kısma göre maktu ücrete hükmedilir (m. 13/4, m. 10/3).";
+      } else if (n.toplam < m.tutar) {
+        ucret = m.tutar;
+        gerekce = "Nispi ücret maktu ücretin altında kaldığı için maktu ücret uygulanır (m. 13/1).";
+      } else {
+        ucret = n.toplam;
+        gerekce = "Nispi ücret maktu ücretten az olmadığı için nispi ücret uygulanır (m. 13/1).";
+      }
+    } else {
+      ucret = m.tutar;
+      gerekce = tutar === null && NISPI_TIPLER[tip] ? "Tutar girilmediği için konusu para olmayan iş sayıldı ve maktu ücret alındı." : "Bu iş için tarifedeki maktu ücret uygulanır.";
+    }
+    satirlar.push(["Uygulanan kural", gerekce]);
+
+    if (f.secili("erken")) {
+      if (tip === "hukuk" || tip === "hukukMaktu" || tip === "istihkak") {
+        ucret = ucret / 2;
+        satirlar.push(["Ön inceleme öncesi sona erme (m. 6): yarısı", HA.tl(ucret)]);
+      } else if (tip === "idare" || tip === "vergi") {
+        ucret = ucret / 2;
+        satirlar.push(["Birinci savunma süresi bitmeden sona erme (m. 15): yarısı", HA.tl(ucret)]);
+      } else {
+        notlar.push("Erken sona ermeye ilişkin yarı ücret kuralı (m. 6, m. 15) bu iş türünde uygulanmadı.");
+      }
+    }
+    if (f.secili("odeme")) {
+      if (tip === "icra" || tip === "icraMaktu") {
+        ucret = ucret * 3 / 4;
+        satirlar.push(["Ödeme süresinde ödeme (m. 11/4-5): dörtte üçü", HA.tl(ucret)]);
+      } else {
+        notlar.push("Ödeme süresinde ödeme indirimi yalnızca icra takiplerinde uygulanır; bu seçenek hesaba katılmadı.");
+      }
+    }
+    if (f.secili("tamamenRet") && !(nispiVar && tip !== "icra" && tip !== "icraMah")) {
+      notlar.push("Tamamen ret seçeneği yalnızca tutar girilen hukuk ve idari yargı davalarında sonucu değiştirir.");
+    }
+    if (tutar !== null && NISPI_TIPLER[tip] && ucret > tutar) {
+      ucret = tutar;
+      satirlar.push([tip === "icra" ? "Asıl alacağı geçemez (m. 11/1)" : "Kabul ya da reddedilen miktarı geçemez (m. 13/2)", HA.tl(ucret)]);
+    }
+    ucret = HA.yuvarla(ucret);
+    satirlar.push(["Tarifeye göre en az vekâlet ücreti", HA.tl(ucret), "vurgu"]);
+
+    notlar.push("Mahkeme, avukatın emeği, işin önemi ve davanın süresine göre bu tutarın üç katına kadar ücrete hükmedebilir (m. 3/1).");
+    if (tip === "hukuk" && tutar !== null) notlar.push("Kısmen kabul kararında kabul edilen kısım için davacı lehine, reddedilen kısım için davalı lehine ayrı hesap yapılır; davalı lehine ücret davacı lehine belirlenen ücreti geçemez (m. 13/3).");
+    if (tip === "icra") notlar.push("Ücretin sınırı asıl alacaktır; takip miktarına faiz ve giderler dahilse sınırı asıl alacağa göre kontrol edin.");
+    notlar.push("Hesap " + T.ad + " ile yapıldı.");
+    return { baslik: "Yasal vekâlet ücreti", ana: ["Tarifeye göre en az", HA.tl(ucret)], satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>

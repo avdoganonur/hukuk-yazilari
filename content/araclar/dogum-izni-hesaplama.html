@@ -1,0 +1,100 @@
+---
+baslik: "Doğum izni hesaplama: analık izni başlangıç ve bitiş tarihi"
+kisa_ad: "Doğum izni"
+aciklama: "Tahmini doğum tarihine göre işçi ve memurlar için doğum öncesi ve sonrası analık izninin başlangıç ve bitiş tarihlerini hesaplar."
+grup: is
+sira: 70
+guncelleme: 2026-10-19
+ilgili_yazilar: [dogum-izni-ve-sut-izni, dogum-borclanmasi]
+kaynaklar:
+  - ad: "4857 sayılı İş Kanunu m. 74 ve ek m. 2"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4857&MevzuatTur=1&MevzuatTertip=5"
+    not: "7578 sayılı Kanunla (yürürlük 1/5/2026) doğum öncesi 8, sonrası 16, toplam 24 hafta; çoğul gebelikte +2 hafta; babalık izni 10 gün"
+  - ad: "657 sayılı Devlet Memurları Kanunu m. 104"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=657&MevzuatTur=1&MevzuatTertip=5"
+    not: "Memurlar için aynı süreler (7578 sayılı Kanun m. 2, yürürlük 1/5/2026); babalık izni 10 gün"
+nasil: |
+  22/4/2026 tarihli 7578 sayılı Kanun, 1 Mayıs 2026'dan itibaren analık iznini uzattı. İş Kanunu'nun 74. maddesine göre kadın işçi doğumdan önce 8, doğumdan sonra 16 hafta olmak üzere toplam 24 hafta çalıştırılamaz (önceki düzenlemede doğum sonrası 8, toplam 16 haftaydı). Çoğul gebelikte doğum öncesi 8 haftaya 2 hafta eklenir. Sağlık durumu uygunsa hekim onayıyla işçi doğumdan önceki 2 haftaya kadar çalışabilir (önceden 3 hafta); çalıştığı süre doğum sonrasına eklenir. Erken doğumda doğumdan önce kullanılamayan süre de doğum sonrasına eklenir.
+
+  Memurlar için 657 sayılı Kanun'un 104. maddesi aynı süreleri öngörür: doğumdan önce 8, sonra 16, toplam 24 hafta; çoğul gebelikte doğum öncesine 2 hafta eklenir; tabip raporuyla doğumdan önceki 2 haftaya kadar çalışılabilir, çalışılan süre ve erken doğumda kullanılamayan süre doğum sonrasına eklenir.
+
+  Araç izin başlangıcını tahmini doğum tarihinden geriye doğru sayar. Gerçek doğum tarihini girerseniz doğum sonrası süreyi ona göre yeniden hesaplar. Doğum geç gerçekleşirse doğum sonrası 16 hafta yine doğumdan itibaren sayılır.
+
+  Babanın, eşinin doğum yapması hâlinde 10 gün ücretli izin hakkı vardır (İş Kanunu ek m. 2, 7578 sayılı Kanunla 5 günden 10 güne çıktı; memurlar için 657 m. 104/B). Kanun bu iznin başlangıç gününü belirlemediği için araç yalnızca süreyi gösterir.
+
+  Araç hekim raporuyla artırılan süreleri, doğum sonrası yarım çalışma ve ücretsiz izin haklarını, süt iznini ve SGK'dan ödenecek geçici iş göremezlik ödeneğini hesaplamaz. Doğum öncesi izni 1 Mayıs 2026'dan önce başlamış olanlar için geçiş durumu ayrıca değerlendirilmelidir.
+---
+<form class="arac-form" id="dogum-form" novalidate>
+  <fieldset>
+    <legend>Çalışma statüsü</legend>
+    <div class="secimler">
+      <label class="secim"><input type="radio" name="statu" value="isci" checked> İşçi (4857 sayılı Kanun)</label>
+      <label class="secim"><input type="radio" name="statu" value="memur"> Memur (657 sayılı Kanun)</label>
+    </div>
+  </fieldset>
+  <div class="alan">
+    <label for="tahmini">Tahmini doğum tarihi</label>
+    <input id="tahmini" name="tahmini" type="date" required>
+  </div>
+  <label class="secim"><input type="checkbox" name="cogul"> Çoğul gebelik (ikiz, üçüz)</label>
+  <div class="alan">
+    <label for="calisma">Hekim onayıyla doğum öncesinde çalışılacak hafta (isteğe bağlı)</label>
+    <input id="calisma" name="calisma" type="number" min="0" max="8" step="1" value="0" inputmode="numeric">
+    <p class="ipucu">Doğum öncesi izin en az 2 hafta kalmalıdır. Çalışılan süre doğum sonrasına eklenir.</p>
+  </div>
+  <div class="alan">
+    <label for="gercek">Gerçek doğum tarihi (doğum gerçekleştiyse)</label>
+    <input id="gercek" name="gercek" type="date">
+  </div>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="dogum-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var YURURLUK = HA.tarih("2026-05-01");
+  HA.bagla(document.getElementById("dogum-form"), document.getElementById("dogum-sonuc"), function (f) {
+    var memur = ((document.querySelector('#dogum-form input[name="statu"]:checked') || {}).value === "memur");
+    var tahmini = f.tarih("tahmini", "Tahmini doğum tarihi");
+    var cogul = f.secili("cogul");
+    var once = cogul ? 10 : 8, sonra = 16;
+    var calisma = f.sayiVarsa("calisma", 0);
+    if (calisma < 0 || Math.floor(calisma) !== calisma) throw new Error("Çalışılacak hafta için 0 ya da pozitif tam sayı girin.");
+    if (calisma > once - 2) throw new Error("Doğumdan önceki son 2 hafta çalışılamaz; en fazla " + (once - 2) + " hafta girebilirsiniz.");
+    var gercek = f.deger("gercek") ? f.tarih("gercek", "Gerçek doğum tarihi") : null;
+    if (gercek && Math.abs(HA.gunFarki(tahmini, gercek)) > 140) throw new Error("Gerçek doğum tarihi tahmini tarihten çok uzak; tarihleri kontrol edin.");
+
+    var basla = HA.gunEkle(tahmini, -7 * (once - calisma));
+    var toplamGun = 7 * (once + sonra);
+    var dogum = gercek || tahmini;
+    var izinBasi = dogum < basla ? dogum : basla;
+    var onceKullanilan = HA.gunFarki(izinBasi, dogum);
+    var sonraGun = Math.max(7 * sonra, toplamGun - onceKullanilan);
+    var donus = HA.gunEkle(dogum, sonraGun);
+    var son = HA.gunEkle(donus, -1);
+
+    var satirlar = [
+      ["Dayanak", memur ? "657 s. K. m. 104/A" : "4857 s. K. m. 74"],
+      ["Kanuni süre (önce + sonra)", once + " + " + sonra + " = " + (once + sonra) + " hafta"],
+      ["Doğum öncesi izin başlangıcı", HA.tarihYaz(izinBasi, true), "vurgu"],
+      [gercek ? "Doğum tarihi" : "Tahmini doğum tarihi", HA.tarihYaz(dogum, true)],
+      ["Doğum öncesi kullanılan izin", onceKullanilan + " gün"],
+      ["Doğum sonrası izin", sonraGun + " gün"],
+      ["İznin son günü", HA.tarihYaz(son, true), "vurgu"],
+      ["İşe dönüş günü", HA.tarihYaz(donus, true)],
+      ["Babalık izni (" + (memur ? "657 m. 104/B" : "4857 ek m. 2") + ")", "10 gün"]
+    ];
+    var notlar = [];
+    if (calisma) notlar.push("Doğum öncesinde çalışılan " + calisma + " hafta doğum sonrası süreye eklendi.");
+    if (gercek && gercek < basla) notlar.push("Doğum, izin başlangıcından önce gerçekleştiği için doğum öncesi kullanılamayan süre doğum sonrasına eklendi.");
+    else if (gercek && gercek < tahmini) notlar.push("Erken doğum nedeniyle doğum öncesi kullanılamayan " + HA.gunFarki(gercek, tahmini) + " gün doğum sonrasına eklendi.");
+    if (gercek && gercek > tahmini) notlar.push("Doğum tahmini tarihten sonra gerçekleştiği için doğum öncesi izin uzadı; doğum sonrası 16 hafta doğumdan itibaren sayıldı.");
+    if (!gercek) notlar.push("Tarihler tahmini doğum tarihine göredir. Doğum gerçekleşince gerçek tarihi girerek yeniden hesaplayın.");
+    if (izinBasi < YURURLUK) notlar.push("İzin 1 Mayıs 2026'dan önce başlıyor. Bu araç 7578 sayılı Kanun'la getirilen güncel süreleri uygular; önceki düzenlemeyle başlayan izinlerde geçiş durumu ayrıca değerlendirilmelidir.");
+    notlar.push("Hekim raporuyla süreler artırılabilir. Babalık izninin hangi günlerde kullanılacağını kanun belirlemez.");
+    return { baslik: "Analık (doğum) izni", ana: ["İzin dönemi", HA.tarihYaz(izinBasi) + " – " + HA.tarihYaz(son)], satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>

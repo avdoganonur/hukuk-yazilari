@@ -1,0 +1,111 @@
+---
+baslik: "Yurt dışı borçlanması hesaplama: 2026 borç tutarı"
+kisa_ad: "Yurt dışı borçlanması"
+aciklama: "Yurt dışında geçen sigortalılık, işsizlik ve ev kadınlığı sürelerini borçlanmak için ödenecek tutarı 3201 sayılı Kanuna göre hesaplar."
+grup: sgk
+sira: 30
+guncelleme: 2026-10-19
+veri: [sgk]
+ilgili_yazilar: [yurtdisi-borclanmasi, askerlik-borclanmasi, dogum-borclanmasi]
+kaynaklar:
+  - ad: "3201 sayılı Yurt Dışında Bulunan Türk Vatandaşlarının Yurt Dışında Geçen Sürelerinin Sosyal Güvenlikleri Bakımından Değerlendirilmesi Hakkında Kanun m. 1, 4, 5"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3201&MevzuatTur=1&MevzuatTertip=5"
+    not: "Borçlanılabilecek süreler; günlük borç = seçilen günlük kazancın %45'i (7186 sayılı Kanunla, 1/8/2019'dan beri); üç aylık ödeme süresi; sürelerin 4/b kapsamında sayılması"
+  - ad: "5510 sayılı Kanun m. 82"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5510&MevzuatTur=1&MevzuatTertip=5"
+    not: "Prime esas günlük kazancın alt sınırı (asgari ücretin otuzda biri) ve üst sınırı (alt sınırın 9 katı)"
+  - ad: "SGK Genelgesi 2026/2 (07/01/2026): Prime Esas Kazançların Alt ve Üst Sınırları ile Bazı İşlemlere Esas Tutarlar"
+    url: "https://www.ismmmo.org.tr/dosya/5846/Mevzuat-Dosya/09012026-2026-2-prime-esas-kazanclar.pdf"
+    not: "2026 günlük alt sınır 1.101,00 TL, üst sınır 9.909,00 TL; 3201 sayılı Kanun için günlük borç 495,45 – 4.459,05 TL (genelgenin İSMMMO'da yayımlanan örneği)"
+nasil: |
+  3201 sayılı Kanuna göre Türk vatandaşlarının (doğumla Türk vatandaşı olup izin alarak vatandaşlıktan çıkanlar dahil) 18 yaşını doldurduktan sonra Türk vatandaşı olarak yurt dışında geçen ve belgelenen sigortalılık süreleri borçlanılabilir. Bu sigortalılık sürelerinin arasında ya da sonunda geçen ve her biri bir yıla kadar olan işsizlik süreleri ile yurt dışında ev kadını olarak geçen süreler de borçlanılabilir. Bu süreler için Türkiye'deki sosyal güvenlik kuruluşlarına prim ödenmemiş olması gerekir (m. 1).
+
+  Borç tutarı = borçlanılacak gün sayısı × seçilen günlük kazanç × %45 (m. 4). Günlük kazanç, başvuru tarihindeki prime esas günlük kazanç alt ve üst sınırları arasında seçilir. 2026'da bu sınırlar 1.101,00 TL ve 9.909,00 TL'dir; bir günlük borç 495,45 TL ile 4.459,05 TL arasındadır. Oran 1 Ağustos 2019'dan beri %45'tir. Kanun, alt sınırı farklı belirleme yetkisini Cumhurbaşkanına verir; 2026 için SGK genelgesindeki tutar alt sınırın %45'ine eşittir.
+
+  Gün sayısı, belgelerdeki tarihlere göre son tarihten geriye doğru belirlenir; bir yıl 360, bir ay 30 gün sayılır (m. 5). Borçlanılan süreler 5510 sayılı Kanunun 4/1-(b) bendi kapsamında, yani bağımsız çalışan sigortalılığı olarak sayılır. Borç, tebliğden itibaren üç ay içinde ödenmelidir; ödenmezse yeniden başvuru gerekir. Yurt dışındayken başvuranlar TL olarak bildirilen tutarın karşılığını döviz cinsinden öder.
+
+  Araç yalnızca 2026 içindeki başvurular için hesap yapar. Kısmi aylık, sosyal güvenlik sözleşmesi hükümleri, borçlanmadan vazgeçilmesi hâlinde iade ve kurların etkisi hesaba katılmaz.
+---
+<form class="arac-form" id="yurtdisi-form" novalidate>
+  <div class="alan-cift">
+    <div class="alan">
+      <label for="basvuru">Başvuru tarihi</label>
+      <input id="basvuru" name="basvuru" type="date" min="2026-01-01" max="2026-12-31">
+      <p class="ipucu">Sınırlar başvuru tarihine göre belirlenir. Araç 2026 başvurularını hesaplar.</p>
+    </div>
+    <div class="alan">
+      <label for="gun">Borçlanılacak gün sayısı</label>
+      <input id="gun" name="gun" type="number" min="1" max="36000" step="1" inputmode="numeric" placeholder="Örn. 1800">
+      <p class="ipucu">Sigortalılık, işsizlik ve ev kadınlığı sürelerinin toplamı ya da borçlanmak istediğiniz kısmı. Bir yıl 360 gün sayılır.</p>
+    </div>
+  </div>
+  <fieldset>
+    <legend>Günlük kazanç seçimi</legend>
+    <div class="secimler">
+      <label class="secim"><input type="radio" name="kazanc" value="alt" checked> Alt sınır</label>
+      <label class="secim"><input type="radio" name="kazanc" value="ust"> Üst sınır</label>
+      <label class="secim"><input type="radio" name="kazanc" value="ozel"> Başka bir tutar</label>
+    </div>
+    <div class="alan">
+      <label for="ozel">Seçtiğiniz günlük kazanç</label>
+      <input id="ozel" name="ozel" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 2.000">
+      <p class="ipucu">Yalnızca "Başka bir tutar" seçiliyse kullanılır; alt ve üst sınır arasında olmalı.</p>
+    </div>
+  </fieldset>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="yurtdisi-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var form = document.getElementById("yurtdisi-form");
+  function bugun() {
+    var d = new Date(), s = d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+    return s >= "2026-01-01" && s <= HV.sgk.sonGecerlilik ? s : "";
+  }
+  form.elements.basvuru.value = bugun();
+  form.addEventListener("reset", function () { setTimeout(function () { form.elements.basvuru.value = bugun(); }, 0); });
+
+  HA.bagla(form, document.getElementById("yurtdisi-sonuc"), function (f) {
+    var t = f.tarih("basvuru", "Başvuru tarihi");
+    var son = HA.tarih(HV.sgk.sonGecerlilik);
+    var alt = HA.donem(HV.sgk.pekAlt, t), ust = HA.donem(HV.sgk.pekUst, t), oran = HA.donem(HV.sgk.oran3201, t);
+    if (!alt || !ust || !oran || t > son) throw new Error("Araç yalnızca 1 Ocak 2026 – " + HA.tarihYaz(son) + " arasındaki başvurular için hesap yapar.");
+    var gun = f.sayi("gun", "Borçlanılacak gün sayısı");
+    if (gun < 1 || Math.floor(gun) !== gun) throw new Error("Borçlanılacak gün sayısı için 1 ya da daha büyük bir tam sayı girin.");
+    var secim = f.deger("kazanc");
+    var kazanc;
+    if (secim === "ust") kazanc = ust.deger;
+    else if (secim === "ozel") {
+      kazanc = f.sayi("ozel", "Seçtiğiniz günlük kazanç");
+      if (kazanc < alt.deger || kazanc > ust.deger)
+        throw new Error("Günlük kazanç " + HA.tl(alt.deger) + " ile " + HA.tl(ust.deger) + " arasında olmalı.");
+    } else kazanc = alt.deger;
+    var gunluk = HA.yuvarla(kazanc * oran.deger);
+    var toplam = HA.yuvarla(gun * kazanc * oran.deger);
+    var yil = Math.floor(gun / 360), ay = Math.floor((gun % 360) / 30), kgun = gun % 30;
+    return {
+      baslik: "Yurt dışı borçlanması tutarı",
+      ana: ["Ödenecek toplam borç", HA.tl(toplam)],
+      satirlar: [
+        ["Başvuru tarihi", HA.tarihYaz(t)],
+        ["Borçlanılacak süre", HA.bicim(gun, 0) + " gün (" + yil + " yıl " + ay + " ay " + kgun + " gün)"],
+        ["Günlük kazanç sınırları", HA.tl(alt.deger) + " – " + HA.tl(ust.deger)],
+        ["Seçilen günlük kazanç", HA.tl(kazanc)],
+        ["Borçlanma oranı (3201 m. 4)", HA.yuzde(oran.deger * 100, 0)],
+        ["Bir günlük borç", HA.tl(gunluk)],
+        ["Toplam borç (gün × kazanç × oran)", HA.tl(toplam), "vurgu"],
+        ["Aynı süre alt sınırdan", HA.tl(HA.yuvarla(gun * alt.deger * oran.deger))],
+        ["Aynı süre üst sınırdan", HA.tl(HA.yuvarla(gun * ust.deger * oran.deger))]
+      ],
+      notlar: [
+        "Borç, tebliğden itibaren üç ay içinde ödenmelidir; ödenmezse yeniden başvuru gerekir.",
+        "Borçlanılan süreler 5510 sayılı Kanunun 4/1-(b) bendi kapsamında sigortalılık süresi sayılır.",
+        "Yurt dışındayken ödeme, TL tutarın döviz karşılığıyla yapılır; kur farkı hesaba katılmamıştır. Tutarı Kurum tebliğ eder."
+      ]
+    };
+  });
+})();
+</script>

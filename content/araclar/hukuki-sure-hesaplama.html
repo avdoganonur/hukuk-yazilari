@@ -1,0 +1,177 @@
+---
+baslik: "Hukuki süre hesaplama: tebliğden son güne"
+kisa_ad: "Süre hesaplama"
+aciklama: "Tebliğ tarihine gün, hafta, ay ya da yıl olarak süre ekleyip hafta sonu, resmî tatil ve adli tatile göre son günü bulur."
+grup: sure-faiz
+sira: 10
+guncelleme: 2026-10-19
+veri: [tatil]
+ilgili_yazilar: [hukuk-davalarinda-istinaf-ve-temyiz-sureleri, ceza-kararlarina-istinaf-suresi, vergi-mahkemesinde-dava-acma-suresi, idari-islemin-iptali-davasi, tebligatin-usulsuzlugu]
+kaynaklar:
+  - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 90–93, 102–104"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
+    not: "Sürelerin başlaması ve bitmesi, tatil günlerinin etkisi, adli tatil"
+  - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 39 ve 331"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5"
+    not: "Ceza muhakemesinde sürelerin hesabı ve adli tatil"
+  - ad: "2577 sayılı İdari Yargılama Usulü Kanunu m. 8 ve 61"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2577&MevzuatTur=1&MevzuatTertip=5"
+    not: "İdari yargıda sürelerin hesabı ve çalışmaya ara verme"
+  - ad: "2429 sayılı Ulusal Bayram ve Genel Tatiller Hakkında Kanun m. 1–3"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2429&MevzuatTur=1&MevzuatTertip=5"
+    not: "Resmî bayramlar, genel tatiller, arefe günlerinin yarım gün olması"
+  - ad: "Diyanet İşleri Başkanlığı, dini günler takvimi"
+    url: "https://mobil.diyanet.gov.tr/mobile/dinigunler/dinigunler.html"
+    not: "2025, 2026 ve 2027 Ramazan ve Kurban Bayramı tarihleri"
+nasil: |
+  **Hukuk davaları (HMK).** Süre tebliğ ya da tefhim tarihinden başlar (m. 91). Gün olarak belirlenen sürede tebliğ günü hesaba katılmaz; 15 Mart'ta tebliğ edilen iki haftalık sürede son gün 29 Mart, on günlük sürede 25 Mart'tır. Hafta, ay ve yıl olarak belirlenen süre, son hafta, ay ya da yıl içinde başlangıç gününe karşılık gelen günde biter; o ayda karşılık gelen gün yoksa (31 Ocak + 1 ay gibi) ayın son günü esas alınır (m. 92). Tatil günleri süreye dahildir; yalnızca son gün tatile denk gelirse süre izleyen ilk iş gününün çalışma saati sonunda biter (m. 93).
+
+  **Adli tatil.** Adli tatil 20 Temmuz'da başlar, 31 Ağustos'ta biter (m. 102). Adli tatile tabi bir işte süre tatil içinde biterse, adli tatilin bittiği günden itibaren bir hafta uzar (m. 104); araç bu durumda son günü 7 Eylül, o gün tatilse izleyen iş günü olarak gösterir. Nafaka, işçi davaları, ihtiyati tedbir gibi m. 103'te sayılan işler adli tatilde de görüldüğü için bu uzama onlarda uygulanmaz.
+
+  **Ceza (CMK).** Gün olarak belirlenen süre tebliğin ertesi günü başlar; hafta ve ay olarak belirlenen süre karşılık gelen günün mesai bitiminde sona erer; son gün tatile rastlarsa süre tatilin ertesi günü biter (m. 39). Adli tatile rastlayan süreler tatilin bittiği günden itibaren üç gün uzatılmış sayılır (m. 331/4); araç son günü 3 Eylül olarak gösterir.
+
+  **İdari yargı (İYUK).** Süre tebliği izleyen günden başlar, son gün tatilse izleyen çalışma gününün bitimine kadar uzar (m. 8). Süre çalışmaya ara verme döneminde (20 Temmuz–31 Ağustos) biterse, ara vermenin sona erdiği günü izleyen tarihten itibaren yedi gün uzar; araç bunu 1 Eylül'den başlayarak yedinci gün, yani 7 Eylül olarak hesaplar.
+
+  **Arefe günleri.** Ramazan ve Kurban Bayramı arefesi ile 28 Ekim, saat 13.00'ten sonrası tatil olan yarım günlerdir (2429 m. 1 ve 2). Kanun, son günün yarım güne denk gelmesi hâlini ayrıca düzenlemez. Araç bu günleri tam iş günü sayar ve süreyi uzatmaz; son gün yarım güne denk gelirse işlemi öğleden önce yapmak en güvenli yoldur.
+
+  Araç cumartesi ve pazarı tatil sayar. İcra ve iflas süreleri (İİK), vergi usulü süreleri, idari izin (köprü) günleri ve hâkimin belirlediği özel süreler hesaba katılmaz. Tatil listesi 2025–2027 yılları içindir.
+---
+<form class="arac-form" id="sure-form" novalidate>
+  <div class="alan">
+    <label for="yargi">Yargı türü</label>
+    <select id="yargi" name="yargi">
+      <option value="hmk">Hukuk davası (HMK)</option>
+      <option value="cmk">Ceza muhakemesi (CMK)</option>
+      <option value="iyuk">İdari yargı (İYUK)</option>
+    </select>
+  </div>
+  <div class="alan">
+    <label for="baslangic">Tebliğ ya da başlangıç tarihi</label>
+    <input id="baslangic" name="baslangic" type="date" min="2025-01-01" max="2027-12-31">
+    <p class="ipucu">Kararın tebliğ ya da tefhim edildiği gün. 2025–2027 arası tarihler hesaplanır.</p>
+  </div>
+  <div class="alan-cift">
+    <div class="alan">
+      <label for="miktar">Süre</label>
+      <input id="miktar" name="miktar" type="number" min="1" max="400" step="1" value="2" inputmode="numeric">
+    </div>
+    <div class="alan">
+      <label for="birim">Birim</label>
+      <select id="birim" name="birim">
+        <option value="gun">Gün</option>
+        <option value="hafta" selected>Hafta</option>
+        <option value="ay">Ay</option>
+        <option value="yil">Yıl</option>
+      </select>
+    </div>
+  </div>
+  <label class="secim"><input type="checkbox" name="adli" checked> Adli tatil uygulansın (iş adli tatile tabi)</label>
+  <p class="ipucu">HMK m. 103'te sayılan, adli tatilde de görülen işlerde (nafaka, işçi davaları, ihtiyati tedbir gibi) bu kutuyu kaldırın.</p>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="sure-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var T = HV.tatil;
+  var tam = {}, yarim = {};
+  T.tam.forEach(function (x) { tam[x.tarih] = x.ad; });
+  T.yarim.forEach(function (x) { yarim[x.tarih] = x.ad; });
+  var ILK = HA.tarih(T.ilkYil + "-01-01"), SON = HA.tarih(T.sonYil + "-12-31");
+
+  function tatilMi(d) {
+    var g = d.getUTCDay(), k = HA.iso(d);
+    if (tam[k]) return tam[k];
+    if (g === 6) return "Cumartesi";
+    if (g === 0) return "Pazar";
+    return null;
+  }
+  function sinirda(d) {
+    if (d > SON) throw new Error("Son gün " + T.sonYil + " yılından sonraya düşüyor; tatil listesi yalnızca " + T.ilkYil + "–" + T.sonYil + " yılları için hazır.");
+  }
+  /* Son gün tatilse izleyen ilk iş gününe kaydırır; atlanan günleri listeye ekler. */
+  function isGunune(d, atlanan) {
+    var neden;
+    while ((neden = tatilMi(d))) {
+      atlanan.push(["Atlanan tatil: " + neden, HA.tarihYaz(d)]);
+      d = HA.gunEkle(d, 1);
+      sinirda(d);
+    }
+    return d;
+  }
+  function adliTatilde(d) {
+    var y = d.getUTCFullYear();
+    return d >= HA.tarih(y + "-" + T.adliTatil.baslangic) && d <= HA.tarih(y + "-" + T.adliTatil.bitis);
+  }
+
+  var ADLAR = { hmk: "HMK", cmk: "CMK", iyuk: "İYUK" };
+  var BIRIM = { gun: "gün", hafta: "hafta", ay: "ay", yil: "yıl" };
+
+  HA.bagla(document.getElementById("sure-form"), document.getElementById("sure-sonuc"), function (f) {
+    var yargi = f.deger("yargi"), birim = f.deger("birim");
+    var bas = f.tarih("baslangic", "Tebliğ ya da başlangıç tarihi");
+    if (bas < ILK || bas > SON) throw new Error("Başlangıç tarihi " + T.ilkYil + "–" + T.sonYil + " yılları arasında olmalı.");
+    var n = f.sayi("miktar", "Süre");
+    if (n < 1 || Math.floor(n) !== n) throw new Error("Süre için 1 ya da daha büyük bir tam sayı girin.");
+    if (yargi === "cmk" && birim === "yil") throw new Error("CMK m. 39 yalnızca gün, hafta ve ay olarak belirlenen süreleri düzenler. Süreyi ay olarak girin.");
+
+    var ham;
+    if (birim === "gun") ham = HA.gunEkle(bas, n);
+    else if (birim === "hafta") ham = HA.gunEkle(bas, 7 * n);
+    else if (birim === "ay") ham = HA.ayEkle(bas, n);
+    else ham = HA.yilEkle(bas, n);
+    sinirda(ham);
+
+    var satirlar = [
+      ["Yargı türü", ADLAR[yargi]],
+      ["Başlangıç (tebliğ) günü", HA.tarihYaz(bas, true)],
+      ["Süre", n + " " + BIRIM[birim]]
+    ];
+    if (birim === "gun") satirlar.push(["Süre işlemeye başlar", HA.tarihYaz(HA.gunEkle(bas, 1), true)]);
+    satirlar.push(["Takvime göre son gün", HA.tarihYaz(ham, true)]);
+    var notlar = [];
+    if ((birim === "ay" || birim === "yil") && ham.getUTCDate() !== bas.getUTCDate()) {
+      notlar.push("Son ayda başlangıç gününe karşılık gelen gün olmadığı için ayın son günü alındı.");
+    }
+
+    var atlanan = [];
+    var son = isGunune(ham, atlanan);
+    satirlar = satirlar.concat(atlanan);
+
+    var adli = f.secili("adli");
+    if (adli && adliTatilde(son)) {
+      var y = son.getUTCFullYear(), uz, acik;
+      if (yargi === "hmk") { uz = HA.tarih(y + "-09-07"); acik = "HMK m. 104: adli tatilin bittiği 31 Ağustos'tan itibaren bir hafta"; }
+      else if (yargi === "cmk") { uz = HA.tarih(y + "-09-03"); acik = "CMK m. 331/4: tatilin bittiği 31 Ağustos'tan itibaren üç gün"; }
+      else { uz = HA.tarih(y + "-09-07"); acik = "İYUK m. 8/3: ara vermenin bittiği günü izleyen 1 Eylül'den itibaren yedi gün"; }
+      satirlar.push(["Adli tatil uzatması (" + ADLAR[yargi] + ")", HA.tarihYaz(uz, true)]);
+      notlar.push("Son gün adli tatile denk geldi. " + acik + " uzatıldı.");
+      var atlanan2 = [];
+      son = isGunune(uz, atlanan2);
+      satirlar = satirlar.concat(atlanan2);
+      if (yargi === "cmk") notlar.push("CMK m. 331/4'teki 'adli tatile rastlayan süreler işlemez' ifadesinin kapsamı tartışmalıdır. Araç, yalnızca adli tatilde biten süreyi 3 Eylül'e uzatan ve daha erken sonuç veren yorumu uygular. Tatilde de görülen işlerde (örneğin tutuklu işler) uzamanın uygulanıp uygulanmadığını ayrıca kontrol edin.");
+      if (yargi === "iyuk") notlar.push("İYUK m. 61/1'e göre bölge idare mahkemesinin bulunduğu il dışında tek idare ya da vergi mahkemesi olan yerlerde çalışmaya ara verilmez; bu yerlerde kutuyu kaldırın. Yedi günlük uzama 1 Eylül'den sayıldı; 2 Eylül'den sayan yorum bir gün sonrasını verir.");
+    } else if (!adli && adliTatilde(son)) {
+      notlar.push("Son gün adli tatile denk geliyor, ancak adli tatil uygulanmadı.");
+    }
+
+    var k = HA.iso(son);
+    if (yarim[k]) notlar.push("Son gün " + yarim[k] + " (saat 13.00'ten sonrası tatil). Kanun bu durumu ayrıca düzenlemediği için araç bu günü tam iş günü saydı ve süreyi uzatmadı. İşlemi öğleden önce yapmanız en güvenlisidir.");
+    satirlar.push(["Sürenin son günü", HA.tarihYaz(son, true), "vurgu"]);
+
+    var bitis = yargi === "iyuk" ? "Süre bu günün çalışma saati bitiminde sona erer." : (yargi === "cmk" ? "Süre bu günün mesai saati bitiminde sona erer." : "Süre bu günün çalışma saati sonunda (tatil saatinde) sona erer.");
+    notlar.unshift(bitis);
+    notlar.push("Cumartesi, pazar ve " + T.ilkYil + "–" + T.sonYil + " resmî tatilleri hesaba katıldı. Sonuç, girdiğiniz tebliğ tarihinin doğru olmasına bağlıdır.");
+
+    return {
+      baslik: "Sürenin son günü",
+      ana: ["Son gün", HA.tarihYaz(son, true)],
+      basliklar: ["Adım", "Değer"],
+      satirlar: satirlar,
+      notlar: notlar
+    };
+  });
+})();
+</script>

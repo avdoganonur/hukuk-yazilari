@@ -1,0 +1,89 @@
+---
+baslik: "Fazla mesai hesaplama: fazla çalışma ve fazla sürelerle çalışma ücreti"
+kisa_ad: "Fazla mesai"
+aciklama: "Haftalık çalışma saatine göre fazla çalışma (%50) ve fazla sürelerle çalışma (%25) ücretini aylık brüt ücretten hesaplar."
+grup: is
+sira: 40
+guncelleme: 2026-10-19
+ilgili_yazilar: [fazla-calisma-ucreti-nasil-hesaplanir, fazla-mesai-ucreti-ve-serbest-zaman, hafta-tatili-ve-bayram-gunlerinde-calisma-ucreti]
+kaynaklar:
+  - ad: "4857 sayılı İş Kanunu m. 41 ve m. 63"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4857&MevzuatTur=1&MevzuatTertip=5"
+    not: "Haftalık 45 saat; fazla çalışmada %50, fazla sürelerle çalışmada %25 zam; yılda en çok 270 saat"
+nasil: |
+  İş Kanunu'nun 63. maddesine göre çalışma süresi haftada en çok 45 saattir. 41. maddeye göre haftalık 45 saati aşan çalışmalar fazla çalışmadır ve her bir saat için normal saat ücretinin yüzde elli fazlası ödenir.
+
+  Sözleşmede haftalık çalışma süresi 45 saatin altında belirlenmişse, sözleşmedeki süreyi aşan ve 45 saate kadar yapılan çalışmalar fazla sürelerle çalışmadır; bunlar için saat ücretinin yüzde yirmi beş fazlası ödenir. Araç, sözleşmedeki haftalık süreyi girerseniz iki türü ayrı ayrı hesaplar.
+
+  Saat ücreti, aylık brüt ücretin 225'e bölünmesiyle bulunur. 225 saat, aylık ücretin karşılığı olan 30 günün 45 saatlik haftanın 6 iş gününe bölünmesiyle bulunan günlük 7,5 saatle çarpımıdır. Sözleşmede haftalık süre 45 saatten az ise araç aynı yöntemle bölen olarak haftalık süre × 5 kullanır (örneğin 40 saat için 200).
+
+  Denkleştirme uygulanan işyerlerinde, ortalama haftalık süre 45 saati aşmadıkça bazı haftalarda 45 saatin aşılması fazla çalışma sayılmaz; araç denkleştirmeyi hesaba katmaz. İşçi isterse zamlı ücret yerine her fazla çalışma saati için bir buçuk saat, her fazla sürelerle çalışma saati için bir saat on beş dakika serbest zaman kullanabilir. Fazla çalışmanın toplamı yılda 270 saati aşamaz. Sonuç brüt tutardır; gelir vergisi, damga vergisi ve SGK kesintisi düşülmemiştir. Hafta tatili, bayram ve genel tatil çalışmaları ile gece çalışması ayrıca değerlendirilmelidir.
+---
+<form class="arac-form" id="fm-form" novalidate>
+  <div class="alan">
+    <label for="ucret">Aylık brüt ücret</label>
+    <input id="ucret" name="ucret" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 40.000" required>
+  </div>
+  <div class="alan-cift">
+    <div class="alan">
+      <label for="fiili">Haftalık fiili çalışma (saat)</label>
+      <input id="fiili" name="fiili" inputmode="decimal" autocomplete="off" placeholder="Örn. 55" required>
+      <p class="ipucu">Ara dinlenmeleri düşülmüş süre.</p>
+    </div>
+    <div class="alan">
+      <label for="hafta">Kaç hafta</label>
+      <input id="hafta" name="hafta" type="number" min="1" step="1" value="1" inputmode="numeric">
+    </div>
+  </div>
+  <label class="secim"><input type="checkbox" name="kisa" id="kisa"> Sözleşmede haftalık çalışma süresi 45 saatten az (fazla sürelerle çalışma)</label>
+  <div class="alan">
+    <label for="sozlesme">Sözleşmedeki haftalık çalışma süresi (saat)</label>
+    <input id="sozlesme" name="sozlesme" inputmode="decimal" autocomplete="off" placeholder="Örn. 40">
+    <p class="ipucu">Yalnızca yukarıdaki kutu işaretliyse kullanılır.</p>
+  </div>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="fm-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  HA.bagla(document.getElementById("fm-form"), document.getElementById("fm-sonuc"), function (f) {
+    var ucret = f.sayi("ucret", "Aylık brüt ücret");
+    if (ucret <= 0) throw new Error("Aylık brüt ücret sıfırdan büyük olmalı.");
+    var fiili = f.sayi("fiili", "Haftalık fiili çalışma");
+    if (fiili < 0 || fiili > 168) throw new Error("Haftalık fiili çalışma 0 ile 168 saat arasında olmalı.");
+    var hafta = f.sayiVarsa("hafta", 1);
+    if (hafta < 1 || Math.floor(hafta) !== hafta) throw new Error("Hafta sayısı için 1 ya da daha büyük tam sayı girin.");
+    var sozlesme = 45;
+    if (f.secili("kisa")) {
+      sozlesme = f.sayi("sozlesme", "Sözleşmedeki haftalık çalışma süresi");
+      if (sozlesme <= 0 || sozlesme >= 45) throw new Error("Sözleşmedeki haftalık süre 0'dan büyük, 45'ten küçük olmalı.");
+    }
+    var bolen = sozlesme * 5;
+    var saat = ucret / bolen;
+    var fc = Math.max(0, fiili - 45);
+    var fsc = Math.max(0, Math.min(fiili, 45) - sozlesme);
+    var fcTutar = HA.yuvarla(saat * 1.5 * fc * hafta);
+    var fscTutar = HA.yuvarla(saat * 1.25 * fsc * hafta);
+    var toplam = HA.yuvarla(fcTutar + fscTutar);
+    var satirlar = [
+      ["Saat ücreti (aylık / " + HA.bicim(bolen, bolen % 1 ? 1 : 0) + ")", HA.tl(saat)],
+      ["Fazla çalışma saat ücreti (%50 zamlı)", HA.tl(saat * 1.5)],
+      ["Haftalık fazla çalışma (45 saati aşan)", HA.bicim(fc, 1) + " saat"],
+      ["Fazla çalışma ücreti (" + hafta + " hafta)", HA.tl(fcTutar)]
+    ];
+    if (sozlesme < 45) {
+      satirlar.push(["Fazla sürelerle çalışma saat ücreti (%25 zamlı)", HA.tl(saat * 1.25)]);
+      satirlar.push(["Haftalık fazla sürelerle çalışma (" + HA.bicim(sozlesme, 1) + "–45 saat)", HA.bicim(fsc, 1) + " saat"]);
+      satirlar.push(["Fazla sürelerle çalışma ücreti (" + hafta + " hafta)", HA.tl(fscTutar)]);
+    }
+    satirlar.push(["Toplam brüt ücret", HA.tl(toplam), "vurgu"]);
+    var notlar = ["Tutarlar brüttür; vergi ve SGK kesintisi düşülmemiştir."];
+    if (fc * hafta > 270) notlar.push("Toplam fazla çalışma " + HA.bicim(fc * hafta, 1) + " saat. Kanuna göre fazla çalışmanın toplamı bir yılda 270 saati aşamaz (m. 41).");
+    if (!fc && !fsc) notlar.push("Girilen süre fazla çalışma ya da fazla sürelerle çalışma sınırını aşmıyor.");
+    return { baslik: "Fazla mesai ücreti", ana: ["Toplam brüt fazla mesai ücreti", HA.tl(toplam)], satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>

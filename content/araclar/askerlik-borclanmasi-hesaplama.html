@@ -1,0 +1,112 @@
+---
+baslik: "Askerlik borçlanması hesaplama: 2026 borç tutarı"
+kisa_ad: "Askerlik borçlanması"
+aciklama: "Er, erbaş ya da yedek subay olarak geçen askerlik süresini borçlanmak için ödenecek tutarı 5510 sayılı Kanunun 41. maddesine göre hesaplar."
+grup: sgk
+sira: 10
+guncelleme: 2026-10-19
+veri: [sgk]
+ilgili_yazilar: [askerlik-borclanmasi, dogum-borclanmasi, yurtdisi-borclanmasi, malulluk-ayligi]
+kaynaklar:
+  - ad: "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu m. 41"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5510&MevzuatTur=1&MevzuatTertip=5"
+    not: "Borçlanılabilecek süreler (1-b: er, erbaş, yedek subay ve yedek astsubay okulu), oran (a bendi dışındakiler için %45; 7566 sayılı Kanun m. 21), ödeme süresi"
+  - ad: "5510 sayılı Kanun m. 82"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5510&MevzuatTur=1&MevzuatTertip=5"
+    not: "Prime esas günlük kazancın alt sınırı (asgari ücretin otuzda biri) ve üst sınırı (alt sınırın 9 katı)"
+  - ad: "SGK Genelgesi 2026/2 (07/01/2026): Prime Esas Kazançların Alt ve Üst Sınırları ile Bazı İşlemlere Esas Tutarlar"
+    url: "https://www.ismmmo.org.tr/dosya/5846/Mevzuat-Dosya/09012026-2026-2-prime-esas-kazanclar.pdf"
+    not: "2026 günlük alt sınır 1.101,00 TL, üst sınır 9.909,00 TL; 41. madde diğer bentler için günlük borç 495,45 – 4.459,05 TL (genelgenin İSMMMO'da yayımlanan örneği)"
+nasil: |
+  Er ya da erbaş olarak silah altında, yedek subay ya da yedek astsubay okulunda geçen süreler 5510 sayılı Kanunun 41. maddesinin birinci fıkrasının (b) bendine göre borçlanılabilir. Borçlanma isteğe bağlıdır; sürenin tamamı ya da bir kısmı borçlanılabilir.
+
+  Borç tutarı = borçlanılacak gün sayısı × seçilen günlük kazanç × %45. Günlük kazancı borçlanan kişi kendisi seçer; seçim, başvuru tarihindeki prime esas günlük kazanç alt ve üst sınırları arasında olmalıdır. 2026 yılında alt sınır 1.101,00 TL, üst sınır 9.909,00 TL'dir. Böylece bir günlük borç 495,45 TL ile 4.459,05 TL arasında değişir.
+
+  Oran 1 Ocak 2026'dan itibaren %45'tir. 7566 sayılı Kanun, 41. maddedeki %32 oranını yalnızca doğum ve analık izni borçlanmasında (a bendi) bırakmış, askerlik dahil diğer borçlanmalar için %45'e çıkarmıştır. Oran, borçlanan kişinin 4/a (işçi) ya da 4/b (esnaf, serbest çalışan) sigortalısı olmasına göre değişmez. Fark, borçlanılan sürenin nasıl sayıldığındadır: süre, borçlanma tarihinde tabi olunan sigortalılık hâline (4/a ya da 4/b) göre değerlendirilir. Askerlik sigortalılık başlangıcından önceyse, sigortalılık başlangıcı borçlanılan gün kadar geriye gider; bu, emeklilik yaşı ve şartları bakımından önemli olabilir.
+
+  Tutar, borcun tebliğinden itibaren bir ay içinde ödenmelidir. Ödenmeyen borçlanma için yeniden başvurmak gerekir ve yeni başvurudaki sınırlar uygulanır.
+
+  Araç yalnızca 2026 yılı içindeki başvuru tarihleri için hesap yapar. Kamu görevlilerinin (4/c) 2008 öncesi Emekli Sandığı mevzuatına göre yapılan borçlanmaları ile askerlik süresinin kaç gün olarak kabul edileceği hesaba katılmaz; gün sayısını askerlik belgesine göre Kurum belirler.
+---
+<form class="arac-form" id="askerlik-form" novalidate>
+  <div class="alan-cift">
+    <div class="alan">
+      <label for="basvuru">Başvuru tarihi</label>
+      <input id="basvuru" name="basvuru" type="date" min="2026-01-01" max="2026-12-31">
+      <p class="ipucu">Sınırlar başvuru tarihine göre belirlenir. Araç 2026 başvurularını hesaplar.</p>
+    </div>
+    <div class="alan">
+      <label for="gun">Borçlanılacak gün sayısı</label>
+      <input id="gun" name="gun" type="number" min="1" max="3600" step="1" inputmode="numeric" placeholder="Örn. 360">
+      <p class="ipucu">Askerlik süresinin tamamı ya da borçlanmak istediğiniz kısmı. Kanun bir yılı 360 gün sayar (5510 m. 3).</p>
+    </div>
+  </div>
+  <fieldset>
+    <legend>Günlük kazanç seçimi</legend>
+    <div class="secimler">
+      <label class="secim"><input type="radio" name="kazanc" value="alt" checked> Alt sınır</label>
+      <label class="secim"><input type="radio" name="kazanc" value="ust"> Üst sınır</label>
+      <label class="secim"><input type="radio" name="kazanc" value="ozel"> Başka bir tutar</label>
+    </div>
+    <div class="alan">
+      <label for="ozel">Seçtiğiniz günlük kazanç</label>
+      <input id="ozel" name="ozel" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 2.000">
+      <p class="ipucu">Yalnızca "Başka bir tutar" seçiliyse kullanılır; alt ve üst sınır arasında olmalı.</p>
+    </div>
+  </fieldset>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="askerlik-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var form = document.getElementById("askerlik-form");
+  function bugun() {
+    var d = new Date(), s = d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+    return s >= "2026-01-01" && s <= HV.sgk.sonGecerlilik ? s : "";
+  }
+  form.elements.basvuru.value = bugun();
+  form.addEventListener("reset", function () { setTimeout(function () { form.elements.basvuru.value = bugun(); }, 0); });
+
+  HA.bagla(form, document.getElementById("askerlik-sonuc"), function (f) {
+    var t = f.tarih("basvuru", "Başvuru tarihi");
+    var son = HA.tarih(HV.sgk.sonGecerlilik);
+    var alt = HA.donem(HV.sgk.pekAlt, t), ust = HA.donem(HV.sgk.pekUst, t), oran = HA.donem(HV.sgk.oran41diger, t);
+    if (!alt || !ust || !oran || t > son) throw new Error("Araç yalnızca 1 Ocak 2026 – " + HA.tarihYaz(son) + " arasındaki başvurular için hesap yapar.");
+    var gun = f.sayi("gun", "Borçlanılacak gün sayısı");
+    if (gun < 1 || Math.floor(gun) !== gun) throw new Error("Borçlanılacak gün sayısı için 1 ya da daha büyük bir tam sayı girin.");
+    var secim = f.deger("kazanc") || (form.querySelector("input[name=kazanc]:checked") || {}).value;
+    var kazanc;
+    if (secim === "ust") kazanc = ust.deger;
+    else if (secim === "ozel") {
+      kazanc = f.sayi("ozel", "Seçtiğiniz günlük kazanç");
+      if (kazanc < alt.deger || kazanc > ust.deger)
+        throw new Error("Günlük kazanç " + HA.tl(alt.deger) + " ile " + HA.tl(ust.deger) + " arasında olmalı.");
+    } else kazanc = alt.deger;
+    var gunluk = HA.yuvarla(kazanc * oran.deger);
+    var toplam = HA.yuvarla(gun * kazanc * oran.deger);
+    return {
+      baslik: "Askerlik borçlanması tutarı",
+      ana: ["Ödenecek toplam borç", HA.tl(toplam)],
+      satirlar: [
+        ["Başvuru tarihi", HA.tarihYaz(t)],
+        ["Borçlanılacak gün", HA.bicim(gun, 0) + " gün"],
+        ["Günlük kazanç sınırları", HA.tl(alt.deger) + " – " + HA.tl(ust.deger)],
+        ["Seçilen günlük kazanç", HA.tl(kazanc)],
+        ["Borçlanma oranı (5510 m. 41)", HA.yuzde(oran.deger * 100, 0)],
+        ["Bir günlük borç", HA.tl(gunluk)],
+        ["Toplam borç (gün × kazanç × oran)", HA.tl(toplam), "vurgu"],
+        ["Aynı süre alt sınırdan", HA.tl(HA.yuvarla(gun * alt.deger * oran.deger))],
+        ["Aynı süre üst sınırdan", HA.tl(HA.yuvarla(gun * ust.deger * oran.deger))]
+      ],
+      notlar: [
+        "Borç, tebliğden itibaren bir ay içinde ödenmelidir; ödenmezse yeniden başvuru gerekir.",
+        "Borçlanılan süre, borçlanma tarihinde tabi olduğunuz sigortalılık hâline (4/a ya da 4/b) göre sayılır. Oran ikisinde de aynıdır.",
+        "Yüksek kazanç seçmek borcu artırır; ileride bağlanacak aylığa etkisi ayrıca hesaplanmalıdır. Tutarı Kurum tebliğ eder."
+      ]
+    };
+  });
+})();
+</script>

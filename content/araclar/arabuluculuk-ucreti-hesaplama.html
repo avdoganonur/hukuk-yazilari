@@ -1,0 +1,230 @@
+---
+baslik: "Arabuluculuk ücreti hesaplama: 2026 tarifesine göre"
+kisa_ad: "Arabuluculuk ücreti"
+aciklama: "Dava şartı ve ihtiyari arabuluculukta, anlaşma ya da anlaşmama hâlinde arabulucu ücretini ve kimin ödeyeceğini 2026 tarifesine göre hesaplar."
+grup: ucret
+sira: 20
+guncelleme: 2026-10-19
+veri: [ucret]
+ilgili_yazilar: [iscilik-alacaklarinda-zorunlu-arabuluculuk, kira-uyusmazliklarinda-zorunlu-arabuluculuk, tuketici-mahkemesinde-dava-ve-arabuluculuk, ortakligin-giderilmesi-izale-i-suyu-davasi]
+kaynaklar:
+  - ad: "2026 Yılı Arabuluculuk Asgari Ücret Tarifesi (RG 26/12/2025, sayı 33119)"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42809&MevzuatTur=9&MevzuatTertip=5"
+    not: "Yürürlük 01/01/2026; m. 3, 4, 5, 7 ve ekindeki birinci ve ikinci kısım"
+  - ad: "6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu m. 7, 18/A, 18/B"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6325&MevzuatTur=1&MevzuatTertip=5"
+    not: "Dava şartı arabuluculukta ücretin ödenmesi; kira, ortaklığın giderilmesi, kat mülkiyeti ve komşu hakkı uyuşmazlıkları"
+  - ad: "7036 sayılı İş Mahkemeleri Kanunu m. 3"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7036&MevzuatTur=1&MevzuatTertip=5"
+    not: "İşçi-işveren uyuşmazlıklarında dava şartı arabuluculuk ve ücret"
+  - ad: "6102 sayılı Türk Ticaret Kanunu m. 5/A"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5"
+    not: "Konusu bir miktar para olan ticari davalarda dava şartı"
+  - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 73/A"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6502&MevzuatTur=1&MevzuatTertip=5"
+    not: "Tüketici uyuşmazlıklarında dava şartı ve tüketicinin payının Bakanlık bütçesinden karşılanması"
+nasil: |
+  Arabulucunun ücreti, taraflarla geçerli bir ücret sözleşmesi yoksa ya da ücrette anlaşmazlık varsa Arabuluculuk Asgari Ücret Tarifesine göre belirlenir; tarifenin altında ücret kararlaştırılamaz. Faaliyetin sona erdiği tarihteki tarife uygulanır (Tarife m. 10).
+
+  **Anlaşma hâlinde** konusu para olan uyuşmazlıkta ücret, üzerinde anlaşılan miktara tarifenin ikinci kısmındaki dilimler uygulanarak bulunur: tek arabulucuda ilk 600.000 TL için %6, sonraki 960.000 TL için %5 ve azalan oranlarla 53.040.000 TL'nin üstü için %0,5. Birden fazla arabulucu varsa daha yüksek oranlar uygulanır ve ücret aralarında eşit bölünür. Ücret 9.000 TL'den, ticari ve ortaklığın giderilmesi uyuşmazlıklarında 13.000 TL'den az olamaz (m. 7/6-7). Dava şartı arabuluculukta ayrıca birinci kısımdaki iki saatlik ücretten az olamaz. Tahliye talepli kira uyuşmazlığında matrah bir yıllık kiranın yarısı, kira tespitinde kira farkının bir yıllık tutarıdır (m. 7/5). Konusu para olmayan uyuşmazlıkta birinci kısımdaki saat ücreti uygulanır.
+
+  **Anlaşmama hâlinde** ücret birinci kısımdaki saat ücretine göre hesaplanır. Saat ücreti uyuşmazlık türüne ve taraf sayısına bağlıdır: iki taraf varsa tutar taraf başınadır, üç ve daha fazla tarafta toplam tutardır. Dava şartı arabuluculukta taraflara ulaşılamazsa, görüşme yapılamazsa ya da görüşme iki saatten kısa sürerse iki saatlik ücret Adalet Bakanlığı bütçesinden ödenir; iki saati aşan kısmı taraflar eşit öder. Bu ödemeler yargılama giderinden sayılır.
+
+  Ücret, aksi kararlaştırılmadıkça taraflarca eşit ödenir. Tüketici uyuşmazlıklarında dava şartı arabuluculukta tüketicinin payı Bakanlık bütçesinden karşılanır. Dava şartı arabuluculuk örnekleri: işçi-işveren alacakları ve işe iade, konusu para olan ticari davalar, tüketici mahkemesindeki davalar, kira, ortaklığın giderilmesi, kat mülkiyeti ve komşu hakkı uyuşmazlıkları.
+
+  Araç seri uyuşmazlıkları (m. 7/4), işe iadede anlaşma matrahını, yeni uyuşmazlık konusu ortaya çıkması hâlini (m. 6) ve sehven ya da mükerrer kayıtta ücret ödenmemesini (m. 5/2) hesaplamaz. Tarife saatin kesirleri için ayrı bir kural içermediğinden süre tam saat olarak girilir.
+---
+<form class="arac-form" id="arabulucu-form" novalidate>
+  <fieldset>
+    <legend>Arabuluculuğun türü</legend>
+    <div class="secimler">
+      <label class="secim"><input type="radio" name="tur" value="dava" checked> Dava şartı (zorunlu)</label>
+      <label class="secim"><input type="radio" name="tur" value="ihtiyari"> İhtiyari</label>
+    </div>
+  </fieldset>
+  <div class="alan-cift">
+    <div class="alan">
+      <label for="konu">Uyuşmazlık türü</label>
+      <select id="konu" name="konu">
+        <option value="is">İşçi-işveren</option>
+        <option value="ticari">Ticari</option>
+        <option value="tuketici">Tüketici</option>
+        <option value="kira">Kira, komşu hakkı, kat mülkiyeti</option>
+        <option value="ortaklik">Ortaklığın giderilmesi</option>
+        <option value="aile">Aile hukuku</option>
+        <option value="diger">Diğer</option>
+      </select>
+    </div>
+    <div class="alan">
+      <label for="taraf">Taraf sayısı</label>
+      <input id="taraf" name="taraf" type="number" min="2" max="500" step="1" value="2" inputmode="numeric">
+    </div>
+  </div>
+  <fieldset>
+    <legend>Sonuç</legend>
+    <div class="secimler">
+      <label class="secim"><input type="radio" name="sonuc" value="anlasma" checked> Anlaşma sağlandı</label>
+      <label class="secim"><input type="radio" name="sonuc" value="anlasmama"> Anlaşma sağlanamadı</label>
+    </div>
+  </fieldset>
+  <div class="alan">
+    <label for="miktar">Üzerinde anlaşılan miktar</label>
+    <input id="miktar" name="miktar" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 500.000">
+    <p class="ipucu">Anlaşmada gereklidir. Konusu para olmayan bir uyuşmazlıkta boş bırakın; o zaman saat ücreti uygulanır.</p>
+  </div>
+  <div class="alan">
+    <label for="kiraTuru">Kira uyuşmazlığının konusu</label>
+    <select id="kiraTuru" name="kiraTuru">
+      <option value="">Diğer kira uyuşmazlığı</option>
+      <option value="tahliye">Tahliye talepli: yukarıya bir yıllık kira bedelini yazın</option>
+      <option value="tespit">Kira tespiti: yukarıya tespit edilen aylık kira farkını yazın</option>
+    </select>
+    <p class="ipucu">Yalnızca kira uyuşmazlığında ve anlaşma hâlinde kullanılır.</p>
+  </div>
+  <div class="alan-cift">
+    <div class="alan">
+      <label for="saat">Görüşme süresi (tam saat)</label>
+      <input id="saat" name="saat" type="number" min="0" max="200" step="1" value="2" inputmode="numeric">
+      <p class="ipucu">Anlaşmamada ve konusu para olmayan anlaşmada kullanılır. Görüşme yapılamadıysa 0 girin.</p>
+    </div>
+    <div class="alan">
+      <label for="arabulucu">Arabulucu sayısı</label>
+      <select id="arabulucu" name="arabulucu">
+        <option value="1">Bir arabulucu</option>
+        <option value="2">Birden fazla arabulucu</option>
+      </select>
+    </div>
+  </div>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="arabulucu-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  function secim(form, ad) {
+    var x = form.querySelector('input[name="' + ad + '"]:checked');
+    return x ? x.value : "";
+  }
+  /* Birinci kısım: bir saatlik toplam ücret. İki tarafta tarife tutarı taraf başınadır. */
+  function saatUcreti(s, taraf) {
+    if (taraf === 2) return { tutar: s.iki * 2, aciklama: "2 taraf × " + HA.tl(s.iki) + " (taraf başına)" };
+    if (taraf <= 5) return { tutar: s.uc5, aciklama: "3-5 taraf, taraf sayısı gözetilmeksizin" };
+    if (taraf <= 10) return { tutar: s.alti10, aciklama: "6-10 taraf, taraf sayısı gözetilmeksizin" };
+    return { tutar: s.onbir, aciklama: "11 ve daha fazla taraf, taraf sayısı gözetilmeksizin" };
+  }
+  function nispi(miktar, T, cok) {
+    var kalan = miktar, alt = 0, toplam = 0, adimlar = [];
+    for (var i = 0; i < T.dilimler.length && kalan > 0; i++) {
+      var d = T.dilimler[i], oran = cok ? d.cok : d.tek, pay = Math.min(kalan, d.tutar), u = pay * oran / 100;
+      adimlar.push([HA.tl(alt) + " – " + HA.tl(alt + pay) + " (%" + HA.bicim(oran, oran % 1 ? 1 : 0) + ")", HA.tl(u)]);
+      toplam += u; kalan -= pay; alt += pay;
+    }
+    if (kalan > 0) {
+      var so = cok ? T.sonCok : T.sonTek, s = kalan * so / 100;
+      adimlar.push([HA.tl(alt) + " üzeri (%" + HA.bicim(so, so % 1 ? 1 : 0) + ")", HA.tl(s)]);
+      toplam += s;
+    }
+    return { toplam: HA.yuvarla(toplam), adimlar: adimlar };
+  }
+
+  var form = document.getElementById("arabulucu-form");
+  HA.bagla(form, document.getElementById("arabulucu-sonuc"), function (f) {
+    var kayit = HA.donem(HV.ucret.arabuluculuk, HA.tarih(new Date()));
+    if (!kayit) throw new Error("Yürürlükte bir arabuluculuk tarifesi bulunamadı.");
+    var T = kayit.deger;
+    var dava = secim(form, "tur") === "dava";
+    var anlasma = secim(form, "sonuc") === "anlasma";
+    var konu = f.deger("konu"), s = T.saat[konu];
+    if (!s) throw new Error("Uyuşmazlık türünü seçin.");
+    var taraf = f.sayi("taraf", "Taraf sayısı");
+    if (taraf < 2 || Math.floor(taraf) !== taraf) throw new Error("Taraf sayısı 2 ya da daha büyük bir tam sayı olmalı.");
+    var saat = f.sayiVarsa("saat", 0);
+    if (saat < 0 || Math.floor(saat) !== saat) throw new Error("Görüşme süresini 0 ya da pozitif tam saat olarak girin.");
+    var cok = f.deger("arabulucu") === "2";
+    var su = saatUcreti(s, taraf);
+    var ikiSaat = su.tutar * 2;
+
+    var satirlar = [
+      ["Arabuluculuk", dava ? "Dava şartı" : "İhtiyari"],
+      ["Uyuşmazlık türü", s.ad],
+      ["Bir saatlik ücret (birinci kısım)", HA.tl(su.tutar) + " — " + su.aciklama]
+    ];
+    var notlar = [], ucret, ana, hazine = 0, taraflar = 0;
+
+    if (anlasma) {
+      var miktarVar = !!f.deger("miktar");
+      if (!miktarVar && (konu === "ticari" || konu === "ortaklik")) {
+        throw new Error("Ticari ve ortaklığın giderilmesi uyuşmazlıklarında anlaşmada ücret ikinci kısma göre belirlenir; anlaşılan miktarı girin.");
+      }
+      if (miktarVar) {
+        var miktar = f.sayi("miktar", "Anlaşılan miktar");
+        if (miktar <= 0) throw new Error("Anlaşılan miktar sıfırdan büyük olmalı.");
+        var matrah = miktar, kt = konu === "kira" ? f.deger("kiraTuru") : "";
+        if (kt === "tahliye") {
+          matrah = miktar / 2;
+          satirlar.push(["Bir yıllık kira bedeli", HA.tl(miktar)]);
+          satirlar.push(["Matrah: yıllık kiranın yarısı (m. 7/5)", HA.tl(matrah)]);
+        } else if (kt === "tespit") {
+          matrah = miktar * 12;
+          satirlar.push(["Aylık kira farkı", HA.tl(miktar)]);
+          satirlar.push(["Matrah: farkın bir yıllık tutarı (m. 7/5)", HA.tl(matrah)]);
+        } else {
+          satirlar.push(["Üzerinde anlaşılan miktar", HA.tl(matrah)]);
+        }
+        var n = nispi(matrah, T, cok);
+        n.adimlar.forEach(function (a) { satirlar.push(["İkinci kısım: " + a[0], a[1]]); });
+        satirlar.push(["Dilimlere göre ücret", HA.tl(n.toplam)]);
+        ucret = n.toplam;
+        var alt = (konu === "ticari" || konu === "ortaklik") ? T.altSinirTicari : T.altSinir;
+        var altNeden = (konu === "ticari" || konu === "ortaklik") ? "m. 7/6" : "m. 7/7";
+        if (ucret < alt) { ucret = alt; satirlar.push(["Alt sınır (" + altNeden + ")", HA.tl(alt)]); }
+        if (dava && ucret < ikiSaat) { ucret = ikiSaat; satirlar.push(["Alt sınır: iki saatlik ücret (dava şartı)", HA.tl(ikiSaat)]); }
+      } else {
+        if (saat < 1) throw new Error("Konusu para olmayan anlaşmada görüşme süresini en az 1 saat girin.");
+        ucret = su.tutar * saat;
+        satirlar.push(["Saat ücretine göre (birinci kısım, m. 7/1)", saat + " saat × " + HA.tl(su.tutar) + " = " + HA.tl(ucret)]);
+        if (dava && ucret < ikiSaat) { ucret = ikiSaat; satirlar.push(["Alt sınır: iki saatlik ücret (dava şartı)", HA.tl(ikiSaat)]); }
+        if (ucret < T.altSinir) { ucret = T.altSinir; satirlar.push(["Alt sınır (m. 7/7)", HA.tl(T.altSinir)]); }
+        if (cok) notlar.push("Birinci kısma göre belirlenen ücret, birden fazla arabulucu görev yaptığında her birine ayrı ayrı ödenir (m. 3/2); yukarıdaki tutar bir arabulucu içindir.");
+      }
+      ucret = HA.yuvarla(ucret);
+      taraflar = ucret;
+      satirlar.push(["Arabuluculuk ücreti", HA.tl(ucret), "vurgu"]);
+      satirlar.push(["Taraf başına (eşit ödeme varsayımıyla)", HA.tl(ucret / taraf)]);
+      if (cok && miktarVar) notlar.push("Birden fazla arabulucu için yüksek oranlarla bulunan bu ücret arabulucular arasında eşit bölünür (m. 3/3).");
+      if (dava && konu === "tuketici") notlar.push("Dava şartı tüketici arabuluculuğunda tüketicinin ödemesi gereken ücret Adalet Bakanlığı bütçesinden karşılanır; bu hâlde ücret birinci kısma göre iki saatlik ücreti (" + HA.tl(ikiSaat) + ") geçemez (6502 m. 73/A-3).");
+      ana = ["Arabuluculuk ücreti", HA.tl(ucret)];
+    } else {
+      if (dava) {
+        hazine = ikiSaat;
+        var asan = Math.max(0, saat - 2);
+        taraflar = su.tutar * asan;
+        satirlar.push(["Adalet Bakanlığı bütçesinden: iki saatlik ücret", HA.tl(hazine)]);
+        satirlar.push(["İki saati aşan süre", asan + " saat"]);
+        satirlar.push(["Taraflarca ödenecek: aşan süre × saat ücreti", HA.tl(taraflar)]);
+        if (taraflar) satirlar.push(["Taraf başına (eşit ödeme varsayımıyla)", HA.tl(taraflar / taraf)]);
+        ucret = hazine + taraflar;
+        satirlar.push(["Arabulucuya ödenecek toplam", HA.tl(ucret), "vurgu"]);
+        notlar.push("Bakanlık bütçesinden ödenen ve taraflarca karşılanan ücret, açılacak davada yargılama giderinden sayılır (6325 m. 18/A-13; 7036 m. 3/14).");
+        if (konu === "tuketici") notlar.push("Tüketicinin ödemesi gereken pay da Bakanlık bütçesinden karşılanır (6502 m. 73/A-3).");
+        if (saat === 0) notlar.push("Taraflara ulaşılamaması ya da görüşme yapılamaması hâlinde de iki saatlik ücret Bakanlık bütçesinden ödenir.");
+      } else {
+        if (saat < 1) throw new Error("İhtiyari arabuluculukta görüşme süresini en az 1 saat girin.");
+        ucret = su.tutar * saat;
+        taraflar = ucret;
+        satirlar.push(["Saat ücretine göre (birinci kısım, m. 7/3)", saat + " saat × " + HA.tl(su.tutar)]);
+        satirlar.push(["Arabuluculuk ücreti", HA.tl(ucret), "vurgu"]);
+        satirlar.push(["Taraf başına (eşit ödeme varsayımıyla)", HA.tl(ucret / taraf)]);
+        notlar.push("İhtiyari arabuluculukta ücreti taraflar öder; Bakanlık bütçesinden ödeme yoktur.");
+      }
+      if (cok) notlar.push("Birinci kısma göre belirlenen ücret, birden fazla arabulucu görev yaptığında her birine ayrı ayrı ödenir (m. 3/2); yukarıdaki tutar bir arabulucu içindir.");
+      ana = ["Arabulucuya ödenecek toplam", HA.tl(ucret)];
+    }
+    notlar.push("Ücret, aksi kararlaştırılmadıkça taraflarca eşit ödenir (Tarife m. 3/1; 6325 m. 7/2).");
+    notlar.push("Hesap " + T.ad + " ile yapıldı.");
+    return { baslik: anlasma ? "Anlaşma hâlinde arabuluculuk ücreti" : "Anlaşmama hâlinde arabuluculuk ücreti", ana: ana, satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>

@@ -1,0 +1,156 @@
+---
+baslik: "Yıllık izin hesaplama: izin süresi ve kullanılmayan izin ücreti"
+kisa_ad: "Yıllık izin"
+aciklama: "Kıdeme ve yaşa göre her hizmet yılı için yıllık izin gününü bulur; kullanılmayan iznin brüt ve net ücretini hesaplar."
+grup: is
+sira: 30
+guncelleme: 2026-10-19
+veri: [is]
+ilgili_yazilar: [yillik-izin-sureleri-ve-kullanimi, kullanilmayan-yillik-izin-ucreti, yillik-ucretli-izin-hakki-ve-kullanilmayan-izinler]
+kaynaklar:
+  - ad: "4857 sayılı İş Kanunu m. 53, m. 57 ve m. 59"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4857&MevzuatTur=1&MevzuatTertip=5"
+    not: "İzin süreleri (14/20/26 gün, 18 yaş ve altı ile 50 yaş ve üstüne en az 20 gün), izin ücreti"
+  - ad: "5510 sayılı Kanun m. 80, m. 81 ve m. 82; 4447 sayılı Kanun m. 49"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5510&MevzuatTur=1&MevzuatTertip=5"
+    not: "İzin ücreti istisnalar arasında sayılmadığından prime esas kazanca girer; işçi payı %14, işsizlik %1"
+  - ad: "193 sayılı Gelir Vergisi Kanunu m. 61, m. 63 ve m. 103"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=193&MevzuatTur=1&MevzuatTertip=4"
+    not: "Ücret; primler matrahtan düşülür; 2026 tarifesi Seri No: 332 GVK Genel Tebliği (RG 31/12/2025, 33124 5. Mük.)"
+  - ad: "488 sayılı Damga Vergisi Kanunu, 1 sayılı tablo IV-1-b"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=488&MevzuatTur=1&MevzuatTertip=5"
+    not: "Binde 7,59"
+nasil: |
+  İş Kanunu'nun 53. maddesine göre işyerinde, deneme süresi de dahil, en az bir yıl çalışan işçi yıllık ücretli izne hak kazanır. İzin süresi hizmet süresine göre belirlenir: bir yıldan beş yıla kadar (beş yıl dahil) en az 14 gün, beş yıldan fazla on beş yıldan az en az 20 gün, on beş yıl ve daha fazla en az 26 gün. On sekiz ve daha küçük yaştaki işçilerle elli ve daha büyük yaştaki işçilere verilecek izin 20 günden az olamaz. Süreler sözleşmeyle artırılabilir; yer altı işlerinde dörder gün fazladır.
+
+  Araç her hizmet yılının dolduğu tarihi bulur, o tarihteki kıdeme ve (doğum tarihini girdiyseniz) yaşa göre izin gününü yazar ve toplar. Kullandığınız gün sayısını girerseniz kalan izin bulunur.
+
+  Sözleşme sona erdiğinde kullanılmamış izin günlerinin ücreti, son ücret üzerinden ödenir (m. 59). Araç günlük brüt ücreti aylık brüt ücretin otuzda biri alır ve kalan gün sayısıyla çarpar. İzin ücreti, 5510 sayılı Kanun'un 80. maddesinde prim dışı tutulan ödemeler arasında sayılmadığı için SGK primine tabidir. Bu nedenle netten önce %14 SGK işçi payı ve %1 işsizlik sigortası işçi payı düşülür; kalan tutar kümülatif matraha eklenerek 2026 ücret tarifesiyle gelir vergisi, ayrıca binde 7,59 damga vergisi kesilir.
+
+  Araç, izin ücretinin aynı ay ödenen ücretle birlikte prime esas kazanç üst sınırını aşıp aşmadığını ve asgari ücret istisnasını (aynı ayın ücretinde kullanıldığı varsayımıyla) ayrıca hesaba katmaz. Yer altı işleri, sözleşmeyle artırılan izinler ve mevsimlik işler hesaba katılmaz.
+---
+<form class="arac-form" id="izin-form" novalidate>
+  <div class="alan-cift">
+    <div class="alan">
+      <label for="giris">İşe giriş tarihi</label>
+      <input id="giris" name="giris" type="date" required>
+    </div>
+    <div class="alan">
+      <label for="hesap">Hesap tarihi</label>
+      <input id="hesap" name="hesap" type="date" required>
+      <p class="ipucu">İşten çıkış tarihi ya da bugünün tarihi.</p>
+    </div>
+  </div>
+  <div class="alan">
+    <label for="dogum">Doğum tarihi (isteğe bağlı)</label>
+    <input id="dogum" name="dogum" type="date">
+    <p class="ipucu">18 yaş ve altı ile 50 yaş ve üstü için en az 20 gün kuralı uygulanır.</p>
+  </div>
+  <div class="alan">
+    <label for="kullanilan">Şimdiye kadar kullanılan izin günü (isteğe bağlı)</label>
+    <input id="kullanilan" name="kullanilan" type="number" min="0" step="1" inputmode="numeric" placeholder="0">
+  </div>
+  <fieldset>
+    <legend>Kullanılmayan izin ücreti (isteğe bağlı)</legend>
+    <div class="alan">
+      <label for="ucret">Aylık brüt ücret</label>
+      <input id="ucret" name="ucret" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 40.000">
+    </div>
+    <div class="alan">
+      <label for="matrah">Bu yıl içinde önceden oluşan kümülatif gelir vergisi matrahı</label>
+      <input id="matrah" name="matrah" inputmode="decimal" data-para autocomplete="off" placeholder="Boş bırakılırsa 0">
+    </div>
+  </fieldset>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="izin-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var V = window.HV && HV.is;
+  function deger(liste, t) { var d = HA.donem(liste, t); return d ? d.deger : null; }
+  function vergi(m, dilim) {
+    var v = 0, alt = 0;
+    for (var i = 0; i < dilim.length && m > alt; i++) { v += (Math.min(m, dilim[i][0]) - alt) * dilim[i][1]; alt = dilim[i][0]; }
+    return v;
+  }
+  function yas(dogum, t) {
+    var y = t.getUTCFullYear() - dogum.getUTCFullYear();
+    if (HA.yilEkle(dogum, y) > t) y--;
+    return y;
+  }
+
+  HA.bagla(document.getElementById("izin-form"), document.getElementById("izin-sonuc"), function (f) {
+    if (!V) throw new Error("Oran dosyası yüklenemedi. Sayfayı yenileyip yeniden deneyin.");
+    var giris = f.tarih("giris", "İşe giriş tarihi"), hesap = f.tarih("hesap", "Hesap tarihi");
+    if (hesap <= giris) throw new Error("Hesap tarihi giriş tarihinden sonra olmalı.");
+    var dogum = f.deger("dogum") ? f.tarih("dogum", "Doğum tarihi") : null;
+    if (dogum && dogum >= giris) throw new Error("Doğum tarihi işe giriş tarihinden önce olmalı.");
+    var kullanilan = f.sayiVarsa("kullanilan", 0);
+    if (kullanilan < 0 || Math.floor(kullanilan) !== kullanilan) throw new Error("Kullanılan izin günü için 0 ya da pozitif tam sayı girin.");
+
+    var satirlar = [], toplam = 0, n = 0;
+    var son = HA.gunEkle(hesap, 1);
+    while (HA.yilEkle(giris, n + 1) <= son) {
+      n++;
+      var t = HA.yilEkle(giris, n);
+      var gun = n <= 5 ? 14 : n < 15 ? 20 : 26;
+      var y = dogum ? yas(dogum, t) : null;
+      var gerekce = "";
+      if (y !== null && (y <= 18 || y >= 50) && gun < 20) { gun = 20; gerekce = " (yaş kuralı)"; }
+      toplam += gun;
+      satirlar.push([n + ". yıl – " + HA.tarihYaz(t) + (y !== null ? " – " + y + " yaş" : ""), gun + " gün" + gerekce]);
+    }
+    if (!n) {
+      return {
+        baslik: "Yıllık izin",
+        ana: ["Yıllık izin hakkı", "Henüz yok"],
+        notlar: ["Yıllık ücretli izne hak kazanmak için işe başlanan günden itibaren en az bir yıl çalışmak gerekir (4857 m. 53). İlk hak " + HA.tarihYaz(HA.yilEkle(giris, 1)) + " tarihinde doğar."]
+      };
+    }
+    if (kullanilan > toplam) throw new Error("Kullanılan izin günü, hak kazanılan toplam günden (" + toplam + ") fazla olamaz.");
+    var kalan = toplam - kullanilan;
+    satirlar.push(["Toplam hak kazanılan izin", toplam + " gün", "vurgu"]);
+    satirlar.push(["Kullanılan izin", kullanilan + " gün"]);
+    satirlar.push(["Kalan izin", kalan + " gün", "vurgu"]);
+    var sonraki = HA.yilEkle(giris, n + 1);
+    var notlar = ["Bir sonraki izin hakkı " + HA.tarihYaz(sonraki) + " tarihinde doğar (" + (n + 1 <= 5 ? 14 : n + 1 < 15 ? 20 : 26) + " gün, yaş kuralı saklı)."];
+    if (!dogum) notlar.push("Doğum tarihi girilmediği için 18 yaş ve altı ile 50 yaş ve üstü için öngörülen en az 20 gün kuralı uygulanmadı.");
+    var ana = ["Kalan izin", kalan + " gün"];
+
+    if (f.deger("ucret")) {
+      var ucret = f.sayi("ucret", "Aylık brüt ücret");
+      if (ucret <= 0) throw new Error("Aylık brüt ücret sıfırdan büyük olmalı.");
+      var matrah = f.deger("matrah") ? f.sayi("matrah", "Kümülatif matrah") : 0;
+      if (matrah < 0) throw new Error("Kümülatif matrah negatif olamaz.");
+      var t26 = HA.tarih("2026-01-01");
+      var gunluk = ucret / 30;
+      var brut = HA.yuvarla(gunluk * kalan);
+      var ust = deger(V.asgariBrut, t26) * deger(V.pekUstKat, t26);
+      var pek = Math.min(brut, ust);
+      var sgk = HA.yuvarla(pek * deger(V.sgkIsci, t26));
+      var iss = HA.yuvarla(pek * deger(V.issizlikIsci, t26));
+      var gvm = HA.yuvarla(brut - sgk - iss);
+      var tarife = deger(V.gvUcretTarife, t26);
+      var gv = HA.yuvarla(vergi(matrah + gvm, tarife) - vergi(matrah, tarife));
+      var dvOran = deger(V.damgaOran, t26);
+      var dv = HA.yuvarla(brut * dvOran);
+      var net = HA.yuvarla(brut - sgk - iss - gv - dv);
+      satirlar.push(["Günlük brüt ücret (aylık / 30)", HA.tl(gunluk)]);
+      satirlar.push(["Brüt izin ücreti (" + kalan + " gün)", HA.tl(brut), "vurgu"]);
+      satirlar.push(["SGK işçi payı (%14)", "− " + HA.tl(sgk)]);
+      satirlar.push(["İşsizlik sigortası işçi payı (%1)", "− " + HA.tl(iss)]);
+      satirlar.push(["Gelir vergisi matrahı", HA.tl(gvm)]);
+      satirlar.push(["Gelir vergisi (kümülatif matrah " + HA.tl(matrah) + " üzerine)", "− " + HA.tl(gv)]);
+      satirlar.push(["Damga vergisi (binde " + HA.bicim(dvOran * 1000, 2) + ")", "− " + HA.tl(dv)]);
+      satirlar.push(["Net izin ücreti", HA.tl(net), "vurgu"]);
+      ana = ["Net kullanılmayan izin ücreti", HA.tl(net)];
+      if (brut > ust) notlar.push("Prim, 2026 prime esas kazanç üst sınırı (" + HA.tl(ust) + ") üzerinden kesildi.");
+      notlar.push("Kesintiler 2026 oranlarıyla hesaplandı. Asgari ücret vergi istisnasının aynı ay ödenen ücrette kullanıldığı varsayıldı.");
+    }
+    return { baslik: "Yıllık izin", ana: ana, basliklar: ["Hizmet yılı", "İzin"], satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>

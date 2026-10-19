@@ -1,0 +1,245 @@
+---
+baslik: "Saklı pay hesaplama: tasarruf oranı ve tenkis"
+kisa_ad: "Saklı pay ve tenkis"
+aciklama: "Saklı paylı mirasçıların saklı pay tutarlarını, mirasbırakanın tasarruf edebileceği kısmı ve tenkis gerekip gerekmediğini TMK'ya göre hesaplar."
+grup: miras
+sira: 20
+guncelleme: 2026-10-19
+ilgili_yazilar: [sakli-pay-ve-tenkis-davasi, yasal-mirascilar-ve-miras-paylari, muris-muvazaasi-mirasci-mal-kacirma, mirasta-iade-ve-denklestirme, vasiyetname-turleri-ve-sekli]
+kaynaklar:
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 495–499"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
+    not: "Yasal mirasçılar ve yasal miras payları"
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 505–508"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
+    not: "Tasarruf özgürlüğü, saklı pay oranları (kardeşlerin saklı payı 5650 sayılı Kanunla 2007'de kaldırıldı), tasarruf edilebilir kısmın hesabı"
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 560–571"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
+    not: "Tenkis davası, tenkise tabi sağlararası kazandırmalar (m. 565), tenkis sırası (m. 570)"
+nasil: |
+  Saklı pay, yasal mirasçının payının vasiyetname ya da bağışlamalarla elinden alınamayan kısmıdır. Oranlar TMK m. 506'dadır: altsoy için yasal payın yarısı, anne ve babadan her biri için yasal payın dörtte biri, sağ kalan eş için altsoy ya da anne-baba zümresiyle birlikte mirasçıysa yasal payın tamamı, diğer hâllerde dörtte üçü. Kardeşlerin saklı payı 4/5/2007 tarihli 5650 sayılı Kanunla kaldırılmıştır; bu yüzden kardeşler, büyükanne-büyükbaba zümresi ve onların altsoyu yasal mirasçı olsa da saklı pay sahibi değildir.
+
+  Hesap şöyle yapılır (TMK m. 507–508): ölüm günündeki tereke değerinden mirasbırakanın borçları, cenaze giderleri, mühürleme ve yazım giderleri ve onunla birlikte yaşayıp bakılan kişilerin üç aylık geçim giderleri düşülür. Buna, tenkise tabi sağlararası karşılıksız kazandırmalar (TMK m. 565'te sayılanlar, örneğin ölümden önceki son bir yıl içinde âdet üzere verilen hediyeler dışındaki bağışlamalar) eklenir. Bulunan değerin saklı paylar dışında kalan kısmı tasarruf edilebilir kısımdır. Araç, ölüme bağlı tasarruflar ile bu sağlararası kazandırmaların toplamını tasarruf edilebilir kısımla karşılaştırır; aşan tutar, saklı payların zedelendiği ve tenkisle geri istenebilecek yaklaşık miktardır.
+
+  Tenkis sırası (TMK m. 570): önce ölüme bağlı tasarruflar (vasiyet, mirasçı atama) tenkis edilir; bunlar arasında, aksi anlaşılmadıkça, orantılı indirim yapılır (TMK m. 563). Bu yetmezse sağlararası kazandırmalara geçilir ve en yeni tarihliden en eskiye doğru gidilir. Kamu tüzel kişilerine, kamuya yararlı dernek ve vakıflara yapılan kazandırmalar en son sırada tenkis edilir. Araç bu sıralamayı ve kimden ne kadar indirim yapılacağını hesaplamaz.
+
+  Araç, kazandırmaların saklı paylı olmayan kişilere yapıldığını varsayar. Saklı paylı bir mirasçıya yapılan kazandırma (TMK m. 561), mal rejiminin tasfiyesi, hayat sigortası alacakları (TMK m. 509), mirastan çıkarma ve mirasın reddi hesaba katılmaz. Tenkis davası, saklı payın zedelendiğinin öğrenilmesinden başlayarak bir yıl ve her hâlde vasiyetnamede açılma, diğer tasarruflarda ölüm tarihinden başlayarak on yıl içinde açılmalıdır (TMK m. 571).
+---
+<form class="arac-form" id="sakli-form" novalidate>
+  <fieldset>
+    <legend>Tereke ve tasarruflar</legend>
+    <div class="alan">
+      <label for="aktif">Terekenin ölüm günündeki değeri</label>
+      <input id="aktif" name="aktif" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 3.000.000">
+      <p class="ipucu">Ölüme bağlı tasarruflarla bırakılan mallar dahil, ölenin geride bıraktığı tüm malvarlığı.</p>
+    </div>
+    <div class="alan">
+      <label for="borc">Borçlar ve indirilecek giderler</label>
+      <input id="borc" name="borc" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 200.000">
+      <p class="ipucu">Ölenin borçları, cenaze, mühürleme ve yazım giderleri, birlikte yaşadığı ve baktığı kişilerin üç aylık geçim giderleri (TMK m. 507).</p>
+    </div>
+    <div class="alan">
+      <label for="saglar">Tenkise tabi sağlararası kazandırmalar</label>
+      <input id="saglar" name="saglar" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 500.000">
+      <p class="ipucu">Ölen sağken karşılıksız verdiği ve TMK m. 565 kapsamına giren bağışlamalar; ölüm günündeki değerleriyle. Yoksa boş bırakın.</p>
+    </div>
+    <div class="alan">
+      <label for="olume">Ölüme bağlı tasarruflar</label>
+      <input id="olume" name="olume" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 1.800.000">
+      <p class="ipucu">Vasiyetname ya da miras sözleşmesiyle başkalarına bırakılanların toplam değeri.</p>
+    </div>
+  </fieldset>
+  <label class="secim"><input type="checkbox" name="es" checked> Ölenin eşi sağ ve evlilik ölüm anında sürüyordu</label>
+  <fieldset>
+    <legend>Birinci zümre: altsoy</legend>
+    <div class="alan">
+      <label for="cocuk">Sağ olan çocuk sayısı</label>
+      <input id="cocuk" name="cocuk" type="number" min="0" max="30" step="1" value="0" inputmode="numeric">
+    </div>
+    <div class="alan">
+      <label for="olucocuk">Önce ölmüş çocukların sağ çocuk sayıları</label>
+      <input id="olucocuk" name="olucocuk" autocomplete="off" placeholder="Örn. 2, 1">
+      <p class="ipucu">Önce ölmüş her çocuk için, onun sağ çocuklarının sayısını virgülle yazın. Hiç çocuğu olmadan ölen çocuğu yazmayın.</p>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>İkinci zümre: anne, baba ve kardeşler (altsoy yoksa)</legend>
+    <div class="secimler">
+      <label class="secim"><input type="checkbox" name="anne"> Anne sağ</label>
+      <label class="secim"><input type="checkbox" name="baba"> Baba sağ</label>
+    </div>
+    <div class="alan-cift">
+      <div class="alan">
+        <label for="tam">Anne-baba bir kardeş</label>
+        <input id="tam" name="tam" type="number" min="0" max="30" step="1" value="0" inputmode="numeric">
+      </div>
+      <div class="alan">
+        <label for="anabir">Ana bir kardeş</label>
+        <input id="anabir" name="anabir" type="number" min="0" max="30" step="1" value="0" inputmode="numeric">
+      </div>
+      <div class="alan">
+        <label for="bababir">Baba bir kardeş</label>
+        <input id="bababir" name="bababir" type="number" min="0" max="30" step="1" value="0" inputmode="numeric">
+      </div>
+    </div>
+    <p class="ipucu">Kardeşlerin saklı payı yoktur; ancak anne ya da baba önce ölmüşse kardeşler yasal paylarıyla mirasçı olur ve bu, eşin saklı payını etkiler.</p>
+  </fieldset>
+  <label class="secim"><input type="checkbox" name="ucuncu"> İlk iki zümrede kimse yoksa: büyükanne, büyükbaba ya da onların altsoyundan sağ olan biri var</label>
+  <p class="ipucu">Eş sağsa bu zümreden yalnızca büyükanne, büyükbaba ve onların çocukları (amca, hala, dayı, teyze) eşle birlikte mirasçı olur. Eş sağ ve bu zümreden yalnızca kuzenler varsa kutuyu işaretlemeyin; miras eşe kalır (TMK m. 499).</p>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="sakli-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  function obeb(a, b) { while (b) { var t = b; b = a % b; a = t; } return a; }
+  function K(p, q) { var g = obeb(Math.abs(p), Math.abs(q)) || 1; return { p: p / g, q: q / g }; }
+  function carp(a, b) { return K(a.p * b.p, a.q * b.q); }
+  function topla(a, b) { return K(a.p * b.q + b.p * a.q, a.q * b.q); }
+  function yaz(k) { return k.q === 1 ? String(k.p) : k.p + "/" + k.q; }
+  function deg(k) { return k.p / k.q; }
+  function tamSayi(f, ad, etiket) {
+    var v = f.sayiVarsa(ad, 0);
+    if (v < 0 || Math.floor(v) !== v) throw new Error(etiket + " için 0 ya da pozitif tam sayı girin.");
+    return v;
+  }
+  function para(f, ad, etiket, zorunlu) {
+    if (!f.deger(ad)) {
+      if (zorunlu) throw new Error(etiket + " alanını doldurun.");
+      return 0;
+    }
+    var v = f.sayi(ad, etiket);
+    if (v < 0) throw new Error(etiket + " negatif olamaz.");
+    return v;
+  }
+
+  /* Yasal paylar: miras-payi-hesaplama aracındaki zümre mantığı.
+     Her satır: [ad, yasal pay (kesir, kişi başı), kişi sayısı, saklı pay katsayısı (kesir)] */
+  function yasalPaylar(f) {
+    var es = f.secili("es");
+    var cocuk = tamSayi(f, "cocuk", "Sağ olan çocuk sayısı");
+    var olu = f.deger("olucocuk") ? f.deger("olucocuk").split(/[,;\s]+/).filter(Boolean).map(function (x) {
+      var n = Number(x);
+      if (!isFinite(n) || n < 1 || Math.floor(n) !== n) throw new Error("Önce ölmüş çocuklar için 1 ya da daha büyük tam sayılar yazın.");
+      return n;
+    }) : [];
+    var paylar = [], zumre, esPay = null, kalan;
+    var YARIM = K(1, 2), CEYREK = K(1, 4), YOK = K(0, 1);
+
+    if (cocuk + olu.length > 0) {
+      zumre = "altsoy";
+      esPay = es ? K(1, 4) : null;
+      kalan = es ? K(3, 4) : K(1, 1);
+      var kolPay = carp(kalan, K(1, cocuk + olu.length));
+      if (cocuk) paylar.push(["Her bir çocuk (" + cocuk + " kişi)", kolPay, cocuk, YARIM]);
+      olu.forEach(function (n, i) {
+        paylar.push(["Önce ölen " + (i + 1) + ". çocuğun her bir çocuğu (" + n + " kişi)", carp(kolPay, K(1, n)), n, YARIM]);
+      });
+    } else {
+      var anne = f.secili("anne"), baba = f.secili("baba");
+      var tam = tamSayi(f, "tam", "Anne-baba bir kardeş"), ana = tamSayi(f, "anabir", "Ana bir kardeş"),
+          bab = tamSayi(f, "bababir", "Baba bir kardeş");
+      var anneTaraf = anne || tam + ana > 0, babaTaraf = baba || tam + bab > 0;
+      if (anneTaraf || babaTaraf) {
+        zumre = "anababa";
+        esPay = es ? K(1, 2) : null;
+        kalan = es ? K(1, 2) : K(1, 1);
+        var yarim = carp(kalan, K(1, 2));
+        var anneP = anneTaraf && babaTaraf ? yarim : (anneTaraf ? kalan : YOK);
+        var babaP = anneTaraf && babaTaraf ? yarim : (babaTaraf ? kalan : YOK);
+        var tamPay = YOK, anaPay = null, babPay = null;
+        if (anne) paylar.push(["Anne", anneP, 1, CEYREK]);
+        else if (anneTaraf) {
+          var kA = carp(anneP, K(1, tam + ana));
+          tamPay = topla(tamPay, kA);
+          if (ana) anaPay = kA;
+        }
+        if (baba) paylar.push(["Baba", babaP, 1, CEYREK]);
+        else if (babaTaraf) {
+          var kB = carp(babaP, K(1, tam + bab));
+          tamPay = topla(tamPay, kB);
+          if (bab) babPay = kB;
+        }
+        if (tam && tamPay.p) paylar.push(["Her bir anne-baba bir kardeş (" + tam + " kişi)", tamPay, tam, YOK]);
+        if (anaPay) paylar.push(["Her bir ana bir kardeş (" + ana + " kişi)", anaPay, ana, YOK]);
+        if (babPay) paylar.push(["Her bir baba bir kardeş (" + bab + " kişi)", babPay, bab, YOK]);
+      } else if (f.secili("ucuncu")) {
+        zumre = "ucuncu";
+        esPay = es ? K(3, 4) : null;
+        paylar.push(["Büyükanne-büyükbaba zümresi (toplam)", es ? K(1, 4) : K(1, 1), 1, YOK]);
+      } else {
+        /* Eş sağsa üçüncü zümrede yalnızca büyükanne-büyükbabalar ve onların çocukları eşle birlikte mirasçı olur (TMK m. 499/3, m. 497/son). */
+        zumre = es ? "es" : "devlet";
+        esPay = es ? K(1, 1) : null;
+        if (!es) paylar.push(["Devlet (TMK m. 501)", K(1, 1), 1, YOK]);
+      }
+    }
+    if (esPay) {
+      var esKatsayi = (zumre === "altsoy" || zumre === "anababa") ? K(1, 1) : K(3, 4);
+      paylar.unshift(["Sağ kalan eş", esPay, 1, esKatsayi]);
+    }
+    var kardes = paylar.some(function (r) { return r[0].indexOf("kardeş") >= 0; });
+    return { paylar: paylar, zumre: zumre, es: es, kardes: kardes };
+  }
+
+  HA.bagla(document.getElementById("sakli-form"), document.getElementById("sakli-sonuc"), function (f) {
+    var aktif = para(f, "aktif", "Terekenin değeri", true);
+    var borc = para(f, "borc", "Borçlar ve giderler", false);
+    var saglar = para(f, "saglar", "Sağlararası kazandırmalar", false);
+    var olume = para(f, "olume", "Ölüme bağlı tasarruflar", false);
+    if (olume > aktif) throw new Error("Ölüme bağlı tasarruflar terekenin değerinden büyük olamaz; vasiyet edilen mallar terekenin içindedir.");
+    var hesap = aktif - borc + saglar;
+    if (hesap <= 0) throw new Error("Borçlar düşüldükten ve kazandırmalar eklendikten sonra hesaba esas değer sıfırdan büyük olmalı.");
+
+    var y = yasalPaylar(f);
+    var toplamSakli = K(0, 1);
+    var satirlar = [];
+    y.paylar.forEach(function (r) {
+      var sakliKisi = carp(r[1], r[3]);
+      toplamSakli = topla(toplamSakli, carp(sakliKisi, K(r[2], 1)));
+      satirlar.push([
+        r[0] + ": yasal pay " + yaz(r[1]) + (sakliKisi.p
+          ? ", saklı pay " + yaz(r[1]) + " × " + yaz(r[3]) + " = " + yaz(sakliKisi) + " (" + HA.yuzde(deg(sakliKisi) * 100) + ")"
+          : ", saklı payı yok"),
+        sakliKisi.p ? HA.tl(hesap * deg(sakliKisi)) : "–"
+      ]);
+    });
+    var tasarrufOrani = 1 - deg(toplamSakli);
+    var tasarrufKismi = hesap * tasarrufOrani;
+    var tasarruflar = olume + saglar;
+    var asan = tasarruflar - tasarrufKismi;
+    var tenkis = asan > 0.005;
+
+    var ozet = [
+      ["Terekenin değeri", HA.tl(aktif)],
+      ["Borçlar ve giderler (−)", HA.tl(borc)],
+      ["Tenkise tabi sağlararası kazandırmalar (+)", HA.tl(saglar)],
+      ["Hesaba esas değer", HA.tl(hesap), "vurgu"],
+      ["Saklı payların toplamı", yaz(toplamSakli) + " (" + HA.yuzde(deg(toplamSakli) * 100) + ") = " + HA.tl(hesap * deg(toplamSakli))],
+      ["Tasarruf oranı", HA.yuzde(tasarrufOrani * 100)],
+      ["Tasarruf edilebilir kısım", HA.tl(tasarrufKismi), "vurgu"],
+      ["Ölüme bağlı tasarruflar + sağlararası kazandırmalar", HA.tl(tasarruflar)],
+      [tenkis ? "Tasarruf edilebilir kısmı aşan tutar (yaklaşık tenkis)" : "Tasarruf edilebilir kısımda kalan boşluk",
+        HA.tl(Math.abs(asan)), "vurgu"]
+    ];
+
+    var notlar = [];
+    if (deg(toplamSakli) === 0) notlar.push("Saklı paylı mirasçı (altsoy, anne-baba ya da eş) bulunmadığından mirasbırakan mirasının tamamında tasarruf edebilir (TMK m. 505).");
+    if (tenkis) notlar.push("Tasarruflar tasarruf edilebilir kısmı aşıyor; saklı payı zedelenen mirasçılar aşan kısmın tenkisini dava edebilir (TMK m. 560). Tenkis önce ölüme bağlı tasarruflardan, yetmezse en yeni tarihliden başlayarak sağlararası kazandırmalardan yapılır (TMK m. 570).");
+    else notlar.push("Tasarruflar tasarruf edilebilir kısmı aşmıyor; bu bilgilerle saklı paylar zedelenmiş görünmüyor.");
+    if (y.kardes) notlar.push("Kardeşler yasal mirasçıdır ama saklı payları yoktur (5650 sayılı Kanunla 2007'den beri).");
+    notlar.push("Hesap, kazandırmaların saklı paylı olmayan kişilere yapıldığını varsayar. Saklı paylı bir mirasçıya yapılan kazandırmada TMK m. 561 ayrıca uygulanır.");
+    if (y.es) notlar.push("Eşin payı, mal rejiminin tasfiyesinden (örneğin katılma alacağından) sonra kalan tereke üzerinden hesaplanır; tereke değerini buna göre girin.");
+
+    return {
+      baslik: tenkis ? "Saklı paylar zedelenmiş görünüyor" : "Saklı paylar korunuyor",
+      ana: [tenkis ? "Yaklaşık tenkis miktarı" : "Tasarruf oranı", tenkis ? HA.tl(asan) : HA.yuzde(tasarrufOrani * 100)],
+      basliklar: ["Kalem", "Tutar"],
+      satirlar: ozet.concat([["Mirasçı başına saklı paylar", ""]], satirlar),
+      notlar: notlar
+    };
+  });
+})();
+</script>

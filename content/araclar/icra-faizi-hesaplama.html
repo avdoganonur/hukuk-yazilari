@@ -1,0 +1,152 @@
+---
+baslik: "İcra faizi hesaplama: takipten sonra işleyen faiz"
+kisa_ad: "İcra faizi"
+aciklama: "İcra takibinde asıl alacağa takip tarihinden hesap tarihine kadar işleyen yasal, avans ya da sözleşmedeki faizi ve toplam borcu hesaplar."
+grup: sure-faiz
+sira: 30
+guncelleme: 2026-10-19
+veri: [faiz]
+ilgili_yazilar: [ilamsiz-icra-takibi-nasil-baslar, ilamli-icra-takibi, icra-takibine-itiraz-suresi, itirazin-iptali-davasi, borclunun-temerrudu-ve-gecikme-faizi]
+kaynaklar:
+  - ad: "3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin Kanun m. 1–3"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3095&MevzuatTur=1&MevzuatTertip=5"
+    not: "Kanuni faiz, ticari işlerde avans faizi, mürekkep faiz yasağı; m. 1, 7589 sayılı Kanunla değişik (yürürlük 31/7/2026)"
+  - ad: "6098 sayılı Türk Borçlar Kanunu m. 88 ve 120"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5"
+    not: "Sözleşmeyle kararlaştırılabilecek faiz ve temerrüt faizinin üst sınırı"
+  - ad: "6102 sayılı Türk Ticaret Kanunu m. 8"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5"
+    not: "Ticari işlerde faiz oranının serbestçe belirlenmesi"
+  - ad: "TCMB, Reeskont ve Avans Faiz Oranları"
+    url: "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Temel+Faaliyetler/Para+Politikasi/Reeskont+ve+Avans+Faiz+Oranlari"
+    not: "Avans faiz oranlarının değişiklik tarihleri (19/10/2026'da kontrol edildi)"
+  - ad: "Cumhurbaşkanı Kararı, 20/5/2024, sayı 8485 (RG 21/5/2024, sayı 32552)"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8485&MevzuatTur=20&MevzuatTertip=5"
+    not: "Kanuni faizin 1/6/2024'ten itibaren yıllık %24 olması"
+nasil: |
+  Araç, icra takibinde asıl alacağa **takip tarihinden hesap tarihine kadar** işleyen faizi hesaplar. Takip talebinde ayrıca istenen, takipten önceki döneme ait işlemiş faizi girerseniz toplam borca eklenir; bu tutara yeniden faiz yürütülmez, çünkü kanuni faiz ve temerrüt faizinde faize faiz yürütülemez (3095 m. 3).
+
+  Üç faiz türü seçilebilir. **Yasal faiz**, 3095 m. 1'deki kanuni faizdir: 1 Ocak 2006'dan itibaren %9, 1 Haziran 2024'ten itibaren %24, 31 Temmuz 2026'dan itibaren 7589 sayılı Kanunla değişen kurala göre Merkez Bankası reeskont oranının yüzde sekseni olan %31. **Ticari avans faizi**, ticari işlerde Merkez Bankasının kısa vadeli avans oranıdır ve kanuni faizden yüksekse uygulanır (3095 m. 2/2). Araç bu oranı kanun metnindeki gibi yıllık olarak belirler: önceki yılın 31 Aralık oranı, 30 Haziran'da 5 puan veya daha çok fark varsa yılın ikinci yarısında 30 Haziran oranı. **Sözleşmedeki sabit oran** seçilirse girdiğiniz yıllık oran bütün döneme uygulanır.
+
+  Her dönem için asıl alacak × yıllık oran × gün ÷ 365 hesaplanır; uygulamada yaygın olduğu gibi yıl 365 gün kabul edilir. Oran değiştiğinde hesap dönemlere bölünür ve her dönem ayrı gösterilir.
+
+  Araç; harç, masraf, vekâlet ücreti, kısmi ödemelerin mahsubu, TTK m. 1530'daki faiz ve yabancı para alacaklarını hesaba katmaz. Seçtiğiniz faiz türü ve oranın takip talebinde istenenle aynı olmasına dikkat edin. Adi işlerde sözleşmeyle kararlaştırılan temerrüt faizi, kanuni faiz oranının iki katını aşamaz (TBK m. 120); ticari işlerde faiz oranı serbestçe belirlenir (TTK m. 8). Araç bu sınırı denetlemez. Yasal ve avans faizinde 1 Ocak 2006'dan önceki ve 2026 sonrası dönemler hesaplanmaz.
+---
+<form class="arac-form" id="icra-form" novalidate>
+  <div class="alan">
+    <label for="asil">Asıl alacak</label>
+    <input id="asil" name="asil" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 250.000">
+  </div>
+  <div class="alan">
+    <label for="islemis">Takip öncesi işlemiş faiz (isteğe bağlı)</label>
+    <input id="islemis" name="islemis" inputmode="decimal" data-para autocomplete="off" placeholder="Takip talebindeki tutar">
+    <p class="ipucu">Toplama eklenir, bu tutara faiz yürütülmez.</p>
+  </div>
+  <div class="alan-cift">
+    <div class="alan">
+      <label for="takip">Takip tarihi</label>
+      <input id="takip" name="takip" type="date" min="2006-01-01" max="2026-12-31">
+    </div>
+    <div class="alan">
+      <label for="hesap">Hesap tarihi</label>
+      <input id="hesap" name="hesap" type="date" min="2006-01-01" max="2026-12-31">
+    </div>
+  </div>
+  <div class="alan">
+    <label for="tur">Faiz türü</label>
+    <select id="tur" name="tur">
+      <option value="kanuni">Yasal (kanuni) faiz</option>
+      <option value="avansKanun">Ticari işlerde avans faizi</option>
+      <option value="sabit">Sözleşmedeki sabit yıllık oran</option>
+    </select>
+  </div>
+  <div class="alan">
+    <label for="oran">Sözleşmedeki yıllık oran (%)</label>
+    <input id="oran" name="oran" inputmode="decimal" autocomplete="off" placeholder="Örn. 36">
+    <p class="ipucu">Yalnızca sözleşmedeki sabit oran seçildiğinde kullanılır.</p>
+  </div>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="icra-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  /* Faiz motoru: dönemlere bölerek basit faiz (yıl 365 gün). yasal-faiz-hesaplama ile aynı. */
+  var F = HV.faiz;
+  function kisa(d) { var g = d.getUTCDate(), a = d.getUTCMonth() + 1; return (g < 10 ? "0" : "") + g + "." + (a < 10 ? "0" : "") + a + "." + d.getUTCFullYear(); }
+  function oranBul(tur, d) {
+    if (typeof tur === "number") return tur;
+    var k = HA.donem(F.kanuni, d).deger;
+    if (tur === "kanuni") return k;
+    return Math.max(HA.donem(F[tur], d).deger, k);
+  }
+  function faizMotoru(tur, anapara, bas, bit) {
+    if (!(bit > bas)) throw new Error("Hesap tarihi, takip tarihinden sonra olmalı.");
+    if (typeof tur !== "number") {
+      if (bas < HA.tarih(F.enEski)) throw new Error("Oranlar " + HA.tarihYaz(HA.tarih(F.enEski)) + "'dan itibaren doğrulanabildi; daha eski bir tarih girilemez.");
+      var son = HA.tarih(tur === "avansTcmb" ? F.tcmbKontrol : F.sonGecerlilik);
+      if (bit > son) throw new Error("Oranlar " + HA.tarihYaz(son) + " tarihine kadar bellidir; hesap tarihi bundan sonra olamaz.");
+    }
+    var kesim = [];
+    if (typeof tur !== "number") {
+      var listeler = [F.kanuni];
+      if (tur !== "kanuni") listeler.push(F[tur]);
+      listeler.forEach(function (l) {
+        l.forEach(function (x) { var t = HA.tarih(x.baslangic); if (t > bas && t < bit) kesim.push(t.getTime()); });
+      });
+    }
+    kesim = kesim.filter(function (t, i) { return kesim.indexOf(t) === i; }).sort(function (a, b) { return a - b; });
+    var noktalar = [bas.getTime()].concat(kesim, [bit.getTime()]);
+    var donemler = [], toplam = 0, toplamGun = 0;
+    for (var i = 0; i < noktalar.length - 1; i++) {
+      var s = new Date(noktalar[i]), e = new Date(noktalar[i + 1]);
+      var oran = oranBul(tur, s), gun = HA.gunFarki(s, e);
+      var son2 = donemler[donemler.length - 1];
+      if (son2 && son2.oran === oran) { son2.e = e; son2.gun += gun; }
+      else donemler.push({ s: s, e: e, gun: gun, oran: oran });
+      toplamGun += gun;
+    }
+    donemler.forEach(function (d) { d.faiz = anapara * d.oran / 100 * d.gun / 365; toplam += d.faiz; });
+    return { donemler: donemler, toplam: toplam, gun: toplamGun };
+  }
+
+  HA.bagla(document.getElementById("icra-form"), document.getElementById("icra-sonuc"), function (f) {
+    var asil = f.sayi("asil", "Asıl alacak");
+    if (asil <= 0) throw new Error("Asıl alacak sıfırdan büyük olmalı.");
+    var islemis = f.deger("islemis") ? f.sayi("islemis", "Takip öncesi işlemiş faiz") : 0;
+    if (islemis < 0) throw new Error("İşlemiş faiz negatif olamaz.");
+    var bas = f.tarih("takip", "Takip tarihi"), bit = f.tarih("hesap", "Hesap tarihi");
+    var secim = f.deger("tur"), tur = secim, ad;
+    if (secim === "sabit") {
+      tur = f.sayi("oran", "Sözleşmedeki yıllık oran");
+      if (!(tur > 0) || tur > 1000) throw new Error("Sözleşmedeki yıllık oran için 0'dan büyük bir yüzde girin (örneğin 36).");
+      ad = "Sözleşmedeki sabit oran (" + HA.yuzde(tur) + ")";
+    } else ad = secim === "kanuni" ? "Yasal (kanuni) faiz" : "Ticari işlerde avans faizi";
+    var m = faizMotoru(tur, asil, bas, bit);
+    var satirlar = m.donemler.map(function (d) {
+      return [kisa(d.s) + " – " + kisa(d.e), String(d.gun), HA.yuzde(d.oran), HA.tl(d.faiz)];
+    });
+    satirlar.push(["Takipten sonra işleyen faiz", String(m.gun), "", HA.tl(m.toplam), "vurgu"]);
+    satirlar.push(["Asıl alacak", "", "", HA.tl(asil)]);
+    if (islemis) satirlar.push(["Takip öncesi işlemiş faiz", "", "", HA.tl(islemis)]);
+    var toplam = asil + islemis + m.toplam;
+    satirlar.push(["Toplam (masraf ve ücret hariç)", "", "", HA.tl(toplam), "vurgu"]);
+    var notlar = [
+      "Basit faiz: asıl alacak × yıllık oran × gün ÷ 365. Yıl, uygulamada yaygın olduğu gibi 365 gün kabul edildi.",
+      "Gün sayısı takip tarihi ile hesap tarihi arasındaki farktır."
+    ];
+    if (secim === "avansKanun") notlar.push("Avans faizi 3095 m. 2/2'nin metnine göre yıllık belirlendi (31 Aralık oranı; 30 Haziran'da 5 puan veya daha çok fark varsa ikinci yarıda 30 Haziran oranı). Kanuni faizden düşük olduğu dönemde kanuni faiz alınır.");
+    if (secim === "sabit") notlar.push("Sabit oran bütün döneme uygulandı. Adi işlerde sözleşmeyle kararlaştırılan temerrüt faizi kanuni faizin iki katını aşamaz (TBK m. 120); araç bunu denetlemez.");
+    notlar.push("Harç, masraf, vekâlet ücreti ve kısmi ödemeler hesaba katılmadı.");
+    return {
+      baslik: ad,
+      ana: ["Toplam borç", HA.tl(toplam)],
+      basliklar: ["Dönem", "Gün", "Yıllık oran", "Tutar"],
+      satirlar: satirlar,
+      notlar: notlar
+    };
+  });
+})();
+</script>

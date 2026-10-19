@@ -1,0 +1,128 @@
+---
+baslik: "İşsizlik maaşı hesaplama 2026: ödenek tutarı ve süresi"
+kisa_ad: "İşsizlik maaşı"
+aciklama: "Son dört ayın prime esas kazancından günlük ve aylık işsizlik ödeneğini, asgari ücret sınırını, damga vergisini ve ödeme süresini hesaplar."
+grup: is
+sira: 60
+guncelleme: 2026-10-19
+veri: [is]
+ilgili_yazilar: [issizlik-odenegi-sartlari]
+kaynaklar:
+  - ad: "4447 sayılı İşsizlik Sigortası Kanunu m. 50 ve m. 51"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4447&MevzuatTur=1&MevzuatTertip=5"
+    not: "Günlük ortalama brüt kazancın %40'ı; brüt asgari ücretin %80'ini geçemez; 600/900/1080 gün için 180/240/300 gün; yalnız damga vergisi"
+  - ad: "Asgari Ücret Tespit Komisyonu Kararı (RG 26/12/2025, sayı 33119)"
+    url: "https://csgb.gov.tr/yayinlar/calisma-hayati-istatistikleri-e-bulteni/eylul-2026/ucret-ve-sendikal-istatistikler.html"
+    not: "2026 brüt asgari ücret 33.030,00 TL"
+  - ad: "488 sayılı Damga Vergisi Kanunu, 1 sayılı tablo IV-1-b"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=488&MevzuatTur=1&MevzuatTertip=5"
+    not: "Binde 7,59"
+nasil: |
+  İşsizlik Sigortası Kanunu'nun 50. maddesine göre günlük işsizlik ödeneği, sigortalının son dört aylık prime esas kazançları dikkate alınarak hesaplanan günlük ortalama brüt kazancının yüzde kırkıdır. Araç dört ayın prime esas kazançlarını toplar ve bu aylardaki prim gün sayısına (tam çalışmada 120) böler. Aylık ödenek, günlük ödeneğin 30 katıdır.
+
+  Bu şekilde bulunan ödenek, 16 yaşından büyükler için uygulanan aylık brüt asgari ücretin yüzde sekseninden fazla olamaz. 2026'da bu sınır 33.030,00 × 0,80 = 26.424,00 TL'dir. İşsizlik ödeneğinden damga vergisi dışında vergi ve kesinti yapılmaz; damga vergisi binde 7,59'dur.
+
+  Ödenek süresi, sözleşmenin sona ermesinden önceki son 120 gün hizmet akdine tabi olunması ve son üç yıl içinde işsizlik sigortası primi ödenmiş gün sayısına bağlıdır: 600 gün için 180 gün, 900 gün için 240 gün, 1080 gün için 300 gün.
+
+  Ödeneğe hak kazanmak için sözleşmenin Kanun'un 51. maddesinde sayılan bir sebeple (örneğin işverenin haklı neden olmadan feshi ya da işçinin haklı nedenle feshi) sona ermesi ve süresi içinde İŞKUR'a başvurulması gerekir. Araç bu şartları incelemez; istifa ya da işçinin kusuruyla fesih gibi hâllerde ödenek doğmaz. Hesap 2026 yılında ödenen ödenekler içindir; asgari ücret değiştiğinde sınır da değişir.
+---
+<form class="arac-form" id="isz-form" novalidate>
+  <fieldset>
+    <legend>Son dört ayın prime esas kazancı (brüt)</legend>
+    <div class="alan-cift">
+      <div class="alan">
+        <label for="a1">1. ay</label>
+        <input id="a1" name="a1" inputmode="decimal" data-para autocomplete="off" required>
+      </div>
+      <div class="alan">
+        <label for="a2">2. ay</label>
+        <input id="a2" name="a2" inputmode="decimal" data-para autocomplete="off" required>
+      </div>
+      <div class="alan">
+        <label for="a3">3. ay</label>
+        <input id="a3" name="a3" inputmode="decimal" data-para autocomplete="off" required>
+      </div>
+      <div class="alan">
+        <label for="a4">4. ay</label>
+        <input id="a4" name="a4" inputmode="decimal" data-para autocomplete="off" required>
+      </div>
+    </div>
+    <p class="ipucu">SGK hizmet dökümündeki "prim ödeme kazancı" ya da bordrodaki SGK matrahı. Aynı tutarsa dört kutuya da aynı tutarı yazın.</p>
+    <div class="alan">
+      <label for="gun4">Bu dört aydaki prim gün sayısı</label>
+      <input id="gun4" name="gun4" type="number" min="1" max="124" step="1" value="120" inputmode="numeric">
+    </div>
+  </fieldset>
+  <div class="alan">
+    <label for="gun3">Son üç yılda işsizlik sigortası primi ödenen gün sayısı</label>
+    <input id="gun3" name="gun3" type="number" min="0" max="1095" step="1" inputmode="numeric" placeholder="Örn. 900" required>
+  </div>
+  <label class="secim"><input type="checkbox" name="son120" checked> Sözleşme sona ermeden önceki son 120 gün kesintisiz hizmet akdine tabi çalıştım</label>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="isz-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var V = window.HV && HV.is;
+  function deger(liste, t) { var d = HA.donem(liste, t); return d ? d.deger : null; }
+
+  HA.bagla(document.getElementById("isz-form"), document.getElementById("isz-sonuc"), function (f) {
+    if (!V) throw new Error("Oran dosyası yüklenemedi. Sayfayı yenileyip yeniden deneyin.");
+    var T = HA.tarih("2026-01-01");
+    var au = deger(V.asgariBrut, T), ust = au * deger(V.pekUstKat, T);
+    var toplam = 0;
+    for (var i = 1; i <= 4; i++) {
+      var k = f.sayi("a" + i, i + ". ayın kazancı");
+      if (k < 0) throw new Error(i + ". ayın kazancı negatif olamaz.");
+      if (k > ust) throw new Error(i + ". ayın kazancı aylık prime esas kazanç üst sınırını (" + HA.tl(ust) + ") aşamaz.");
+      toplam += k;
+    }
+    var gun4 = f.sayiVarsa("gun4", 120);
+    if (gun4 < 1 || gun4 > 124 || Math.floor(gun4) !== gun4) throw new Error("Dört aydaki prim gün sayısı 1 ile 124 arasında tam sayı olmalı.");
+    var gun3 = f.sayi("gun3", "Son üç yıldaki prim gün sayısı");
+    if (gun3 < 0 || Math.floor(gun3) !== gun3) throw new Error("Son üç yıldaki prim gün sayısı için 0 ya da pozitif tam sayı girin.");
+    if (!f.secili("son120")) {
+      return { baslik: "İşsizlik ödeneği", ana: ["İşsizlik ödeneği", "Hak doğmuyor"],
+        notlar: ["Kanun, sözleşmenin sona ermesinden önceki son 120 gün hizmet akdine tabi olmayı şart koşar (4447 m. 50)."] };
+    }
+    var sure = gun3 >= 1080 ? 300 : gun3 >= 900 ? 240 : gun3 >= 600 ? 180 : 0;
+    if (!sure) {
+      return { baslik: "İşsizlik ödeneği", ana: ["İşsizlik ödeneği", "Hak doğmuyor"],
+        notlar: ["Son üç yılda en az 600 gün işsizlik sigortası primi ödenmiş olması gerekir (4447 m. 50). Girilen: " + gun3 + " gün."] };
+    }
+    var ortalama = toplam / gun4;
+    var gunlukHam = ortalama * 0.40;
+    var aylikHam = HA.yuvarla(gunlukHam * 30);
+    var sinir = HA.yuvarla(au * 0.80);
+    var aylik = Math.min(aylikHam, sinir);
+    var dvOran = deger(V.damgaOran, T);
+    var dv = HA.yuvarla(aylik * dvOran);
+    var net = HA.yuvarla(aylik - dv);
+    var toplamNet = HA.yuvarla(net * sure / 30);
+    var notlar = [];
+    if (aylikHam > sinir) notlar.push("Hesaplanan tutar (" + HA.tl(aylikHam) + ") asgari ücret sınırını aştığı için ödenek sınıra indirildi.");
+    notlar.push("Sınır ve damga vergisi 2026 değerleriyle hesaplandı. Ödenek her ay 30 gün üzerinden gösterildi; ilk ve son ayda gün sayısı değişebilir.");
+    notlar.push("Hak kazanma için sözleşmenin 4447 sayılı Kanun'un 51. maddesindeki bir sebeple sona ermesi ve süresinde başvurulması gerekir.");
+    return {
+      baslik: "İşsizlik ödeneği",
+      ana: ["Aylık net işsizlik ödeneği", HA.tl(net)],
+      satirlar: [
+        ["Dört aylık prime esas kazanç toplamı", HA.tl(toplam)],
+        ["Günlük ortalama brüt kazanç (" + gun4 + " gün)", HA.tl(ortalama)],
+        ["Günlük ödenek (%40)", HA.tl(gunlukHam)],
+        ["Aylık ödenek (30 gün)", HA.tl(aylikHam)],
+        ["Üst sınır (brüt asgari ücretin %80'i)", HA.tl(sinir)],
+        ["Aylık brüt ödenek", HA.tl(aylik), "vurgu"],
+        ["Damga vergisi (binde " + HA.bicim(dvOran * 1000, 2) + ")", "− " + HA.tl(dv)],
+        ["Aylık net ödenek", HA.tl(net), "vurgu"],
+        ["Ödenek süresi (" + gun3 + " prim günü)", sure + " gün (" + sure / 30 + " ay)"],
+        ["Toplam net ödenek", HA.tl(toplamNet)]
+      ],
+      notlar: notlar
+    };
+  });
+})();
+</script>

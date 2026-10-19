@@ -1,0 +1,120 @@
+---
+baslik: "İcra masrafı hesaplama: başvurma, peşin, tahsil ve cezaevi harcı"
+kisa_ad: "İcra masrafı"
+aciklama: "İlamlı ya da ilamsız icra takibinde başvurma harcını, peşin harcı, vekalet harcını, tahsil harcını ve cezaevi harcını 2026 tarifesine göre hesaplar."
+grup: harc-vergi
+sira: 40
+guncelleme: 2026-10-19
+veri: [harc]
+ilgili_yazilar: [ilamsiz-icra-takibi-nasil-baslar, ilamli-icra-takibi, icra-takibine-itiraz-suresi, haciz-yoluyla-takipte-aciz-belgesi]
+kaynaklar:
+  - ad: "492 sayılı Harçlar Kanunu m. 20, 23, 28/b, 29"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=492&MevzuatTur=1&MevzuatTertip=5"
+    not: "Takipten sonraki faizin harca katılmaması, vazgeçmede yarım harç, tahsil harcının ödeme zamanı, ilamsız takipte binde 5 peşin harç"
+  - ad: "Harçlar Kanunu Genel Tebliği (Seri No: 98), RG 31.12.2025, sayı 33124 (5. Mükerrer)"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42887&MevzuatTur=9&MevzuatTertip=5"
+    not: "(1) sayılı tarife B-I icra harçları ve D-I-c vekaletname suret harcı (2026)"
+  - ad: "2548 sayılı Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanun m. 1"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2548&MevzuatTur=1&MevzuatTertip=3"
+    not: "İcra dairelerince tahsil olunan paranın yüzde 2'si; borçluya yükletilemez"
+  - ad: "1136 sayılı Avukatlık Kanunu m. 27 ve Türkiye Barolar Birliği Duyuru 2025/71"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1136&MevzuatTur=1&MevzuatTertip=5"
+    not: "Vekâlet pulu, 2026 bedeli 164 TL"
+nasil: |
+  İcra takibi açılırken icraya başvurma harcı ödenir. İlama dayanmayan (ilamsız) takiplerde ayrıca alacak miktarının binde beşi peşin harç olarak alınır; bu peşin harç takip sonunda alınacak tahsil harcından düşülür (Harçlar Kanunu m. 29). Mahkeme kararına dayanan ilamlı takiplerde peşin harç yoktur. Takip avukatla yapılıyorsa vekâletname suret harcı ve vekâlet pulu eklenir.
+
+  Para tahsil edildiğinde tahsil harcı doğar. Oran, paranın hangi aşamada ödendiğine göre değişir: ödeme ya da icra emri tebliğ edildikten sonra hacizden önce ödenirse yüzde 4,55, hacizden sonra ve satıştan önce ödenirse yüzde 9,10, haczedilen ya da rehinli malın satışıyla tahsil edilirse yüzde 11,38. Maaş ve ücret haczi yoluyla tahsilde oran yüzde 4,55'tir. Takipten sonra işleyen faiz harcın hesabına katılmaz (m. 20).
+
+  İcra dairesinin tahsil ettiği paradan ayrıca yüzde 2 cezaevi harcı alınır ve bu harç borçluya yükletilemez (2548 sayılı Kanun m. 1). Harç, icra dairesince tahsil edilen paraya bağlı olduğundan, alacak icra dairesi dışında doğrudan alacaklıya ödenmişse (haricen tahsil) cezaevi harcı alınmaz; araç bu durumda cezaevi harcını hesaplamaz. Takipten vazgeçilmesi hâlinde ise vazgeçilen miktara ait tahsil harcının yarısı alınır; satıştan sonra vazgeçilirse tamamı alınır (m. 23).
+
+  Araç; tebligat ve posta giderlerini, haciz ve satış için memurun daire dışına çıkma harcını, kıymet takdiri ve satış masraflarını, değeri belli olmayan ilamların icrasını ve tahliye takiplerini hesaba katmaz. Tebligat ücreti resmî PTT tarifesinden doğrulanamadığı için gösterilmez.
+---
+<form class="arac-form" id="icra-form" novalidate>
+  <fieldset>
+    <legend>Takip türü</legend>
+    <div class="secimler">
+      <label class="secim"><input type="radio" name="takip" value="ilamsiz" checked> İlamsız takip (fatura, sözleşme, senet vb.)</label>
+      <label class="secim"><input type="radio" name="takip" value="ilamli"> İlamlı takip (mahkeme kararı)</label>
+    </div>
+  </fieldset>
+  <div class="alan">
+    <label for="alacak">Takip tutarı (alacak)</label>
+    <input id="alacak" name="alacak" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 120.000">
+    <p class="ipucu">Asıl alacak ile takip tarihine kadar işlemiş faiz ve masraf. Takipten sonra işleyecek faizi eklemeyin.</p>
+  </div>
+  <div class="alan">
+    <label for="sekil">Tahsil şekli</label>
+    <select id="sekil" name="sekil">
+      <option value="hacizOncesi">Ödeme ya da icra emri tebliğinden sonra, hacizden önce ödendi</option>
+      <option value="hacizSonrasi">Hacizden sonra, satıştan önce ödendi</option>
+      <option value="satis">Haczedilen ya da rehinli malın satışıyla tahsil edildi</option>
+      <option value="maas">Maaş ya da ücret haczi yoluyla tahsil edildi</option>
+    </select>
+  </div>
+  <label class="secim"><input type="checkbox" name="haricen"> Borçlu parayı icra dairesi dışında doğrudan alacaklıya ödedi (haricen tahsil)</label>
+  <label class="secim"><input type="checkbox" name="avukat" checked> Takip avukatla yapılıyor (vekalet harcı ve pulu eklensin)</label>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="icra-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var Y = function (n) { return HA.yuvarla(n, 2); };
+  var SEKIL = {
+    hacizOncesi: "hacizden önce ödeme",
+    hacizSonrasi: "hacizden sonra, satıştan önce ödeme",
+    satis: "satış yoluyla tahsil",
+    maas: "maaş ya da ücret haczi"
+  };
+  HA.bagla(document.getElementById("icra-form"), document.getElementById("icra-sonuc"), function (f) {
+    var bugun = HA.tarih(new Date());
+    var d = HA.donem(HV.harc.donemler, bugun) || HV.harc.donemler[0];
+    var h = d.deger;
+    var alacak = f.sayi("alacak", "Takip tutarı");
+    if (alacak <= 0) throw new Error("Takip tutarı sıfırdan büyük olmalı.");
+    var ilamsiz = f.deger("takip") === "ilamsiz";
+    var sekil = f.deger("sekil");
+    var haricen = f.secili("haricen");
+    var oran = h.tahsil[sekil];
+
+    var satirlar = [["İcraya başvurma harcı", HA.tl(h.icraBasvurma)]];
+    var acilis = h.icraBasvurma;
+    var pesin = 0;
+    if (ilamsiz) {
+      pesin = Y(alacak * h.icraPesinOran);
+      satirlar.push(["Peşin harç (binde 5)", HA.tl(pesin)]);
+      acilis += pesin;
+    } else {
+      satirlar.push(["Peşin harç", "Alınmaz (ilamlı takip)"]);
+    }
+    if (f.secili("avukat")) {
+      satirlar.push(["Vekalet harcı (vekâletname suret harcı)", HA.tl(h.vekaletSuret)]);
+      satirlar.push(["Vekâlet pulu (Türkiye Barolar Birliği)", HA.tl(h.vekaletPulu)]);
+      acilis += h.vekaletSuret + h.vekaletPulu;
+    }
+    acilis = Y(acilis);
+    satirlar.push(["Takip açılırken ödenecek toplam", HA.tl(acilis), "vurgu"]);
+
+    var tahsil = Y(alacak * oran);
+    satirlar.push(["Tahsil harcı (" + SEKIL[sekil] + ", " + HA.yuzde(oran * 100) + ")", HA.tl(tahsil)]);
+    if (pesin) satirlar.push(["Tahsil harcından düşülecek peşin harç", HA.tl(pesin)]);
+    satirlar.push(["Peşin harç düşüldükten sonra kalan tahsil harcı", HA.tl(Y(Math.max(tahsil - pesin, 0)))]);
+    var cezaevi = haricen ? 0 : Y(alacak * h.cezaevi);
+    satirlar.push(["Cezaevi harcı (%2)", haricen ? "Alınmaz (haricen tahsil)" : HA.tl(cezaevi)]);
+
+    var notlar = [];
+    notlar.push("Tahsil ve cezaevi harçları, takip tutarının tamamının seçilen aşamada tahsil edildiği varsayımıyla hesaplandı. Kısmi tahsilde her ödeme için ayrı hesaplanır.");
+    if (!haricen) notlar.push("Cezaevi harcı icra dairesince tahsil edilen paradan alınır ve borçluya yükletilemez (2548 sayılı Kanun m. 1).");
+    if (haricen) {
+      notlar.push("Haricen tahsilde para icra dairesince tahsil edilmediği için cezaevi harcı hesaplanmadı. Tahsil harcı seçtiğiniz aşamanın oranıyla gösterildi.");
+      notlar.push("Haricen tahsil nedeniyle takipten vazgeçildiği tutanağa geçirilirse vazgeçilen miktara ait tahsil harcının yarısı (" + HA.tl(Y(tahsil / 2)) + ") alınır; satıştan sonra vazgeçilirse tamamı alınır (Harçlar Kanunu m. 23).");
+    }
+    notlar.push("Tebligat, posta, haciz ve satış giderleri dahil değildir.");
+    notlar.push("Tutarlar " + d.kaynak + " ekindeki 2026 tarifesinden alındı.");
+    if (bugun > HA.tarih(HV.harc.sonGecerlilik)) notlar.push("Bu araçta 2026'dan sonraki yılların tutarları yok; sonuç 2026 tutarlarıyla hesaplandı.");
+    return { baslik: "İcra masrafları", ana: ["Takip açılırken ödenecek", HA.tl(acilis)], basliklar: ["Kalem", "Tutar"], satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>

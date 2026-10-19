@@ -1,0 +1,116 @@
+---
+baslik: "İhbar tazminatı hesaplama: bildirim süresi ve kesintiler"
+kisa_ad: "İhbar tazminatı"
+aciklama: "Çalışma süresine göre bildirim süresini bulur; ihbar tazminatını giydirilmiş brüt ücretten gelir ve damga vergisi kesintisiyle hesaplar."
+grup: is
+sira: 20
+guncelleme: 2026-10-19
+veri: [is]
+ilgili_yazilar: [ihbar-suresi-ve-ihbar-tazminati, kidem-tazminati-hangi-ucret-uzerinden-hesaplanir]
+kaynaklar:
+  - ad: "4857 sayılı İş Kanunu m. 17"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4857&MevzuatTur=1&MevzuatTertip=5"
+    not: "Bildirim süreleri 2, 4, 6 ve 8 hafta; tazminat giydirilmiş ücret üzerinden"
+  - ad: "193 sayılı Gelir Vergisi Kanunu m. 61 ve m. 103"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=193&MevzuatTur=1&MevzuatTertip=4"
+    not: "Ücret tanımı; 2026 tarifesi Seri No: 332 GVK Genel Tebliği (RG 31/12/2025, 33124 5. Mük.) ile"
+  - ad: "5510 sayılı Kanun m. 80/1-b"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5510&MevzuatTur=1&MevzuatTertip=5"
+    not: "İhbar tazminatı prime esas kazanca dahil edilmez"
+  - ad: "488 sayılı Damga Vergisi Kanunu, 1 sayılı tablo IV-1-b"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=488&MevzuatTur=1&MevzuatTertip=5"
+    not: "Binde 7,59"
+nasil: |
+  Belirsiz süreli iş sözleşmesini feshetmek isteyen taraf, karşı tarafa önceden bildirimde bulunmalıdır. İş Kanunu'nun 17. maddesine göre bildirim süresi, işi altı aydan az sürmüş işçi için iki hafta, altı aydan bir buçuk yıla kadar sürmüş işçi için dört hafta, bir buçuk yıldan üç yıla kadar sürmüş işçi için altı hafta, üç yıldan fazla sürmüş işçi için sekiz haftadır. Bu sürelere uymayan taraf, bildirim süresine ait ücret tutarında tazminat öder. Süreler sözleşmeyle artırılabilir.
+
+  Tazminat, aylık giydirilmiş brüt ücretin otuzda biri olan günlük ücretin bildirim süresindeki gün sayısıyla çarpılmasıyla bulunur. Giydirilmiş ücrete düzenli ödenen yemek, yol, ikramiye gibi para ve parayla ölçülebilen menfaatler de girer (m. 17 son fıkra). Araç tam üç yıllık süreyi sekiz hafta sayar.
+
+  İhbar tazminatı ücret niteliğinde sayıldığından gelir vergisine tabidir; SGK primi kesilmez (5510 m. 80/1-b). Gelir vergisi, yıl içinde o ana kadar oluşan kümülatif vergi matrahı üzerine eklenerek 2026 ücret tarifesiyle hesaplanır. Matrah girmezseniz araç ilk dilimden (%15) başlar. Ayrıca binde 7,59 damga vergisi kesilir.
+
+  Asgari ücret gelir ve damga vergisi istisnası her ay bir kez ve o ayın ücretine uygulanır; araç ihbar tazminatının, istisnanın kullanıldığı aylık ücretle aynı ayda ödendiğini varsayar ve istisnayı ayrıca uygulamaz. Bildirim süresinin sözleşmeyle uzatılması, kötüniyet tazminatı, belirli süreli sözleşmeler ve faiz hesaba katılmaz. Vergi hesabı 2026 yılında yapılan ödemeler içindir.
+---
+<form class="arac-form" id="ihbar-form" novalidate>
+  <div class="alan-cift">
+    <div class="alan">
+      <label for="giris">İşe giriş tarihi</label>
+      <input id="giris" name="giris" type="date" required>
+    </div>
+    <div class="alan">
+      <label for="cikis">Fesih tarihi</label>
+      <input id="cikis" name="cikis" type="date" max="2026-12-31" required>
+      <p class="ipucu">Son çalışılan gün.</p>
+    </div>
+  </div>
+  <div class="alan">
+    <label for="ucret">Aylık giydirilmiş brüt ücret</label>
+    <input id="ucret" name="ucret" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 45.000" required>
+  </div>
+  <div class="alan">
+    <label for="matrah">Bu yıl içinde önceden oluşan kümülatif gelir vergisi matrahı (isteğe bağlı)</label>
+    <input id="matrah" name="matrah" inputmode="decimal" data-para autocomplete="off" placeholder="Boş bırakılırsa 0">
+    <p class="ipucu">Bordrodaki "kümülatif vergi matrahı" satırı. Boş bırakırsanız vergi %15 dilimden başlar.</p>
+  </div>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="ihbar-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var V = window.HV && HV.is;
+  function deger(liste, t) { var d = HA.donem(liste, t); return d ? d.deger : null; }
+  function vergi(m, dilim) {
+    var v = 0, alt = 0;
+    for (var i = 0; i < dilim.length && m > alt; i++) { v += (Math.min(m, dilim[i][0]) - alt) * dilim[i][1]; alt = dilim[i][0]; }
+    return v;
+  }
+  function sure(giris, cikis) {
+    var son = HA.gunEkle(cikis, 1), y = 0, a = 0;
+    while (HA.yilEkle(giris, y + 1) <= son) y++;
+    while (a < 11 && HA.ayEkle(giris, 12 * y + a + 1) <= son) a++;
+    return { yil: y, ay: a, gun: HA.gunFarki(HA.ayEkle(giris, 12 * y + a), son) };
+  }
+
+  HA.bagla(document.getElementById("ihbar-form"), document.getElementById("ihbar-sonuc"), function (f) {
+    if (!V) throw new Error("Oran dosyası yüklenemedi. Sayfayı yenileyip yeniden deneyin.");
+    var giris = f.tarih("giris", "İşe giriş tarihi"), cikis = f.tarih("cikis", "Fesih tarihi");
+    if (cikis < giris) throw new Error("Fesih tarihi giriş tarihinden önce olamaz.");
+    if (cikis > HA.tarih(V.sonGecerlilik)) throw new Error("Vergi hesabı 2026 tarifesiyle yapılır; 31 Aralık 2026'dan sonraki bir tarih girmeyin.");
+    var ucret = f.sayi("ucret", "Aylık giydirilmiş brüt ücret");
+    if (ucret <= 0) throw new Error("Aylık ücret sıfırdan büyük olmalı.");
+    var matrah = f.deger("matrah") ? f.sayi("matrah", "Kümülatif matrah") : 0;
+    if (matrah < 0) throw new Error("Kümülatif matrah negatif olamaz.");
+
+    var s = sure(giris, cikis);
+    var toplamAy = 12 * s.yil + s.ay;
+    var hafta = toplamAy < 6 ? 2 : toplamAy < 18 ? 4 : toplamAy < 36 ? 6 : 8;
+    var gunluk = ucret / 30;
+    var brut = HA.yuvarla(gunluk * hafta * 7);
+    var t = HA.tarih("2026-01-01");
+    var tarife = deger(V.gvUcretTarife, t);
+    var gv = HA.yuvarla(vergi(matrah + brut, tarife) - vergi(matrah, tarife));
+    var dvOran = deger(V.damgaOran, t);
+    var dv = HA.yuvarla(brut * dvOran);
+    var net = HA.yuvarla(brut - gv - dv);
+    return {
+      baslik: "İhbar tazminatı",
+      ana: ["Net ihbar tazminatı", HA.tl(net)],
+      satirlar: [
+        ["Çalışma süresi", s.yil + " yıl " + s.ay + " ay " + s.gun + " gün"],
+        ["Bildirim süresi (4857 m. 17)", hafta + " hafta (" + hafta * 7 + " gün)"],
+        ["Günlük giydirilmiş brüt ücret (aylık / 30)", HA.tl(gunluk)],
+        ["Brüt ihbar tazminatı", HA.tl(brut), "vurgu"],
+        ["Gelir vergisi (kümülatif matrah " + HA.tl(matrah) + " üzerine)", "− " + HA.tl(gv)],
+        ["Ortalama gelir vergisi oranı", HA.yuzde(brut ? gv / brut * 100 : 0)],
+        ["Damga vergisi (binde " + HA.bicim(dvOran * 1000, 2) + ")", "− " + HA.tl(dv)],
+        ["Net ihbar tazminatı", HA.tl(net), "vurgu"]
+      ],
+      notlar: [
+        "Gelir vergisi 2026 ücret tarifesiyle hesaplandı: 190.000 TL'ye kadar %15, 400.000 TL'ye kadar %20, 1.500.000 TL'ye kadar %27, 5.300.000 TL'ye kadar %35, üstü %40.",
+        "Asgari ücret vergi istisnasının aynı ay ödenen ücrette kullanıldığı varsayıldı. Sözleşmede daha uzun bildirim süresi varsa o süre esas alınmalıdır."
+      ]
+    };
+  });
+})();
+</script>

@@ -1,0 +1,94 @@
+---
+baslik: "Islah harcı hesaplama: artırılan miktar için tamamlanacak harç"
+kisa_ad: "Islah harcı"
+aciklama: "Dava değerini ıslahla artırdığınızda tamamlanması gereken peşin nispi harcı, artırılan miktar üzerinden 2026 tarifesine göre hesaplar."
+grup: harc-vergi
+sira: 20
+guncelleme: 2026-10-19
+veri: [harc]
+ilgili_yazilar: [itirazin-iptali-davasi, iscilik-alacaklarinda-zamanasimi, davadan-feragat-kabul-ve-geri-alma]
+kaynaklar:
+  - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 176, 177"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
+    not: "Islahın kapsamı, bir kez yapılabilmesi ve tahkikat sonuna kadar yapılabilmesi"
+  - ad: "492 sayılı Harçlar Kanunu m. 16, 28, 30, 32"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=492&MevzuatTur=1&MevzuatTertip=5"
+    not: "Değer esası, peşin dörtte bir, noksan değer üzerinden harcın tamamlanması, harç ödenmeden işlem yapılmaması"
+  - ad: "Harçlar Kanunu Genel Tebliği (Seri No: 98), RG 31.12.2025, sayı 33124 (5. Mükerrer)"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42887&MevzuatTur=9&MevzuatTertip=5"
+    not: "(1) sayılı tarife A-III-1: binde 68,31 ve 732 TL alt sınır (2026)"
+nasil: |
+  Islah, bir tarafın daha önce yaptığı usul işlemini kısmen ya da tamamen düzeltmesidir. Aynı davada bir kez yapılabilir ve tahkikat sona erene kadar sözlü ya da yazılı olarak yapılabilir (HMK m. 176, 177). Davacı ıslahla talep ettiği miktarı artırırsa, artan kısım için de harç ödenir.
+
+  Konusu para olan davalarda karar ve ilam harcı dava değerinin binde 68,31'idir ve dava açılırken bunun dörtte biri peşin alınır (Harçlar Kanunu m. 28/a). Değer sonradan artınca peşin harç yeni değere göre tamamlanır (m. 30). Bu nedenle tamamlanacak tutar, artırılan miktarın binde 68,31'inin dörtte biridir. Ölüm ve bedensel zarar nedeniyle açılan tazminat davalarında peşin oran yirmide birdir.
+
+  Araç, yeni dava değerine göre ödenmesi gereken peşin harçtan, daha önce ödenmiş peşin harcı çıkarır. Önceden ödenen tutarı yazmazsanız eski dava değerine göre hesaplanmış peşin harç ödenmiş kabul edilir. Karar ve ilam harcının 732 TL alt sınırı iki hesapta da uygulanır.
+
+  Kanuna göre yargı işlemlerinden alınacak harçlar ödenmedikçe sonraki işlemler yapılmaz (m. 32). Araç; ıslahla davanın konusunun değiştirilmesini, maktu harçlı davadan nispi harçlı davaya geçişi, ıslah nedeniyle hükmedilebilecek yargılama giderlerini ve faizi hesaba katmaz.
+---
+<form class="arac-form" id="islah-form" novalidate>
+  <div class="alan-cift">
+    <div class="alan">
+      <label for="eski">Islahtan önceki dava değeri</label>
+      <input id="eski" name="eski" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 50.000">
+    </div>
+    <div class="alan">
+      <label for="yeni">Islahla ulaşılan dava değeri</label>
+      <input id="yeni" name="yeni" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 400.000">
+    </div>
+  </div>
+  <div class="alan">
+    <label for="odenen">Daha önce ödenen peşin harç (isteğe bağlı)</label>
+    <input id="odenen" name="odenen" inputmode="decimal" data-para autocomplete="off" placeholder="Boş bırakılırsa eski değerden hesaplanır">
+    <p class="ipucu">Dava açılırken ödenen peşin karar ve ilam harcı. Başvurma harcı ve vekalet harcını eklemeyin.</p>
+  </div>
+  <label class="secim"><input type="checkbox" name="cismani"> Ölüm ya da bedensel zarar nedeniyle maddi veya manevi tazminat davası</label>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="islah-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var Y = function (n) { return HA.yuvarla(n, 2); };
+  HA.bagla(document.getElementById("islah-form"), document.getElementById("islah-sonuc"), function (f) {
+    var bugun = HA.tarih(new Date());
+    var d = HA.donem(HV.harc.donemler, bugun) || HV.harc.donemler[0];
+    var h = d.deger;
+    var eski = f.sayi("eski", "Islahtan önceki dava değeri");
+    var yeni = f.sayi("yeni", "Islahla ulaşılan dava değeri");
+    if (eski <= 0 || yeni <= 0) throw new Error("Dava değerleri sıfırdan büyük olmalı.");
+    if (yeni <= eski) throw new Error("Islahla ulaşılan değer, önceki değerden büyük olmalı.");
+    var kat = f.secili("cismani") ? 20 : 4;
+    var kesir = kat === 4 ? "dörtte biri" : "yirmide biri";
+    function pesin(x) { return Y(Math.max(Y(x * h.nispiOran), h.nispiAsgari) / kat); }
+    var yeniPesin = pesin(yeni);
+    var odenen, odenenAcik;
+    if (f.deger("odenen")) {
+      odenen = f.sayi("odenen", "Daha önce ödenen peşin harç");
+      if (odenen < 0) throw new Error("Ödenen harç negatif olamaz.");
+      odenenAcik = "Daha önce ödenen peşin harç (girdiğiniz)";
+    } else {
+      odenen = pesin(eski);
+      odenenAcik = "Eski değere göre peşin harç (ödenmiş kabul edildi)";
+    }
+    var artis = Y(yeni - eski);
+    var tamamla = Y(Math.max(yeniPesin - odenen, 0));
+    var satirlar = [
+      ["Artırılan miktar", HA.tl(artis)],
+      ["Artırılan miktarın binde 68,31'i", HA.tl(Y(artis * h.nispiOran))],
+      ["Yeni değere göre karar ve ilam harcı", HA.tl(Math.max(Y(yeni * h.nispiOran), h.nispiAsgari))],
+      ["Yeni değere göre peşin harç (" + kesir + ")", HA.tl(yeniPesin)],
+      [odenenAcik, HA.tl(odenen)],
+      ["Tamamlanacak peşin harç", HA.tl(tamamla), "vurgu"]
+    ];
+    var notlar = [];
+    if (yeniPesin - odenen < 0) notlar.push("Daha önce ödenen tutar yeni değere göre gereken peşin harçtan fazla görünüyor; tamamlanacak harç çıkmadı.");
+    notlar.push("Karar ve ilam harcının kalanı, karar tebliğ edildikten sonra hüküm altına alınan miktara göre ödenir (Harçlar Kanunu m. 28/a).");
+    notlar.push("Tutarlar " + d.kaynak + " ekindeki 2026 tarifesinden alındı.");
+    if (bugun > HA.tarih(HV.harc.sonGecerlilik)) notlar.push("Bu araçta 2026'dan sonraki yılların tutarları yok; sonuç 2026 tutarlarıyla hesaplandı.");
+    return { baslik: "Islah harcı", ana: ["Tamamlanacak peşin harç", HA.tl(tamamla)], basliklar: ["Kalem", "Tutar"], satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>

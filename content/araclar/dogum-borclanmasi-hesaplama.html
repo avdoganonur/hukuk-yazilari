@@ -1,0 +1,135 @@
+---
+baslik: "Doğum borçlanması hesaplama: 2026 borç tutarı"
+kisa_ad: "Doğum borçlanması"
+aciklama: "Sigortalı kadının en fazla üç doğum için ikişer yıllık süreyi borçlanırken ödeyeceği tutarı 5510 sayılı Kanunun 41. maddesine göre hesaplar."
+grup: sgk
+sira: 20
+guncelleme: 2026-10-19
+veri: [sgk]
+ilgili_yazilar: [dogum-borclanmasi, askerlik-borclanmasi, yurtdisi-borclanmasi, dogum-izni-ve-sut-izni]
+kaynaklar:
+  - ad: "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu m. 41/1-a"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5510&MevzuatTur=1&MevzuatTertip=5"
+    not: "Doğum borçlanmasının şartları (6552 sayılı Kanunla değişik), (a) bendi için %32 oranı (7566 sayılı Kanun m. 21 sonrası), ödeme süresi"
+  - ad: "5510 sayılı Kanun m. 3 ve m. 82"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5510&MevzuatTur=1&MevzuatTertip=5"
+    not: "Yılın 360 gün sayılması; prime esas günlük kazancın alt ve üst sınırı"
+  - ad: "SGK Genelgesi 2026/2 (07/01/2026): Prime Esas Kazançların Alt ve Üst Sınırları ile Bazı İşlemlere Esas Tutarlar"
+    url: "https://www.ismmmo.org.tr/dosya/5846/Mevzuat-Dosya/09012026-2026-2-prime-esas-kazanclar.pdf"
+    not: "2026 günlük alt sınır 1.101,00 TL, üst sınır 9.909,00 TL; 41/1-a için günlük borç 352,32 – 3.170,88 TL (genelgenin İSMMMO'da yayımlanan örneği)"
+nasil: |
+  5510 sayılı Kanunun 41. maddesinin birinci fıkrasının (a) bendine göre 4/a (işçi), 4/b (esnaf, serbest çalışan) ya da 4/c (kamu görevlisi) kapsamındaki sigortalı kadın, doğumdan sonraki süreyi borçlanabilir. Şartlar kanun metninde şöyle sayılır: en fazla üç doğum için, her doğumda doğum tarihinden sonraki iki yılı geçmemek üzere; borçlanılan sürede uzun vadeli sigorta kollarına tabi çalışmamış olmak ve çocuğun yaşıyor olması. Bent 2014'te 6552 sayılı Kanunla bu hâle getirilmiştir; güncel metinde hizmet akdiyle çalışma şartı yoktur, 4/a, 4/b ve 4/c sigortalısı kadınlar birlikte sayılır. Kanunlar gereği verilen ücretsiz doğum ya da analık izni süreleri de aynı bentte yer alır.
+
+  Kanun bir yılı 360 gün saydığından bir doğum için en fazla 720 gün, üç doğum için en fazla 2.160 gün borçlanılabilir. Doğumdan sonraki iki yıl içinde sigortalı olarak çalıştığınız günler bu süreden düşülür; borçlanabileceğiniz gün sayısını Kurum kayıtlarına göre belirler.
+
+  Borç tutarı = borçlanılacak gün sayısı × seçilen günlük kazanç × %32. Günlük kazanç, başvuru tarihindeki prime esas günlük kazanç alt ve üst sınırları arasında seçilir. 2026'da bu sınırlar 1.101,00 TL ve 9.909,00 TL'dir; bir günlük borç 352,32 TL ile 3.170,88 TL arasındadır. 7566 sayılı Kanun 1 Ocak 2026'dan itibaren diğer borçlanmaların oranını %45'e çıkarmış, doğum borçlanmasında %32'yi korumuştur.
+
+  Borç, tebliğden itibaren bir ay içinde ödenmelidir; ödenmezse yeniden başvuru gerekir. Borçlanılan süre, borçlanma tarihinde tabi olunan sigortalılık hâline göre sayılır ve sigortalılık başlangıcından önceki bir süre borçlanılırsa başlangıç tarihi borçlanılan gün kadar geriye gider.
+
+  Araç yalnızca 2026 içindeki başvurular için hesap yapar. Hangi günlerin borçlanılabileceğini (örneğin çalışılan günlerin düşülmesini) belirlemez; gün sayısını siz girersiniz.
+---
+<form class="arac-form" id="dogum-form" novalidate>
+  <div class="alan">
+    <label for="basvuru">Başvuru tarihi</label>
+    <input id="basvuru" name="basvuru" type="date" min="2026-01-01" max="2026-12-31">
+    <p class="ipucu">Sınırlar başvuru tarihine göre belirlenir. Araç 2026 başvurularını hesaplar.</p>
+  </div>
+  <fieldset>
+    <legend>Borçlanılacak günler (her doğum için en fazla 720)</legend>
+    <div class="alan-cift">
+      <div class="alan">
+        <label for="d1">1. doğum</label>
+        <input id="d1" name="d1" type="number" min="0" max="720" step="1" value="720" inputmode="numeric">
+      </div>
+      <div class="alan">
+        <label for="d2">2. doğum</label>
+        <input id="d2" name="d2" type="number" min="0" max="720" step="1" inputmode="numeric" placeholder="Yoksa boş">
+      </div>
+      <div class="alan">
+        <label for="d3">3. doğum</label>
+        <input id="d3" name="d3" type="number" min="0" max="720" step="1" inputmode="numeric" placeholder="Yoksa boş">
+      </div>
+    </div>
+    <p class="ipucu">Doğumdan sonraki iki yılda sigortalı çalıştığınız günleri düşün. Çocuğun yaşıyor olması gerekir.</p>
+  </fieldset>
+  <fieldset>
+    <legend>Günlük kazanç seçimi</legend>
+    <div class="secimler">
+      <label class="secim"><input type="radio" name="kazanc" value="alt" checked> Alt sınır</label>
+      <label class="secim"><input type="radio" name="kazanc" value="ust"> Üst sınır</label>
+      <label class="secim"><input type="radio" name="kazanc" value="ozel"> Başka bir tutar</label>
+    </div>
+    <div class="alan">
+      <label for="ozel">Seçtiğiniz günlük kazanç</label>
+      <input id="ozel" name="ozel" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 2.000">
+      <p class="ipucu">Yalnızca "Başka bir tutar" seçiliyse kullanılır; alt ve üst sınır arasında olmalı.</p>
+    </div>
+  </fieldset>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="dogum-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var form = document.getElementById("dogum-form");
+  var EN_FAZLA = 720; /* iki yıl × 360 gün (5510 m. 3, m. 41/1-a) */
+  function bugun() {
+    var d = new Date(), s = d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+    return s >= "2026-01-01" && s <= HV.sgk.sonGecerlilik ? s : "";
+  }
+  form.elements.basvuru.value = bugun();
+  form.addEventListener("reset", function () { setTimeout(function () { form.elements.basvuru.value = bugun(); }, 0); });
+
+  HA.bagla(form, document.getElementById("dogum-sonuc"), function (f) {
+    var t = f.tarih("basvuru", "Başvuru tarihi");
+    var son = HA.tarih(HV.sgk.sonGecerlilik);
+    var alt = HA.donem(HV.sgk.pekAlt, t), ust = HA.donem(HV.sgk.pekUst, t), oran = HA.donem(HV.sgk.oran41a, t);
+    if (!alt || !ust || !oran || t > son) throw new Error("Araç yalnızca 1 Ocak 2026 – " + HA.tarihYaz(son) + " arasındaki başvurular için hesap yapar.");
+    var gunler = [];
+    ["d1", "d2", "d3"].forEach(function (ad, i) {
+      if (!f.deger(ad)) return;
+      var g = f.sayi(ad, (i + 1) + ". doğum");
+      if (g < 0 || Math.floor(g) !== g) throw new Error((i + 1) + ". doğum için 0 ya da pozitif bir tam sayı girin.");
+      if (g > EN_FAZLA) throw new Error("Bir doğum için en fazla 720 gün (iki yıl) borçlanılabilir.");
+      if (g > 0) gunler.push([i + 1, g]);
+    });
+    if (!gunler.length) throw new Error("En az bir doğum için borçlanılacak gün sayısını girin.");
+    var secim = f.deger("kazanc");
+    var kazanc;
+    if (secim === "ust") kazanc = ust.deger;
+    else if (secim === "ozel") {
+      kazanc = f.sayi("ozel", "Seçtiğiniz günlük kazanç");
+      if (kazanc < alt.deger || kazanc > ust.deger)
+        throw new Error("Günlük kazanç " + HA.tl(alt.deger) + " ile " + HA.tl(ust.deger) + " arasında olmalı.");
+    } else kazanc = alt.deger;
+    var toplamGun = gunler.reduce(function (s, x) { return s + x[1]; }, 0);
+    var gunluk = HA.yuvarla(kazanc * oran.deger);
+    var toplam = HA.yuvarla(toplamGun * kazanc * oran.deger);
+    var satirlar = [
+      ["Başvuru tarihi", HA.tarihYaz(t)],
+      ["Günlük kazanç sınırları", HA.tl(alt.deger) + " – " + HA.tl(ust.deger)],
+      ["Seçilen günlük kazanç", HA.tl(kazanc)],
+      ["Borçlanma oranı (5510 m. 41/1-a)", HA.yuzde(oran.deger * 100, 0)],
+      ["Bir günlük borç", HA.tl(gunluk)]
+    ];
+    gunler.forEach(function (x) {
+      satirlar.push([x[0] + ". doğum: " + HA.bicim(x[1], 0) + " gün", HA.tl(HA.yuvarla(x[1] * kazanc * oran.deger))]);
+    });
+    satirlar.push(["Toplam: " + HA.bicim(toplamGun, 0) + " gün", HA.tl(toplam), "vurgu"]);
+    satirlar.push(["Aynı süre alt sınırdan", HA.tl(HA.yuvarla(toplamGun * alt.deger * oran.deger))]);
+    satirlar.push(["Aynı süre üst sınırdan", HA.tl(HA.yuvarla(toplamGun * ust.deger * oran.deger))]);
+    return {
+      baslik: "Doğum borçlanması tutarı",
+      ana: ["Ödenecek toplam borç", HA.tl(toplam)],
+      satirlar: satirlar,
+      notlar: [
+        "Borçlanılan günlerde uzun vadeli sigortaya tabi çalışmamış olmanız ve çocuğun yaşıyor olması gerekir; gün sayısını Kurum kayıtlara göre belirler.",
+        "Borç, tebliğden itibaren bir ay içinde ödenmelidir; ödenmezse yeniden başvuru gerekir.",
+        "Tutarı Kurum tebliğ eder; kuruş farkları olabilir."
+      ]
+    };
+  });
+})();
+</script>

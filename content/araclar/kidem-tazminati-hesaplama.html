@@ -1,0 +1,122 @@
+---
+baslik: "Kıdem tazminatı hesaplama: süre, tavan ve damga vergisi"
+kisa_ad: "Kıdem tazminatı"
+aciklama: "Giriş ve çıkış tarihi ile giydirilmiş brüt ücrete göre kıdem tazminatını, tavan ve damga vergisi kesintisiyle birlikte hesaplar."
+grup: is
+sira: 10
+guncelleme: 2026-10-19
+veri: [is]
+ilgili_yazilar: [kidem-tazminatina-hak-kazanma-sartlari, kidem-tazminati-hangi-ucret-uzerinden-hesaplanir, istifa-eden-isci-kidem-tazminati-alabilir-mi]
+kaynaklar:
+  - ad: "1475 sayılı İş Kanunu m. 14"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1475&MevzuatTur=1&MevzuatTertip=5"
+    not: "Her tam yıl için 30 günlük ücret, artan süre için aynı oran, giydirilmiş ücret, yıllık tavan"
+  - ad: "ÇSGB, Kıdem tazminatı yıllık tavan miktarı (1980–2026)"
+    url: "https://www.csgb.gov.tr/Media/zewm15ah/kidem-tazminati-yillar-1980-2026.pdf"
+    not: "2025/1: 46.655,43 TL; 2025/2: 53.919,68 TL; 2026/1: 64.948,77 TL"
+  - ad: "ÇSGB Çalışma Hayatı İstatistikleri E-Bülteni, Eylül 2026"
+    url: "https://csgb.gov.tr/yayinlar/calisma-hayati-istatistikleri-e-bulteni/eylul-2026/ucret-ve-sendikal-istatistikler.html"
+    not: "01.07.2026–31.12.2026 tavanı: 73.729,87 TL"
+  - ad: "193 sayılı Gelir Vergisi Kanunu m. 25/7"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=193&MevzuatTur=1&MevzuatTertip=4"
+    not: "1475 sayılı Kanuna göre ödenmesi gereken kıdem tazminatı gelir vergisinden istisna"
+  - ad: "488 sayılı Damga Vergisi Kanunu, 1 sayılı tablo IV-1-b"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=488&MevzuatTur=1&MevzuatTertip=5"
+    not: "Ücret ve tazminat makbuzları: binde 7,59"
+nasil: |
+  Kıdem tazminatı, 4857 sayılı İş Kanunu'nun yürürlükte bıraktığı 1475 sayılı Kanun'un 14. maddesine göre hesaplanır. İşçiye işe başladığı tarihten itibaren her geçen tam yıl için 30 günlük ücreti tutarında tazminat ödenir; bir yıldan artan süreler için de aynı oran uygulanır. Araç, artan ayları yılın on ikide biri, artan günleri yılın 365'te biri olarak hesaba katar.
+
+  Hesap son ücret üzerinden yapılır. Çıplak ücrete ek olarak işçiye düzenli sağlanan para ve parayla ölçülebilen menfaatler (yemek, yol, ikramiyenin aylık payı gibi) de eklenir; buna giydirilmiş brüt ücret denir. Aylık giydirilmiş ücret, iş sözleşmesinin sona erdiği tarihte geçerli olan kıdem tazminatı tavanını aşıyorsa tavan esas alınır. Tavan yılda iki kez (Ocak ve Temmuz) yeniden belirlenir.
+
+  Madde, tazminatı "her geçen tam yıl" ve "bir yıldan artan süreler" üzerinden kurduğu için en az bir yıllık çalışma aranır. Bir yıldan kısa sürede araç tutar göstermez, uyarı verir.
+
+  Kıdem tazminatı Gelir Vergisi Kanunu'nun 25/7. maddesine göre gelir vergisinden istisnadır ve SGK primine tabi değildir (5510 m. 80/1-b). Kesilen tek vergi binde 7,59 oranındaki damga vergisidir.
+
+  Araç, tazminata hak kazandıran fesih sebebinin (örneğin işverenin haklı neden dışında feshi, emeklilik, askerlik, evlilik) bulunup bulunmadığını incelemez. Kısmi süreli çalışma, aynı işverende aralıklı çalışmaların birleştirilmesi, gecikme faizi ve toplu iş sözleşmesindeki farklı gün sayıları hesaba katılmaz. Çıkış tarihi 1 Ocak 2025 ile 31 Aralık 2026 arasında olmalıdır; daha eski dönemlerin tavanı bu araca girilmemiştir.
+---
+<form class="arac-form" id="kidem-form" novalidate>
+  <div class="alan-cift">
+    <div class="alan">
+      <label for="giris">İşe giriş tarihi</label>
+      <input id="giris" name="giris" type="date" required>
+    </div>
+    <div class="alan">
+      <label for="cikis">İşten çıkış tarihi</label>
+      <input id="cikis" name="cikis" type="date" min="2025-01-01" max="2026-12-31" required>
+      <p class="ipucu">Son çalışılan gün. 1 Ocak 2025 – 31 Aralık 2026 arası.</p>
+    </div>
+  </div>
+  <div class="alan">
+    <label for="ucret">Aylık giydirilmiş brüt ücret</label>
+    <input id="ucret" name="ucret" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 45.000" required>
+    <p class="ipucu">Brüt ücrete düzenli ödenen yemek, yol, ikramiye gibi ödemelerin aylık karşılığını ekleyin.</p>
+  </div>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="kidem-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var V = window.HV && HV.is;
+  function deger(liste, t) { var d = HA.donem(liste, t); return d ? d.deger : null; }
+  /* Giriş ile (çıkış + 1 gün) arasındaki süre: tam yıl, ay, gün. */
+  function sure(giris, cikis) {
+    var son = HA.gunEkle(cikis, 1), y = 0, a = 0;
+    while (HA.yilEkle(giris, y + 1) <= son) y++;
+    while (a < 11 && HA.ayEkle(giris, 12 * y + a + 1) <= son) a++;
+    return { yil: y, ay: a, gun: HA.gunFarki(HA.ayEkle(giris, 12 * y + a), son) };
+  }
+
+  HA.bagla(document.getElementById("kidem-form"), document.getElementById("kidem-sonuc"), function (f) {
+    if (!V) throw new Error("Oran dosyası yüklenemedi. Sayfayı yenileyip yeniden deneyin.");
+    var giris = f.tarih("giris", "İşe giriş tarihi"), cikis = f.tarih("cikis", "İşten çıkış tarihi");
+    if (cikis < giris) throw new Error("Çıkış tarihi giriş tarihinden önce olamaz.");
+    if (cikis < HA.tarih("2025-01-01")) throw new Error("Bu araç 1 Ocak 2025 ve sonrasındaki çıkışları hesaplar.");
+    if (cikis > HA.tarih(V.sonGecerlilik)) throw new Error("31 Aralık 2026'dan sonraki dönemin tavanı henüz girilmedi.");
+    var ucret = f.sayi("ucret", "Aylık giydirilmiş brüt ücret");
+    if (ucret <= 0) throw new Error("Aylık ücret sıfırdan büyük olmalı.");
+
+    var s = sure(giris, cikis);
+    var sureYazi = s.yil + " yıl " + s.ay + " ay " + s.gun + " gün";
+    if (s.yil < 1) {
+      return {
+        baslik: "Kıdem tazminatı",
+        ana: ["Çalışma süresi", sureYazi],
+        notlar: ["Çalışma süresi bir yıldan az. 1475 sayılı Kanun'un 14. maddesi tazminatı her tam yıl ve bir yıldan artan süreler için öngördüğünden, bir yılı doldurmayan işçi kıdem tazminatına hak kazanmaz."]
+      };
+    }
+    var tavan = deger(V.kidemTavan, cikis);
+    var esas = Math.min(ucret, tavan);
+    var yilPay = HA.yuvarla(esas * s.yil);
+    var ayPay = HA.yuvarla(esas * s.ay / 12);
+    var gunPay = HA.yuvarla(esas * s.gun / 365);
+    var brut = HA.yuvarla(yilPay + ayPay + gunPay);
+    var dvOran = deger(V.damgaOran, cikis);
+    var dv = HA.yuvarla(brut * dvOran);
+    var net = HA.yuvarla(brut - dv);
+    var notlar = [];
+    if (ucret > tavan) notlar.push("Girdiğiniz ücret, çıkış tarihindeki tavanı (" + HA.tl(tavan) + ") aştığı için hesap tavan üzerinden yapıldı.");
+    notlar.push("Süre, işe giriş gününden son çalışılan günün sonuna kadar sayıldı. Artan aylar 1/12, artan günler 1/365 oranında hesaba katıldı.");
+    notlar.push("Tazminata hak kazandıran bir fesih sebebinin bulunduğu varsayıldı.");
+    return {
+      baslik: "Kıdem tazminatı",
+      ana: ["Net kıdem tazminatı", HA.tl(net)],
+      satirlar: [
+        ["Çalışma süresi", sureYazi],
+        ["Girilen aylık giydirilmiş brüt ücret", HA.tl(ucret)],
+        ["Çıkış tarihindeki tavan (" + HA.tarihYaz(HA.tarih(HA.donem(V.kidemTavan, cikis).baslangic)) + " dönemi)", HA.tl(tavan)],
+        ["Hesaba esas ücret", HA.tl(esas)],
+        [s.yil + " tam yıl × esas ücret", HA.tl(yilPay)],
+        [s.ay + " ay × esas ücret / 12", HA.tl(ayPay)],
+        [s.gun + " gün × esas ücret / 365", HA.tl(gunPay)],
+        ["Brüt kıdem tazminatı", HA.tl(brut), "vurgu"],
+        ["Damga vergisi (binde " + HA.bicim(dvOran * 1000, 2) + ")", "− " + HA.tl(dv)],
+        ["Net kıdem tazminatı", HA.tl(net), "vurgu"]
+      ],
+      notlar: notlar
+    };
+  });
+})();
+</script>

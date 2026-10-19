@@ -1,0 +1,120 @@
+---
+baslik: "Kira artış hesaplama: TÜFE on iki aylık ortalamaya göre yasal sınır"
+kisa_ad: "Kira artışı"
+aciklama: "Yenilenen kira yılında konut ve çatılı işyeri kirasının en fazla ne kadar artırılabileceğini TBK m. 344 ve TÜİK oranlarıyla hesaplar."
+grup: diger
+sira: 30
+guncelleme: 2026-10-19
+veri: [tufe]
+ilgili_yazilar: [kira-tespit-davasi, kira-uyusmazliklarinda-zorunlu-arabuluculuk, ev-sahibi-kiraciyi-hangi-durumlarda-cikarabilir, kirayi-odemeyen-kiraci-temerrut-ve-tahliye]
+kaynaklar:
+  - ad: "6098 sayılı Türk Borçlar Kanunu m. 339, 344, geçici m. 1 ve 2"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5"
+    not: "TÜFE sınırı; 7409 ve 7456 sayılı Kanunlarla eklenen konut kirası %25 sınırı"
+  - ad: "TÜİK, Tüketici Fiyat Endeksi aylık haber bültenleri"
+    url: "https://www.tuik.gov.tr/"
+    not: "On iki aylık ortalamalara göre değişim oranı. Ocak 2023 – Eylül 2026; değerler TÜİK bültenlerini aktaran iki bağımsız kaynakla karşılaştırıldı"
+nasil: |
+  Konut ve çatılı işyeri kiralarında, yenilenen kira yılı için kararlaştırılan artış, bir önceki kira yılında tüketici fiyat endeksindeki (TÜFE) on iki aylık ortalamalara göre değişim oranını geçemez (TBK m. 344/1). Bu bir üst sınırdır; taraflar daha az bir artışta anlaşabilir. Anlaşma yoksa kira bedelini aynı sınır içinde hâkim belirler (m. 344/2). Kural, bir yıldan uzun süreli sözleşmelerde de uygulanır.
+
+  Oranı TÜİK her ay açıklar. Araç, yeni kira yılının başladığı aydan bir önceki aya ait on iki aylık ortalama oranı alır. Örneğin 15 Ekim 2026'da başlayan kira yılı için Eylül 2026 oranı kullanılır. Yeni kira, mevcut kiranın bu oranla artırılmış hâlidir.
+
+  Konut kiralarında geçici bir sınır daha uygulandı. 7409 sayılı Kanunla Türk Borçlar Kanununa eklenen geçici madde 1 ile, yenilenen konut kiralarında artış bir önceki yılın kirasının %25'ini geçemezdi; bu kural 1 Temmuz 2023'e kadar yenilenen dönemler içindi. 7456 sayılı Kanunla eklenen geçici madde 2 aynı sınırı 2 Temmuz 2023 – 1 Temmuz 2024 arasında yenilenen dönemlere uzattı. Bu nedenle 2 Temmuz 2024 ve sonrasında yenilenen konut kiralarında yeniden yalnızca TÜFE sınırı geçerlidir. %25 sınırı işyeri kiralarına uygulanmadı.
+
+  Veriler Ocak 2023'ten Eylül 2026'ya kadardır; araç bu nedenle Şubat 2023 – Ekim 2026 arasında başlayan kira yıllarını hesaplar. Kasım 2026 ve sonrası için TÜİK'in Ekim 2026 verisi gerekir. Araç, beş yılı dolduran sözleşmelerde hâkimin emsal kira bedellerini de gözeterek kira belirlemesini (m. 344/3), yabancı para ile belirlenen kiraları (m. 344/4), kira tespit davasını ve geçici kullanıma özgülenmiş taşınmazların altı ay ya da daha kısa süreli kiralanmasını (m. 339) hesaba katmaz.
+---
+<form class="arac-form" id="kira-form" novalidate>
+  <fieldset>
+    <legend>Kiralanan</legend>
+    <div class="secimler">
+      <label class="secim"><input type="radio" name="nitelik" value="konut" checked> Konut</label>
+      <label class="secim"><input type="radio" name="nitelik" value="isyeri"> Çatılı işyeri</label>
+    </div>
+  </fieldset>
+  <div class="alan">
+    <label for="yenileme">Yeni kira yılının başladığı tarih</label>
+    <input id="yenileme" name="yenileme" type="date">
+    <p class="ipucu">Sözleşmenin başladığı gün ve ay ile artışın yapılacağı yıl. Örneğin 15 Mart 2021'de başlayan sözleşmenin 2026 artışı için 15.03.2026.</p>
+  </div>
+  <div class="alan">
+    <label for="kira">Mevcut aylık kira</label>
+    <input id="kira" name="kira" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 20.000">
+    <p class="ipucu">Biten kira yılında ödenen aylık kira (TL).</p>
+  </div>
+  <div class="alan">
+    <label for="ilk">Sözleşmenin ilk başlangıç tarihi (isteğe bağlı)</label>
+    <input id="ilk" name="ilk" type="date">
+    <p class="ipucu">Girerseniz kira ilişkisinin beş yılı doldurup doldurmadığı belirtilir.</p>
+  </div>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<p class="ipucu" id="kira-veri-notu"></p>
+<div class="arac-sonuc" id="kira-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var AYLAR = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"];
+  function ayAdi(y, a) { return AYLAR[a] + " " + y; }
+  function iki(n) { return (n < 10 ? "0" : "") + n; }
+  var V = HV.tufe;
+  var son = V.sonAy.split("-");
+  document.getElementById("kira-veri-notu").textContent =
+    "Son veri ayı: " + ayAdi(+son[0], +son[1] - 1) + " (TÜİK). Araç en geç " +
+    ayAdi(+son[1] === 12 ? +son[0] + 1 : +son[0], +son[1] % 12) + " içinde başlayan kira yıllarını hesaplar.";
+
+  var form = document.getElementById("kira-form");
+  HA.bagla(form, document.getElementById("kira-sonuc"), function (f) {
+    var konut = (form.querySelector('input[name="nitelik"]:checked') || {}).value !== "isyeri";
+    var t = f.tarih("yenileme", "Yeni kira yılının başladığı tarih");
+    var kira = f.sayi("kira", "Mevcut aylık kira");
+    if (kira <= 0) throw new Error("Mevcut kira sıfırdan büyük olmalı.");
+
+    var y = t.getUTCFullYear(), a = t.getUTCMonth();
+    var vy = a === 0 ? y - 1 : y, va = a === 0 ? 11 : a - 1;
+    var anahtar = vy + "-" + iki(va + 1) + "-01";
+    var kayit = null;
+    V.ort12.forEach(function (k) { if (k.baslangic === anahtar) kayit = k; });
+    if (!kayit) {
+      var ilk = V.ilkAy.split("-");
+      if (anahtar < V.ilkAy + "-01") {
+        throw new Error("Araç " + ayAdi(+ilk[0], +ilk[1] - 1) + " ve sonrasının verisini içerir; " + ayAdi(+ilk[0], +ilk[1]) + " öncesinde başlayan kira yılları hesaplanmaz.");
+      }
+      throw new Error(ayAdi(vy, va) + " oranı henüz eklenmedi. Son veri ayı " + ayAdi(+son[0], +son[1] - 1) + ".");
+    }
+    var tufe = kayit.deger, oran = tufe, kural = "TBK m. 344/1: TÜFE on iki aylık ortalama değişim oranı";
+    var sinir25 = konut && t <= HA.tarih(V.konut25.bitis);
+    if (sinir25 && tufe > V.konut25.oran) {
+      oran = V.konut25.oran;
+      kural = t <= HA.tarih("2023-07-01") ? "TBK geçici m. 1 (7409 sayılı Kanun): konut kirasında %25 sınırı" : "TBK geçici m. 2 (7456 sayılı Kanun): konut kirasında %25 sınırı";
+    }
+    var artis = HA.yuvarla(kira * oran / 100);
+    var yeni = HA.yuvarla(kira + artis);
+    var satirlar = [
+      ["Kiralanan", konut ? "Konut" : "Çatılı işyeri"],
+      ["Yeni kira yılının başlangıcı", HA.tarihYaz(t)],
+      ["Esas alınan veri ayı", ayAdi(vy, va)],
+      ["TÜFE on iki aylık ortalama değişim", HA.yuzde(tufe)],
+      ["Uygulanan kural", kural],
+      ["Uygulanacak en yüksek artış oranı", HA.yuzde(oran)],
+      ["Mevcut aylık kira", HA.tl(kira)],
+      ["En fazla artış tutarı (aylık)", HA.tl(artis)],
+      ["Yeni aylık kira için üst sınır", HA.tl(yeni), "vurgu"],
+      ["Yıllık kira (12 ay, üst sınırla)", HA.tl(yeni * 12)]
+    ];
+    var notlar = ["Bu oran bir üst sınırdır; taraflar daha düşük bir artışta anlaşabilir."];
+    if (sinir25 && tufe <= V.konut25.oran) notlar.push("TÜFE oranı %25'in altında kaldığı için TÜFE oranı uygulandı.");
+    if (!konut && t <= HA.tarih(V.konut25.bitis)) notlar.push("Geçici %25 sınırı yalnızca konut kiraları için öngörüldüğünden işyeri kirasına uygulanmadı.");
+    if (f.deger("ilk")) {
+      var ilkT = f.tarih("ilk", "Sözleşmenin ilk başlangıç tarihi");
+      if (ilkT >= t) throw new Error("Sözleşmenin ilk başlangıç tarihi, yeni kira yılının başlangıcından önce olmalı.");
+      if (HA.yilEkle(ilkT, 5) <= t) {
+        notlar.push("Kira ilişkisi beş yılı doldurmuş görünüyor. Bu durumda kira bedeli, dava açılırsa hâkim tarafından TÜFE oranı, kiralananın durumu ve emsal kira bedelleri gözetilerek hakkaniyete göre belirlenebilir (TBK m. 344/3). Araç bu hesabı yapmaz.");
+      }
+    }
+    notlar.push("Veri: TÜİK " + ayAdi(vy, va) + " TÜFE bülteni. Son veri ayı " + ayAdi(+son[0], +son[1] - 1) + ".");
+    return { baslik: "Yasal kira artış sınırı", ana: ["Yeni aylık kira en fazla", HA.tl(yeni)], satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>

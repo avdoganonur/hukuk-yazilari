@@ -1,0 +1,97 @@
+---
+baslik: "Araç mahrumiyet bedeli hesaplama: onarımda geçen günler için ikame araç bedeli"
+kisa_ad: "Araç mahrumiyeti"
+aciklama: "Trafik kazasından sonra aracın onarımda kaldığı gün sayısını tarihlerden bulur ve gün sayısı ile günlük emsal kira bedelinden mahrumiyet bedelini hesaplar."
+grup: diger
+sira: 40
+guncelleme: 2026-10-19
+ilgili_yazilar: [trafik-kazasinda-arac-deger-kaybi, trafik-kazasinda-sigortaya-basvuru, haksiz-fiil-tazminatinda-zamanasimi]
+kaynaklar:
+  - ad: "6098 sayılı Türk Borçlar Kanunu m. 49–52"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5"
+    not: "Haksız fiilden doğan zararın giderilmesi, zararın ispatı, tazminatın belirlenmesi ve indirilmesi"
+  - ad: "2918 sayılı Karayolları Trafik Kanunu m. 85, 90, 92"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2918&MevzuatTur=1&MevzuatTertip=5"
+    not: "İşletenin sorumluluğu; TBK haksız fiil hükümlerinin uygulanması; kira mahrumiyeti gibi dolaylı zararların zorunlu trafik sigortası dışında kalması"
+nasil: |
+  Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür (TBK m. 49). Motorlu aracın işletilmesi bir şeyin zarara uğramasına sebep olursa işleten ve araç işleticisi teşebbüs sahibi de sorumludur (KTK m. 85/1). Karayolları Trafik Kanununda düzenlenmeyen konularda Türk Borçlar Kanununun haksız fiil hükümleri uygulanır (KTK m. 90).
+
+  Kazada hasar gören araç onarımdayken kullanılamaz. Bu sürede araç sahibinin uğradığı kayıp, araç mahrumiyeti ya da ikame araç bedeli olarak adlandırılır ve iki unsurla hesaplanır: **gün sayısı × günlük bedel**.
+
+  **Gün sayısı.** Esas alınacak süre, aracın gerçekten kullanılamadığı ve hasarın niteliğine göre onarım için makul sayılabilecek süredir. Araç, servise teslim ile onarımın bitişi arasındaki günleri tarihlerden hesaplar; başlangıç ve bitiş gününün sayılıp sayılmayacağını siz seçersiniz. Onarım, zarar görenin tutumu yüzünden uzamışsa hâkim tazminatı indirebilir (TBK m. 52).
+
+  **Günlük bedel.** Benzer nitelikteki bir aracın aynı yer ve dönemde günlük kiralama bedeli, yani emsal kira bedelidir. Site bu tutar için rakam önermez; bedeli kendi araştırmanıza, kira faturasına ya da bilirkişi raporuna göre girin. Zararın miktarı tam ispat edilemiyorsa hâkim, olayların olağan akışını ve zarar görenin aldığı önlemleri gözeterek hakkaniyete uygun bir miktar belirler (TBK m. 50/2); tazminatın kapsamını da durumun gereğine ve kusurun ağırlığına göre belirler (TBK m. 51).
+
+  Kira mahrumiyeti gibi dolaylı zararlar zorunlu mali sorumluluk (trafik) sigortasının kapsamı dışındadır (KTK m. 92/k); bu zarar sürücü, işleten ya da varsa başka bir sigorta teminatı bakımından ayrıca değerlendirilir. Araç; kusur paylaşımını, değer kaybını, onarım giderini, faizi ve zamanaşımını hesaba katmaz. Sonuç, verdiğiniz gün sayısı ve günlük bedelle yapılan bir çarpımdır.
+---
+<form class="arac-form" id="mahrumiyet-form" novalidate>
+  <fieldset>
+    <legend>Onarım süresi</legend>
+    <div class="secimler">
+      <label class="secim"><input type="radio" name="yontem" value="tarih" checked> Tarihlerden hesapla</label>
+      <label class="secim"><input type="radio" name="yontem" value="gun"> Gün sayısını gireceğim</label>
+    </div>
+    <div class="alan-cift">
+      <div class="alan">
+        <label for="bas">Servise teslim (onarım başlangıcı)</label>
+        <input id="bas" name="bas" type="date">
+      </div>
+      <div class="alan">
+        <label for="bit">Onarımın bitişi (aracın teslim alınması)</label>
+        <input id="bit" name="bit" type="date">
+      </div>
+    </div>
+    <label class="secim"><input type="checkbox" name="dahil"> Başlangıç ve bitiş gününü de say</label>
+    <div class="alan">
+      <label for="gun">Gün sayısı</label>
+      <input id="gun" name="gun" type="number" min="1" max="3650" step="1" inputmode="numeric">
+      <p class="ipucu">"Gün sayısını gireceğim" seçiliyse kullanılır.</p>
+    </div>
+  </fieldset>
+  <div class="alan">
+    <label for="bedel">Günlük emsal kira bedeli</label>
+    <input id="bedel" name="bedel" inputmode="decimal" data-para autocomplete="off">
+    <p class="ipucu">Benzer bir aracın aynı yer ve dönemdeki günlük kiralama bedeli (TL). Site bu tutar için rakam önermez.</p>
+  </div>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="mahrumiyet-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var form = document.getElementById("mahrumiyet-form");
+  HA.bagla(form, document.getElementById("mahrumiyet-sonuc"), function (f) {
+    var yontem = (form.querySelector('input[name="yontem"]:checked') || {}).value;
+    var satirlar = [], gun;
+    if (yontem === "gun") {
+      gun = f.sayi("gun", "Gün sayısı");
+      if (gun < 1 || Math.floor(gun) !== gun) throw new Error("Gün sayısını 1 ya da daha büyük bir tam sayı olarak girin.");
+      satirlar.push(["Gün sayısı (girdiğiniz)", HA.bicim(gun, 0) + " gün"]);
+    } else {
+      var bas = f.tarih("bas", "Onarım başlangıcı"), bit = f.tarih("bit", "Onarımın bitişi");
+      var fark = HA.gunFarki(bas, bit);
+      if (fark < 0) throw new Error("Onarımın bitişi, başlangıçtan önce olamaz.");
+      gun = fark + (f.secili("dahil") ? 1 : 0);
+      if (gun < 1) throw new Error("Onarım süresi en az 1 gün olmalı; aynı gün için başlangıç ve bitiş gününü sayma seçeneğini işaretleyin.");
+      satirlar.push(["Onarım başlangıcı", HA.tarihYaz(bas, true)]);
+      satirlar.push(["Onarımın bitişi", HA.tarihYaz(bit, true)]);
+      satirlar.push(["İki tarih arasındaki fark", HA.bicim(fark, 0) + " gün"]);
+      satirlar.push(["Sayılan gün", HA.bicim(gun, 0) + " gün" + (f.secili("dahil") ? " (başlangıç ve bitiş günü dahil)" : "")]);
+    }
+    var bedel = f.sayi("bedel", "Günlük emsal kira bedeli");
+    if (bedel <= 0) throw new Error("Günlük emsal kira bedeli sıfırdan büyük olmalı.");
+    var toplam = HA.yuvarla(gun * bedel);
+    satirlar.push(["Günlük emsal kira bedeli", HA.tl(bedel)]);
+    satirlar.push(["Hesap", HA.bicim(gun, 0) + " gün × " + HA.tl(bedel)]);
+    satirlar.push(["Mahrumiyet (ikame araç) bedeli", HA.tl(toplam), "vurgu"]);
+    var notlar = [
+      "Gün sayısı ve günlük bedel sizin verdiğiniz bilgilerdir. Talep edilebilecek tutar, onarım için makul süreye ve ispatlanan emsal bedele göre mahkemece belirlenir (TBK m. 50, 51).",
+      "Kira mahrumiyeti gibi dolaylı zararlar zorunlu trafik sigortasının kapsamı dışındadır (KTK m. 92/k).",
+      "Kusur paylaşımı, değer kaybı, onarım gideri ve faiz bu hesaba dahil değildir."
+    ];
+    return { baslik: "Araç mahrumiyet bedeli", ana: ["Toplam", HA.tl(toplam)], satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>

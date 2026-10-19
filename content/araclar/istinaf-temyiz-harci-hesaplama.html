@@ -1,0 +1,103 @@
+---
+baslik: "İstinaf ve temyiz harcı hesaplama: kanun yolu başvuru ve karar harcı"
+kisa_ad: "İstinaf ve temyiz harcı"
+aciklama: "Hukuk davalarında istinaf ya da temyiz başvurusunda ödenen başvuru harçlarını ve nispi ya da maktu karar harcını 2026 tarifesine göre hesaplar."
+grup: harc-vergi
+sira: 30
+guncelleme: 2026-10-19
+veri: [harc]
+ilgili_yazilar: [hukuk-davalarinda-istinaf-ve-temyiz-sureleri, itirazin-iptali-davasi]
+kaynaklar:
+  - ad: "492 sayılı Harçlar Kanunu m. 27, 28"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=492&MevzuatTur=1&MevzuatTertip=5"
+    not: "Maktu harcın peşin ödenmesi, nispi harcın dörtte birinin peşin alınması"
+  - ad: "Harçlar Kanunu Genel Tebliği (Seri No: 98), RG 31.12.2025, sayı 33124 (5. Mükerrer)"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42887&MevzuatTur=9&MevzuatTertip=5"
+    not: "(1) sayılı tarife A-I-3 başvurma harcı, A-III-1-e ve A-III-2 karar harcı, A-IV-a ve A-IV-e temyiz ve istinaf harcı (2026)"
+  - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 344"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
+    not: "İstinaf dilekçesi verilirken harç ve giderlerin ödenmesi, eksikse bir haftalık kesin süre"
+nasil: |
+  İlk derece mahkemesinin kararına karşı bölge adliye mahkemesine istinaf, bölge adliye mahkemesinin kararına karşı Yargıtaya temyiz başvurusu yapılır. Başvuru dilekçesi verilirken harçlar ve tebliğ giderleri ödenir; eksik ödenirse mahkeme bir haftalık kesin süre verir, bu sürede tamamlanmazsa başvuru yapılmamış sayılır (HMK m. 344).
+
+  Harçlar Kanununa bağlı (1) sayılı tarife üst mahkemeler için iki ayrı maktu tutar öngörür: bölge adliye mahkemeleri ve Yargıtay için başvurma harcı (A-I-3) ve kanun yoluna başvuru harcı (istinaf için A-IV-e, temyiz için A-IV-a).
+
+  Bunlara karar harcı eklenir. Bir paranın ya da değeri belli bir şeyin ödenmesine hükmeden karara karşı başvuruluyorsa, ilk derece için kullanılan binde 68,31'lik nispi oran üst mahkemenin onama ya da esastan karar vermesinde de aynen uygulanır (tarife A-III-1-e). Bu harcın dörtte biri peşin alınır, kalanı kararın tebliğinden sonra bir ay içinde ödenir (Harçlar Kanunu m. 28/a). Araç bu kalanı "fark" olarak gösterir. Davanın reddine ya da değeri belli olmayan bir davaya ilişkin kararlarda ise karar harcı maktudur: bölge adliye mahkemesi için 732 TL (A-III-2-a), Yargıtay için 1.526,20 TL (A-III-2-b). Maktu harçlar işlemden önce ödenir (m. 27).
+
+  Araç; tebligat ve posta giderlerini, katılma yoluyla başvuruyu, karar düzeltme ve harçtan muafiyeti hesaba katmaz. Kanun yoluna götürülen miktarı, hükmün yalnızca itiraz ettiğiniz kısmına göre girin.
+---
+<form class="arac-form" id="kanunyolu-form" novalidate>
+  <fieldset>
+    <legend>Kanun yolu</legend>
+    <div class="secimler">
+      <label class="secim"><input type="radio" name="yol" value="istinaf" checked> İstinaf (bölge adliye mahkemesi)</label>
+      <label class="secim"><input type="radio" name="yol" value="temyiz"> Temyiz (Yargıtay)</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>Başvurulan karar</legend>
+    <div class="secimler">
+      <label class="secim"><input type="radio" name="tur" value="nispi" checked> Bir paranın ya da değeri belli bir şeyin ödenmesine hükmedildi (nispi)</label>
+      <label class="secim"><input type="radio" name="tur" value="maktu"> Davanın reddi ya da değeri belli olmayan bir dava (maktu)</label>
+    </div>
+  </fieldset>
+  <div class="alan">
+    <label for="miktar">Kanun yoluna götürülen hüküm miktarı</label>
+    <input id="miktar" name="miktar" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 300.000">
+    <p class="ipucu">Yalnızca nispi seçenekte gerekir: hüküm altına alınan ve itiraz ettiğiniz miktar.</p>
+  </div>
+  <label class="secim"><input type="checkbox" name="cismani"> Ölüm ya da bedensel zarar nedeniyle maddi veya manevi tazminat davası</label>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="kanunyolu-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var Y = function (n) { return HA.yuvarla(n, 2); };
+  HA.bagla(document.getElementById("kanunyolu-form"), document.getElementById("kanunyolu-sonuc"), function (f) {
+    var bugun = HA.tarih(new Date());
+    var d = HA.donem(HV.harc.donemler, bugun) || HV.harc.donemler[0];
+    var h = d.deger;
+    var istinaf = f.deger("yol") === "istinaf";
+    var tur = f.deger("tur");
+    var yolHarci = istinaf ? h.istinaf : h.temyiz;
+    var satirlar = [
+      ["Başvurma harcı (" + (istinaf ? "bölge adliye mahkemesi" : "Yargıtay") + ")", HA.tl(h.basvurma.ust)],
+      [(istinaf ? "İstinaf" : "Temyiz") + " yoluna başvuru harcı", HA.tl(yolHarci)]
+    ];
+    var toplam = h.basvurma.ust + yolHarci;
+    var notlar = [];
+    var fark = null;
+    if (tur === "nispi") {
+      if (!f.deger("miktar")) throw new Error("Nispi seçenekte kanun yoluna götürülen hüküm miktarını girin.");
+      var miktar = f.sayi("miktar", "Hüküm miktarı");
+      if (miktar <= 0) throw new Error("Hüküm miktarı sıfırdan büyük olmalı.");
+      var hesap = Y(miktar * h.nispiOran);
+      var karar = Math.max(hesap, h.nispiAsgari);
+      var kat = f.secili("cismani") ? 20 : 4;
+      var pesin = Y(karar / kat);
+      fark = Y(karar - pesin);
+      satirlar.push(["Nispi karar ve ilam harcı (binde 68,31)", HA.tl(karar)]);
+      satirlar.push(["Peşin alınan kısım (" + (kat === 4 ? "dörtte biri" : "yirmide biri") + ")", HA.tl(pesin)]);
+      toplam += pesin;
+      if (hesap < h.nispiAsgari) notlar.push("Miktarın binde 68,31'i " + HA.tl(hesap) + " olup 732 TL alt sınırın altında kaldığı için karar harcı alt sınırdan hesaplandı.");
+    } else {
+      var maktu = istinaf ? h.maktuKarar : h.maktuKararUst;
+      satirlar.push(["Maktu karar ve ilam harcı", HA.tl(maktu)]);
+      toplam += maktu;
+    }
+    toplam = Y(toplam);
+    satirlar.push(["Başvuruda ödenecek harç toplamı", HA.tl(toplam), "vurgu"]);
+    if (fark !== null) {
+      satirlar.push(["Fark: karar sonrası ödenecek kalan nispi harç", HA.tl(fark)]);
+      notlar.push("Fark, üst mahkemenin kararı onaması ya da başvuruyu esastan reddetmesi hâlinde, kararın tebliğinden itibaren bir ay içinde ödenecek kalan kısımdır (Harçlar Kanunu m. 28/a ve tarife A-III-1-e).");
+    }
+    notlar.push("Tebligat ve posta giderleri bu toplama dahil değildir; dilekçe verilirken ayrıca istenir (HMK m. 344).");
+    notlar.push("Tutarlar " + d.kaynak + " ekindeki 2026 tarifesinden alındı.");
+    if (bugun > HA.tarih(HV.harc.sonGecerlilik)) notlar.push("Bu araçta 2026'dan sonraki yılların tutarları yok; sonuç 2026 tutarlarıyla hesaplandı.");
+    return { baslik: istinaf ? "İstinaf harcı" : "Temyiz harcı", ana: ["Başvuruda ödenecek toplam", HA.tl(toplam)], basliklar: ["Kalem", "Tutar"], satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>

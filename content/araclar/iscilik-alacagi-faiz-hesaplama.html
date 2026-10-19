@@ -1,0 +1,175 @@
+---
+baslik: "İşçilik alacağı faiz hesaplama: yasal faiz"
+kisa_ad: "İşçilik alacağı faizi"
+aciklama: "İhbar tazminatı, yıllık izin ücreti gibi işçilik alacaklarına, sizin girdiğiniz başlangıçtan hesap tarihine kadar yasal faizi hesaplar."
+grup: sure-faiz
+sira: 40
+guncelleme: 2026-10-19
+veri: [faiz]
+ilgili_yazilar: [ihbar-suresi-ve-ihbar-tazminati, kullanilmayan-yillik-izin-ucreti, iscilik-alacaklarinda-zamanasimi, maasi-odenmeyen-iscinin-haklari, kidem-tazminatina-hak-kazanma-sartlari]
+kaynaklar:
+  - ad: "3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin Kanun m. 1–3"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3095&MevzuatTur=1&MevzuatTertip=5"
+    not: "Kanuni faiz; m. 1, 7589 sayılı Kanunla değişik (yürürlük 31/7/2026)"
+  - ad: "1475 sayılı İş Kanunu m. 14"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1475&MevzuatTur=1&MevzuatTertip=5"
+    not: "Kıdem tazminatında mevduata uygulanan en yüksek faiz"
+  - ad: "4857 sayılı İş Kanunu m. 34"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4857&MevzuatTur=1&MevzuatTertip=5"
+    not: "Gününde ödenmeyen ücrette mevduata uygulanan en yüksek faiz"
+  - ad: "Cumhurbaşkanı Kararı, 20/5/2024, sayı 8485 (RG 21/5/2024, sayı 32552)"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8485&MevzuatTur=20&MevzuatTertip=5"
+    not: "Kanuni faizin 1/6/2024'ten itibaren yıllık %24 olması"
+  - ad: "TCMB, Reeskont ve Avans Faiz Oranları"
+    url: "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Temel+Faaliyetler/Para+Politikasi/Reeskont+ve+Avans+Faiz+Oranlari"
+    not: "31/12/2025 reeskont oranı %38,75 (2026 kanuni faizinin dayanağı)"
+nasil: |
+  Kanunda özel bir faiz öngörülmeyen işçilik alacaklarına, sözleşmede de faiz kararlaştırılmamışsa 3095 m. 1'deki kanuni faiz uygulanır. Oran 1 Ocak 2006'dan itibaren yıllık %9, 1 Haziran 2024'ten itibaren %24, 7589 sayılı Kanunla değişen kurala göre 31 Temmuz 2026'dan itibaren Merkez Bankası reeskont oranının yüzde sekseni olan %31'dir. Oran değiştiğinde hesap dönemlere bölünür.
+
+  **Kıdem tazminatı ve gününde ödenmeyen ücret.** Kıdem tazminatının zamanında ödenmemesi hâlinde hâkim, gecikme süresi için mevduata uygulanan en yüksek faize hükmeder (1475 m. 14). Gününde ödenmeyen ücretler için de mevduata uygulanan en yüksek faiz oranı uygulanır (4857 m. 34). Bu oranın geçmiş değerleri resmî bir kaynaktan güvenilir biçimde derlenemediği için araç bu iki alacak için faiz hesaplamaz.
+
+  **Faiz başlangıcı.** Faizin hangi tarihten işleyeceği alacağın türüne ve olaya göre değişir: temerrüt tarihi, ihtarnamenin tebliği, dava ya da ıslah tarihi gibi. Araç bu tarihi belirlemez; her alacak için başlangıcı siz girersiniz.
+
+  **Hesap.** Her dönem için alacak × yıllık oran × gün ÷ 365 hesaplanır; uygulamada yaygın olduğu gibi yıl 365 gün kabul edilir ve faize faiz yürütülmez (3095 m. 3). Gün sayısı iki tarih arasındaki farktır.
+
+  Alacak tutarları brüt ya da net olarak nasıl girilmişse öyle hesaplanır; vergi ve prim kesintileri, kısmi ödemeler ve toplu iş sözleşmesindeki özel faiz hükümleri hesaba katılmaz. 1 Ocak 2006'dan önceki ve 2026 sonrası dönemler hesaplanmaz.
+---
+<form class="arac-form" id="isci-form" novalidate>
+  <fieldset>
+    <legend>1. alacak</legend>
+    <div class="alan">
+      <label for="t1">Alacak türü</label>
+      <select id="t1" name="t1">
+        <option value="ihbar">İhbar tazminatı</option>
+        <option value="izin">Kullanılmayan yıllık izin ücreti</option>
+        <option value="diger">Diğer alacak (kanunda özel faiz öngörülmeyen)</option>
+      </select>
+    </div>
+    <div class="alan-cift">
+      <div class="alan">
+        <label for="a1">Tutar</label>
+        <input id="a1" name="a1" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 60.000">
+      </div>
+      <div class="alan">
+        <label for="b1">Faiz başlangıcı</label>
+        <input id="b1" name="b1" type="date" min="2006-01-01" max="2026-12-31">
+      </div>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>2. alacak (isteğe bağlı)</legend>
+    <div class="alan">
+      <label for="t2">Alacak türü</label>
+      <select id="t2" name="t2">
+        <option value="ihbar">İhbar tazminatı</option>
+        <option value="izin" selected>Kullanılmayan yıllık izin ücreti</option>
+        <option value="diger">Diğer alacak (kanunda özel faiz öngörülmeyen)</option>
+      </select>
+    </div>
+    <div class="alan-cift">
+      <div class="alan">
+        <label for="a2">Tutar</label>
+        <input id="a2" name="a2" inputmode="decimal" data-para autocomplete="off">
+      </div>
+      <div class="alan">
+        <label for="b2">Faiz başlangıcı</label>
+        <input id="b2" name="b2" type="date" min="2006-01-01" max="2026-12-31">
+      </div>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>3. alacak (isteğe bağlı)</legend>
+    <div class="alan">
+      <label for="t3">Alacak türü</label>
+      <select id="t3" name="t3">
+        <option value="ihbar">İhbar tazminatı</option>
+        <option value="izin">Kullanılmayan yıllık izin ücreti</option>
+        <option value="diger" selected>Diğer alacak (kanunda özel faiz öngörülmeyen)</option>
+      </select>
+    </div>
+    <div class="alan-cift">
+      <div class="alan">
+        <label for="a3">Tutar</label>
+        <input id="a3" name="a3" inputmode="decimal" data-para autocomplete="off">
+      </div>
+      <div class="alan">
+        <label for="b3">Faiz başlangıcı</label>
+        <input id="b3" name="b3" type="date" min="2006-01-01" max="2026-12-31">
+      </div>
+    </div>
+  </fieldset>
+  <div class="alan">
+    <label for="hesap">Hesap tarihi</label>
+    <input id="hesap" name="hesap" type="date" min="2006-01-01" max="2026-12-31">
+    <p class="ipucu">Faizin hesaplanacağı son gün (örneğin ödeme tarihi). En geç 31 Aralık 2026.</p>
+  </div>
+  <p class="ipucu">Kıdem tazminatı ve gününde ödenmeyen ücret için kanun mevduata uygulanan en yüksek faizi öngördüğünden bu araçla hesaplanmaz.</p>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="isci-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  /* Faiz motoru: dönemlere bölerek basit faiz (yıl 365 gün). yasal-faiz-hesaplama ile aynı; burada yalnız kanuni faiz. */
+  var F = HV.faiz;
+  function kisa(d) { var g = d.getUTCDate(), a = d.getUTCMonth() + 1; return (g < 10 ? "0" : "") + g + "." + (a < 10 ? "0" : "") + a + "." + d.getUTCFullYear(); }
+  function faizMotoru(anapara, bas, bit, etiket) {
+    if (!(bit > bas)) throw new Error(etiket + ": hesap tarihi, faiz başlangıcından sonra olmalı.");
+    if (bas < HA.tarih(F.enEski)) throw new Error(etiket + ": oranlar " + HA.tarihYaz(HA.tarih(F.enEski)) + "'dan itibaren doğrulanabildi; daha eski bir başlangıç girilemez.");
+    var kesim = [];
+    F.kanuni.forEach(function (x) { var t = HA.tarih(x.baslangic); if (t > bas && t < bit) kesim.push(t.getTime()); });
+    var noktalar = [bas.getTime()].concat(kesim, [bit.getTime()]);
+    var donemler = [], toplam = 0, toplamGun = 0;
+    for (var i = 0; i < noktalar.length - 1; i++) {
+      var s = new Date(noktalar[i]), e = new Date(noktalar[i + 1]);
+      var oran = HA.donem(F.kanuni, s).deger, gun = HA.gunFarki(s, e);
+      var faiz = anapara * oran / 100 * gun / 365;
+      donemler.push({ s: s, e: e, gun: gun, oran: oran, faiz: faiz });
+      toplam += faiz; toplamGun += gun;
+    }
+    return { donemler: donemler, toplam: toplam, gun: toplamGun };
+  }
+  var TUR = { ihbar: "İhbar tazminatı", izin: "Yıllık izin ücreti", diger: "Diğer alacak" };
+
+  HA.bagla(document.getElementById("isci-form"), document.getElementById("isci-sonuc"), function (f) {
+    var hesap = f.tarih("hesap", "Hesap tarihi");
+    var son = HA.tarih(F.sonGecerlilik);
+    if (hesap > son) throw new Error("Oranlar " + HA.tarihYaz(son) + " tarihine kadar bellidir; hesap tarihi bundan sonra olamaz.");
+    var satirlar = [], genelAna = 0, genelFaiz = 0, sayi = 0;
+    for (var i = 1; i <= 3; i++) {
+      var tutarYazi = f.deger("a" + i), basYazi = f.deger("b" + i);
+      if (!tutarYazi && !basYazi) continue;
+      var etiket = i + ". alacak";
+      if (!tutarYazi) throw new Error(etiket + " için tutar girin.");
+      var tutar = f.sayi("a" + i, etiket + " tutarı");
+      if (tutar <= 0) throw new Error(etiket + " tutarı sıfırdan büyük olmalı.");
+      var bas = f.tarih("b" + i, etiket + " faiz başlangıcı");
+      var m = faizMotoru(tutar, bas, hesap, etiket);
+      var ad = TUR[f.deger("t" + i)] || "Alacak";
+      satirlar.push([i + ". " + ad + " (" + HA.tl(tutar) + ")", "", "", ""]);
+      m.donemler.forEach(function (d) {
+        satirlar.push(["  " + kisa(d.s) + " – " + kisa(d.e), String(d.gun), HA.yuzde(d.oran), HA.tl(d.faiz)]);
+      });
+      satirlar.push(["  Faiz toplamı", String(m.gun), "", HA.tl(m.toplam), "vurgu"]);
+      genelAna += tutar; genelFaiz += m.toplam; sayi++;
+    }
+    if (!sayi) throw new Error("En az bir alacak için tutar ve faiz başlangıcı girin.");
+    satirlar.push(["Alacakların toplamı", "", "", HA.tl(genelAna)]);
+    satirlar.push(["Yasal faiz toplamı", "", "", HA.tl(genelFaiz), "vurgu"]);
+    satirlar.push(["Alacak + faiz", "", "", HA.tl(genelAna + genelFaiz)]);
+    return {
+      baslik: "İşçilik alacaklarına yasal faiz",
+      ana: ["Yasal faiz toplamı", HA.tl(genelFaiz)],
+      basliklar: ["Alacak / dönem", "Gün", "Yıllık oran", "Faiz"],
+      satirlar: satirlar,
+      notlar: [
+        "Kanuni faiz (3095 m. 1) uygulandı. Basit faiz: tutar × yıllık oran × gün ÷ 365; yıl, uygulamada yaygın olduğu gibi 365 gün kabul edildi.",
+        "Gün sayısı faiz başlangıcı ile hesap tarihi arasındaki farktır.",
+        "Kıdem tazminatı (1475 m. 14) ve gününde ödenmeyen ücret (4857 m. 34) için öngörülen mevduata uygulanan en yüksek faiz bu hesaba dahil değildir."
+      ]
+    };
+  });
+})();
+</script>

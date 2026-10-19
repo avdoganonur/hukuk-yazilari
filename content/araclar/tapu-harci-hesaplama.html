@@ -1,0 +1,68 @@
+---
+baslik: "Tapu harcı hesaplama: alıcı ve satıcı için binde 20"
+kisa_ad: "Tapu harcı"
+aciklama: "Taşınmaz satışında alıcı ve satıcının ayrı ayrı ödediği binde 20 tapu harcını, emlak vergisi değeri alt sınırını gözeterek hesaplar."
+grup: harc-vergi
+sira: 50
+guncelleme: 2026-10-19
+veri: [harc]
+ilgili_yazilar: [kentsel-donusumde-tapu-harci-muafiyeti, emlak-vergisi-ve-muafiyetler, konut-satisinda-deger-artis-kazanci-vergisi, tapuda-satis-vaadi-sozlesmesi]
+kaynaklar:
+  - ad: "492 sayılı Harçlar Kanunu, (4) sayılı tarife I-20-a"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=492&MevzuatTur=1&MevzuatTertip=5"
+    not: "İvaz karşılığı devirde, emlak vergisi değerinden az olmamak üzere beyan edilen bedel üzerinden devreden ve devralan için ayrı ayrı binde 20 (7566 sayılı Kanunla değişik ibare, yürürlük 19.12.2025)"
+  - ad: "Harçlar Kanunu Genel Tebliği (Seri No: 98), RG 31.12.2025, sayı 33124 (5. Mükerrer)"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42887&MevzuatTur=9&MevzuatTertip=5"
+    not: "2026'da uygulanan (4) sayılı tarife"
+nasil: |
+  Bir taşınmaz bedel karşılığında satıldığında tapuda hem satıcıdan hem alıcıdan ayrı ayrı tapu harcı alınır. Oran her biri için binde 20'dir, yani toplamda satış bedelinin yüzde 4'ü kadar harç ödenir (Harçlar Kanununa bağlı (4) sayılı tarife I-20-a). Aynı oran ölünceye kadar bakma sözleşmesi ve trampa ile yapılan devirlerde de uygulanır.
+
+  Harç, tapuda beyan edilen satış bedeli üzerinden hesaplanır. Ancak beyan edilen bedel, taşınmazın emlak vergisi değerinden düşük olamaz. Bu yüzden araç, girdiğiniz satış bedeli ile emlak vergisi değerinden yüksek olanı harca esas alır. Emlak vergisi değerini taşınmazın bulunduğu belediyeden öğrenebilirsiniz. Cebri icra ve ortaklığın giderilmesi için yapılan satışlarda satış bedeli, kamulaştırmalarda takdir edilen bedel esas alınır.
+
+  Kanun, Cumhurbaşkanına bu oranı taşınmazın türü, yeri ve büyüklüğü gibi ölçütlere göre bir katına kadar artırma ya da onda birine kadar indirme yetkisi verir. Araç genel oranı uygular; belirli taşınmazlar için çıkarılmış indirimleri, kentsel dönüşüm ve benzeri muafiyetleri hesaba katmaz.
+
+  Tapu işleminde ayrıca Tapu ve Kadastro Genel Müdürlüğünün döner sermaye ücreti ödenir. Bu ücretin 2026 tutarı resmî tarifeden doğrulanamadığı için araçta yer almaz. Araç; bağış, miras yoluyla intikal, ipotek ve kat irtifakı gibi işlemlerdeki farklı harçları hesaplamaz.
+---
+<form class="arac-form" id="tapu-form" novalidate>
+  <div class="alan">
+    <label for="bedel">Tapuda beyan edilecek satış bedeli</label>
+    <input id="bedel" name="bedel" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 3.500.000">
+  </div>
+  <div class="alan">
+    <label for="emlak">Emlak vergisi değeri (isteğe bağlı)</label>
+    <input id="emlak" name="emlak" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 1.800.000">
+    <p class="ipucu">Girerseniz, satış bedeli bundan düşükse harç emlak vergisi değerinden hesaplanır.</p>
+  </div>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="tapu-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var Y = function (n) { return HA.yuvarla(n, 2); };
+  HA.bagla(document.getElementById("tapu-form"), document.getElementById("tapu-sonuc"), function (f) {
+    var bugun = HA.tarih(new Date());
+    var d = HA.donem(HV.harc.donemler, bugun) || HV.harc.donemler[0];
+    var oran = d.deger.tapuOran;
+    var bedel = f.sayi("bedel", "Satış bedeli");
+    if (bedel <= 0) throw new Error("Satış bedeli sıfırdan büyük olmalı.");
+    var emlak = f.deger("emlak") ? f.sayi("emlak", "Emlak vergisi değeri") : null;
+    if (emlak !== null && emlak < 0) throw new Error("Emlak vergisi değeri negatif olamaz.");
+    var matrah = emlak !== null && emlak > bedel ? emlak : bedel;
+    var pay = Y(matrah * oran);
+    var satirlar = [["Beyan edilen satış bedeli", HA.tl(bedel)]];
+    if (emlak !== null) satirlar.push(["Emlak vergisi değeri", HA.tl(emlak)]);
+    satirlar.push(["Harca esas değer", HA.tl(matrah)]);
+    satirlar.push(["Alıcının ödeyeceği harç (binde 20)", HA.tl(pay)]);
+    satirlar.push(["Satıcının ödeyeceği harç (binde 20)", HA.tl(pay)]);
+    satirlar.push(["Toplam tapu harcı", HA.tl(Y(pay * 2)), "vurgu"]);
+    var notlar = [];
+    if (emlak !== null && emlak > bedel) notlar.push("Beyan edilen bedel emlak vergisi değerinden düşük olamayacağı için harç emlak vergisi değeri üzerinden hesaplandı.");
+    if (emlak === null) notlar.push("Emlak vergisi değeri girilmedi. Beyan edilen bedel emlak vergisi değerinden düşük olamaz; düşükse harç emlak vergisi değerinden alınır.");
+    notlar.push("Döner sermaye ücreti, varsa Cumhurbaşkanı kararıyla belirlenen indirimli oranlar ve muafiyetler dahil değildir.");
+    return { baslik: "Tapu harcı", ana: ["Alıcı ve satıcı toplamı", HA.tl(Y(pay * 2))], basliklar: ["Kalem", "Tutar"], satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>

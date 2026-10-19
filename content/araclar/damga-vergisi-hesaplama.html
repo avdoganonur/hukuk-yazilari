@@ -1,0 +1,130 @@
+---
+baslik: "Damga vergisi hesaplama: sözleşme, kira sözleşmesi ve ücret"
+kisa_ad: "Damga vergisi"
+aciklama: "Sözleşme, kira sözleşmesi, taahhütname, ücret bordrosu gibi kâğıtların damga vergisini 2026 oranları ve azami tutarla hesaplar."
+grup: harc-vergi
+sira: 60
+guncelleme: 2026-10-19
+veri: [damga]
+ilgili_yazilar: [kira-depozitosu-guvence-bedeli, alt-kira-ve-kira-sozlesmesinin-devri, kira-geliri-beyani]
+kaynaklar:
+  - ad: "488 sayılı Damga Vergisi Kanunu m. 5, 14 ve ekli (1) ve (2) sayılı tablolar"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=488&MevzuatTur=1&MevzuatTertip=5"
+    not: "Nüsha kuralı, azami tutar, belge türlerine göre oranlar, istisnalar"
+  - ad: "Damga Vergisi Kanunu Genel Tebliği (Seri No: 71), RG 31.12.2025, sayı 33124 (5. Mükerrer)"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42881&MevzuatTur=9&MevzuatTertip=5"
+    not: "2026 azami tutarı: her bir kâğıt için 29.115.961,10 TL"
+nasil: |
+  Damga vergisi, belli bir parayı içeren kâğıtlar üzerinden kâğıdın türüne göre belirlenen binde oranla alınır. Sözleşmeler, taahhütnameler, temliknameler, kefalet ve rehin senetleri ile belli parayı içeren sulhnameler için oran binde 9,48; kira sözleşmeleri, fesihnameler ve ikinci el araç satış sözleşmeleri için binde 1,89; maaş ve ücret ödemelerine ilişkin kâğıtlar ile ödünç para makbuzları için binde 7,59'dur (488 sayılı Kanuna ekli (1) sayılı tablo).
+
+  Kira sözleşmesinde vergi, sözleşme süresine göre ödenecek toplam kira üzerinden hesaplanır. Bu yüzden araç aylık kirayı sözleşmenin ay cinsinden süresiyle çarpar. Gerçek kişilerin konut olarak kullanmak üzere kiraladığı ve iktisadi işletmeye dahil olmayan taşınmazların kira sözleşmeleri vergiden istisnadır ((2) sayılı tablo IV-31).
+
+  Ücretlerde, aylık brüt asgari ücrete isabet eden kısım vergiden istisnadır ((2) sayılı tablo IV-34). Bordro hesabı için istisna tutarını ayrıca girebilirsiniz; araç bunu tutardan düşer.
+
+  Her bir kâğıt için hesaplanan vergi 2026'da 29.115.961,10 TL'yi aşamaz (m. 14 ve Seri No 71 tebliğ). Nispi vergiye tabi bir kâğıt birden fazla nüsha düzenlenirse yalnızca bir nüshası vergiye tabidir (m. 5).
+
+  Araç; belli parayı içermeyen kâğıtlardaki maktu vergileri, sözleşmenin değiştirilmesi, süresinin uzatılması ya da devri hâlindeki özel kuralları, birden fazla akit içeren kâğıtları ve diğer istisnaları hesaba katmaz. Vergiyi kimin ödeyeceği taraflar arasındaki anlaşmaya göre değişebilir.
+---
+<form class="arac-form" id="damga-form" novalidate>
+  <div class="alan">
+    <label for="belge">Kâğıdın türü</label>
+    <select id="belge" name="belge"></select>
+  </div>
+  <div class="alan" id="alan-tutar">
+    <label for="tutar">Kâğıtta yazılı tutar</label>
+    <input id="tutar" name="tutar" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 500.000">
+    <p class="ipucu" id="tutar-ipucu">Sözleşmenin bedeli ya da kâğıtta yazılı para.</p>
+  </div>
+  <div class="alan-cift" id="alan-kira" hidden>
+    <div class="alan">
+      <label for="aylik">Aylık kira bedeli</label>
+      <input id="aylik" name="aylik" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 40.000">
+    </div>
+    <div class="alan">
+      <label for="sure">Sözleşme süresi (ay)</label>
+      <input id="sure" name="sure" type="number" min="1" max="600" step="1" value="12" inputmode="numeric">
+    </div>
+  </div>
+  <div class="alan" id="alan-istisna" hidden>
+    <label for="istisna">Düşülecek istisna tutarı (isteğe bağlı)</label>
+    <input id="istisna" name="istisna" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. aylık brüt asgari ücret">
+    <p class="ipucu">Ücretin aylık brüt asgari ücrete isabet eden kısmı vergiden istisnadır. O ayın brüt asgari ücretini yazın.</p>
+  </div>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="damga-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  var Y = function (n) { return HA.yuvarla(n, 2); };
+  var form = document.getElementById("damga-form");
+  var bugun = HA.tarih(new Date());
+  var d = HA.donem(HV.damga.donemler, bugun) || HV.damga.donemler[0];
+  var belgeler = d.deger.belgeler;
+  var sec = form.elements.belge;
+  belgeler.forEach(function (b) {
+    var o = document.createElement("option");
+    o.value = b.kod;
+    o.textContent = b.ad + " (binde " + HA.bicim(b.oran, 2) + ")";
+    sec.appendChild(o);
+  });
+  function bul(kod) { for (var i = 0; i < belgeler.length; i++) if (belgeler[i].kod === kod) return belgeler[i]; return belgeler[0]; }
+  function duzen() {
+    var b = bul(sec.value);
+    document.getElementById("alan-kira").hidden = !b.kira;
+    document.getElementById("alan-tutar").hidden = !!b.kira;
+    document.getElementById("alan-istisna").hidden = !b.ucret;
+    document.getElementById("tutar-ipucu").textContent = b.ucret ? "Aylık brüt ücret ya da ödenen tutar." : "Sözleşmenin bedeli ya da kâğıtta yazılı para.";
+  }
+  sec.addEventListener("change", duzen);
+  form.addEventListener("reset", function () { setTimeout(duzen, 0); });
+  duzen();
+
+  HA.bagla(form, document.getElementById("damga-sonuc"), function (f) {
+    var b = bul(f.deger("belge"));
+    var satirlar = [];
+    var notlar = [];
+    var matrah;
+    if (b.kira) {
+      var aylik = f.sayi("aylik", "Aylık kira bedeli");
+      var sure = f.sayi("sure", "Sözleşme süresi");
+      if (aylik <= 0) throw new Error("Aylık kira bedeli sıfırdan büyük olmalı.");
+      if (sure < 1 || Math.floor(sure) !== sure) throw new Error("Sözleşme süresi için 1 ya da daha büyük tam sayı (ay) girin.");
+      matrah = Y(aylik * sure);
+      satirlar.push(["Aylık kira", HA.tl(aylik)]);
+      satirlar.push(["Sözleşme süresi", sure + " ay"]);
+      satirlar.push(["Süre boyunca toplam kira", HA.tl(matrah)]);
+      notlar.push("Araç sözleşme süresince her ay aynı kiranın ödeneceğini varsaydı.");
+      notlar.push("Gerçek kişilerin konut olarak kiraladığı ve iktisadi işletmeye dahil olmayan taşınmazların kira sözleşmeleri istisnadır ((2) sayılı tablo IV-31).");
+    } else {
+      var tutar = f.sayi("tutar", "Kâğıttaki tutar");
+      if (tutar <= 0) throw new Error("Tutar sıfırdan büyük olmalı.");
+      satirlar.push(["Kâğıttaki tutar", HA.tl(tutar)]);
+      matrah = tutar;
+      if (b.ucret && f.deger("istisna")) {
+        var ist = f.sayi("istisna", "İstisna tutarı");
+        if (ist < 0) throw new Error("İstisna tutarı negatif olamaz.");
+        satirlar.push(["Düşülen istisna", HA.tl(Math.min(ist, tutar))]);
+        matrah = Y(Math.max(tutar - ist, 0));
+        satirlar.push(["Vergiye tabi tutar", HA.tl(matrah)]);
+      } else if (b.ucret) {
+        notlar.push("Ücretin aylık brüt asgari ücrete isabet eden kısmı istisnadır ((2) sayılı tablo IV-34); istisna tutarı girmediğiniz için düşülmedi.");
+      }
+    }
+    var hesap = Y(matrah * b.oran / 1000);
+    var ust = d.deger.ustSinir;
+    var vergi = Math.min(hesap, ust);
+    satirlar.push(["Oran", "binde " + HA.bicim(b.oran, 2) + " (" + b.tablo + ")"]);
+    satirlar.push(["Hesaplanan vergi", HA.tl(hesap)]);
+    if (hesap > ust) satirlar.push(["2026 azami tutarı", HA.tl(ust)]);
+    satirlar.push(["Ödenecek damga vergisi", HA.tl(vergi), "vurgu"]);
+    if (hesap > ust) notlar.push("Hesaplanan vergi her bir kâğıt için uygulanan azami tutarı aştığı için azami tutar alındı (Damga Vergisi Kanunu m. 14).");
+    notlar.push("Kâğıt birden fazla nüsha düzenlense de nispi vergi yalnızca bir nüsha için ödenir (m. 5).");
+    notlar.push("Oran 488 sayılı Kanuna ekli (1) sayılı tablodan, azami tutar Damga Vergisi Kanunu Genel Tebliği (Seri No: 71) ile ilan edilen 2026 tutarından alındı.");
+    if (bugun > HA.tarih(HV.damga.sonGecerlilik)) notlar.push("Bu araçta 2026'dan sonraki yılların azami tutarı yok; sonuç 2026 tutarıyla hesaplandı.");
+    return { baslik: "Damga vergisi: " + b.ad, ana: ["Ödenecek damga vergisi", HA.tl(vergi)], basliklar: ["Kalem", "Değer"], satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>
