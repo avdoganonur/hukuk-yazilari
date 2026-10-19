@@ -86,7 +86,7 @@ nasil: |
     if (!(bit > bas)) throw new Error("Hesap tarihi, takip tarihinden sonra olmalı.");
     if (typeof tur !== "number") {
       if (bas < HA.tarih(F.enEski)) throw new Error("Oranlar " + HA.tarihYaz(HA.tarih(F.enEski)) + "'dan itibaren doğrulanabildi; daha eski bir tarih girilemez.");
-      var son = HA.tarih(tur === "avansTcmb" ? F.tcmbKontrol : F.sonGecerlilik);
+      var son = HA.tarih(F.sonGecerlilik);
       if (bit > son) throw new Error("Oranlar " + HA.tarihYaz(son) + " tarihine kadar bellidir; hesap tarihi bundan sonra olamaz.");
     }
     var kesim = [];

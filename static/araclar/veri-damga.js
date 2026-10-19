@@ -21,7 +21,7 @@ HV.damga = {
           { kod: "sozlesme", ad: "Sözleşme (mukavelename)", oran: 9.48, tablo: "(1) sayılı tablo I-A-1" },
           { kod: "taahhut", ad: "Taahhütname", oran: 9.48, tablo: "(1) sayılı tablo I-A-1" },
           { kod: "temlik", ad: "Temlikname (alacağın devri)", oran: 9.48, tablo: "(1) sayılı tablo I-A-1" },
-          { kod: "kira", ad: "Kira sözleşmesi", oran: 1.89, tablo: "(1) sayılı tablo I-A-2 (sözleşme süresine göre kira bedeli üzerinden)", kira: true },
+          { kod: "kira", ad: "Kira sözleşmesi", oran: 1.89, tablo: "(1) sayılı tablo I-A-2", kira: true },
           { kod: "kefalet", ad: "Kefalet, teminat veya rehin senedi", oran: 9.48, tablo: "(1) sayılı tablo I-A-3" },
           { kod: "sulh", ad: "Tahkimname veya sulhname (belli parayı içeren)", oran: 9.48, tablo: "(1) sayılı tablo I-A-4" },
           { kod: "fesih", ad: "Fesihname", oran: 1.89, tablo: "(1) sayılı tablo I-A-5" },

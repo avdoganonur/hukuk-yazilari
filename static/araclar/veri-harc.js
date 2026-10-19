@@ -56,10 +56,12 @@ HV.harc = {
         cezaevi: 0.02,
         /* Vekâlet pulu: 1136 sayılı Avukatlık Kanunu m. 27'ye göre pul değeri, 492 sayılı Kanunun yargı
            harçları bölümündeki vekâletname örnekleri harcının %50 fazlası ve ayrıca %5 ilavedir:
-           104 x 1,5 x 1,05 = 163,80 TL. TBB 2026 bedelini 164,00 TL olarak belirledi (TBB Duyuru 2025/71,
-           31/12/2025). TBB sayfası (barobirlik.org.tr/Haberler/duyuru-202571-86184) okunamadı; tutar duyuruyu
-           aktaran hukukihaber.net haberi (31/12/2025) ile kanundaki hesap yöntemi örtüşüyor (ikincil kaynak). */
-        vekaletPulu: 164.00,
+           104 x 1,5 x 1,05 = 163,80 TL (1136 sayılı Kanun m. 27, mevzuat.gov.tr; 104 TL Seri No 98 eki D-I-c).
+           Pulun satış bedelini TBB ilan eder. 2026 bedeli olarak basına yansıyan 164 TL (TBB Duyuru 2025/71)
+           TBB sayfasından doğrulanamadı (denetim 19/10/2026: sayfa açılmadı, tek ikincil kaynak var). Bu nedenle
+           satış bedeli veride yok; araçlar yalnızca kanundaki hesabı gösterir ve pulu toplama katmaz. */
+        vekaletPulu: null,
+        vekaletPuluKanuniKat: 1.5 * 1.05,
         /* Hukuk Muhakemeleri Kanunu Gider Avansı Tarifesi m. 4 (Adalet Bakanlığı, RG 28/10/2025 sayı 33061,
            yayımı tarihinde yürürlükte; mevzuat.gov.tr MevzuatNo 42679): taraf sayısının beş katı tebligat ücreti
            + diğer iş ve işlemler için 530 TL. Tebligat ücreti PTT tarifesine bağlıdır ve burada yoktur. */

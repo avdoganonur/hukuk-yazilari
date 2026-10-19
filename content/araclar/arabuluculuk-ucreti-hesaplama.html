@@ -30,7 +30,7 @@ nasil: |
 
   **Anlaşmama hâlinde** ücret birinci kısımdaki saat ücretine göre hesaplanır. Saat ücreti uyuşmazlık türüne ve taraf sayısına bağlıdır: iki taraf varsa tutar taraf başınadır, üç ve daha fazla tarafta toplam tutardır. Dava şartı arabuluculukta taraflara ulaşılamazsa, görüşme yapılamazsa ya da görüşme iki saatten kısa sürerse iki saatlik ücret Adalet Bakanlığı bütçesinden ödenir; iki saati aşan kısmı taraflar eşit öder. Bu ödemeler yargılama giderinden sayılır.
 
-  Ücret, aksi kararlaştırılmadıkça taraflarca eşit ödenir. Tüketici uyuşmazlıklarında dava şartı arabuluculukta tüketicinin payı Bakanlık bütçesinden karşılanır. Dava şartı arabuluculuk örnekleri: işçi-işveren alacakları ve işe iade, konusu para olan ticari davalar, tüketici mahkemesindeki davalar, kira, ortaklığın giderilmesi, kat mülkiyeti ve komşu hakkı uyuşmazlıkları.
+  Ücret, aksi kararlaştırılmadıkça taraflarca eşit ödenir. Tüketici uyuşmazlıklarında dava şartı arabuluculukta, anlaşma da anlaşmama da olsa tüketicinin payı Bakanlık bütçesinden karşılanır ve arabuluculuk ücreti birinci kısma göre iki saatlik ücreti geçemez (6502 m. 73/A-3). Dava şartı arabuluculuk örnekleri: işçi-işveren alacakları ve işe iade, konusu para olan ticari davalar, tüketici mahkemesindeki davalar, kira, ortaklığın giderilmesi, kat mülkiyeti ve komşu hakkı uyuşmazlıkları.
 
   Araç seri uyuşmazlıkları (m. 7/4), işe iadede anlaşma matrahını, yeni uyuşmazlık konusu ortaya çıkması hâlini (m. 6) ve sehven ya da mükerrer kayıtta ücret ödenmemesini (m. 5/2) hesaplamaz. Tarife saatin kesirleri için ayrı bir kural içermediğinden süre tam saat olarak girilir.
 ---
@@ -118,12 +118,12 @@ nasil: |
     var kalan = miktar, alt = 0, toplam = 0, adimlar = [];
     for (var i = 0; i < T.dilimler.length && kalan > 0; i++) {
       var d = T.dilimler[i], oran = cok ? d.cok : d.tek, pay = Math.min(kalan, d.tutar), u = pay * oran / 100;
-      adimlar.push([HA.tl(alt) + " – " + HA.tl(alt + pay) + " (%" + HA.bicim(oran, oran % 1 ? 1 : 0) + ")", HA.tl(u)]);
+      adimlar.push(["%" + HA.bicim(oran, oran % 1 ? 1 : 0) + " dilimi (" + HA.bicim(alt, 0) + " – " + HA.bicim(alt + pay, 0) + " TL)", HA.tl(u)]);
       toplam += u; kalan -= pay; alt += pay;
     }
     if (kalan > 0) {
       var so = cok ? T.sonCok : T.sonTek, s = kalan * so / 100;
-      adimlar.push([HA.tl(alt) + " üzeri (%" + HA.bicim(so, so % 1 ? 1 : 0) + ")", HA.tl(s)]);
+      adimlar.push(["%" + HA.bicim(so, so % 1 ? 1 : 0) + " dilimi (" + HA.bicim(alt, 0) + " TL üzeri)", HA.tl(s)]);
       toplam += s;
     }
     return { toplam: HA.yuvarla(toplam), adimlar: adimlar };
@@ -145,11 +145,12 @@ nasil: |
     var cok = f.deger("arabulucu") === "2";
     var su = saatUcreti(s, taraf);
     var ikiSaat = su.tutar * 2;
+    var tuketiciDava = dava && konu === "tuketici";
+    if (dava && konu === "aile") throw new Error("Aile hukuku uyuşmazlıkları dava şartı arabuluculuk kapsamında değildir; ihtiyari arabuluculuğu seçin.");
 
     var satirlar = [
       ["Arabuluculuk", dava ? "Dava şartı" : "İhtiyari"],
-      ["Uyuşmazlık türü", s.ad],
-      ["Bir saatlik ücret (birinci kısım)", HA.tl(su.tutar) + " — " + su.aciklama]
+      ["Bir saatlik ücret (birinci kısım; " + su.aciklama + ")", HA.tl(su.tutar)]
     ];
     var notlar = [], ucret, ana, hazine = 0, taraflar = 0;
 
@@ -174,7 +175,7 @@ nasil: |
           satirlar.push(["Üzerinde anlaşılan miktar", HA.tl(matrah)]);
         }
         var n = nispi(matrah, T, cok);
-        n.adimlar.forEach(function (a) { satirlar.push(["İkinci kısım: " + a[0], a[1]]); });
+        n.adimlar.forEach(function (a) { satirlar.push([a[0], a[1]]); });
         satirlar.push(["Dilimlere göre ücret", HA.tl(n.toplam)]);
         ucret = n.toplam;
         var alt = (konu === "ticari" || konu === "ortaklik") ? T.altSinirTicari : T.altSinir;
@@ -184,23 +185,27 @@ nasil: |
       } else {
         if (saat < 1) throw new Error("Konusu para olmayan anlaşmada görüşme süresini en az 1 saat girin.");
         ucret = su.tutar * saat;
-        satirlar.push(["Saat ücretine göre (birinci kısım, m. 7/1)", saat + " saat × " + HA.tl(su.tutar) + " = " + HA.tl(ucret)]);
+        satirlar.push(["Saat ücretine göre (birinci kısım, m. 7/1): " + saat + " saat × " + HA.tl(su.tutar), HA.tl(ucret)]);
         if (dava && ucret < ikiSaat) { ucret = ikiSaat; satirlar.push(["Alt sınır: iki saatlik ücret (dava şartı)", HA.tl(ikiSaat)]); }
         if (ucret < T.altSinir) { ucret = T.altSinir; satirlar.push(["Alt sınır (m. 7/7)", HA.tl(T.altSinir)]); }
         if (cok) notlar.push("Birinci kısma göre belirlenen ücret, birden fazla arabulucu görev yaptığında her birine ayrı ayrı ödenir (m. 3/2); yukarıdaki tutar bir arabulucu içindir.");
+      }
+      if (tuketiciDava && ucret > ikiSaat) {
+        ucret = ikiSaat;
+        satirlar.push(["Üst sınır: iki saatlik ücret (6502 m. 73/A-3)", HA.tl(ikiSaat)]);
       }
       ucret = HA.yuvarla(ucret);
       taraflar = ucret;
       satirlar.push(["Arabuluculuk ücreti", HA.tl(ucret), "vurgu"]);
       satirlar.push(["Taraf başına (eşit ödeme varsayımıyla)", HA.tl(ucret / taraf)]);
       if (cok && miktarVar) notlar.push("Birden fazla arabulucu için yüksek oranlarla bulunan bu ücret arabulucular arasında eşit bölünür (m. 3/3).");
-      if (dava && konu === "tuketici") notlar.push("Dava şartı tüketici arabuluculuğunda tüketicinin ödemesi gereken ücret Adalet Bakanlığı bütçesinden karşılanır; bu hâlde ücret birinci kısma göre iki saatlik ücreti (" + HA.tl(ikiSaat) + ") geçemez (6502 m. 73/A-3).");
+      if (tuketiciDava) notlar.push("Dava şartı tüketici arabuluculuğunda ücret, birinci kısma göre iki saatlik ücreti (" + HA.tl(ikiSaat) + ") geçemez; tüketicinin ödemesi gereken pay Adalet Bakanlığı bütçesinden karşılanır (6502 m. 73/A-3). Kanundaki bu üst sınır, tarifedeki 9.000 TL alt sınırından önce uygulandı.");
       ana = ["Arabuluculuk ücreti", HA.tl(ucret)];
     } else {
       if (dava) {
         hazine = ikiSaat;
         var asan = Math.max(0, saat - 2);
-        taraflar = su.tutar * asan;
+        taraflar = tuketiciDava ? 0 : su.tutar * asan;
         satirlar.push(["Adalet Bakanlığı bütçesinden: iki saatlik ücret", HA.tl(hazine)]);
         satirlar.push(["İki saati aşan süre", asan + " saat"]);
         satirlar.push(["Taraflarca ödenecek: aşan süre × saat ücreti", HA.tl(taraflar)]);
@@ -208,13 +213,14 @@ nasil: |
         ucret = hazine + taraflar;
         satirlar.push(["Arabulucuya ödenecek toplam", HA.tl(ucret), "vurgu"]);
         notlar.push("Bakanlık bütçesinden ödenen ve taraflarca karşılanan ücret, açılacak davada yargılama giderinden sayılır (6325 m. 18/A-13; 7036 m. 3/14).");
-        if (konu === "tuketici") notlar.push("Tüketicinin ödemesi gereken pay da Bakanlık bütçesinden karşılanır (6502 m. 73/A-3).");
+        if (tuketiciDava) notlar.push("Tüketici uyuşmazlığında arabuluculuk ücreti iki saatlik ücreti geçemez ve tüketicinin payı Bakanlık bütçesinden karşılanır (6502 m. 73/A-3); bu nedenle iki saati aşan süre için taraflara ücret yansıtılmadı.");
+        if (dava && konu === "diger") notlar.push("Seçtiğiniz uyuşmazlığın kanunda dava şartı arabuluculuk olarak öngörüldüğünü kontrol edin; Bakanlık bütçesinden ödeme yalnızca dava şartı arabuluculukta yapılır.");
         if (saat === 0) notlar.push("Taraflara ulaşılamaması ya da görüşme yapılamaması hâlinde de iki saatlik ücret Bakanlık bütçesinden ödenir.");
       } else {
         if (saat < 1) throw new Error("İhtiyari arabuluculukta görüşme süresini en az 1 saat girin.");
         ucret = su.tutar * saat;
         taraflar = ucret;
-        satirlar.push(["Saat ücretine göre (birinci kısım, m. 7/3)", saat + " saat × " + HA.tl(su.tutar)]);
+        satirlar.push(["Saat ücretine göre (birinci kısım, m. 7/3): " + saat + " saat × " + HA.tl(su.tutar), HA.tl(ucret)]);
         satirlar.push(["Arabuluculuk ücreti", HA.tl(ucret), "vurgu"]);
         satirlar.push(["Taraf başına (eşit ödeme varsayımıyla)", HA.tl(ucret / taraf)]);
         notlar.push("İhtiyari arabuluculukta ücreti taraflar öder; Bakanlık bütçesinden ödeme yoktur.");
@@ -224,7 +230,7 @@ nasil: |
     }
     notlar.push("Ücret, aksi kararlaştırılmadıkça taraflarca eşit ödenir (Tarife m. 3/1; 6325 m. 7/2).");
     notlar.push("Hesap " + T.ad + " ile yapıldı.");
-    return { baslik: anlasma ? "Anlaşma hâlinde arabuluculuk ücreti" : "Anlaşmama hâlinde arabuluculuk ücreti", ana: ana, satirlar: satirlar, notlar: notlar };
+    return { baslik: (anlasma ? "Anlaşma hâlinde arabuluculuk ücreti: " : "Anlaşmama hâlinde arabuluculuk ücreti: ") + s.ad, ana: ana, satirlar: satirlar, notlar: notlar };
   });
 })();
 </script>

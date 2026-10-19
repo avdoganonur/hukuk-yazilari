@@ -25,11 +25,11 @@ kaynaklar:
 nasil: |
   **Kanuni faiz.** Sözleşmede faiz oranı kararlaştırılmamışsa Türk Borçlar Kanunu ve Türk Ticaret Kanununa göre ödenecek faiz kanuni faizdir; temerrüde düşen borçlu da sözleşmede aksi yoksa bu oranda temerrüt faizi öder (3095 m. 1 ve 2/1). Oran 1 Ocak 2006'dan itibaren yıllık %9, 1 Haziran 2024'ten itibaren %24'tür. 7589 sayılı Kanunla 31 Temmuz 2026'dan itibaren kural değişti: kanuni faiz, Merkez Bankasının önceki yılın 31 Aralık günü uyguladığı reeskont oranının yüzde sekseni olur; 30 Haziran'daki reeskont oranı 31 Aralık'takinden 5 puan veya daha çok farklıysa yılın ikinci yarısında 30 Haziran oranının yüzde sekseni geçerlidir. 31 Aralık 2025'teki reeskont oranı %38,75 olduğundan 31 Temmuz 2026'dan itibaren kanuni faiz %31'dir.
 
-  **Ticari işlerde avans faizi.** Merkez Bankasının önceki yılın 31 Aralık günü kısa vadeli avanslara uyguladığı oran kanuni faizden yüksekse, ticari işlerde sözleşme olmasa da temerrüt faizi bu oranla istenebilir; 30 Haziran'daki oran 5 puan veya daha çok farklıysa yılın ikinci yarısında o oran geçerlidir (3095 m. 2/2). Araç varsayılan olarak bu kuralı uygular. Uygulamada Merkez Bankasının oranı değiştirdiği tarihleri esas alan hesaplar da görüldüğü için ikinci bir seçenek olarak o yöntem de vardır; iki yöntem farklı sonuç verebilir.
+  **Ticari işlerde avans faizi.** Merkez Bankasının önceki yılın 31 Aralık günü kısa vadeli avanslara uyguladığı oran kanuni faizden yüksekse, ticari işlerde sözleşme olmasa da temerrüt faizi bu oranla istenebilir; 30 Haziran'daki oran 5 puan veya daha çok farklıysa yılın ikinci yarısında o oran geçerlidir (3095 m. 2/2). Araç oranı kanun metnindeki bu kurala göre yılda bir, gerekirse 1 Temmuz'da bir kez daha belirler. Merkez Bankasının yıl içinde oranı değiştirdiği her tarihte oranı değiştiren hesaplar bu kurala uymadığı için farklı sonuç verebilir.
 
   **Hesap.** Faiz basit faizdir; faize faiz yürütülmez (3095 m. 3). Her dönem için ana para × yıllık oran × gün ÷ 365 hesaplanır. Uygulamada yaygın olan yılı 365 gün kabul etmektir; araç artık yıllarda da 365 gün kullanır. Gün sayısı iki tarih arasındaki farktır.
 
-  **Sınırlar.** 1 Ocak 2006'dan önceki dönemler ve 2026 sonrası hesaplanmaz; 2027 oranı 31 Aralık 2026'daki reeskont oranına göre belirlenecektir. Merkez Bankası değişiklik tarihleri yönteminde en son kontrol tarihi olan 19 Ekim 2026'dan sonrası hesaplanmaz. Sözleşmeyle belirlenen faiz, TTK m. 1530'daki ticari işlerde temerrüt faizi, kısmi ödemeler ve yabancı para borçları hesaba katılmaz.
+  **Sınırlar.** 1 Ocak 2006'dan önceki dönemler ve 2026 sonrası hesaplanmaz; 2027 oranı 31 Aralık 2026'daki reeskont oranına göre belirlenecektir. Sözleşmeyle belirlenen faiz, TTK m. 1530'daki ticari işlerde temerrüt faizi, kısmi ödemeler ve yabancı para borçları hesaba katılmaz.
 ---
 <form class="arac-form" id="faiz-form" novalidate>
   <div class="alan">
@@ -52,8 +52,7 @@ nasil: |
     <label for="tur">Faiz türü</label>
     <select id="tur" name="tur">
       <option value="kanuni">Kanuni faiz (3095 m. 1)</option>
-      <option value="avansKanun">Ticari işlerde avans faizi: kanun metnine göre (yıllık, 5 puan kuralı)</option>
-      <option value="avansTcmb">Ticari işlerde avans faizi: TCMB değişiklik tarihlerine göre</option>
+      <option value="avansKanun">Ticari işlerde avans faizi (3095 m. 2/2)</option>
     </select>
   </div>
   <div class="arac-dugmeler">
@@ -77,7 +76,7 @@ nasil: |
     if (!(bit > bas)) throw new Error("Faiz bitişi, başlangıçtan sonra olmalı.");
     if (typeof tur !== "number") {
       if (bas < HA.tarih(F.enEski)) throw new Error("Bu hesap için oranlar " + HA.tarihYaz(HA.tarih(F.enEski)) + "'dan itibaren doğrulanabildi; daha eski bir tarih girilemez.");
-      var son = HA.tarih(tur === "avansTcmb" ? F.tcmbKontrol : F.sonGecerlilik);
+      var son = HA.tarih(F.sonGecerlilik);
       if (bit > son) throw new Error("Oranlar " + HA.tarihYaz(son) + " tarihine kadar bellidir; bitiş tarihi bundan sonra olamaz.");
     }
     var kesim = [];
@@ -110,8 +109,7 @@ nasil: |
 
   var ADLAR = {
     kanuni: "Kanuni faiz",
-    avansKanun: "Avans faizi (kanun metnine göre)",
-    avansTcmb: "Avans faizi (TCMB değişiklik tarihlerine göre)"
+    avansKanun: "Ticari işlerde avans faizi"
   };
 
   HA.bagla(document.getElementById("faiz-form"), document.getElementById("faiz-sonuc"), function (f) {
@@ -127,7 +125,7 @@ nasil: |
       "Basit faiz: ana para × yıllık oran × gün ÷ 365. Yıl, uygulamada yaygın olduğu gibi 365 gün kabul edildi.",
       "Gün sayısı iki tarih arasındaki farktır: başlangıç günü sayılır, bitiş günü sayılmaz."
     ];
-    if (tur !== "kanuni") notlar.push("3095 m. 2/2 uyarınca avans faizi kanuni faizden yüksekse uygulanır; her dönemde ikisinden yüksek olan alındı.");
+    if (tur !== "kanuni") notlar.push("Avans faizi 3095 m. 2/2'nin metnine göre yıllık belirlendi (önceki yılın 31 Aralık oranı; 30 Haziran'da 5 puan veya daha çok fark varsa ikinci yarıda 30 Haziran oranı). Avans faizi kanuni faizden yüksekse uygulanır; her dönemde ikisinden yüksek olan alındı.");
     if (bit > HA.tarih("2026-07-30")) notlar.push("31.07.2026'dan itibaren kanuni faiz, 7589 sayılı Kanunla değişen 3095 m. 1'e göre reeskont oranının yüzde sekseni olarak alındı (%38,75 × 0,80 = %31).");
     return {
       baslik: ADLAR[tur],

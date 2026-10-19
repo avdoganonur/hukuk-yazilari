@@ -35,7 +35,7 @@ nasil: |
     <div class="alan">
       <label for="olucocuk">Önce ölmüş çocukların sağ çocuk sayıları</label>
       <input id="olucocuk" name="olucocuk" autocomplete="off" placeholder="Örn. 2, 1">
-      <p class="ipucu">Önce ölmüş her çocuk için, onun sağ çocuklarının sayısını virgülle yazın. Hiç çocuğu olmadan ölen çocuğu yazmayın.</p>
+      <p class="ipucu">Önce ölmüş her çocuk için, onun sağ çocuklarının sayısını virgülle yazın. Hiç altsoyu olmadan ölen çocuğu yazmayın. Önce ölmüş bir torunun çocukları varsa o torunu da sayın; torunun payını kendi çocukları eşit böler.</p>
     </div>
   </fieldset>
   <fieldset id="ikinci">
@@ -58,7 +58,7 @@ nasil: |
         <input id="bababir" name="bababir" type="number" min="0" max="30" step="1" value="0" inputmode="numeric">
       </div>
     </div>
-    <p class="ipucu">Kardeş sayıları yalnızca anne ya da baba önce ölmüşse kullanılır.</p>
+    <p class="ipucu">Kardeş sayıları yalnızca anne ya da baba önce ölmüşse kullanılır. Ölenden önce ölmüş ama çocuğu olan kardeşi de sayın (payı onun çocuklarına geçer); çocuğu olmadan ölmüş kardeşi saymayın.</p>
   </fieldset>
   <label class="secim"><input type="checkbox" name="ucuncu"> İlk iki zümrede kimse yoksa: büyükanne, büyükbaba ya da onların altsoyundan sağ olan biri var</label>
   <p class="ipucu">Eş sağsa bu zümreden yalnızca büyükanne, büyükbaba ve onların çocukları (amca, hala, dayı, teyze) eşle birlikte mirasçı olur. Eş sağ ve bu zümreden yalnızca kuzenler varsa kutuyu işaretlemeyin; miras eşe kalır (TMK m. 499).</p>
@@ -153,7 +153,7 @@ nasil: |
       return satir;
     });
     var notlar = [];
-    if (zumre === "ucuncu") notlar.push("Büyükanne-büyükbaba zümresinin kendi içindeki paylaşımı (TMK m. 497–498) bu araçla ayrıntılı hesaplanmaz.");
+    if (zumre === "ucuncu") notlar.push("Büyükanne-büyükbaba zümresinin kendi içindeki paylaşımı (TMK m. 497) bu araçla ayrıntılı hesaplanmaz.");
     if (zumre === "anababa") notlar.push("Önce ölmüş bir kardeşin payı onun çocuklarına geçer; bu durumda o kardeşin payını kendi çocukları arasında eşit bölün.");
     if (zumre === "altsoy" && es) notlar.push("Eşin payı mal rejiminin tasfiyesinden (örneğin edinilmiş mallara katılma alacağından) sonra kalan tereke üzerinden hesaplanır.");
     notlar.push("Paylar kişi başınadır. Vasiyetname, miras sözleşmesi, mirasın reddi ya da mirastan çıkarma sonucu değiştirir.");

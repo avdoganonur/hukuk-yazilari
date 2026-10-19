@@ -73,9 +73,11 @@ nasil: |
   function bul(kod) { for (var i = 0; i < belgeler.length; i++) if (belgeler[i].kod === kod) return belgeler[i]; return belgeler[0]; }
   function duzen() {
     var b = bul(sec.value);
-    document.getElementById("alan-kira").hidden = !b.kira;
-    document.getElementById("alan-tutar").hidden = !!b.kira;
-    document.getElementById("alan-istisna").hidden = !b.ucret;
+    /* Stil dosyası .alan için display tanımladığından hidden ile birlikte display de ayarlanır. */
+    function gizle(id, g) { var x = document.getElementById(id); x.hidden = g; x.style.display = g ? "none" : ""; }
+    gizle("alan-kira", !b.kira);
+    gizle("alan-tutar", !!b.kira);
+    gizle("alan-istisna", !b.ucret);
     document.getElementById("tutar-ipucu").textContent = b.ucret ? "Aylık brüt ücret ya da ödenen tutar." : "Sözleşmenin bedeli ya da kâğıtta yazılı para.";
   }
   sec.addEventListener("change", duzen);

@@ -1,7 +1,8 @@
 /* Vekâlet ve arabuluculuk ücreti araçlarının tarife değerleri (TL ve yüzde).
    Listeler [{baslangic: "YYYY-AA-GG", deger: ...}] biçiminde ve artan sıradadır (HA.donem ile okunur).
    Yalnızca yürürlükteki tarifeler girilmiştir; daha önceki tarifelerin tutarları bu dosyada yoktur.
-   Son kontrol: 19/10/2026. */
+   Son kontrol: 19/10/2026. Bağımsız denetim (19/10/2026): genel hükümler ve ek, mevzuat.gov.tr'deki
+   9.5.42687 metni ve 9.5.42687-Ek.doc dosyasıyla; 2026 arabuluculuk tarifesi 9.5.42809 metni ve 9.5.42809-EK.doc ile karşılaştırıldı. */
 window.HV = window.HV || {};
 HV.ucret = {
   /* Avukatlık Asgari Ücret Tarifesi (AAÜT). Kaynak: Türkiye Barolar Birliği tarifesi, RG 04/11/2025 sayı 33067;
@@ -34,6 +35,7 @@ HV.ucret = {
           sulhHukuk: { tutar: 30000, kisim: "2/2-8", ad: "Sulh hukuk mahkemeleri" },
           asliye: { tutar: 45000, kisim: "2/2-10", ad: "Asliye mahkemeleri" },
           tuketici: { tutar: 22500, kisim: "2/2-11", ad: "Tüketici mahkemeleri" },
+          tuketiciUyarlama: { tutar: 20000, kisim: "2/1-5", ad: "Tüketici mahkemelerinde kredi taksitlerinin veya faizinin uyarlanması davaları (konusu para olsa da maktu)" },
           fikri: { tutar: 55000, kisim: "2/2-12", ad: "Fikri ve sınai haklar mahkemeleri" },
           icraDairesi: { tutar: 9000, kisim: "2/2-1", ad: "İcra dairelerinde yapılan takipler" },
           icraMahIs: { tutar: 11000, kisim: "2/2-2", ad: "İcra mahkemelerinde takip edilen işler" },

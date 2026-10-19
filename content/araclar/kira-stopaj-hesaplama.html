@@ -1,0 +1,81 @@
+---
+baslik: "Kira stopajı hesaplama: işyeri kirasında brüt ve net kira"
+kisa_ad: "Kira stopajı"
+aciklama: "İşyeri kirasında yüzde 20 gelir vergisi kesintisini (stopaj) hesaplar; net kiradan brüte ya da brüt kiradan nete çevirir."
+grup: harc-vergi
+sira: 70
+guncelleme: 2026-10-19
+ilgili_yazilar: [kira-geliri-beyani, kira-tespit-davasi, kirayi-odemeyen-kiraci-temerrut-ve-tahliye]
+kaynaklar:
+  - ad: "193 sayılı Gelir Vergisi Kanunu m. 94/1-5-a"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=193&MevzuatTur=1&MevzuatTertip=4"
+    not: "70 inci maddede yazılı mal ve hakların kiralanması karşılığı yapılan ödemelerden tevkifat"
+  - ad: "2009/14592 sayılı Bakanlar Kurulu Kararı (GVK m. 94 tevkifat nispetleri)"
+    not: "Oranı belirleyen karar; en son 18.05.2026 tarihli ve 11344 sayılı Cumhurbaşkanı Kararıyla değişti, bu değişiklik kira bendine dokunmuyor"
+  - ad: "Gelir İdaresi Başkanlığı, Kira Geliri Elde Eden Mükellefler İçin Vergi Rehberi (Şubat 2025, Yayın No 552)"
+    url: "https://intvrg.gib.gov.tr/hazirbeyan/assets/pdf/2025KiraGeliriRehberi.pdf"
+    not: "Kira ödemelerinin brüt tutarı üzerinden yüzde 20 kesinti"
+nasil: |
+  Şirketler, tüccarlar, serbest meslek erbabı, kamu idareleri ve Gelir Vergisi Kanununun 94. maddesinde sayılan diğer kişi ve kurumlar, kiraladıkları işyeri için kira öderken mal sahibinin gelir vergisine mahsuben vergi kesintisi (stopaj, tevkifat) yapmak zorundadır (GVK m. 94/1-5-a). Kesinti oranı yüzde 20'dir ve kiranın brüt tutarı üzerinden hesaplanır. Kesilen vergiyi kiracı vergi dairesine yatırır, mal sahibine kalan net kirayı öder.
+
+  Brüt kira, kesinti yapılmadan önceki kiradır. Brütten nete geçmek için brüt kiradan yüzde 20 düşülür: net = brüt x 0,80. Sözleşmede kira net olarak kararlaştırılmışsa brüt kira, net kiranın 0,80'e bölünmesiyle bulunur: brüt = net / 0,80. Örneğin net 32.000 TL kiranın brütü 40.000 TL, stopajı 8.000 TL'dir.
+
+  Kanun maddesi oranı kendisi yazmaz; oran Cumhurbaşkanına (önceden Bakanlar Kuruluna) verilen yetkiyle 2009/14592 sayılı Kararla belirlenmiştir. Gelir İdaresi Başkanlığının kira geliri rehberi oranı yüzde 20 olarak gösterir; bu karara sonradan yapılan değişiklikler kira bendini değiştirmemiştir.
+
+  Kiracı stopaj yapmakla yükümlü değilse (örneğin işyerini kiralayan kişi tüccar ya da serbest meslek erbabı değilse) kesinti yapılmaz. Araç; KDV'yi, konut kiralarını, kesintinin vergi dairesine beyan ve ödeme sürelerini, mal sahibinin yıllık beyannamesindeki mahsup işlemini hesaba katmaz.
+---
+<form class="arac-form" id="stopaj-form" novalidate>
+  <fieldset>
+    <legend>Girdiğiniz tutar</legend>
+    <div class="secimler">
+      <label class="secim"><input type="radio" name="yon" value="net" checked> Net kira (mal sahibinin eline geçen), brüte çevrilsin</label>
+      <label class="secim"><input type="radio" name="yon" value="brut"> Brüt kira, nete çevrilsin</label>
+    </div>
+  </fieldset>
+  <div class="alan-cift">
+    <div class="alan">
+      <label for="tutar">Aylık kira</label>
+      <input id="tutar" name="tutar" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 32.000">
+    </div>
+    <div class="alan">
+      <label for="ay">Ay sayısı</label>
+      <input id="ay" name="ay" type="number" min="1" max="120" step="1" value="12" inputmode="numeric">
+      <p class="ipucu">Toplamı görmek istediğiniz süre.</p>
+    </div>
+  </div>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="stopaj-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  /* GVK m. 94/1-5-a kesinti oranı: %20. Oran 2009/14592 sayılı BKK ile belirlenmiştir. Kaynak: GİB "Kira Geliri
+     Elde Eden Mükellefler İçin Vergi Rehberi" (Şubat 2025, Yayın No 552): "kira ödemelerinin brüt tutarı üzerinden
+     %20 oranında gelir vergisi kesintisi". Karara sonraki değişiklikler (9707 sayılı CBK, RG 30/03/2025; 11344
+     sayılı CBK, RG 19/05/2026) yalnızca (3) numaralı bendi (istihkak bedelleri) değiştirdi. Son kontrol: 19/10/2026. */
+  var ORAN = 0.20;
+  var Y = function (n) { return HA.yuvarla(n, 2); };
+  HA.bagla(document.getElementById("stopaj-form"), document.getElementById("stopaj-sonuc"), function (f) {
+    var tutar = f.sayi("tutar", "Aylık kira");
+    if (tutar <= 0) throw new Error("Kira sıfırdan büyük olmalı.");
+    var ay = f.sayiVarsa("ay", 1);
+    if (ay < 1 || Math.floor(ay) !== ay) throw new Error("Ay sayısı için 1 ya da daha büyük bir tam sayı girin.");
+    var brut, net;
+    if (f.deger("yon") === "net") { net = tutar; brut = Y(net / (1 - ORAN)); }
+    else { brut = tutar; net = Y(brut * (1 - ORAN)); }
+    var stopaj = Y(brut - net);
+    var satirlar = [
+      ["Brüt kira", HA.tl(brut), HA.tl(Y(brut * ay))],
+      ["Stopaj (%20)", HA.tl(stopaj), HA.tl(Y(stopaj * ay))],
+      ["Net kira (mal sahibine ödenen)", HA.tl(net), HA.tl(Y(net * ay)), "vurgu"]
+    ];
+    var notlar = [
+      f.deger("yon") === "net" ? "Brüt kira = net kira / 0,80 formülüyle bulundu." : "Net kira = brüt kira x 0,80 formülüyle bulundu.",
+      "Kesinti yalnızca kiracı Gelir Vergisi Kanunu m. 94'te sayılan bir kişi ya da kurumsa yapılır. Varsa KDV ayrıca hesaplanır."
+    ];
+    return { baslik: "Kira stopajı", ana: ["Aylık stopaj", HA.tl(stopaj)], basliklar: ["Kalem", "Aylık", ay + " ay toplam"], satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>

@@ -13,16 +13,19 @@ kaynaklar:
   - ad: "657 sayılı Devlet Memurları Kanunu m. 104"
     url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=657&MevzuatTur=1&MevzuatTertip=5"
     not: "Memurlar için aynı süreler (7578 sayılı Kanun m. 2, yürürlük 1/5/2026); babalık izni 10 gün"
+  - ad: "7578 sayılı Sosyal Hizmetler Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun, geçici m. 1 ve m. 27"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7578&MevzuatTur=1&MevzuatTertip=5"
+    not: "RG 1/5/2026, sayı 33240; analık izni hükümleri yayımı tarihinde yürürlüğe girdi; izni bu tarihten önce bitmiş olanlara talep hâlinde 8 hafta ilave izin"
 nasil: |
   22/4/2026 tarihli 7578 sayılı Kanun, 1 Mayıs 2026'dan itibaren analık iznini uzattı. İş Kanunu'nun 74. maddesine göre kadın işçi doğumdan önce 8, doğumdan sonra 16 hafta olmak üzere toplam 24 hafta çalıştırılamaz (önceki düzenlemede doğum sonrası 8, toplam 16 haftaydı). Çoğul gebelikte doğum öncesi 8 haftaya 2 hafta eklenir. Sağlık durumu uygunsa hekim onayıyla işçi doğumdan önceki 2 haftaya kadar çalışabilir (önceden 3 hafta); çalıştığı süre doğum sonrasına eklenir. Erken doğumda doğumdan önce kullanılamayan süre de doğum sonrasına eklenir.
 
-  Memurlar için 657 sayılı Kanun'un 104. maddesi aynı süreleri öngörür: doğumdan önce 8, sonra 16, toplam 24 hafta; çoğul gebelikte doğum öncesine 2 hafta eklenir; tabip raporuyla doğumdan önceki 2 haftaya kadar çalışılabilir, çalışılan süre ve erken doğumda kullanılamayan süre doğum sonrasına eklenir.
+  Memurlar için 657 sayılı Kanun'un 104. maddesi aynı süreleri öngörür: doğumdan önce 8, sonra 16, toplam 24 hafta; çoğul gebelikte doğum öncesine 2 hafta eklenir; tabip raporuyla doğumdan önceki 2 haftaya kadar çalışılabilir, çalışılan süre ve erken doğumda kullanılamayan süre doğum sonrasına eklenir. Memurlarda doğum, doğum öncesi iznin başlaması gereken tarihten de önce olursa doğum ile o tarih arasındaki süre ayrıca doğum sonrasına eklenir; araç bunu memurlar için hesaba katar.
 
   Araç izin başlangıcını tahmini doğum tarihinden geriye doğru sayar. Gerçek doğum tarihini girerseniz doğum sonrası süreyi ona göre yeniden hesaplar. Doğum geç gerçekleşirse doğum sonrası 16 hafta yine doğumdan itibaren sayılır.
 
   Babanın, eşinin doğum yapması hâlinde 10 gün ücretli izin hakkı vardır (İş Kanunu ek m. 2, 7578 sayılı Kanunla 5 günden 10 güne çıktı; memurlar için 657 m. 104/B). Kanun bu iznin başlangıç gününü belirlemediği için araç yalnızca süreyi gösterir.
 
-  Araç hekim raporuyla artırılan süreleri, doğum sonrası yarım çalışma ve ücretsiz izin haklarını, süt iznini ve SGK'dan ödenecek geçici iş göremezlik ödeneğini hesaplamaz. Doğum öncesi izni 1 Mayıs 2026'dan önce başlamış olanlar için geçiş durumu ayrıca değerlendirilmelidir.
+  Araç hekim raporuyla artırılan süreleri, doğum sonrası yarım çalışma ve ücretsiz izin haklarını, süt iznini ve SGK'dan ödenecek geçici iş göremezlik ödeneğini hesaplamaz. 7578 sayılı Kanun'un geçici 1. maddesi, eski sürelere göre izni 1 Mayıs 2026'dan önce bitmiş, ancak 1 Nisan 2026 itibarıyla doğumdan itibaren 24 haftayı doldurmamış olanlara, 1 Mayıs 2026'dan itibaren 10 iş günü içinde istemeleri hâlinde 8 hafta ilave izin verilmesini öngörmüştü; bu başvuru süresi geçmiştir. İzni 1 Mayıs 2026'da devam edenler için araç yeni süreleri uygular.
 ---
 <form class="arac-form" id="dogum-form" novalidate>
   <fieldset>
@@ -72,6 +75,9 @@ nasil: |
     var izinBasi = dogum < basla ? dogum : basla;
     var onceKullanilan = HA.gunFarki(izinBasi, dogum);
     var sonraGun = Math.max(7 * sonra, toplamGun - onceKullanilan);
+    /* 657 m. 104/A: doğum, doğum öncesi iznin başlaması gereken tarihten önce gerçekleşirse aradaki süre de doğum sonrasına eklenir. */
+    var memurEk = (memur && dogum < basla) ? HA.gunFarki(dogum, basla) : 0;
+    sonraGun += memurEk;
     var donus = HA.gunEkle(dogum, sonraGun);
     var son = HA.gunEkle(donus, -1);
 
@@ -88,11 +94,21 @@ nasil: |
     ];
     var notlar = [];
     if (calisma) notlar.push("Doğum öncesinde çalışılan " + calisma + " hafta doğum sonrası süreye eklendi.");
-    if (gercek && gercek < basla) notlar.push("Doğum, izin başlangıcından önce gerçekleştiği için doğum öncesi kullanılamayan süre doğum sonrasına eklendi.");
+    if (gercek && gercek < basla) notlar.push("Doğum, izin başlangıcından önce gerçekleştiği için doğum öncesi kullanılamayan süre doğum sonrasına eklendi." +
+      (memurEk ? " Ayrıca 657 sayılı Kanun'un 104/A maddesi uyarınca doğum ile iznin başlaması gereken tarih arasındaki " + memurEk + " gün de eklendi." : ""));
     else if (gercek && gercek < tahmini) notlar.push("Erken doğum nedeniyle doğum öncesi kullanılamayan " + HA.gunFarki(gercek, tahmini) + " gün doğum sonrasına eklendi.");
     if (gercek && gercek > tahmini) notlar.push("Doğum tahmini tarihten sonra gerçekleştiği için doğum öncesi izin uzadı; doğum sonrası 16 hafta doğumdan itibaren sayıldı.");
     if (!gercek) notlar.push("Tarihler tahmini doğum tarihine göredir. Doğum gerçekleşince gerçek tarihi girerek yeniden hesaplayın.");
-    if (izinBasi < YURURLUK) notlar.push("İzin 1 Mayıs 2026'dan önce başlıyor. Bu araç 7578 sayılı Kanun'la getirilen güncel süreleri uygular; önceki düzenlemeyle başlayan izinlerde geçiş durumu ayrıca değerlendirilmelidir.");
+    /* 7578 geçici m. 1 ve m. 27/1-b: analık izni hükümleri 1/5/2026'da yürürlüğe girdi. Eski düzenlemede doğum sonrası süre 8 hafta kısaydı. */
+    var eskiDonus = HA.gunEkle(donus, -56);
+    if (eskiDonus <= YURURLUK) {
+      var kosul = HA.gunEkle(dogum, 168) > HA.tarih("2026-04-01");
+      notlar.unshift("Dikkat: Eski sürelere göre bu izin 1 Mayıs 2026'dan önce bitmiş olur; yukarıdaki tarihler bu durumda uygulanmaz. " +
+        (kosul ? "7578 sayılı Kanun'un geçici 1. maddesi, bu durumdakilere 1 Mayıs 2026'dan itibaren 10 iş günü içinde istemeleri hâlinde 8 hafta ilave izin öngörmüştü; bu başvuru süresi geçmiştir."
+               : "Doğumdan itibaren 24 hafta 1 Nisan 2026'dan önce dolduğu için 7578 sayılı Kanun'un geçici 1. maddesindeki ilave izin de söz konusu değildir."));
+    } else if (izinBasi < YURURLUK) {
+      notlar.push("İzin 1 Mayıs 2026'dan önce başlıyor ve bu tarihte sürüyor. Araç 7578 sayılı Kanun'la getirilen yeni süreleri uyguladı; kanunun geçiş hükmü yalnızca izni bu tarihten önce bitmiş olanları düzenler.");
+    }
     notlar.push("Hekim raporuyla süreler artırılabilir. Babalık izninin hangi günlerde kullanılacağını kanun belirlemez.");
     return { baslik: "Analık (doğum) izni", ana: ["İzin dönemi", HA.tarihYaz(izinBasi) + " – " + HA.tarihYaz(son)], satirlar: satirlar, notlar: notlar };
   });

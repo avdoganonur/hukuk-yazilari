@@ -1,7 +1,7 @@
 ---
 baslik: "Dava harcı hesaplama: başvurma harcı, peşin harç ve vekalet pulu"
 kisa_ad: "Dava harcı"
-aciklama: "Hukuk davası açarken ödenen başvurma harcını, peşin karar ve ilam harcını, vekalet harcını ve vekalet pulunu 2026 tarifesine göre hesaplar."
+aciklama: "Hukuk davası açarken ödenen başvurma harcını, peşin karar ve ilam harcını ve vekalet harcını 2026 tarifesine göre hesaplar; vekâlet pulunu ayrıca gösterir."
 grup: harc-vergi
 sira: 10
 guncelleme: 2026-10-19
@@ -17,22 +17,19 @@ kaynaklar:
   - ad: "1136 sayılı Avukatlık Kanunu m. 27"
     url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1136&MevzuatTur=1&MevzuatTertip=5"
     not: "Vekâletnameye yapıştırılan pulun değeri"
-  - ad: "Türkiye Barolar Birliği Duyuru 2025/71 (31.12.2025)"
-    url: "https://www.barobirlik.org.tr/Haberler/duyuru-202571-86184"
-    not: "2026 vekâlet pulu beher bedeli 164 TL"
   - ad: "Hukuk Muhakemeleri Kanunu Gider Avansı Tarifesi, RG 28.10.2025, sayı 33061"
     url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42679&MevzuatTur=9&MevzuatTertip=5"
     not: "m. 4: taraf sayısının beş katı tebligat ücreti ile 530 TL"
 nasil: |
   Hukuk davası açılırken üç tür harç ödenir. Başvurma harcı mahkemenin türüne göre sabit bir tutardır. Karar ve ilam harcı ise davanın konusuna göre değişir: konusu belli bir para ya da değer olan davalarda dava değerinin binde 68,31'i (nispi harç), değeri belli olmayan davalarda sabit bir tutar (maktu harç) alınır. Nispi harç 732 TL'den az olamaz.
 
-  Nispi karar ve ilam harcının tamamı dava açılırken ödenmez. Dörtte biri peşin alınır, kalanı karar tebliğ edildikten sonra bir ay içinde ödenir (Harçlar Kanunu m. 28/a). Ölüm ya da bedensel zarar nedeniyle açılan maddi ve manevi tazminat davalarında peşin alınan oran yirmide birdir. Maktu harç ise işlemden önce tamamen ödenir (m. 27).
+  Nispi karar ve ilam harcının tamamı dava açılırken ödenmez. Dörtte biri peşin alınır, kalanı karar tebliğ edildikten sonra bir ay içinde ödenir (Harçlar Kanunu m. 28/a). Ölüm ya da bedensel zarar nedeniyle açılan maddi ve manevi tazminat davalarında peşin alınan oran yirmide birdir. Nispi harcın 732 TL'lik alt sınırı karar ve ilam harcının tamamına uygulanır; kanun peşin alınan kısım için ayrı bir alt sınır koymadığından araç küçük davalarda peşin harcı 732 TL'nin dörtte biri olarak gösterir. Maktu harç ise işlemden önce tamamen ödenir (m. 27).
 
-  Dava bir avukatla açılıyorsa avukatın verdiği vekâletname örneği için suret harcı (halk arasında vekalet harcı) ve Türkiye Barolar Birliğinin bastırdığı vekâlet pulu da ödenir. Pulun değeri Avukatlık Kanunu m. 27'ye göre suret harcına bağlı olarak her yıl belirlenir.
+  Dava bir avukatla açılıyorsa avukatın verdiği vekâletname örneği için suret harcı (halk arasında vekalet harcı) ve Türkiye Barolar Birliğinin bastırdığı vekâlet pulu da ödenir. Pulun değeri Avukatlık Kanunu m. 27'ye göre suret harcının yüzde 50 fazlası ve ayrıca yüzde 5 ilavedir; satış bedelini Türkiye Barolar Birliği her yıl ilan eder. Araç pulu kanundaki hesapla ayrı bir satırda gösterir, ancak ilan edilen bedeli resmî kaynaktan doğrulayamadığı için toplama katmaz.
 
   Dava açarken ayrıca gider avansı yatırılır. 2026'da uygulanan Gider Avansı Tarifesine göre avans, taraf sayısının beş katı tebligat ücreti ile 530 TL'nin toplamıdır. Tebligat ücreti PTT tarifesine bağlı olduğu için araç bu kısmı hesaplamaz; yalnızca 530 TL'yi ve kaç tebligat ücreti ekleneceğini gösterir. Bilirkişi, keşif ve tanık giderleri için mahkemenin ayrıca isteyeceği delil avansı da hesaba katılmaz.
 
-  Araç; harçtan muaf kişi ve kurumları, adli yardımı, arabuluculuk sonrası açılan davalardaki özel durumları, karşı davayı, birden fazla vekâletnameyi ve keşif harcını hesaba katmaz. Dava değeri, gayrimenkulün aynına ilişkin davalarda taşınmazın değeridir (m. 16); değeri doğru belirlemek size aittir.
+  Araç; harçtan muaf kişi ve kurumları, kamulaştırmasız el atma davalarına ilişkin Anayasa Mahkemesi iptal kararlarının etkisini, adli yardımı, arabuluculuk sonrası açılan davalardaki özel durumları, karşı davayı, birden fazla vekâletnameyi ve keşif harcını hesaba katmaz. Dava değeri, gayrimenkulün aynına ilişkin davalarda taşınmazın değeridir (m. 16); değeri doğru belirlemek size aittir.
 ---
 <form class="arac-form" id="dava-form" novalidate>
   <div class="alan">
@@ -56,7 +53,7 @@ nasil: |
     <p class="ipucu">Yalnızca nispi harçlı davalarda gerekir.</p>
   </div>
   <label class="secim"><input type="checkbox" name="cismani"> Ölüm ya da bedensel zarar nedeniyle maddi veya manevi tazminat davası</label>
-  <label class="secim"><input type="checkbox" name="avukat" checked> Dava avukatla açılıyor (vekalet harcı ve pulu eklensin)</label>
+  <label class="secim"><input type="checkbox" name="avukat" checked> Dava avukatla açılıyor (vekalet harcı eklensin, vekâlet pulu ayrıca gösterilsin)</label>
   <div class="alan">
     <label for="taraf">Taraf sayısı</label>
     <input id="taraf" name="taraf" type="number" min="2" max="50" step="1" value="2" inputmode="numeric">
@@ -99,7 +96,7 @@ nasil: |
       satirlar.push(["Peşin harç (" + (kat === 4 ? "dörtte biri" : "yirmide biri") + ")", HA.tl(pesin)]);
       satirlar.push(["Karar sonrası ödenecek kalan", HA.tl(Y(karar - pesin))]);
       toplam += pesin;
-      if (hesap < h.nispiAsgari) notlar.push("Dava değerinin binde 68,31'i (" + HA.tl(hesap) + ") nispi harcın alt sınırı olan " + HA.tl(h.nispiAsgari) + "'den az olduğu için karar ve ilam harcı alt sınırdan hesaplandı; peşin harç bunun " + (kat === 4 ? "dörtte biri" : "yirmide biri") + " olarak gösterildi.");
+      if (hesap < h.nispiAsgari) notlar.push("Dava değerinin binde 68,31'i (" + HA.tl(hesap) + ") nispi harcın alt sınırı olan " + HA.tl(h.nispiAsgari) + "'den az olduğu için karar ve ilam harcı alt sınırdan hesaplandı; peşin harç bunun " + (kat === 4 ? "dörtte biri" : "yirmide biri") + " olarak gösterildi. Tarifedeki alt sınır nispi harcın kendisine ilişkindir; Harçlar Kanunu m. 28/a peşin alınan kısım için ayrı bir alt sınır öngörmez.");
       notlar.push("Karar sonrası kalan harç, dava kabul edilirse hüküm altına alınan miktara göre yeniden hesaplanır; burada dava değerinin tamamı kabul edilmiş gibi gösterildi.");
     } else {
       satirlar.push(["Maktu karar ve ilam harcı", HA.tl(h.maktuKarar)]);
@@ -107,13 +104,18 @@ nasil: |
       if (f.secili("cismani")) notlar.push("Ölüm ve bedensel zarar davalarındaki yirmide bir kuralı yalnızca nispi harçta uygulanır; maktu harçta dikkate alınmadı.");
     }
 
+    var pulKanuni = null;
     if (f.secili("avukat")) {
       satirlar.push(["Vekalet harcı (vekâletname suret harcı)", HA.tl(h.vekaletSuret)]);
-      satirlar.push(["Vekâlet pulu (Türkiye Barolar Birliği)", HA.tl(h.vekaletPulu)]);
-      toplam += h.vekaletSuret + h.vekaletPulu;
+      toplam += h.vekaletSuret;
+      pulKanuni = Y(h.vekaletSuret * h.vekaletPuluKanuniKat);
     }
     toplam = Y(toplam);
-    satirlar.push(["Dava açarken ödenecek harç ve pul toplamı", HA.tl(toplam), "vurgu"]);
+    satirlar.push(["Dava açarken ödenecek harç toplamı (pul hariç)", HA.tl(toplam), "vurgu"]);
+    if (pulKanuni !== null) {
+      satirlar.push(["Vekâlet pulu: kanundaki hesaba göre (toplama dahil değil)", HA.tl(pulKanuni)]);
+      notlar.push("Vekâlet pulunun değeri Avukatlık Kanunu m. 27'ye göre vekâletname suret harcının yüzde 50 fazlası ve ayrıca yüzde 5 ilavedir: " + HA.tl(h.vekaletSuret) + " x 1,5 x 1,05 = " + HA.tl(pulKanuni) + ". Pulun satış bedelini Türkiye Barolar Birliği ilan eder; ilan edilen bedel resmî kaynaktan doğrulanamadığı için pul toplama eklenmedi.");
+    }
     var tebligat = taraf * h.giderAvansiTebligatKat;
     satirlar.push(["Gider avansı: sabit kısım", HA.tl(h.giderAvansiSabit)]);
     satirlar.push(["Gider avansı: tebligat ücreti", tebligat + " tebligat ücreti"]);
@@ -121,7 +123,7 @@ nasil: |
     notlar.push("Gider avansı " + HA.tl(h.giderAvansiSabit) + " ile " + taraf + " taraf x 5 = " + tebligat + " tebligat ücretinin toplamıdır. Tebligat ücreti PTT tarifesine göre belirlendiği için tutar olarak hesaplanmadı ve toplama eklenmedi.");
     notlar.push("Tutarlar " + d.kaynak + " ekindeki 2026 tarifesinden alındı.");
     if (bugun > HA.tarih(HV.harc.sonGecerlilik)) notlar.push("Bu araçta 2026'dan sonraki yılların tutarları yok; sonuç 2026 tutarlarıyla hesaplandı.");
-    return { baslik: "Dava harcı", ana: ["Harç ve pul toplamı", HA.tl(toplam)], basliklar: ["Kalem", "Tutar"], satirlar: satirlar, notlar: notlar };
+    return { baslik: "Dava harcı", ana: ["Harç toplamı (pul hariç)", HA.tl(toplam)], basliklar: ["Kalem", "Tutar"], satirlar: satirlar, notlar: notlar };
   });
 })();
 </script>

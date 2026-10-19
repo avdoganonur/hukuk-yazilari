@@ -23,7 +23,9 @@ kaynaklar:
 nasil: |
   Belirsiz süreli iş sözleşmesini feshetmek isteyen taraf, karşı tarafa önceden bildirimde bulunmalıdır. İş Kanunu'nun 17. maddesine göre bildirim süresi, işi altı aydan az sürmüş işçi için iki hafta, altı aydan bir buçuk yıla kadar sürmüş işçi için dört hafta, bir buçuk yıldan üç yıla kadar sürmüş işçi için altı hafta, üç yıldan fazla sürmüş işçi için sekiz haftadır. Bu sürelere uymayan taraf, bildirim süresine ait ücret tutarında tazminat öder. Süreler sözleşmeyle artırılabilir.
 
-  Tazminat, aylık giydirilmiş brüt ücretin otuzda biri olan günlük ücretin bildirim süresindeki gün sayısıyla çarpılmasıyla bulunur. Giydirilmiş ücrete düzenli ödenen yemek, yol, ikramiye gibi para ve parayla ölçülebilen menfaatler de girer (m. 17 son fıkra). Araç tam üç yıllık süreyi sekiz hafta sayar.
+  Tazminat, aylık giydirilmiş brüt ücretin otuzda biri olan günlük ücretin bildirim süresindeki gün sayısıyla çarpılmasıyla bulunur. Giydirilmiş ücrete düzenli ödenen yemek, yol, ikramiye gibi para ve parayla ölçülebilen menfaatler de girer (m. 17 son fıkra).
+
+  Sınır günlerde araç maddenin lafzını izler: (a) bendi "altı aydan az" dediği için tam altı ay dört haftadır; (b) ve (c) bentleri "bir buçuk yıla kadar" ve "üç yıla kadar" dediği için tam bir buçuk yıl dört hafta, tam üç yıl altı haftadır; (d) bendi "üç yıldan fazla" dediği için sekiz hafta, üç yılın en az bir gün aşılmasıyla başlar.
 
   İhbar tazminatı ücret niteliğinde sayıldığından gelir vergisine tabidir; SGK primi kesilmez (5510 m. 80/1-b). Gelir vergisi, yıl içinde o ana kadar oluşan kümülatif vergi matrahı üzerine eklenerek 2026 ücret tarifesiyle hesaplanır. Matrah girmezseniz araç ilk dilimden (%15) başlar. Ayrıca binde 7,59 damga vergisi kesilir.
 
@@ -84,7 +86,14 @@ nasil: |
 
     var s = sure(giris, cikis);
     var toplamAy = 12 * s.yil + s.ay;
-    var hafta = toplamAy < 6 ? 2 : toplamAy < 18 ? 4 : toplamAy < 36 ? 6 : 8;
+    /* 4857 m. 17: (a) "altı aydan az" → 2; (b) "altı aydan birbuçuk yıla kadar" → 4; (c) "birbuçuk yıldan üç yıla kadar" → 6;
+       (d) "üç yıldan fazla" → 8. "kadar" sınırı kapsar: tam 18 ay 4 hafta, tam 36 ay 6 hafta. */
+    var tam = s.gun === 0;
+    var hafta = toplamAy < 6 ? 2 : (toplamAy < 18 || (toplamAy === 18 && tam)) ? 4 : (toplamAy < 36 || (toplamAy === 36 && tam)) ? 6 : 8;
+    var sinirNot = null;
+    if (tam && toplamAy === 6) sinirNot = "Çalışma süresi tam altı ay. Kanun iki haftayı \"altı aydan az\" süren iş için öngördüğünden bildirim süresi dört haftadır.";
+    if (tam && toplamAy === 18) sinirNot = "Çalışma süresi tam bir buçuk yıl. Kanun dört haftayı \"altı aydan birbuçuk yıla kadar\" süren iş için öngördüğünden bildirim süresi dört haftadır.";
+    if (tam && toplamAy === 36) sinirNot = "Çalışma süresi tam üç yıl. Sekiz hafta \"üç yıldan fazla\" süren iş için öngörüldüğünden bildirim süresi altı haftadır.";
     var gunluk = ucret / 30;
     var brut = HA.yuvarla(gunluk * hafta * 7);
     var t = HA.tarih("2026-01-01");
@@ -106,10 +115,10 @@ nasil: |
         ["Damga vergisi (binde " + HA.bicim(dvOran * 1000, 2) + ")", "− " + HA.tl(dv)],
         ["Net ihbar tazminatı", HA.tl(net), "vurgu"]
       ],
-      notlar: [
+      notlar: (sinirNot ? [sinirNot] : []).concat([
         "Gelir vergisi 2026 ücret tarifesiyle hesaplandı: 190.000 TL'ye kadar %15, 400.000 TL'ye kadar %20, 1.500.000 TL'ye kadar %27, 5.300.000 TL'ye kadar %35, üstü %40.",
         "Asgari ücret vergi istisnasının aynı ay ödenen ücrette kullanıldığı varsayıldı. Sözleşmede daha uzun bildirim süresi varsa o süre esas alınmalıdır."
-      ]
+      ])
     };
   });
 })();

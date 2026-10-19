@@ -17,11 +17,11 @@ kaynaklar:
   - ad: "2548 sayılı Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanun m. 1"
     url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2548&MevzuatTur=1&MevzuatTertip=3"
     not: "İcra dairelerince tahsil olunan paranın yüzde 2'si; borçluya yükletilemez"
-  - ad: "1136 sayılı Avukatlık Kanunu m. 27 ve Türkiye Barolar Birliği Duyuru 2025/71"
+  - ad: "1136 sayılı Avukatlık Kanunu m. 27"
     url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1136&MevzuatTur=1&MevzuatTertip=5"
-    not: "Vekâlet pulu, 2026 bedeli 164 TL"
+    not: "Vekâlet pulunun değeri: vekâletname suret harcının yüzde 50 fazlası ve ayrıca yüzde 5 ilave"
 nasil: |
-  İcra takibi açılırken icraya başvurma harcı ödenir. İlama dayanmayan (ilamsız) takiplerde ayrıca alacak miktarının binde beşi peşin harç olarak alınır; bu peşin harç takip sonunda alınacak tahsil harcından düşülür (Harçlar Kanunu m. 29). Mahkeme kararına dayanan ilamlı takiplerde peşin harç yoktur. Takip avukatla yapılıyorsa vekâletname suret harcı ve vekâlet pulu eklenir.
+  İcra takibi açılırken icraya başvurma harcı ödenir. İlama dayanmayan (ilamsız) takiplerde ayrıca alacak miktarının binde beşi peşin harç olarak alınır; bu peşin harç takip sonunda alınacak tahsil harcından düşülür (Harçlar Kanunu m. 29). Mahkeme kararına dayanan ilamlı takiplerde peşin harç yoktur. Takip avukatla yapılıyorsa vekâletname suret harcı eklenir; vekâletnameye ayrıca vekâlet pulu yapıştırılır. Pulun değeri Avukatlık Kanunu m. 27'ye göre suret harcına bağlıdır, satış bedelini ise Türkiye Barolar Birliği ilan eder. Araç pulu kanundaki hesapla ayrı satırda gösterir ve toplama katmaz.
 
   Para tahsil edildiğinde tahsil harcı doğar. Oran, paranın hangi aşamada ödendiğine göre değişir: ödeme ya da icra emri tebliğ edildikten sonra hacizden önce ödenirse yüzde 4,55, hacizden sonra ve satıştan önce ödenirse yüzde 9,10, haczedilen ya da rehinli malın satışıyla tahsil edilirse yüzde 11,38. Maaş ve ücret haczi yoluyla tahsilde oran yüzde 4,55'tir. Takipten sonra işleyen faiz harcın hesabına katılmaz (m. 20).
 
@@ -52,7 +52,7 @@ nasil: |
     </select>
   </div>
   <label class="secim"><input type="checkbox" name="haricen"> Borçlu parayı icra dairesi dışında doğrudan alacaklıya ödedi (haricen tahsil)</label>
-  <label class="secim"><input type="checkbox" name="avukat" checked> Takip avukatla yapılıyor (vekalet harcı ve pulu eklensin)</label>
+  <label class="secim"><input type="checkbox" name="avukat" checked> Takip avukatla yapılıyor (vekalet harcı eklensin, vekâlet pulu ayrıca gösterilsin)</label>
   <div class="arac-dugmeler">
     <button class="dugme" type="submit">Hesapla</button>
     <button class="dugme dugme-ikincil" type="reset">Temizle</button>
@@ -89,13 +89,15 @@ nasil: |
     } else {
       satirlar.push(["Peşin harç", "Alınmaz (ilamlı takip)"]);
     }
+    var pulKanuni = null;
     if (f.secili("avukat")) {
       satirlar.push(["Vekalet harcı (vekâletname suret harcı)", HA.tl(h.vekaletSuret)]);
-      satirlar.push(["Vekâlet pulu (Türkiye Barolar Birliği)", HA.tl(h.vekaletPulu)]);
-      acilis += h.vekaletSuret + h.vekaletPulu;
+      acilis += h.vekaletSuret;
+      pulKanuni = Y(h.vekaletSuret * h.vekaletPuluKanuniKat);
     }
     acilis = Y(acilis);
-    satirlar.push(["Takip açılırken ödenecek toplam", HA.tl(acilis), "vurgu"]);
+    satirlar.push(["Takip açılırken ödenecek harç toplamı (pul hariç)", HA.tl(acilis), "vurgu"]);
+    if (pulKanuni !== null) satirlar.push(["Vekâlet pulu: kanundaki hesaba göre (toplama dahil değil)", HA.tl(pulKanuni)]);
 
     var tahsil = Y(alacak * oran);
     satirlar.push(["Tahsil harcı (" + SEKIL[sekil] + ", " + HA.yuzde(oran * 100) + ")", HA.tl(tahsil)]);
@@ -111,10 +113,11 @@ nasil: |
       notlar.push("Haricen tahsilde para icra dairesince tahsil edilmediği için cezaevi harcı hesaplanmadı. Tahsil harcı seçtiğiniz aşamanın oranıyla gösterildi.");
       notlar.push("Haricen tahsil nedeniyle takipten vazgeçildiği tutanağa geçirilirse vazgeçilen miktara ait tahsil harcının yarısı (" + HA.tl(Y(tahsil / 2)) + ") alınır; satıştan sonra vazgeçilirse tamamı alınır (Harçlar Kanunu m. 23).");
     }
+    if (pulKanuni !== null) notlar.push("Vekâlet pulunun değeri Avukatlık Kanunu m. 27'ye göre vekâletname suret harcının yüzde 50 fazlası ve ayrıca yüzde 5 ilavedir: " + HA.tl(h.vekaletSuret) + " x 1,5 x 1,05 = " + HA.tl(pulKanuni) + ". Pulun satış bedelini Türkiye Barolar Birliği ilan eder; ilan edilen bedel resmî kaynaktan doğrulanamadığı için pul toplama eklenmedi.");
     notlar.push("Tebligat, posta, haciz ve satış giderleri dahil değildir.");
     notlar.push("Tutarlar " + d.kaynak + " ekindeki 2026 tarifesinden alındı.");
     if (bugun > HA.tarih(HV.harc.sonGecerlilik)) notlar.push("Bu araçta 2026'dan sonraki yılların tutarları yok; sonuç 2026 tutarlarıyla hesaplandı.");
-    return { baslik: "İcra masrafları", ana: ["Takip açılırken ödenecek", HA.tl(acilis)], basliklar: ["Kalem", "Tutar"], satirlar: satirlar, notlar: notlar };
+    return { baslik: "İcra masrafları", ana: ["Takip açılırken ödenecek harç (pul hariç)", HA.tl(acilis)], basliklar: ["Kalem", "Tutar"], satirlar: satirlar, notlar: notlar };
   });
 })();
 </script>

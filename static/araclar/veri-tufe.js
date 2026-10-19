@@ -9,6 +9,10 @@
      B: ayboga.av.tr "Kira artış oranı" tablosu (yenileme ayına göre; veri ayı bir önceki aydır).
      Ekim 2025 – Eylül 2026 için ayrıca hesaplama.net tablosu ve Alomaliye "Yıllara göre enflasyon oranları" tablosu örtüşüyor.
    Doğrulanmayan ay girilmemiştir. İlk veri ayı Ocak 2023, son veri ayı Eylül 2026 (TÜİK, 05/10/2026).
+   Bağımsız denetim (19/10/2026, resmî kaynak): TCMB "Enflasyon Verileri - Tüketici Fiyatları" sayfasındaki TÜİK
+   kaynaklı yıllık ve aylık TÜFE değişimlerinden (Ocak 2021 – Eylül 2026) endeks zinciri kurularak on iki aylık
+   ortalama değişim yeniden hesaplandı; Ocak 2023 – Eylül 2026 arasındaki 45 ayın tamamı en çok 0,01 puan
+   yuvarlama farkıyla örtüşüyor (https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikler/Enflasyon+Verileri/).
    Son kontrol: 19/10/2026. */
 window.HV = window.HV || {};
 HV.tufe = {

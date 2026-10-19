@@ -14,7 +14,7 @@ kaynaklar:
     url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2918&MevzuatTur=1&MevzuatTertip=5"
     not: "İşletenin sorumluluğu; TBK haksız fiil hükümlerinin uygulanması; kira mahrumiyeti gibi dolaylı zararların zorunlu trafik sigortası dışında kalması"
 nasil: |
-  Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür (TBK m. 49). Motorlu aracın işletilmesi bir şeyin zarara uğramasına sebep olursa işleten ve araç işleticisi teşebbüs sahibi de sorumludur (KTK m. 85/1). Karayolları Trafik Kanununda düzenlenmeyen konularda Türk Borçlar Kanununun haksız fiil hükümleri uygulanır (KTK m. 90).
+  Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür (TBK m. 49). Motorlu aracın işletilmesi bir şeyin zarara uğramasına sebep olursa aracın işleteni sorumludur; araç bir teşebbüsün unvanı ya da işletme adı altında işletiliyorsa işleten ile teşebbüs sahibi birlikte (müteselsilen) sorumludur (KTK m. 85/1). Zorunlu trafik sigortası kapsamındaki tazminatlar ve manevi tazminat bakımından Karayolları Trafik Kanununda düzenlenmeyen konularda Türk Borçlar Kanununun haksız fiil hükümleri uygulanır (KTK m. 90).
 
   Kazada hasar gören araç onarımdayken kullanılamaz. Bu sürede araç sahibinin uğradığı kayıp, araç mahrumiyeti ya da ikame araç bedeli olarak adlandırılır ve iki unsurla hesaplanır: **gün sayısı × günlük bedel**.
 
@@ -22,7 +22,7 @@ nasil: |
 
   **Günlük bedel.** Benzer nitelikteki bir aracın aynı yer ve dönemde günlük kiralama bedeli, yani emsal kira bedelidir. Site bu tutar için rakam önermez; bedeli kendi araştırmanıza, kira faturasına ya da bilirkişi raporuna göre girin. Zararın miktarı tam ispat edilemiyorsa hâkim, olayların olağan akışını ve zarar görenin aldığı önlemleri gözeterek hakkaniyete uygun bir miktar belirler (TBK m. 50/2); tazminatın kapsamını da durumun gereğine ve kusurun ağırlığına göre belirler (TBK m. 51).
 
-  Kira mahrumiyeti gibi dolaylı zararlar zorunlu mali sorumluluk (trafik) sigortasının kapsamı dışındadır (KTK m. 92/k); bu zarar sürücü, işleten ya da varsa başka bir sigorta teminatı bakımından ayrıca değerlendirilir. Araç; kusur paylaşımını, değer kaybını, onarım giderini, faizi ve zamanaşımını hesaba katmaz. Sonuç, verdiğiniz gün sayısı ve günlük bedelle yapılan bir çarpımdır.
+  KTK m. 92/k, "gelir kaybı, kâr kaybı, iş durması ve kira mahrumiyeti gibi dolaylı zararları" zorunlu mali sorumluluk (trafik) sigortasının kapsamı dışında sayar. Araçtan yoksun kalma bu nitelikte bir dolaylı zarar olarak değerlendirildiğinde trafik sigortasından istenemez; sürücü ve işletenin sorumluluğu ile varsa başka bir sigorta teminatı ayrıca değerlendirilir. Araç; kusur paylaşımını, değer kaybını, onarım giderini, faizi ve zamanaşımını hesaba katmaz. Sonuç, verdiğiniz gün sayısı ve günlük bedelle yapılan bir çarpımdır.
 ---
 <form class="arac-form" id="mahrumiyet-form" novalidate>
   <fieldset>
@@ -78,17 +78,16 @@ nasil: |
       satirlar.push(["Onarım başlangıcı", HA.tarihYaz(bas, true)]);
       satirlar.push(["Onarımın bitişi", HA.tarihYaz(bit, true)]);
       satirlar.push(["İki tarih arasındaki fark", HA.bicim(fark, 0) + " gün"]);
-      satirlar.push(["Sayılan gün", HA.bicim(gun, 0) + " gün" + (f.secili("dahil") ? " (başlangıç ve bitiş günü dahil)" : "")]);
+      satirlar.push([f.secili("dahil") ? "Sayılan gün (başlangıç ve bitiş günü dahil)" : "Sayılan gün", HA.bicim(gun, 0) + " gün"]);
     }
     var bedel = f.sayi("bedel", "Günlük emsal kira bedeli");
     if (bedel <= 0) throw new Error("Günlük emsal kira bedeli sıfırdan büyük olmalı.");
     var toplam = HA.yuvarla(gun * bedel);
     satirlar.push(["Günlük emsal kira bedeli", HA.tl(bedel)]);
-    satirlar.push(["Hesap", HA.bicim(gun, 0) + " gün × " + HA.tl(bedel)]);
-    satirlar.push(["Mahrumiyet (ikame araç) bedeli", HA.tl(toplam), "vurgu"]);
+    satirlar.push(["Mahrumiyet (ikame araç) bedeli: " + HA.bicim(gun, 0) + " gün × " + HA.tl(bedel), HA.tl(toplam), "vurgu"]);
     var notlar = [
       "Gün sayısı ve günlük bedel sizin verdiğiniz bilgilerdir. Talep edilebilecek tutar, onarım için makul süreye ve ispatlanan emsal bedele göre mahkemece belirlenir (TBK m. 50, 51).",
-      "Kira mahrumiyeti gibi dolaylı zararlar zorunlu trafik sigortasının kapsamı dışındadır (KTK m. 92/k).",
+      "Gelir kaybı, kâr kaybı, iş durması ve kira mahrumiyeti gibi dolaylı zararlar zorunlu trafik sigortasının kapsamı dışındadır (KTK m. 92/k).",
       "Kusur paylaşımı, değer kaybı, onarım gideri ve faiz bu hesaba dahil değildir."
     ];
     return { baslik: "Araç mahrumiyet bedeli", ana: ["Toplam", HA.tl(toplam)], satirlar: satirlar, notlar: notlar };

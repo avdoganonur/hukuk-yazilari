@@ -109,18 +109,18 @@ nasil: |
     for (var m = 0; m < 12; m++) {
       var brut = yon === "brut" ? tutar : brutBul(tutar, kum, kumAu, p);
       var r = ay(brut, kum, kumAu, p);
-      satirlar.push([AYLAR[m], HA.bicim(r.brut), HA.bicim(r.gv), HA.bicim(r.net)]);
+      satirlar.push([AYLAR[m], HA.bicim(r.gv), HA.bicim(yon === "brut" ? r.net : r.brut)]);
       top.brut += r.brut; top.sgk += r.sgk + r.iss; top.gv += r.gv; top.dv += r.dv; top.net += r.net;
       if (m === 0) var ilk = r;
       kum = HA.yuvarla(kum + r.matrah);
       kumAu = HA.yuvarla(kumAu + p.auMatrah);
     }
-    satirlar.push(["Yıllık toplam", HA.bicim(top.brut), HA.bicim(top.gv), HA.bicim(top.net), "vurgu"]);
+    satirlar.push(["Yıllık toplam", HA.bicim(top.gv), HA.bicim(yon === "brut" ? top.net : top.brut), "vurgu"]);
     var notlar = [
       "Ocak ayı ayrıntısı: brüt " + HA.tl(ilk.brut) + "; SGK işçi payı %14 " + HA.tl(ilk.sgk) + "; işsizlik payı %1 " + HA.tl(ilk.iss) +
         "; gelir vergisi matrahı " + HA.tl(ilk.matrah) + "; hesaplanan gelir vergisi " + HA.tl(ilk.hesaplanan) +
         "; asgari ücret istisnası " + HA.tl(ilk.istisna) + "; ödenecek gelir vergisi " + HA.tl(ilk.gv) + "; damga vergisi (istisna sonrası) " + HA.tl(ilk.dv) + ".",
-      "Yıllık toplam SGK ve işsizlik işçi payı " + HA.tl(top.sgk) + ", damga vergisi " + HA.tl(top.dv) + ". Tabloda Net = Brüt − SGK ve işsizlik payı (prime esas kazancın %15'i) − gelir vergisi − damga vergisi.",
+      (yon === "brut" ? "Her ay brüt " + HA.tl(tutar) + ". " : "Her ay net " + HA.tl(tutar) + ". ") + "Yıllık toplam brüt " + HA.tl(top.brut) + ", yıllık toplam net " + HA.tl(top.net) + ", SGK ve işsizlik işçi payı " + HA.tl(top.sgk) + ", damga vergisi " + HA.tl(top.dv) + ". Net = Brüt − SGK ve işsizlik payı (prime esas kazancın %15'i) − gelir vergisi − damga vergisi.",
       "Gelir vergisi her ay yıl başından o aya kadarki kümülatif matrahla hesaplandı; asgari ücret istisnası da asgari ücretin kendi kümülatif matrahıyla ay ay bulundu.",
       "Her ay aynı ücret ve tam ay çalışma varsayıldı. Kuruş yuvarlamaları bordrodan birkaç kuruş farklı olabilir."
     ];
@@ -128,7 +128,7 @@ nasil: |
     return {
       baslik: yon === "brut" ? "Brütten nete maaş (2026)" : "Netten brüte maaş (2026)",
       ana: yon === "brut" ? ["Ocak ayı net maaş", HA.tl(ilk.net)] : ["Ocak ayı brüt maaş", HA.tl(ilk.brut)],
-      basliklar: ["Ay (TL)", "Brüt", "Gelir v.", "Net"],
+      basliklar: ["Ay (TL)", "Gelir v.", yon === "brut" ? "Net" : "Brüt"],
       satirlar: satirlar,
       notlar: notlar
     };

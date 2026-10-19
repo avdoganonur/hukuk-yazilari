@@ -13,7 +13,10 @@ kaynaklar:
     not: "TÜFE sınırı; 7409 ve 7456 sayılı Kanunlarla eklenen konut kirası %25 sınırı"
   - ad: "TÜİK, Tüketici Fiyat Endeksi aylık haber bültenleri"
     url: "https://www.tuik.gov.tr/"
-    not: "On iki aylık ortalamalara göre değişim oranı. Ocak 2023 – Eylül 2026; değerler TÜİK bültenlerini aktaran iki bağımsız kaynakla karşılaştırıldı"
+    not: "On iki aylık ortalamalara göre değişim oranı, Ocak 2023 – Eylül 2026"
+  - ad: "TCMB, Enflasyon Verileri: Tüketici Fiyatları"
+    url: "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikler/Enflasyon+Verileri/"
+    not: "TÜİK kaynaklı aylık ve yıllık TÜFE değişimleri; on iki aylık ortalama oranlar bu verilerden yeniden hesaplanarak karşılaştırıldı"
 nasil: |
   Konut ve çatılı işyeri kiralarında, yenilenen kira yılı için kararlaştırılan artış, bir önceki kira yılında tüketici fiyat endeksindeki (TÜFE) on iki aylık ortalamalara göre değişim oranını geçemez (TBK m. 344/1). Bu bir üst sınırdır; taraflar daha az bir artışta anlaşabilir. Anlaşma yoksa kira bedelini aynı sınır içinde hâkim belirler (m. 344/2). Kural, bir yıldan uzun süreli sözleşmelerde de uygulanır.
 
@@ -83,11 +86,12 @@ nasil: |
       }
       throw new Error(ayAdi(vy, va) + " oranı henüz eklenmedi. Son veri ayı " + ayAdi(+son[0], +son[1] - 1) + ".");
     }
-    var tufe = kayit.deger, oran = tufe, kural = "TBK m. 344/1: TÜFE on iki aylık ortalama değişim oranı";
+    var tufe = kayit.deger, oran = tufe, kural = "TBK m. 344/1", kuralAcik = "TBK m. 344/1: artış, TÜFE on iki aylık ortalama değişim oranını geçemez.";
     var sinir25 = konut && t <= HA.tarih(V.konut25.bitis);
     if (sinir25 && tufe > V.konut25.oran) {
       oran = V.konut25.oran;
-      kural = t <= HA.tarih("2023-07-01") ? "TBK geçici m. 1 (7409 sayılı Kanun): konut kirasında %25 sınırı" : "TBK geçici m. 2 (7456 sayılı Kanun): konut kirasında %25 sınırı";
+      kural = t <= HA.tarih("2023-07-01") ? "TBK geçici m. 1" : "TBK geçici m. 2";
+      kuralAcik = kural + (kural === "TBK geçici m. 1" ? " (7409 sayılı Kanun)" : " (7456 sayılı Kanun)") + ": konut kirasında artış bir önceki yılın kirasının %25'ini geçemez.";
     }
     var artis = HA.yuvarla(kira * oran / 100);
     var yeni = HA.yuvarla(kira + artis);
@@ -103,7 +107,7 @@ nasil: |
       ["Yeni aylık kira için üst sınır", HA.tl(yeni), "vurgu"],
       ["Yıllık kira (12 ay, üst sınırla)", HA.tl(yeni * 12)]
     ];
-    var notlar = ["Bu oran bir üst sınırdır; taraflar daha düşük bir artışta anlaşabilir."];
+    var notlar = [kuralAcik, "Bu oran bir üst sınırdır; taraflar daha düşük bir artışta anlaşabilir."];
     if (sinir25 && tufe <= V.konut25.oran) notlar.push("TÜFE oranı %25'in altında kaldığı için TÜFE oranı uygulandı.");
     if (!konut && t <= HA.tarih(V.konut25.bitis)) notlar.push("Geçici %25 sınırı yalnızca konut kiraları için öngörüldüğünden işyeri kirasına uygulanmadı.");
     if (f.deger("ilk")) {

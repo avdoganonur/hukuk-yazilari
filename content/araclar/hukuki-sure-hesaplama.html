@@ -136,11 +136,16 @@ nasil: |
       notlar.push("Son ayda başlangıç gününe karşılık gelen gün olmadığı için ayın son günü alındı.");
     }
 
-    var atlanan = [];
-    var son = isGunune(ham, atlanan);
-    satirlar = satirlar.concat(atlanan);
-
     var adli = f.secili("adli");
+    var son = ham;
+    /* Takvime göre son gün adli tatildeyse (o gün hafta sonu ya da bayram olsa bile) uzama doğrudan uygulanır;
+       değilse önce tatil kaydırması yapılır, kaydırılan gün 20 Temmuz'a düşerse uzama yine uygulanır. */
+    if (!(adli && adliTatilde(ham))) {
+      var atlanan = [];
+      son = isGunune(ham, atlanan);
+      satirlar = satirlar.concat(atlanan);
+    }
+
     if (adli && adliTatilde(son)) {
       var y = son.getUTCFullYear(), uz, acik;
       if (yargi === "hmk") { uz = HA.tarih(y + "-09-07"); acik = "HMK m. 104: adli tatilin bittiği 31 Ağustos'tan itibaren bir hafta"; }

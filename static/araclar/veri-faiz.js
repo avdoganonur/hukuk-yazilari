@@ -10,8 +10,7 @@ HV.faiz = {
      (2026'nın ikinci yarısı oranı 30/06/2026'daki TCMB oranına göre belirlendi). 2027 oranı 31/12/2026'daki
      TCMB oranına bağlıdır; o tarih gelmeden 2027 hesaplanmaz. */
   sonGecerlilik: "2026-12-31",
-  /* TCMB tablosunun son kontrol tarihi. "TCMB değişiklik tarihleri" yönteminde bundan sonrası hesaplanmaz,
-     çünkü TCMB bu tarihten sonra oranı değiştirebilir. */
+  /* TCMB tablosunun son kontrol tarihi. */
   tcmbKontrol: "2026-10-19",
 
   /* Kanuni faiz (3095 m. 1; 3095 m. 2/1 uyarınca temerrüt faizi de bu orandır). */
@@ -36,7 +35,9 @@ HV.faiz = {
   /* TCMB avans işlemlerinde uygulanan faiz oranı (ve reeskont iskonto oranı), TCMB'nin kendi değişiklik tarihleriyle.
      Kaynak: TCMB "Reeskont ve Avans Faiz Oranları" sayfası (tcmb.gov.tr > Temel Faaliyetler > Para Politikası),
      19/10/2026'da okundu; tabloda 20/12/2025'ten sonra değişiklik yok. 2005 satırları TCMB'nin eski "a19.pdf"
-     tablosuyla da örtüşüyor. deger: avans faiz oranı, reeskont: reeskont iskonto oranı. */
+     tablosuyla da örtüşüyor. deger: avans faiz oranı, reeskont: reeskont iskonto oranı.
+     Bu liste araçlarda doğrudan kullanılmaz; aşağıdaki avansKanun ve kanuni faiz değerlerinin dayanağıdır
+     (3095 m. 2/2 oranı yıl içindeki her TCMB değişikliğinde değil, yılda bir/iki kez belirler). */
   avansTcmb: [
     { baslangic: "2005-12-20", deger: 25,    reeskont: 23 },
     { baslangic: "2006-12-20", deger: 29,    reeskont: 27 },
