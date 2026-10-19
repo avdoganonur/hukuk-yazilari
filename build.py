@@ -601,7 +601,18 @@ Object.keys(m).forEach(function(id){{var h=document.getElementById(id);if(h)ob.o
         "mainEntityOfPage": tam_url(yazi["yol"]),
         "image": tam_url(f"/og/{yazi['slug']}.png"),
         "articleSection": yazi["alan_ad"], "wordCount": yazi["kelime"],
+        "publisher": {"@type": "LegalService", "name": y["buro"], "url": URL + "/"},
+        "citation": [d["ad"] for d in yazi["dayanak"]],
     }
+    ld["author"].update({"worksFor": {"@type": "LegalService", "name": y["buro"]},
+                         "memberOf": {"@type": "Organization", "name": y["baro"]}})
+    if yazi["kisaca"]:
+        ld["abstract"] = " ".join(yazi["kisaca"])
+    sss_ld = None
+    if yazi["sss"]:
+        sss_ld = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+            {"@type": "Question", "name": str(s["soru"]),
+             "acceptedAnswer": {"@type": "Answer", "text": str(s["cevap"])}} for s in yazi["sss"]]}
     kirinti = {
         "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "Ana sayfa", "item": URL + "/"},
@@ -609,7 +620,7 @@ Object.keys(m).forEach(function(id){{var h=document.getElementById(id);if(h)ob.o
             {"@type": "ListItem", "position": 3, "name": yazi["baslik"], "item": tam_url(yazi["yol"])},
         ]}
     return sayfa(baslik=yazi["baslik"], aciklama=yazi["aciklama"], yol=yazi["yol"], icerik=icerik,
-                 aktif="yazilar", og_gorsel=f"/og/{yazi['slug']}.png", og_tur="article", jsonld=[ld, kirinti])
+                 aktif="yazilar", og_gorsel=f"/og/{yazi['slug']}.png", og_tur="article", jsonld=[ld, kirinti] + ([sss_ld] if sss_ld else []))
 
 
 def md_sayfa(dosya: str, yol: str, aktif: str = "", jsonld: list | None = None) -> str:
@@ -878,6 +889,29 @@ def paylasim_gorselleri(yazilar: list[dict]) -> None:
         ciz(y["baslik"], y["alan_ad"], hedef / f"{y['slug']}.png")
 
 
+
+def llms_txt(yazilar: list[dict], araclar: list[dict]) -> str:
+    """Yapay zekâ arama motorları için sitenin özeti (llms.txt biçimi)."""
+    y = SITE["yazar"]
+    satirlar = [f"# {SITE['ad']} – {y['buro']}", "",
+                f"> {SITE['aciklama']}", "",
+                f"{y['unvan']} {y['ad']}, {y['baro']}'na kayıtlı avukattır; büro adresi: {', '.join(y['adres'])}. "
+                "Yazılar Türk hukukuna ilişkin genel bilgilendirme metinleridir; her yazıda dayanılan kanun maddeleri "
+                "ve yayım/güncelleme tarihi belirtilir. Yazılar hukuki danışmanlık yerine geçmez.", ""]
+    for anahtar, ad in SITE["alanlar"].items():
+        grup = [x for x in yazilar if x["alan"] == anahtar]
+        if not grup:
+            continue
+        satirlar.append(f"## {ad}")
+        satirlar += [f"- [{x['baslik']}]({tam_url(x['yol'])}): {x['aciklama']}" for x in grup]
+        satirlar.append("")
+    if araclar:
+        satirlar.append("## Hesaplama araçları")
+        satirlar += [f"- [{a['baslik']}]({tam_url(a['yol'])}): {a['aciklama']}" for a in araclar]
+        satirlar.append("")
+    satirlar += ["## Diğer", f"- [Hakkında]({tam_url('/hakkinda/')})", f"- [Tüm yazılar]({tam_url('/yazilar/')})", ""]
+    return "\n".join(satirlar)
+
 # ---------------------------------------------------------------- derleme
 
 def yaz(yol: str, metin: str) -> None:
@@ -969,7 +1003,11 @@ def main() -> int:
     yaz("/404.html", bulunamadi())
     yaz("/rss.xml", rss(yayinda))
     yaz("/sitemap.xml", site_haritasi(yayinda, araclar))
-    yaz("/robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {URL}/sitemap.xml\n")
+    yapay_zeka = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User",
+                  "PerplexityBot", "Perplexity-User", "Google-Extended", "Applebot-Extended", "Bingbot"]
+    yaz("/robots.txt", "User-agent: *\nAllow: /\n\n" + "".join(f"User-agent: {b}\nAllow: /\n\n" for b in yapay_zeka)
+        + f"Sitemap: {URL}/sitemap.xml\n")
+    yaz("/llms.txt", llms_txt(yayinda, araclar))
     alan_adi = URL.split("//", 1)[-1]
     if not ON_EK and not alan_adi.endswith("github.io"):
         yaz("/CNAME", alan_adi + "\n")
