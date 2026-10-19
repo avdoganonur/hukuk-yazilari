@@ -298,6 +298,24 @@ def sayfa(*, baslik: str, aciklama: str, yol: str, icerik: str, aktif: str = "",
   </div>
   <p class="kap alt-not">Bu sitedeki yazılar genel bilgilendirme amaçlıdır ve hukuki danışmanlık yerine geçmez.</p>
 </footer>
+<div class="wa" id="wa">
+  <div class="wa-panel" id="wa-panel" role="dialog" aria-labelledby="wa-baslik" hidden>
+    <div class="wa-ust">
+      <span class="wa-avatar" aria-hidden="true">OD</span>
+      <div><p class="wa-ad" id="wa-baslik">{e(y['unvan'])} {e(y['ad'])}</p><p class="wa-alt">{e(y['buro'])}</p></div>
+      <button class="wa-kapat" type="button" aria-label="Kapat" data-wa-kapat>&times;</button>
+    </div>
+    <div class="wa-govde">
+      <p class="wa-balon">Merhaba, size nasıl yardımcı olabiliriz? WhatsApp üzerinden yazabilirsiniz.</p>
+      <p class="wa-not">Lütfen kimlik numarası gibi hassas bilgileri ilk mesajda paylaşmayın. Sitedeki yazılar genel bilgilendirme amaçlıdır.</p>
+    </div>
+    <a class="wa-dugme" href="https://wa.me/{e(y['telefon_uluslararasi'].lstrip('+'))}?text=Merhaba%2C%20" target="_blank" rel="noopener">WhatsApp'ta sohbeti başlat</a>
+  </div>
+  <button class="wa-ac" type="button" id="wa-ac" aria-expanded="false" aria-controls="wa-panel" aria-label="WhatsApp ile yazın">
+    <svg viewBox="0 0 32 32" width="30" height="30" aria-hidden="true"><path fill="currentColor" d="M16.04 3C9.4 3 4 8.36 4 14.96c0 2.3.66 4.46 1.8 6.3L4 29l7.94-1.76a12.1 12.1 0 0 0 4.1.72C22.68 27.96 28 22.6 28 16 28 9.36 22.68 3 16.04 3Zm0 21.9c-1.3 0-2.6-.26-3.78-.78l-.54-.24-4.7 1.04 1.06-4.54-.32-.52a9.9 9.9 0 0 1-1.62-5.42c0-5.46 4.44-9.9 9.92-9.9 5.46 0 9.9 4.44 9.9 9.9 0 5.48-4.44 10.46-9.92 10.46Zm5.44-7.36c-.3-.14-1.76-.86-2.04-.96-.28-.1-.48-.14-.68.14-.2.3-.78.96-.96 1.16-.18.2-.36.22-.66.08-.3-.14-1.26-.46-2.4-1.48-.88-.8-1.48-1.76-1.66-2.06-.18-.3-.02-.46.14-.6.14-.14.3-.36.44-.54.14-.18.2-.3.3-.5.1-.2.04-.38-.02-.52-.08-.14-.68-1.62-.92-2.22-.24-.58-.5-.5-.68-.5h-.58c-.2 0-.52.08-.8.38-.28.3-1.04 1.02-1.04 2.48 0 1.46 1.06 2.88 1.22 3.08.14.2 2.1 3.2 5.08 4.48.7.3 1.26.48 1.7.62.7.22 1.36.2 1.86.12.56-.08 1.76-.72 2-1.42.26-.7.26-1.3.18-1.42-.08-.12-.28-.2-.58-.34Z"/></svg>
+  </button>
+</div>
+<script>(function(){{var a=document.getElementById("wa-ac"),p=document.getElementById("wa-panel");function ac(x){{p.hidden=!x;a.setAttribute("aria-expanded",x?"true":"false");}}a.addEventListener("click",function(){{ac(p.hidden);}});p.querySelector("[data-wa-kapat]").addEventListener("click",function(){{ac(false);a.focus();}});document.addEventListener("keydown",function(e){{if(e.key==="Escape"&&!p.hidden){{ac(false);a.focus();}}}});}})();</script>
 <script>document.querySelectorAll("[data-harita-ac]").forEach(function(b){{b.addEventListener("click",function(){{var k=b.closest(".harita"),f=document.createElement("iframe");f.src=k.getAttribute("data-src");f.title="Doğan Hukuk Bürosu konumu";f.loading="lazy";f.referrerPolicy="no-referrer-when-downgrade";f.allowFullscreen=true;k.querySelector(".harita-yer").replaceChildren(f);b.remove();}});}});</script>
 </body>
 </html>

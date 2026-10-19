@@ -576,3 +576,32 @@ a:hover { text-decoration-thickness: 2px; }
   .menu { width: 100%; gap: 1.1rem; font-size: 0.9063rem; }
 }
 .arac-form .ipucu { font-size: 0.8438rem; color: var(--ikincil); line-height: 1.4; margin: 0; }
+
+/* WhatsApp iletişim düğmesi */
+.wa { position: fixed; right: 1rem; bottom: 1rem; z-index: 50; display: flex; flex-direction: column; align-items: flex-end; gap: 0.75rem; font-family: var(--sans); }
+.wa-ac {
+  width: 3.5rem; height: 3.5rem; border: 0; border-radius: 50%; cursor: pointer;
+  background: #1f8f4e; color: #fff; display: grid; place-items: center;
+  box-shadow: 0 6px 18px rgba(0,0,0,.18);
+}
+.wa-ac:hover { background: #18773f; }
+.wa-ac:focus-visible { outline: 3px solid var(--mor); outline-offset: 3px; }
+.wa-panel {
+  width: min(20rem, calc(100vw - 2rem)); border-radius: 12px; overflow: hidden;
+  background: var(--kagit); color: var(--murekkep); border: 1px solid var(--cizgi);
+  box-shadow: 0 12px 32px rgba(0,0,0,.18);
+}
+.wa-panel[hidden] { display: none; }
+.wa-ust { display: flex; align-items: center; gap: 0.7rem; padding: 0.85rem 0.9rem; background: #1f8f4e; color: #fff; }
+.wa-avatar { width: 2.4rem; height: 2.4rem; border-radius: 50%; background: rgba(255,255,255,.2); display: grid; place-items: center; font-weight: 600; font-size: 0.875rem; flex: none; }
+.wa-ad { margin: 0; font-weight: 600; font-size: 0.9375rem; line-height: 1.25; }
+.wa-alt { margin: 0; font-size: 0.8125rem; opacity: .85; }
+.wa-kapat { margin-left: auto; border: 0; background: transparent; color: #fff; font-size: 1.5rem; line-height: 1; cursor: pointer; padding: 0.2rem 0.35rem; border-radius: 4px; }
+.wa-kapat:focus-visible { outline: 2px solid #fff; }
+.wa-govde { padding: 1rem 0.9rem 0.5rem; background: var(--mor-acik); }
+.wa-balon { margin: 0 0 0.75rem; padding: 0.65rem 0.8rem; background: var(--kagit); border-radius: 0 10px 10px 10px; font-size: 0.9375rem; line-height: 1.45; max-width: 92%; box-shadow: 0 1px 2px rgba(0,0,0,.08); }
+.wa-not { margin: 0 0 0.5rem; font-size: 0.75rem; line-height: 1.4; color: var(--ikincil); }
+.wa-dugme { display: block; margin: 0; padding: 0.8rem 1rem; text-align: center; background: #1f8f4e; color: #fff; font-weight: 600; font-size: 0.9375rem; text-decoration: none; }
+.wa-dugme:hover { background: #18773f; }
+@media print { .wa { display: none; } }
+@media (max-width: 47.99em) { .alt { padding-bottom: 5rem; } }
