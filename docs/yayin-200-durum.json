@@ -591,7 +591,7 @@
       "title": "İşyerine vergi yoklaması için gelindi: kimlik, tutanak ve imza kuralları",
       "url": "https://avukatonurdogan.com/yazilar/vergi-yoklamasi-ve-yoklama-fisi/",
       "word_count": 928,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -600,7 +600,10 @@
           "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 f04c9b088672ddaf6e861738346bc9eb07b2475e278a8eab7e06e8c46ef5f200."
         }
       ],
-      "commit": "58b4e3dca45017d9d3085a3e1a11775e672fe621"
+      "commit": "58b4e3dca45017d9d3085a3e1a11775e672fe621",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39310840366
     }
   ],
   "next_sequence": 34
