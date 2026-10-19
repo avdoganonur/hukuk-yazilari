@@ -428,8 +428,8 @@ def buro_jsonld() -> dict:
         "hasMap": y["konum"]["harita"],
         "openingHoursSpecification": [
             {"@type": "OpeningHoursSpecification",
-             "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "09:00", "closes": "18:00"},
-            {"@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "10:00", "closes": "14:00"},
+             "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+             "opens": "00:00", "closes": "23:59"},
         ],
         "employee": {"@type": "Person", "name": f"{y['unvan']} {y['ad']}", "jobTitle": "Avukat"},
     }

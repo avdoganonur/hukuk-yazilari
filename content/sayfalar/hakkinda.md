@@ -30,7 +30,7 @@ Telefon
 :   [0530 304 34 52](tel:+905303043452)
 
 Çalışma saatleri
-:   Pazartesi–Cuma 09.00–18.00, Cumartesi 10.00–14.00
+:   Her gün 24 saat (7/24) ulaşılabilir
 
 ## Ofis konumu
 
