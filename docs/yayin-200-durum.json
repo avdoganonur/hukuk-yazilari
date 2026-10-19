@@ -705,7 +705,7 @@
       "title": "Kendimi veya başkasını korurken zarar verdim: tazminat ödemem gerekir mi?",
       "url": "https://avukatonurdogan.com/yazilar/hakli-savunma-zorunluluk-ve-tazminat/",
       "word_count": 926,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -714,14 +714,17 @@
           "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
         }
       ],
-      "commit": "ecc1b00a117fde78ef067946427874d6ed31b66c"
+      "commit": "ecc1b00a117fde78ef067946427874d6ed31b66c",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39312805026
     },
     {
       "slug": "aile-halinde-yasamada-ev-duzeni-ve-emek",
       "title": "Aile hâlinde birlikte yaşamak: ev düzeni, gözetim ve aileye verilen emeğin karşılığı",
       "url": "https://avukatonurdogan.com/yazilar/aile-halinde-yasamada-ev-duzeni-ve-emek/",
       "word_count": 914,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -730,8 +733,27 @@
           "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
         }
       ],
-      "commit": "d944fdde7ea5c45646232795af6d5283bb76b1c3"
+      "commit": "d944fdde7ea5c45646232795af6d5283bb76b1c3",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39313014969
+    },
+    {
+      "slug": "iscinin-is-giderleri-arac-ve-avans",
+      "title": "İş için cebimden harcama yaptım: araç, yol ve diğer giderleri kim karşılar?",
+      "url": "https://avukatonurdogan.com/yazilar/iscinin-is-giderleri-arac-ve-avans/",
+      "word_count": 912,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 413–416",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "9816cb2fd7212f4b1a40080b5c5cfca90a899a06"
     }
   ],
-  "next_sequence": 41
+  "next_sequence": 42
 }
