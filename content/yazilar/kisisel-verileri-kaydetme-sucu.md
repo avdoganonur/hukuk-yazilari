@@ -23,6 +23,8 @@ dayanak:
   - ad: "6698 sayılı Kişisel Verilerin Korunması Kanunu m. 5"
     not: "Açık rıza ve kişisel verilerin işlenme şartları"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5"
+  - ad: "6698 sayılı Kişisel Verilerin Korunması Kanunu m. 3"
+    not: "Kişisel verilerin işlenmesi tanımı"
 sss:
   - soru: "Bir kişinin bana kendi gönderdiği fotoğrafları saklamam suç mu?"
     cevap: "Kaydetme suçu için kaydın hukuka aykırı olması gerekir. Kişinin kendi isteğiyle gönderdiği bir fotoğrafı saklamak bu yüzden tek başına bu suçu oluşturmayabilir; her olay kendi koşullarıyla değerlendirilir. Bu fotoğrafın başkasına verilmesi ya da yayılması ise ayrı ve daha ağır cezalı bir suçun konusudur."
@@ -65,7 +67,7 @@ Suç ancak kasten işlenebilir. Failin bu bilgileri neden kaydettiği, yani saik
 
 Suçun en önemli unsuru, kaydın hukuka aykırı olmasıdır. Her kayıt suç değildir. Kişinin açık rızasıyla yapılan ya da kanunda öngörüldüğü için yapılan kayıtlar hukuka uygundur. Örneğin bir işverenin, çalışanının kimlik ve adres bilgilerini kanunun gerektirdiği ölçüde saklaması böyledir. Konuyu inceleyen bir akademik çalışmada aktarılan bir kararda da, mağdurun kendi rızasıyla gönderdiği fotoğrafların bir belleğe kopyalanması hukuka aykırı bulunmamıştır.
 
-Kişisel Verilerin Korunması Kanunu (KVKK), kişisel verilerin hangi şartlarla işlenebileceğini düzenler ve kaydetme de bu işlemlerden biridir. Kişinin açık rızası yoksa ve kanunda sayılan diğer hukuka uygunluk sebeplerinden biri de bulunmuyorsa, kayıt hukuka aykırı hâle gelir. Hangi sebeplerin kaydı hukuka uygun kıldığı genel yazıda anlatılmıştır.
+Kişisel Verilerin Korunması Kanunu (KVKK), kişisel verilerin hangi şartlarla işlenebileceğini düzenler ve kaydetme de bu işlemlerden biridir (KVKK m. 3). Kanuna göre kişisel veriler, kanunda sayılan hâller dışında ilgili kişinin açık rızası olmaksızın işlenemez (KVKK m. 5). Kişinin açık rızası yoksa ve kanunda sayılan diğer hukuka uygunluk sebeplerinden biri de bulunmuyorsa, kayıt hukuka aykırı hâle gelir. Hangi sebeplerin kaydı hukuka uygun kıldığı genel yazıda anlatılmıştır.
 
 Özel hayatın gizliliğini ihlal suçu (TCK m. 134) daha genel bir suçtur. Kişisel verilere ilişkin suçlar ise bu alanın özel bir parçasını düzenler. Gizlice ses ya da görüntü kaydı almak gibi durumlar [özel hayatın gizliliğini ihlal ve ses kaydı](/yazilar/ozel-hayatin-gizliligini-ihlal-ve-ses-kaydi/) yazısının konusudur.
 

@@ -26,7 +26,7 @@ sss:
   - soru: "Eşim bana sormadan kira kefili olmuş. Ne olur?"
     cevap: "Eşlerden biri, mahkemece verilmiş bir ayrılık kararı yoksa ya da yasal olarak ayrı yaşama hakkı doğmamışsa, ancak diğerinin yazılı rızasıyla kefil olabilir. Rızanın sözleşme kurulmadan önce ya da en geç kurulurken verilmesi gerekir. Kanundaki istisnalardan biri yoksa rıza olmadan verilen kefalet geçerli olmaz."
   - soru: "Kefilliğim ne zaman biter?"
-    cevap: "Kiracının kefaletle güvence altına alınan borcu hangi sebeple olursa olsun sona erince kefil de borcundan kurtulur. Ayrıca gerçek kişinin verdiği kefalet, kefalet sözleşmesinin kurulmasından başlayarak on yıl geçince kendiliğinden sona erer. Kefil ancak bu süre doluncaya kadar takip edilebilir."
+    cevap: "Kiracının kefaletle güvence altına alınan borcu hangi sebeple olursa olsun sona erince kefil de borcundan kurtulur. Ayrıca gerçek kişinin verdiği kefalet, kefalet sözleşmesinin kurulmasından başlayarak on yıl geçince kendiliğinden sona erer. Kefalet on yıldan uzun bir süre için verilmiş olsa bile, uzatılmadıkça ya da yeni bir kefalet verilmedikçe kefil ancak on yıllık süre doluncaya kadar takip edilebilir."
 ---
 Ev sahipleri kira sözleşmesi yaparken çoğu zaman kiracıdan bir kefil ister. Kefil, kiracı kirayı ya da sözleşmeden doğan başka bir borcunu ödemezse bu borçtan ev sahibine karşı kişisel olarak sorumlu olmayı üstlenen kişidir. Kefil çoğunlukla kiracının bir yakınıdır ve imzayı kira sözleşmesinin altındaki "kefil" bölümüne atar.
 
@@ -42,7 +42,7 @@ Bununla yetinilmez. Kefil, şu bilgileri kefalet sözleşmesinde kendi el yazıs
 - Kefalet tarihi,
 - Müteselsil kefil olacaksa bu sıfat ya da aynı anlama gelen bir ifade.
 
-Matbu kira sözleşmelerinde kefil için ayrılan bölümde bu bilgiler bilgisayarla yazılmış olabilir ya da hiç yer almayabilir. Kefil yalnızca imza atmışsa, kanunun aradığı el yazısı şartı yerine getirilmemiş olur. Ev sahibi açısından da durum önemlidir: Şekle uygun alınmamış bir kefalet, kiracı ödemediğinde güvence işlevi görmez. Bu yüzden kefil, azami miktarı rakamla, tarihi ve varsa "müteselsil kefil" ifadesini kendi eliyle yazmalıdır.
+Matbu kira sözleşmelerinde kefil için ayrılan bölümde bu bilgiler bilgisayarla yazılmış olabilir ya da hiç yer almayabilir. Kefil yalnızca imza atmışsa, kanunun aradığı el yazısı şartı yerine getirilmemiş olur. Ev sahibi açısından da durum önemlidir: Şekle uygun alınmamış bir kefalet, kiracı ödemediğinde güvence işlevi görmez. Bu yüzden kefil, azami miktarı, tarihi ve varsa "müteselsil kefil" ifadesini kendi eliyle yazmalıdır.
 
 Kira sözleşmesine kefil olmadan önce şunları kontrol etmek yerinde olur:
 
@@ -54,7 +54,7 @@ Kira sözleşmesine kefil olmadan önce şunları kontrol etmek yerinde olur:
 
 Bu kontrol, hem kefilin neyi üstlendiğini bilmesini hem de ev sahibinin geçerli bir güvence almasını sağlar.
 
-Adi kefalet ile müteselsil kefalet arasındaki fark, ev sahibinin kefile ne zaman başvurabileceğini belirler. Adi kefalette ev sahibi kural olarak önce kiracıya başvurur; müteselsil kefalette kiracıyı takip etmeden kefile gidebilir. Ayrıntılar genel kefalet yazısındadır.
+Adi kefalet ile müteselsil kefalet arasındaki fark, ev sahibinin kefile ne zaman başvurabileceğini belirler. Adi kefalette ev sahibi kural olarak önce kiracıya başvurur; müteselsil kefalette ise kanundaki şartlar gerçekleşince kiracıyı takip etmeden kefile gidebilir. Ayrıntılar genel kefalet yazısındadır.
 
 ## Evli kefil için eşin yazılı rızası
 
@@ -62,7 +62,7 @@ Eşlerden biri, mahkemece verilmiş bir ayrılık kararı yoksa ya da yasal olar
 
 Kanun bu kurala bazı istisnalar getirir. Ticaret siciline kayıtlı işletmenin sahibi ya da ticaret şirketinin ortağı veya yöneticisi, işletme ya da şirketle ilgili kefaletlerde; esnaf ve sanatkârlar ise mesleki faaliyetleriyle ilgili kefaletlerde eşin rızasına ihtiyaç duymaz. Kanunda sayılan bazı kredi ve kooperatif kefaletleri de istisnadır. Bir yakına kiralanan konut için verilen kefalet çoğu zaman bu istisnaların dışında kalır. O durumda evli kefilin eşinin yazılı rızası gerekir.
 
-Kefaletin sonradan değiştirilmesinde de eşin rızası aranabilir. Sorumluluk miktarını artırmayan, adi kefaleti müteselsile çevirmeyen ve kefil yararına olan güvenceleri önemli ölçüde azaltmayan değişiklikler için rıza gerekmez.
+Kefaletin sonradan değiştirilmesinde de eşin rızası aranabilir (m. 584). Sorumluluk miktarını artırmayan, adi kefaleti müteselsile çevirmeyen ve kefil yararına olan güvenceleri önemli ölçüde azaltmayan değişiklikler için rıza gerekmez.
 
 ## Kefil ne kadar sorumlu
 
@@ -78,4 +78,4 @@ Kefalet, kiracının borcuna bağlıdır. Hangi sebeple olursa olsun asıl borç
 
 Kanun ayrıca bir zaman sınırı koyar. Gerçek kişiler tarafından verilmiş her türlü kefalet, sözleşmenin kurulmasından başlayarak on yıl geçmekle kendiliğinden sona erer. Kefalet on yıldan uzun bir süre için verilmiş olsa bile, uzatılmadıkça ya da yeni bir kefalet verilmedikçe kefil ancak on yıllık süre doluncaya kadar takip edilebilir. Süre, kefil tarafından ve kefalet için öngörülen şekle uygun yazılı bir açıklamayla, en fazla on yıllık yeni bir dönem için uzatılabilir; bu açıklama en erken kefaletin sona ermesinden bir yıl önce yapılabilir.
 
-Uzun süren kira ilişkilerinde bu kural önemlidir. On yılı aşan bir kiracılıkta kefalet uzatılmamış ya da yeni bir kefalet verilmemişse, ev sahibi kefile ancak on yıllık süre doluncaya kadar başvurabilir. Kiracılık sürse bile kefilin sorumluluğu bu tarihte kendiliğinden sona erer.
+Uzun süren kira ilişkilerinde bu kural önemlidir. On yılı aşan bir kiracılıkta kefalet uzatılmamış ya da yeni bir kefalet verilmemişse, kefil ancak on yıllık süre doluncaya kadar takip edilebilir. Kiracılık sürse bile kefilin sorumluluğu bu tarihte kendiliğinden sona erer.

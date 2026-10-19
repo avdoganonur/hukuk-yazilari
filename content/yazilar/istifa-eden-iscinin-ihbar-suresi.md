@@ -79,7 +79,7 @@ Dikkat edilecek nokta ispattır. Fesih sebebini ispat etmek ona dayanan işçiye
 
 ## İstifanın geri alınması
 
-İş Kanunu'nda istifanın geri alınmasına ilişkin özel bir hüküm yoktur. Bu konuda yargı kararlarına dayanmadan, yalnızca kanun metinleri ve Türk Borçlar Kanunu'nun genel hükümleriyle teyit edilebilen şunlar söylenebilir:
+İş Kanunu'nda istifanın geri alınmasına ilişkin özel bir hüküm yoktur. Konu her olayın kendi koşullarına göre değerlendirilir; kanun metinleri yalnızca bazı genel çerçeveler sunar:
 
 - Bildirim süresi, bildirimin karşı tarafa yapılmasından başlar (İş Kanunu m. 17). Bildirim işverene ulaştıktan sonra süre işlemeye başlamıştır.
 - Taraflar bir sözleşmenin içeriğini kanunda öngörülen sınırlar içinde özgürce belirleyebilir (Borçlar Kanunu m. 26). İşveren de kabul ederse, işçi ile işveren iş ilişkisini sürdürmekte anlaşabilir. Bu anlaşmanın yazılı yapılması ileride çıkabilecek tartışmaları önler.

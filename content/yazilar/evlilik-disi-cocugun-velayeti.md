@@ -53,11 +53,11 @@ sss:
   - soru: "Çocuğu nüfusta tanıdım. Velayet artık ortak mı oldu?"
     cevap: "Hayır. Tanıma, baba ile çocuk arasında soybağı kurar ama velayeti değiştirmez. Ana ve baba evli değilse velayet anaya aittir. Medeni Kanun'un 337. maddesi evli olmayan ana ve babanın velayeti birlikte kullanmasına ilişkin bir düzenleme içermez. Babaya velayet ancak kanundaki şartlar varsa mahkeme kararıyla verilebilir."
   - soru: "Çocuğun annesi ölürse velayet kendiliğinden babaya geçer mi?"
-    cevap: "Kendiliğinden geçmez. Evli ana ve babada velayet, birinin ölümüyle sağ kalana aittir. Evli olmayan ana ölmüşse ise hâkim çocuğun menfaatine göre karar verir: ya çocuğa vasi atar ya da velayeti babaya verir. Babanın bu karar için mahkemeye başvurması gerekir."
+    cevap: "Kendiliğinden geçmez. Evli ana ve babada velayet, birinin ölümüyle sağ kalana aittir. Evli olmayan ana ölmüşse ise hâkim çocuğun menfaatine göre karar verir: ya çocuğa vasi atar ya da velayeti babaya verir."
   - soru: "Anne on sekiz yaşından küçükse ne olur?"
     cevap: "Erginlik on sekiz yaşın doldurulmasıyla başlar; evlenme de kişiyi ergin kılar. Ana küçükse kanun, hâkimin çocuğun menfaatine göre vasi atamasını ya da velayeti babaya vermesini öngörür. Babayla soybağı kurulmamışsa velayetin babaya verilmesi gündeme gelmez."
   - soru: "Velayet annedeyken babanın hiçbir söz hakkı yok mu?"
-    cevap: "Var. Soybağı kurulmuş baba, velayeti altında bulunmayan çocukla uygun kişisel ilişki kurulmasını isteyebilir. Çocuğun gelişimi tehlikedeyse çocuğun korunması için önlem alınmasını ya da şartları varsa velayetin anadan kaldırılmasını da mahkemeden isteyebilir. Bunun yanında çocuğun bakım ve eğitim giderlerine katılma yükümlülüğü de vardır."
+    cevap: "Var. Soybağı kurulmuş baba, velayeti altında bulunmayan çocukla uygun kişisel ilişki kurulmasını isteyebilir. Çocuğun gelişimi tehlikedeyse durum mahkemeye taşınabilir; hâkim çocuğun korunması için önlem alır, şartları varsa velayeti anadan kaldırabilir. Bunun yanında çocuğun bakım ve eğitim giderlerine katılma yükümlülüğü de vardır."
 ---
 Velayet, ergin olmayan, yani on sekiz yaşını doldurmamış çocuğun bakımı, eğitimi, korunması ve temsiliyle ilgili hak ve yükümlülüklerin bütünüdür. Ergin olmayan çocuk ana ve babasının velayeti altındadır ve yasal bir sebep olmadıkça velayet onlardan alınamaz (Türk Medeni Kanunu m. 335). Ana ve baba evliyse velayeti birlikte kullanırlar (m. 336). Evlilik dışında doğan çocuk için ise kanun ayrı bir kural koyar.
 
@@ -91,7 +91,7 @@ Ana ergin, kısıtlı değil ve hayattaysa, babanın velayeti alabilmesi için �
 
 Velayetin kaldırılması son çaredir. Çocuğun menfaati ve gelişmesi tehlikeye düştüğünde ana duruma çare bulamaz ya da buna gücü yetmezse, hâkim önce çocuğun korunması için uygun önlemleri alır (m. 346). Çocuğun bedensel ve zihinsel gelişmesi tehlikedeyse ya da çocuk manen terk edilmiş hâlde kalmışsa, hâkim çocuğu ana ve babadan alarak bir aile yanına ya da bir kuruma yerleştirebilir (m. 347).
 
-Velayet kaldırılırsa, kararda aksi belirtilmedikçe bu karar ananın mevcut ve doğacak bütün çocuklarını kapsar (m. 348). Velayetin kaldırılması ananın çocuğun bakım ve eğitim giderlerini karşılama yükümlülüğünü de sona erdirmez (m. 350). Velayet anadan kaldırıldıktan sonra hâkim, 337. maddeye göre velayeti babaya verip vermeyeceğini ya da vasi atayıp atamayacağını çocuğun menfaatine göre belirler. Kaldırmayı gerektiren sebep sonradan ortadan kalkarsa hâkim velayeti anaya geri verebilir (m. 351).
+Velayet kaldırılırsa, kararda aksi belirtilmedikçe bu karar ananın mevcut ve doğacak bütün çocuklarını kapsar (m. 348). Velayetin kaldırılması ananın çocuğun bakım ve eğitim giderlerini karşılama yükümlülüğünü de sona erdirmez (m. 350). Velayet anadan kaldırıldıktan sonra hâkim, 337. maddeye göre velayeti babaya verip vermeyeceğini ya da vasi atayıp atamayacağını çocuğun menfaatine göre belirler. Kaldırmayı gerektiren sebep sonradan ortadan kalkarsa hâkim, kendiliğinden ya da istem üzerine velayeti anaya geri verir (m. 351).
 
 Bu davalara aile mahkemesi bakar (4787 sayılı Kanun m. 4). Babanın iddiasını genel yakınmalarla değil, somut olaylarla anlatması gerekir: çocuğun okula düzenli gönderilmemesi, sağlık ihtiyaçlarının karşılanmaması, uzun süre bakımsız bırakılması gibi. Okul ve sağlık kayıtları, tanık anlatımları ve yazışmalar bu konuda kullanılabilecek delillerdir.
 

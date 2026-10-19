@@ -28,7 +28,7 @@ sss:
   - soru: "Hesabımdaki paranın tamamına haciz konuldu ama bu para maaşımdı. Ne yapabilirim?"
     cevap: "Maaş ve ücretler kanuna göre ancak kısmen haczedilebilir. Haczin bu sınırı aştığını düşünüyorsanız, haczi öğrendiğiniz tarihten itibaren yedi gün içinde icra mahkemesine şikâyette bulunabilirsiniz. Paranın maaş olarak yattığını gösteren hesap dökümü ve bordro bu başvuruda en önemli belgelerdir."
   - soru: "Emekli maaşım bankaya yatıyor. Haciz konulabilir mi?"
-    cevap: "Sosyal Güvenlik Kurumu'nun bağladığı gelir ve aylıklar, nafaka borçları ve Kurum'un kendi alacakları dışında haczedilemez. Borçlu açıkça razı olmadıkça icra müdürü bu aylıkların haczi için yapılan talepleri reddeder. Nafaka borcu için ise bu aylıklara haciz konulabilir."
+    cevap: "Sosyal Güvenlik Kurumu'nun bağladığı gelir ve aylıklar, nafaka borçları ve Kurum'un kendi alacakları dışında haczedilemez. Borçlunun muvafakati, yani rızası yoksa icra müdürü bu aylıkların haczi için yapılan talepleri reddeder. Nafaka borcu için ise bu aylıklara haciz konulabilir."
   - soru: "Kredi sözleşmesinde maaşımın haczine razı olduğumu imzaladım. Bu geçerli mi?"
     cevap: "Hayır. Kanun, haczedilemeyen ya da ancak kısmen haczedilebilen mal ve hakların haczedilebileceğine dair önceden yapılan anlaşmaların geçerli olmadığını açıkça söyler. Sözleşmede böyle bir madde bulunması, kanundaki sınırın aşılmasına imkân vermez."
   - soru: "Banka haciz ihbarnamesine cevap vermezse ne olur?"
@@ -58,7 +58,7 @@ Bazı gelirler kanun gereği ancak kısmen haczedilebilir. İİK m. 83'e göre m
 
 İş sözleşmesiyle çalışanlar için İş Kanunu ayrıca bir üst sınır koyar: işçinin aylık ücretinin dörtte birinden fazlası haczedilemez (4857 sayılı Kanun m. 35). Nafaka alacakları için bu sınırların nasıl işlediği [maaş haczinin sınırı](/yazilar/maas-haczinin-siniri/) yazısında anlatılmıştır.
 
-Sosyal Güvenlik Kurumu'nun bağladığı gelir ve aylıklar için daha koruyucu bir kural vardır. Bunlar, nafaka borçları ve Kurum'un kendi alacakları dışında haczedilemez; borçlu açıkça razı olmadıkça icra müdürü bu aylıkların haczine ilişkin talepleri reddeder (5510 sayılı Kanun m. 93).
+Sosyal Güvenlik Kurumu'nun bağladığı gelir ve aylıklar için daha koruyucu bir kural vardır. Bunlar, nafaka borçları ve Kurum'un kendi alacakları dışında haczedilemez; borçlunun muvafakati yoksa icra müdürü bu aylıkların haczine ilişkin talepleri reddeder (5510 sayılı Kanun m. 93).
 
 Kanun bu korumanın önceden ortadan kaldırılmasına da izin vermez. Haczedilemeyen ya da kısmen haczedilebilen mal ve hakların haczedilebileceğine dair önceden yapılan anlaşmalar geçersizdir (İİK m. 83/a).
 
@@ -80,4 +80,4 @@ Hesapta maaştan başka paralar da varsa, örneğin birikim ya da başka kaynakl
 
 Yedi günlük süre haczin konulduğu günden değil, borçlunun haczi öğrendiği günden başlar. Yine de süre kısadır. Haczin öğrenildiği gün not edilmeli, hangi icra dairesinin hangi dosyasından haciz konulduğu vakit kaybetmeden öğrenilmelidir.
 
-Bir hakkın yerine getirilmemesi ya da sebepsiz yere sürüncemede bırakılması hâlinde ise süre aranmaz; bu durumda her zaman şikâyet yoluna gidilebilir (İİK m. 16). Borç tamamen ödendiği hâlde haczin kaldırılmaması bu duruma örnek olabilir. Böyle bir durumda önce icra dairesine başvurup haczin kaldırılmasını istemek, sonuç alınamazsa şikâyet yoluna gitmek gerekir.
+Bir hakkın yerine getirilmemesi ya da sebepsiz yere sürüncemede bırakılması hâlinde ise süre aranmaz; bu durumda her zaman şikâyet yoluna gidilebilir (İİK m. 16). Borç tamamen ödendiği hâlde haczin kaldırılmaması bu duruma örnek olabilir. Böyle bir durumda önce icra dairesinden haczin kaldırılması istenebilir; sonuç alınamazsa şikâyet yoluna gidilebilir.
