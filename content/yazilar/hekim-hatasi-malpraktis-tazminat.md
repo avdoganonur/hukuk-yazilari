@@ -56,7 +56,7 @@ sss:
   - soru: "Devlet hastanesindeki doktoru doğrudan dava edebilir miyim?"
     cevap: "Hayır. Anayasa ve Devlet Memurları Kanunu gereği kamu görevlilerinin görevleri sırasında verdikleri zararlar için dava, kişinin kendisine değil, bağlı olduğu idareye karşı açılır. Tazminatı ödeyen idare, şartları varsa sonradan hekime rücu eder, yani ödediğini ondan geri ister."
   - soru: "Yanlışlıkla asliye hukuk mahkemesine dava açtım, süreyi kaçırmış olur muyum?"
-    cevap: "İdari yargının görevli olduğu bir davada adli yargı görevsizlik kararı verirse, bu kararın kesinleşmesini izleyen günden itibaren otuz gün içinde görevli idare mahkemesinde dava açılabilir. Bu durumda adli yargıya başvurduğunuz tarih, idari yargıya başvuru tarihi sayılır ve idareye önceden başvurma şartı da aranmaz."
+    cevap: "İdari yargının görevli olduğu bir davada adli yargı görevsizlik kararı verirse, bu kararın kesinleşmesinden itibaren otuz gün içinde görevli idare mahkemesinde dava açılabilir. Bu durumda adli yargıya başvurduğunuz tarih, idari yargıya başvuru tarihi sayılır ve idareye önceden başvurma şartı da aranmaz."
   - soru: "Ölen hastanın yakınları neleri isteyebilir?"
     cevap: "Ölüm hâlinde cenaze giderleri, ölüm hemen gerçekleşmediyse tedavi giderleri ve çalışma gücü kaybı, ölenin desteğinden yoksun kalanların kaybı maddi tazminat olarak istenebilir. Ayrıca ölenin yakınları için manevi tazminata hükmedilebilir. Destekten yoksun kalma tazminatının nasıl hesaplandığı ayrı bir konudur."
 ---
@@ -92,7 +92,7 @@ Bu uyuşmazlıklar idari yargıda tam yargı davası ile, yani idarenin eylem ya
 - İdare istemi kısmen ya da tamamen reddederse ret işleminin tebliğini izleyen günden, otuz gün içinde cevap vermezse bu sürenin bittiği tarihten itibaren dava süresi işlemeye başlar.
 - İdare mahkemesinde dava açma süresi, özel bir süre öngörülmemişse altmış gündür.
 
-İdareye başvuru yapılmadan doğrudan dava açılması, davanın usulden sonuçsuz kalmasına yol açabilir. Dava yanlışlıkla adli yargıda açılmış ve görevsizlik kararı verilmişse, kararın kesinleşmesini izleyen günden itibaren otuz gün içinde idare mahkemesinde dava açılabilir; bu durumda idareye önceden başvurma şartı aranmaz.
+İdareye başvuru yapılmadan doğrudan dava açılması, davanın usulden sonuçsuz kalmasına yol açabilir. Dava yanlışlıkla adli yargıda açılmış ve görevsizlik kararı verilmişse, kararın kesinleşmesinden itibaren otuz gün içinde idare mahkemesinde dava açılabilir; bu durumda idareye önceden başvurma şartı aranmaz.
 
 ## Zamanaşımı ve süreler
 
