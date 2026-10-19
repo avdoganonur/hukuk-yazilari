@@ -94,4 +94,4 @@ Deftere göre kabulde miras, mirasçıya yalnızca deftere yazılmış borçlarl
 
 Ölüm tarihinde ölen kişinin borçlarını ödeyemeyecek durumda olduğu açıkça belliyse ya da bu durum resmen tespit edilmişse, kanun mirasın reddedilmiş sayılacağını söyler. Buna hükmen ret denir. Örneğin hakkında aciz belgesi alınmış, malvarlığı olmayan ve borçları ödenemeyen bir kişinin mirası böyledir.
 
-Hükmen ret, uygulamada genellikle alacaklılara karşı açılan bir tespit davasıyla ileri sürülür. Yargıtay kararlarında bu talebin üç aylık ret süresine bağlı olmadığı kabul edilmektedir. Ancak yukarıda sayılan davranışlarla mirası fiilen kabul etmiş olan mirasçı, hükmen ret yoluna da başvuramaz.
+Hükmen ret, uygulamada genellikle alacaklılara karşı açılan bir tespit davasıyla ileri sürülür. Akademik çalışmalarda aktarılan Yargıtay kararlarına göre bu talep üç aylık ret süresine bağlı değildir; ancak çok geç ileri sürülmesi hâlinde hakkın kötüye kullanılması sayılabileceği de belirtilmektedir. Ayrıntısı [mirasın hükmen reddi](/yazilar/mirasin-hukmen-reddi/) yazısındadır. Ancak yukarıda sayılan davranışlarla mirası fiilen kabul etmiş olan mirasçı, hükmen ret yoluna da başvuramaz.

@@ -71,7 +71,7 @@ Sonucun parasal yükü de vardır. Takip geçici olarak durdurulmuş, sonra itir
 
 ## İmzaya itiraz
 
-Senetteki imza borçluya ait değilse bu, beş gün içinde icra mahkemesine verilecek dilekçede ayrıca ve açıkça belirtilmelidir. Süresinde imzaya itiraz etmeyen borçlunun imzası, bu takip bakımından ona ait sayılır.
+Senetteki imza borçluya ait değilse bu, beş gün içinde icra mahkemesine verilecek dilekçede açıkça belirtilmelidir. Süresinde imzaya itiraz etmeyen borçlunun imzası, bu takip bakımından ona ait sayılır.
 
 İmzaya itiraz da satış dışındaki işlemleri kendiliğinden durdurmaz. Mahkeme itirazı ciddi bulursa alacaklıya tebligat yapmadan, dosya üzerinden takibi geçici olarak durdurabilir. Ardından imza incelemesi yapılır; çoğu zaman bilirkişiye başvurulur.
 
