@@ -6,6 +6,7 @@ kisaca:
   - "Haklı nedenle fesih, muvazzaf askerlik, emeklilik ve kadın işçinin evlilikten itibaren bir yıl içinde ayrılması bu istisnalardandır."
   - "Yaşlılık aylığı için gereken sigortalılık süresini ve prim gününü tamamlayan işçi, yaşı beklemeden ayrılıp kıdem tazminatı alabilir."
   - "Her durumda işçinin aynı işverende en az bir tam yıl çalışmış olması gerekir."
+guncelleme: 2026-10-19
 tarih: 2026-10-17
 alan: is-hukuku
 dayanak:
@@ -76,7 +77,7 @@ Birincisi, işçinin bağlı olduğu kurum ya da sandıktan yaşlılık, emeklil
 
 İkincisi, en çok merak edilen hâldir. Kanun, yaşlılık aylığı için gereken sigortalılık süresini ve prim ödeme gün sayısını tamamlayan işçinin, yaş şartını beklemeden kendi isteğiyle ayrılması hâlinde de kıdem tazminatı ödeneceğini söyler. Bu hâlde aranan şartlar 506 sayılı Sosyal Sigortalar Kanunu'na yapılan atıfla belirlenir.
 
-Gerekli süre ve gün sayısı, işçinin ilk kez sigortalı olduğu tarihe göre değişir. 8 Eylül 1999'dan önce sigortalı olanlar için 506 sayılı Kanun'un geçici 81. maddesi uygulanır. Bu maddeye göre yaşlılık aylığı için aranan şartlardan biri, 15 yıllık sigortalılık süresi ve 3600 gün prim ödemesidir. Yaş dışındaki şartlar bunlar olduğundan, bu işçiler 15 yılı ve 3600 günü tamamladıklarında kıdem tazminatı alarak ayrılabilir. Bu tarihten sonra sigortalı olanlar için daha uzun sigortalılık süresi ya da daha fazla prim günü aranır.
+Gerekli süre ve gün sayısı, işçinin ilk kez sigortalı olduğu tarihe göre değişir. 8 Eylül 1999'dan önce sigortalı olanlar için 506 sayılı Kanun'un geçici 81. maddesi uygulanır. Bu maddeye göre yaşlılık aylığı için aranan yollardan biri, 15 yıllık sigortalılık süresi ve 3600 gün prim ödemesidir (C bendi). Yaş dışındaki şartlar bunlar olduğundan, bu işçiler 15 yılı ve 3600 günü tamamladıklarında kıdem tazminatı alarak ayrılabilir. Aynı maddenin (B) bendi ise ikinci bir yol öngörür: kadınlarda 20, erkeklerde 25 yıllık sigortalılık süresi ve kademeye göre en az 5000 günden başlayan prim ödeme gün sayısı. Bu bentteki süre ve gün şartlarını tamamlayan işçi de aynı şekilde kıdem tazminatı alarak ayrılabilir. Hangi yolun daha önce tamamlanacağı kişinin sigortalılık geçmişine bağlıdır; ayrıntısı [emeklilik nedeniyle kıdem tazminatı](/yazilar/emeklilik-nedeniyle-kidem-tazminati/) yazısında anlatılmıştır. Bu tarihten sonra sigortalı olanlar için daha uzun sigortalılık süresi ya da daha fazla prim günü aranır.
 
 Uygulamada işçi bu şartları tamamladığını Sosyal Güvenlik Kurumundan alacağı bir yazıyla belgeler. Ayrılmadan önce bu yazıyı almak, hem işçinin hem işverenin hesabını netleştirir.
 
