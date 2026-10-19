@@ -609,6 +609,15 @@ a:hover { text-decoration-thickness: 2px; }
 @media (max-width: 47.99em) { .alt { padding-bottom: 5rem; } }
 
 /* Okuma odaklı renk ve tipografi düzeni */
+.site-arama { display: flex; gap: 0.6rem; max-width: 46rem; padding-bottom: 1.1rem; }
+.site-arama input { min-width: 0; flex: 1; min-height: 3rem; padding: 0.65rem 0.9rem; border: 1px solid var(--cizgi); border-radius: 8px; background: var(--kagit); color: var(--murekkep); font: 1rem var(--sans); }
+.site-arama input::placeholder { color: var(--ikincil); opacity: 1; }
+.site-arama button { min-height: 3rem; padding: 0.65rem 1.25rem; border: 0; border-radius: 8px; background: var(--mor); color: var(--mor-uzerinde); font: 600 1rem var(--sans); cursor: pointer; }
+.arama-ana { max-width: 52rem; }
+#arama-durum { color: var(--ikincil); font-size: 1rem; }
+#arama-devam { margin-top: 1.5rem; }
+#arama-devam[hidden], #arama-tekrar[hidden] { display: none; }
+@media print { .site-arama { display: none; } }
 h1, .imza-ad { font-family: var(--serif); }
 .imza-ad { font-size: 1.375rem; }
 .imza-alt { font-size: 0.875rem; }
