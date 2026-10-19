@@ -604,7 +604,23 @@
       "http_status": 200,
       "live_verified_date": "2026-10-19",
       "deployment_run_id": 39310840366
+    },
+    {
+      "slug": "alacaklinin-temerrudu-ve-tevdi",
+      "title": "Borcumu yerine getirmek istiyorum ama alacaklı kabul etmiyor: ne yapılabilir?",
+      "url": "https://avukatonurdogan.com/yazilar/alacaklinin-temerrudu-ve-tevdi/",
+      "word_count": 929,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 106–111",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "27ca8e5650591481d2c32d3a044d020606dcca31"
     }
   ],
-  "next_sequence": 34
+  "next_sequence": 35
 }
