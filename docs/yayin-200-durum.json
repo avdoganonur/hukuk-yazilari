@@ -534,7 +534,7 @@
       "title": "Eşyamı ücretsiz kullanması için verdim: ne zaman geri isteyebilirim?",
       "url": "https://avukatonurdogan.com/yazilar/ucretsiz-kullandirmada-kullanim-oduncu/",
       "word_count": 972,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -543,7 +543,10 @@
           "not": "19 Ekim 2026 yeniden indirilen resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
         }
       ],
-      "commit": "b12be5f0118657da8b9cbaa78b0ab0a1b56c8580"
+      "commit": "b12be5f0118657da8b9cbaa78b0ab0a1b56c8580",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39230477724
     }
   ],
   "next_sequence": 31
