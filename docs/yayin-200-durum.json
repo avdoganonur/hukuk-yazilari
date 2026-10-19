@@ -477,7 +477,7 @@
       "title": "Vergi ödevini süresinde yerine getiremiyorum: mücbir sebep ve mühlet",
       "url": "https://avukatonurdogan.com/yazilar/vergi-odevlerinde-mucbir-sebep-ve-muhlet/",
       "word_count": 1009,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -486,7 +486,10 @@
           "not": "19 Ekim 2026 tarihinde yeniden alınan resmî PDF: SHA-256 f04c9b088672ddaf6e861738346bc9eb07b2475e278a8eab7e06e8c46ef5f200."
         }
       ],
-      "commit": "3d5f43b0f1de6df85c9fde24582500da7f0c2ee3"
+      "commit": "3d5f43b0f1de6df85c9fde24582500da7f0c2ee3",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39194578202
     }
   ],
   "next_sequence": 28
