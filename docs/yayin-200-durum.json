@@ -585,7 +585,175 @@
       "http_status": 200,
       "live_verified_date": "2026-10-19",
       "deployment_run_id": 39261271422
+    },
+    {
+      "slug": "vergi-yoklamasi-ve-yoklama-fisi",
+      "title": "İşyerine vergi yoklaması için gelindi: kimlik, tutanak ve imza kuralları",
+      "url": "https://avukatonurdogan.com/yazilar/vergi-yoklamasi-ve-yoklama-fisi/",
+      "word_count": 928,
+      "status": "live_verified",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "213 sayılı Vergi Usul Kanunu m. 127–133",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.213.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 f04c9b088672ddaf6e861738346bc9eb07b2475e278a8eab7e06e8c46ef5f200."
+        }
+      ],
+      "commit": "58b4e3dca45017d9d3085a3e1a11775e672fe621",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39310840366
+    },
+    {
+      "slug": "alacaklinin-temerrudu-ve-tevdi",
+      "title": "Borcumu yerine getirmek istiyorum ama alacaklı kabul etmiyor: ne yapılabilir?",
+      "url": "https://avukatonurdogan.com/yazilar/alacaklinin-temerrudu-ve-tevdi/",
+      "word_count": 929,
+      "status": "live_verified",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 106–111",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "27ca8e5650591481d2c32d3a044d020606dcca31",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39311393307
+    },
+    {
+      "slug": "kayip-esyayi-bulanin-yukumlulukleri",
+      "title": "Kaybolmuş bir eşya buldum: bildirim, koruma ve geri verme kuralları",
+      "url": "https://avukatonurdogan.com/yazilar/kayip-esyayi-bulanin-yukumlulukleri/",
+      "word_count": 924,
+      "status": "live_verified",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 769–774, 778",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "11c646bcffded5be5dbefaf4018b682061ada82f",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39311675636
+    },
+    {
+      "slug": "ceza-yargilamasinda-tercuman-ve-giderler",
+      "title": "Ceza yargılamasında tercüman ne zaman görevlendirilir, ücretini kim öder?",
+      "url": "https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-tercuman-ve-giderler/",
+      "word_count": 927,
+      "status": "live_verified",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "5271 sayılı Ceza Muhakemesi Kanunu m. 202, 324",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 46d9b6447ac516eaf56f2619665a01c079d5aa305b48b7b1a773a87b4045064a."
+        }
+      ],
+      "commit": "eb10f842992c4f7fe2e8c65d817a2858f8854229",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39312183178
+    },
+    {
+      "slug": "miras-sebebiyle-istihkak-davasi",
+      "title": "Miras malı başkasının elindeyse miras sebebiyle istihkak davası açılabilir mi?",
+      "url": "https://avukatonurdogan.com/yazilar/miras-sebebiyle-istihkak-davasi/",
+      "word_count": 938,
+      "status": "live_verified",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 637–639, 993–995",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "d4b55cf4b603f5c10af611c9546b5cbf2d1e193f",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39312287348
+    },
+    {
+      "slug": "hukuk-davasinda-kesif-ve-katlanma",
+      "title": "Mahkeme keşif kararı verdi: inceleme nasıl yapılır, karşı çıkılırsa ne olur?",
+      "url": "https://avukatonurdogan.com/yazilar/hukuk-davasinda-kesif-ve-katlanma/",
+      "word_count": 924,
+      "status": "live_verified",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "6100 sayılı Hukuk Muhakemeleri Kanunu m. 288–292",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 481c1389a8b144ff84e4674848dc566503a748b39d2d035d762d7dc9ef171edd."
+        }
+      ],
+      "commit": "36e3872d6f9dc6f75b8223fa473d31d5a6b6d52d",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39312559604
+    },
+    {
+      "slug": "hakli-savunma-zorunluluk-ve-tazminat",
+      "title": "Kendimi veya başkasını korurken zarar verdim: tazminat ödemem gerekir mi?",
+      "url": "https://avukatonurdogan.com/yazilar/hakli-savunma-zorunluluk-ve-tazminat/",
+      "word_count": 926,
+      "status": "live_verified",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 49–52, 63–64",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "ecc1b00a117fde78ef067946427874d6ed31b66c",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39312805026
+    },
+    {
+      "slug": "aile-halinde-yasamada-ev-duzeni-ve-emek",
+      "title": "Aile hâlinde birlikte yaşamak: ev düzeni, gözetim ve aileye verilen emeğin karşılığı",
+      "url": "https://avukatonurdogan.com/yazilar/aile-halinde-yasamada-ev-duzeni-ve-emek/",
+      "word_count": 914,
+      "status": "live_verified",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 367–371",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "d944fdde7ea5c45646232795af6d5283bb76b1c3",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39313014969
+    },
+    {
+      "slug": "iscinin-is-giderleri-arac-ve-avans",
+      "title": "İş için cebimden harcama yaptım: araç, yol ve diğer giderleri kim karşılar?",
+      "url": "https://avukatonurdogan.com/yazilar/iscinin-is-giderleri-arac-ve-avans/",
+      "word_count": 912,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 413–416",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "9816cb2fd7212f4b1a40080b5c5cfca90a899a06"
     }
   ],
-  "next_sequence": 33
+  "next_sequence": 42
 }
