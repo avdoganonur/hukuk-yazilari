@@ -277,6 +277,13 @@ def sayfa(*, baslik: str, aciklama: str, yol: str, icerik: str, aktif: str = "",
       {menu('/hakkinda/', 'Hakkında', 'hakkinda')}
     </nav>
   </div>
+  <div class="kap">
+    <form class="site-arama" role="search" action="/arama/" method="get">
+      <label class="gorunmez" for="site-arama-q">Hukuki konu veya kelime ara</label>
+      <input id="site-arama-q" name="q" type="search" placeholder="Konu ara: kira, boşanma, kıdem tazminatı…" maxlength="160" required>
+      <button type="submit">Ara</button>
+    </form>
+  </div>
 </header>
 <main id="icerik">
 {icerik}
@@ -883,6 +890,33 @@ def yaz(yol: str, metin: str) -> None:
     dosya.write_text(metin, encoding="utf-8")
 
 
+def arama_sayfasi() -> str:
+    return sayfa(baslik="Yazılarda ara", aciklama="Hukuki yazıları başlık, konu ve içeriklerine göre arayın.",
+                 yol="/arama/", icerik='''<section class="kap sayfa-bas">
+<h1>Yazılarda ara</h1>
+<p class="sayfa-acik">Bir konu veya birkaç kelime yazın. Örneğin: kira depozitosu, iş kazası, miras.</p>
+</section><section class="kap liste-bolum" id="arama-uygulamasi" data-index="arama-indeksi.json">
+<form class="site-arama arama-ana" role="search" id="arama-form">
+<label class="gorunmez" for="arama-q">Yazılarda aranacak kelimeler</label>
+<input id="arama-q" name="q" type="search" maxlength="160" placeholder="Aramak istediğiniz konuyu yazın" autocomplete="off">
+<button type="submit">Ara</button></form>
+<p id="arama-durum" role="status" aria-live="polite">Aramak için en az iki harf yazın.</p>
+<button type="button" id="arama-tekrar" class="dugme" hidden>Yeniden dene</button>
+<ul id="arama-sonuclar" class="kayitlar" aria-label="Arama sonuçları"></ul>
+<button type="button" id="arama-devam" class="dugme" hidden>Daha fazla sonuç göster</button>
+<noscript><p>Arama için JavaScript açık olmalıdır. <a href="/yazilar/">Tüm yazıları</a> konu başlıklarına göre inceleyebilirsiniz.</p></noscript>
+</section><script src="/arama.js" defer></script>''')
+
+
+def arama_indeksi(yazilar: list[dict]) -> str:
+    return json.dumps([{
+        "baslik": y["baslik"], "aciklama": y["aciklama"], "alan": y["alan_ad"],
+        "url": ON_EK + y["yol"],
+        "metin": html.unescape(re.sub(r"<[^>]+>", " ", markdown.markdown(y["govde"]))) + " " +
+                 " ".join(s["soru"] + " " + s["cevap"] for s in y["sss"])
+    } for y in yazilar], ensure_ascii=False)
+
+
 def main() -> int:
     global CSS_SURUM, JS_SURUM, ARAC_SAYISI
     yazilar, hatalar = yazilari_yukle()
@@ -920,6 +954,8 @@ def main() -> int:
 
     yaz("/", ana_sayfa(yayinda))
     yaz("/yazilar/", tum_yazilar(yayinda))
+    yaz("/arama/", arama_sayfasi())
+    yaz("/arama/arama-indeksi.json", arama_indeksi(yayinda))
     for anahtar, ad, _ in alan_sayilari(yayinda):
         yaz(f"/konu/{anahtar}/", konu_sayfasi(anahtar, ad, [y for y in yayinda if y["alan"] == anahtar], yayinda))
     for y in yayinda:
