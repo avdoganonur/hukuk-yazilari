@@ -2,7 +2,7 @@
 
 Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 
-19 Ekim 2026 itibarıyla 29 metin ayrı kayıtlarla main dalına eklenmiştir. 29 yazının tamamı canlı doğrulanmıştır. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
+19 Ekim 2026 itibarıyla 32 metin ayrı kayıtlarla main dalına eklenmiştir. 32 yazının tamamı canlı doğrulanmıştır. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
 
 ## Eklenen makaleler
 
@@ -91,3 +91,12 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 29. yazı 19 Ekim 2026 tarihinde eklendi. İİK m. 105, 143, 277 ve geçici 5, yeniden alınan resmî PDF üzerinden kontrol edildi; SHA-256: `1365a10578f7a12cd77cd067fcb15dc43969fa5762b7c23a4151651d3baef5b8`. Önceki yarım kalan metin tamamlandı; tekrar oluşturulmadı. Güncel başlık ve içerik taramasında konuya ilişkin diğer yazıların mal beyanı, kefalet ve miras bağlamındaki atıfları incelendi. Yeni yazı haciz yoluyla takipte belgenin düzenlenmesi, faiz, süreler ve terkin üzerinedir. Metin 961 kelime, dört ara başlık, üç Kısaca maddesi ve üç soru içerir. `python build.py --kontrol` başarılıdır. Başka oturumların beş yeni yazısı korunmuş, bu hedefe sayılmamıştır.
 
 29. makalenin yayın akışı 39223317352 başarıyla tamamlandı; canlı sayfa 19 Ekim 2026 tarihinde HTTP 200 ve doğru H1 başlığıyla doğrulandı. Yayın commit'i: `efac90f0387be458c3c3e7fe5567be77c7bd7b6e`. Güncel ilerleme: 29/200; kalan 171.
+
+
+30–32. yazıların kayıtları tamamlandı. Ücretsiz kullanım ödüncü (972 kelime), önmirasçı ve artmirasçı atama (926 kelime) ve hukuk davasında yemin delili (943 kelime) yazılarının her biri dört ara başlık, üç Kısaca maddesi ve üç soru içerir. Resmî PDF kaynakları 19 Ekim 2026 tarihinde yeniden indirilmiş ve ilgili hükümler kontrol edilmiştir. Biçim kontrolü başarılıdır. Yayın akışları sırasıyla 39230477724, 39230780185 ve 39261271422 başarılı; canlı sayfalar HTTP 200 ve doğru H1 ile doğrulanmıştır. Commit ve kaynak ayrıntıları durum dosyasındadır.
+
+30. [Ücretsiz kullanım ödüncü](https://avukatonurdogan.com/yazilar/ucretsiz-kullandirmada-kullanim-oduncu/)
+31. [Önmirasçı ve artmirasçı atama](https://avukatonurdogan.com/yazilar/onmirasci-ve-artmirasci-atama/)
+32. [Hukuk davasında yemin delili](https://avukatonurdogan.com/yazilar/hukuk-davasinda-yemin-delili/)
+
+Güncel ilerleme: 32/200; kalan 168. Kullanıcının site tasarımı ve okunabilirlik isteği üzerine tasarım çalışmasına geçildi; on yeni makale hedefi tamamlanmış değildir.
