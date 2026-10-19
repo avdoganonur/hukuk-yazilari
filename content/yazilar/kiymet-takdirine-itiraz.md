@@ -24,7 +24,7 @@ sss:
   - soru: "Alacaklı da kıymet takdirine itiraz edebilir mi?"
     cevap: "Evet. Kanun şikâyet hakkını, kıymet takdirinin tebliğ edildiği ilgililere tanır. Değerin yüksek biçildiğini ve bu yüzden satışın zorlaşacağını düşünen alacaklı da süresi içinde şikâyet yoluna gidebilir."
   - soru: "Şikâyet süresini kaçırdım, satış aşamasında değerin düşüklüğünü ileri sürebilir miyim?"
-    cevap: "Süresinde şikâyet edilmeyen kıymet takdiri kesinleşir. İhalenin feshi aşamasında satış bedelinin düşük kalması tek başına bir fesih sebebi sayılmaz; fesih için satış sürecinde menfaatinizi zedeleyen bir usulsüzlük bulunması gerekir. Bu konu ayrı bir yazıda anlatılmıştır."
+    cevap: "Süresinde şikâyet edilmeyen kıymet takdiri kesinleşir. İhalenin feshi ise kıymet takdirine itirazın yerini tutan bir yol değildir; şartları kanunda ayrıca düzenlenmiştir ve ayrı bir yazıda anlatılmıştır."
   - soru: "Mahkeme yeni bilirkişi raporunu da beğenmezsem ne olur?"
     cevap: "Kanun, icra mahkemesinin bu madde uyarınca verdiği kararların kesin olduğunu söyler. Yani karara karşı istinaf yoluna gidilemez. Bu nedenle itirazın gerekçeleri ve deliller ilk başvuruda eksiksiz sunulmalıdır."
 ---
@@ -38,7 +38,7 @@ Borcunu ödemeyen kişinin evi, arsası ya da aracı haczedildiğinde satıştan
 
 Tapu ya da araç sicili gibi bir sicile kayıtlı mallarda ise kural farklıdır. Bu malların değerini bilirkişi belirler. Bilirkişi, bilirkişilik bölge kurulu listesinde kayıtlı olup Adalet Bakanlığınca bu konuda izin verilmiş kişiler arasından seçilir; bunlar yoksa listedeki diğer bilirkişilere başvurulur. Bu düzenleme 2021'de 7343 sayılı Kanunla getirildi.
 
-Taşınmazlarda m. 128, değerlemede taşınmaz üzerindeki ipotek, irtifak gibi yükümlülüklerin değere etkisinin de dikkate alınmasını ister. Değeri etkileyen yeni bir yükümlülük ortaya çıkarsa değer yeniden takdir edilir. Rapor, tapu sicilindeki adresler esas alınarak ilgililere tebliğ edilir.
+Taşınmazlarda m. 128, değerlemede taşınmaz üzerindeki ipotek, irtifak gibi yükümlülüklerin değere etkisinin de dikkate alınmasını ister. Değeri etkileyen yeni bir yükümlülük ortaya çıkarsa değer yeniden takdir edilir. Kıymet takdiri raporu borçluya, haciz koydurmuş alacaklılara ve ipotekli alacaklılara tebliğ edilir. Tebligatta, icra dosyasına ayrıca adres bildirilmiş olması hâli dışında, tapudaki mevcut adresleri esas alınır.
 
 ## Şikâyet süresi ve başvuru yeri
 
@@ -72,7 +72,7 @@ Masraf yatırıldıktan sonra icra mahkemesi yeniden bilirkişi incelemesi yapt�
 
 Kesinleşen bir kıymet takdirinin süresiz geçerli olmadığını da bilmek gerekir. Kanuna göre kesinleşen kıymet takdirinin yapıldığı tarihten itibaren iki yıl geçmedikçe yeniden kıymet takdiri istenemez. Doğal afetler ya da imar durumunda çok önemli değişiklikler gibi hâllerde ise iki yıl dolmadan da yeniden takdir istenebilir. Satış uzun süre gecikmişse iki yılın dolup dolmadığına bakmak yerinde olur. Adalet Bakanlığı, 2020'deki salgın döneminde icra takiplerinin durduğu sürede bu iki yıllık sürenin işlemediğini, durma süresinin hesaba eklenmesi gerektiğini bildirmiştir.
 
-128/a maddesi taşınmazların satışına ilişkin bölümde yer alır. Taşınır mallarda değerin tespiti m. 87'ye göre yapılır ve kanunda ayrıca bir kıymet takdiri şikâyeti maddesi bulunmaz. Bu durumda icra dairesinin işlemlerine karşı genel şikâyet yolu (m. 16) kullanılır. Genel şikâyet de işlemin öğrenildiği tarihten itibaren yedi gün içinde icra mahkemesine yapılır.
+128/a maddesi taşınmazların satışına ilişkin bölümde yer alır. Taşınır mallarda değerin tespiti m. 87'ye göre yapılır; bu mallarda kıymet takdirine karşı 128/a'daki kuralların mı yoksa icra dairesinin işlemlerine karşı genel şikâyet yolunun (m. 16) mı uygulanacağı tartışmalıdır. Genel şikâyet de işlemin öğrenildiği tarihten itibaren yedi gün içinde icra mahkemesine yapılır. Bu nedenle taşınır mallarda da değeri öğrendiğiniz ya da rapor size tebliğ edildiği andan itibaren yedi günü geçirmeden icra mahkemesine başvurmak en güvenli yoldur.
 
 ## Son değişiklikler
 

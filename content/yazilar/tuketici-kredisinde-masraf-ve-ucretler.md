@@ -42,7 +42,7 @@ Yönetmelik ücreti geniş tanımlar: faiz, vergi, fon ve benzeri yasal giderler
 
 Hangi ücretlerin alınabileceğini ise TCMB'nin Finansal Tüketicilerden Alınacak Ücretlere İlişkin Usul ve Esaslar Hakkında Tebliğ'i (Sayı: 2020/7) belirler. Tebliğ, bu tebliğde ve ekinde yer almayan herhangi bir ürün veya hizmet için ücret alınamayacağını açıkça söyler. Üçüncü kişilere ödenen tutarlar ise tüketiciye aynen yansıtılabilir.
 
-Tebliğin ekinde bireysel krediler için sayılan ücretler şunlardır:
+Merkez Bankasının bu tebliğe ilişkin uygulama talimatının Ocak 2026 tarihli güncel metninde bireysel krediler için sayılan ücretler şunlardır:
 
 - Kredi tahsis ücreti,
 - Ekspertiz ücreti,
@@ -58,7 +58,7 @@ Tebliğ yayımlandığı 2020'den bu yana birçok kez değişti. Hangi ücretin 
 
 Kanunun 23. maddesi, kredi verenin sözleşmeden önce tüketiciye sözleşme öncesi bilgi formu vermesini ister. Yönetmeliğe göre bu formda ve sözleşmede, varsa tüketiciden istenecek ücretler gösterilir. Sözleşmeye dayanan her türlü ücret bilgisi sözleşmenin ekinde kâğıt üzerinde verilir ve bunun verildiğini ispat yükü kredi verene aittir.
 
-Kanun ayrıca kredi hesabı için özel bir yasak koyar. Belirli süreli kredi için açılan hesapta yalnızca kredi işlemleri yapılıyorsa, tüketiciden bu hesaba ilişkin hiçbir ad altında ücret veya masraf istenemez (m. 31). Hesap, tüketici aksini yazılı olarak istemedikçe kredi ödenince kapanır.
+Kanun ayrıca kredi hesabı için özel bir yasak koyar. Belirli süreli kredi için açılan hesapta yalnızca kredi işlemleri yapılıyorsa, tüketiciden bu hesaba ilişkin hiçbir ad altında ücret veya masraf istenemez (m. 31). Hesap, tüketici aksini yazılı olarak ya da kalıcı veri saklayıcısıyla istemedikçe kredi ödenince kapanır.
 
 Sonradan yapılacak artışlar da usule bağlıdır. Tebliğe göre ücret artışları, uygulanmaya başlamadan en az otuz gün önce tüketiciye bildirilir. Tüketici bildirimden sonraki on beş gün içinde ilgili üründen vazgeçebilir.
 

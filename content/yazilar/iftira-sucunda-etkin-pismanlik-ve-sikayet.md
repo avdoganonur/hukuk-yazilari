@@ -72,7 +72,7 @@ TCK m. 269, iftira eden kişinin gerçeği açıklayarak iftiradan dönmesini et
 
 Yüklenen fiil yalnızca idari yaptırım gerektiriyorsa, dönüş idari yaptırım kararından önceyse ceza yarı, sonraysa üçte bir oranında indirilir. Kanun dönmenin biçimini ayrıca düzenlemez. Ancak dönüşün, suçlamanın yapıldığı makama ya da soruşturmayı yürüten savcılığa açık ve yazılı biçimde bildirilmesi, hem indirim talebinin ispatı hem de mağdurun dosyası bakımından en sağlıklı yoldur. Suçlamayı yarım ağızla geri alan ya da yalnızca mağdura özel bir mesajla özür dileyen kişinin durumu tartışmaya açık kalır.
 
-Basın ve yayın yoluyla yapılan iftirada indirimden yararlanmak için dönüşün de aynı yöntemle yayımlanması gerekir. İnternette herkese açık bir paylaşımla iftira etmiş kişi, aynı kanaldan bir düzeltme yayımlamadan bu indirimi isteyemez.
+Basın ve yayın yoluyla yapılan iftirada indirimden yararlanmak için dönüşün de aynı yöntemle yayımlanması gerekir.
 
 ## Pişmanlık neyi değiştirmez?
 

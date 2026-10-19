@@ -54,7 +54,7 @@ Vergi davalarındaki otuz günlük sürenin ayrıntıları, örneğin ihbarname 
 Kanunun ilk kuralı şudur: idari uyuşmazlıklarda süre, işlemin yazılı olarak bildirildiği tarihi izleyen günden başlar. Bildirim günü sayılmaz. Bunun pratik karşılıkları şöyledir:
 
 - Kâğıt tebligatta, tebligat mazbatasında yazan tarih esas alınır.
-- Elektronik tebligatta Tebligat Kanunu m. 7/a'ya göre tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılır. Mesajın açıldığı tarih değil, bu tarih önemlidir.
+- Elektronik tebligatta Tebligat Kanunu m. 7/a'ya göre tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılır. Mesajın açıldığı tarih değil, bu tarih önemlidir. Vergi idaresinin elektronik tebligatı ise Vergi Usul Kanunu'ndaki ayrı hükme tabidir; bu tebligatlarda o hükmün güncel metnine bakılmalıdır.
 - Adresi belli olmayanlara ilan yoluyla bildirim yapılmışsa, özel kanunda aksine hüküm yoksa süre son ilan tarihini izleyen günden itibaren on beş gün sonra işlemeye başlar.
 - İlanı gereken düzenleyici işlemlerde, örneğin yönetmeliklerde süre ilan tarihini izleyen günden başlar. Düzenleyici işlem kişiye uygulandığında, uygulama işlemiyle birlikte ona da dava açılabilir.
 
@@ -80,8 +80,8 @@ Görev ve yetki kuralları karmaşıktır, yanlış mahkemeye başvurmak sık ya
 
 İdari yargının görevine giren bir dava görevsiz ya da yetkisiz bir idari yargı yerinde açılmışsa mahkeme davayı reddeder ve dosyayı görevli veya yetkili mahkemeye gönderir (m. 15). Kişinin yeniden dava açması gerekmez.
 
-Dava adli yargıda, örneğin asliye hukuk mahkemesinde açılmış ve görevsizlikle reddedilmişse durum farklıdır. Bu kez ret kararının kesinleşmesini izleyen günden itibaren otuz gün içinde görevli idari yargı yerinde dava açılmalıdır. Bu durumda görevsiz yere başvuru tarihi, görevli yere başvuru tarihi sayılır (m. 9). Otuz gün geçmiş olsa bile idari dava süresi henüz dolmamışsa dava o süre içinde açılabilir. Adli yargıda açılan tam yargı davası görevsizlikle reddedilmişse, idari yargıda açılacak davada ayrıca idareye başvuru şartı aranmaz.
+Dava adli yargıda, örneğin asliye hukuk mahkemesinde açılmış ve görevsizlikle reddedilmişse durum farklıdır. Bu kez ret kararının kesinleşmesinden itibaren otuz gün içinde görevli idari yargı yerinde dava açılmalıdır. Bu durumda görevsiz yere başvuru tarihi, görevli yere başvuru tarihi sayılır (m. 9). Otuz gün geçmiş olsa bile idari dava süresi henüz dolmamışsa dava o süre içinde açılabilir. Adli yargıda açılan tam yargı davası görevsizlikle reddedilmişse, idari yargıda açılacak davada ayrıca idareye başvuru şartı aranmaz (m. 13).
 
-Kanunun öngördüğü bir idari başvuru yapılmadan doğrudan dava açılmışsa mahkeme dilekçeyi görevli idari mercie gönderir. Bu durumda mahkemeye başvuru tarihi, o mercie başvuru tarihi sayılır.
+Uyuşmazlığın önce bir idari merci tarafından incelenmesi gerekirken doğrudan dava açılmışsa (idari merci tecavüzü), mahkeme dilekçeyi görevli idari mercie gönderir. Bu durumda mahkemeye başvuru tarihi, o mercie başvuru tarihi sayılır (m. 15).
 
 Temmuz 2026'da yayımlanan 7589 sayılı Kanun İYUK'ta istinaf ve temyize ilişkin maddeleri değiştirdi; yukarıdaki dava açma sürelerine dokunmadı.
