@@ -553,7 +553,7 @@
       "title": "Miras önce bir kişiye, sonra başka bir kişiye bırakılabilir mi?",
       "url": "https://avukatonurdogan.com/yazilar/onmirasci-ve-artmirasci-atama/",
       "word_count": 926,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -562,7 +562,10 @@
           "not": "19 Ekim 2026 yeniden indirilen resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
         }
       ],
-      "commit": "e53b14e6db79699c8e23f99b31c47b46df9a2e64"
+      "commit": "e53b14e6db79699c8e23f99b31c47b46df9a2e64",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39230780185
     }
   ],
   "next_sequence": 32
