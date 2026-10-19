@@ -2,7 +2,7 @@
 
 Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 
-19 Ekim 2026 itibarıyla 26 metin ayrı kayıtlarla main dalına eklenmiştir. 26 yazının tamamının canlı kontrolü tamamlanmıştır. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
+19 Ekim 2026 itibarıyla 27 metin ayrı kayıtlarla main dalına eklenmiştir. İlk 26 yazı canlı doğrulanmıştır; 27. yazının kontrolü beklenmektedir. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
 
 ## Eklenen makaleler
 
@@ -35,6 +35,8 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 25. [Davadan vazgeçmek ne anlama gelir? Feragat, kabul ve davayı geri alma](https://avukatonurdogan.com/yazilar/davadan-feragat-kabul-ve-geri-alma/) — 1033 kelime; live_verified.
 
 26. [O da bana borçlu: alacağımı borcumdan takas yoluyla düşebilir miyim?](https://avukatonurdogan.com/yazilar/karsilikli-borclarda-takas-sartlari/) — 1044 kelime; live_verified.
+
+27. [Vergi ödevini süresinde yerine getiremiyorum: mücbir sebep ve mühlet](https://avukatonurdogan.com/yazilar/vergi-odevlerinde-mucbir-sebep-ve-muhlet/) — 1009 kelime; uploaded.
 
 ## Doğruluk ve devam kuralları
 
@@ -73,3 +75,5 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 26. yazı, karşılıklı borçlarda genel takas koşulları hakkındadır. TBK m. 139–145 ve 407, 19 Ekim 2026 tarihinde yeniden alınan resmî PDF üzerinden kontrol edildi; SHA-256: `052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9`. Güncel sitedeki takas atıfları tarandı; ücret kesintisi, kira takibi ve alacağın devri metinlerinden farklı olarak genel koşullar, bildirim ve rıza istisnaları ele alındı. 1044 kelime, dört ara başlık, üç Kısaca maddesi ve üç soru; `python build.py --kontrol` başarılı.
 
 26. yazının bekleyen kontrolü 19 Ekim 2026 tarihinde tamamlandı: yayın akışı 39176580724 başarılı, canlı sayfa HTTP 200 ve kayıtlı başlıkla doğrulandı. Makale yeniden oluşturulmadı. Güncel ilerleme: 26/200; kalan 174.
+
+27. makale 19 Ekim 2026 tarihinde eklendi. VUK m. 13–18, 20 ve geçici 36, yeniden indirilen resmî PDF üzerinden incelendi. SHA-256: `f04c9b088672ddaf6e861738346bc9eb07b2475e278a8eab7e06e8c46ef5f200`. Güncel bölgesel erteleme ilanı veya mükellefe özgü son tarih iddiası kullanılmadı. Konu taraması yapıldı; vergi incelemesi yazısındaki belge ibraz mühletinden farklı olarak genel mücbir sebep, mühlet ve süre hesabı işlendi. Metin 1009 kelime, dört ara başlık, üç Kısaca maddesi ve üç soru içerir; biçim denetimi başarılı.
