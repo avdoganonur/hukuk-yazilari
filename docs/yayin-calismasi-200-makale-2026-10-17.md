@@ -2,7 +2,7 @@
 
 Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 
-19 Ekim 2026 itibarıyla 27 metin ayrı kayıtlarla main dalına eklenmiştir. 27 yazının tamamı canlı doğrulanmıştır. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
+19 Ekim 2026 itibarıyla 28 metin ayrı kayıtlarla main dalına eklenmiştir. İlk 27 yazı canlı doğrulanmıştır; 28. yazının kontrolü beklenmektedir. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
 
 ## Eklenen makaleler
 
@@ -37,6 +37,8 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 26. [O da bana borçlu: alacağımı borcumdan takas yoluyla düşebilir miyim?](https://avukatonurdogan.com/yazilar/karsilikli-borclarda-takas-sartlari/) — 1044 kelime; live_verified.
 
 27. [Vergi ödevini süresinde yerine getiremiyorum: mücbir sebep ve mühlet](https://avukatonurdogan.com/yazilar/vergi-odevlerinde-mucbir-sebep-ve-muhlet/) — 1009 kelime; live_verified.
+
+28. [Mirastan yoksunluk: hangi davranışlar miras hakkını kaybettirir?](https://avukatonurdogan.com/yazilar/mirastan-yoksunluk-sebepleri-af-ve-altsoy/) — 979 kelime; uploaded.
 
 ## Doğruluk ve devam kuralları
 
@@ -79,3 +81,5 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 27. makale 19 Ekim 2026 tarihinde eklendi. VUK m. 13–18, 20 ve geçici 36, yeniden indirilen resmî PDF üzerinden incelendi. SHA-256: `f04c9b088672ddaf6e861738346bc9eb07b2475e278a8eab7e06e8c46ef5f200`. Güncel bölgesel erteleme ilanı veya mükellefe özgü son tarih iddiası kullanılmadı. Konu taraması yapıldı; vergi incelemesi yazısındaki belge ibraz mühletinden farklı olarak genel mücbir sebep, mühlet ve süre hesabı işlendi. Metin 1009 kelime, dört ara başlık, üç Kısaca maddesi ve üç soru içerir; biçim denetimi başarılı.
 
 27. yazının yayın akışı 39194578202 başarıyla tamamlandı. Canlı sayfa 19 Ekim 2026 tarihinde HTTP 200 ve kayıtlı başlıkla doğrulandı. `python build.py --kontrol` ve yerel site derlemesi başarılıdır. Bu devam adımında bir yeni makale yayımlandı; 26. yazının bekleyen kontrolü de tamamlandı. Güncel ilerleme: 27/200; kalan 173.
+
+28. yazı 19 Ekim 2026 tarihinde eklendi. TMK m. 6, 510, 512, 575 ve 577–581 güncel resmî PDF üzerinden kontrol edildi; SHA-256: `e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178`. Sitedeki başlık ve içerik taramasında mirastan yoksunluğun yalnız çıkarma yazısında kısa karşılaştırma olarak bulunduğu görüldü; yeni yazı dört yoksunluk sebebi, af ve altsoy üzerinde yoğunlaşır. Metin 979 kelime, dört ara başlık, üç Kısaca maddesi ve üç soru içerir. `python build.py --kontrol` başarılıdır. Yayın commit'i: `3c63096bf192d091d4c2f1de79dcb55ec745a64f`.
