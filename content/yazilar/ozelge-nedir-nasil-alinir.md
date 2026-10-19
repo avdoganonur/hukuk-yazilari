@@ -41,9 +41,9 @@ Gelir İdaresi Başkanlığı bu taleplere özelge ile cevap verebilir. Aynı ma
 
 Meslek odaları ve birlikler, üyelerine bildirmek amacıyla özelge talep edemez. Bu durumda talebi üyelerin kendisi yapmalıdır.
 
-Tebliğe göre talep Gelir İdaresi Başkanlığına değil, doğrudan yetkili vergi dairesi başkanlığına ya da defterdarlığa yapılır. Mükellefler, gelir veya kurumlar vergisi mükellefiyetinin bulunduğu vergi dairesinin bağlı olduğu yere başvurur. Talep, tebliğ ekindeki form kullanılarak yapılır; formsuz yapılan talepler kabul edilmez.
+Talebin hangi birime ve hangi kanaldan yapılacağı, Gelir İdaresi Başkanlığının düzenlemelerine göre belirlenir ve talep bu düzenlemelerde öngörülen form kullanılarak yapılır. Başvuru usulü zaman içinde değişebildiğinden, talepte bulunmadan önce güncel usulün Başkanlıktan ya da bağlı olunan vergi dairesinden öğrenilmesi yerinde olur.
 
-Formda olayın açık ve eksiksiz anlatılması önemlidir. İdarenin vereceği cevap, mükellefin anlattığı olaya göre şekillenir. Olay eksik ya da farklı anlatılırsa, verilen özelge gerçekte yapılan işlemi karşılamayabilir.
+Talepte olayın açık ve eksiksiz anlatılması önemlidir. İdarenin vereceği cevap, mükellefin anlattığı olaya göre şekillenir. Olay eksik ya da farklı anlatılırsa, verilen özelge gerçekte yapılan işlemi karşılamayabilir.
 
 ## Hangi konularda özelge istenemez
 

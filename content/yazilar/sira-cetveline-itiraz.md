@@ -49,7 +49,7 @@ Sıralamada ilk soru, alacağın rehinle güvence altına alınıp alınmadığ�
 
 Rehinle güvence altına alınmamış alacaklar için kanun, iflas hâlindeki sıralamayı esas alır. Alacaklılar, 206. madde uyarınca iflas hâlinde hangi sıraya girmeleri gerekiyorsa o sıraya kabul edilir (m. 140). Bu maddede dört sıra vardır:
 
-- Birinci sırada kanunda sayılan belirli işçi alacakları ve nafaka alacakları,
+- Birinci sırada, başta belirli işçi alacakları ve nafaka alacakları olmak üzere kanunda sayılan alacaklar,
 - İkinci sırada, malları borçlunun yönetimine bırakılmış olan ve kanunda sayılan kişilerin bazı alacakları,
 - Üçüncü sırada özel kanunlarda imtiyazlı sayılan alacaklar,
 - Dördüncü sırada imtiyazı olmayan diğer bütün alacaklar yer alır.
