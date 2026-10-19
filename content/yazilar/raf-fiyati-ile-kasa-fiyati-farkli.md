@@ -37,7 +37,7 @@ Tüketicinin Korunması Hakkında Kanun'un 54. maddesi, perakende satılan her m
 
 Aynı maddenin ikinci fıkrası asıl sorunun cevabıdır. Etiket, tarife ve fiyat listelerinde belirtilen fiyat ile kasa fiyatı arasında fark varsa, tüketici lehine olan fiyat uygulanır. Uygulamada bu, iki fiyattan düşük olanı ödemeniz demektir. Kural yalnızca marketler için değildir; mağaza, kırtasiye, manav gibi perakende satış yapan her işletme bu yükümlülük altındadır.
 
-Ayrıntılar, kanuna dayanılarak çıkarılan Fiyat Etiketi Yönetmeliği'nde düzenlenmiştir. Yönetmeliğin 10. maddesi kanundaki kuralı tekrarlar: malın satış fiyatı ile kasa fiyatı arasında fark olması durumunda tüketici lehine olan fiyat uygulanır. Yönetmelik ayrıca etiketin raf üzerine de konulabileceğini, etiketin hangi mala ait olduğunun açıkça belli olması gerektiğini ve yanıltıcı bilgi içeremeyeceğini söyler. Etikette fiyatın uygulanmaya başladığı tarihin de yazılması zorunludur.
+Ayrıntılar, kanuna dayanılarak çıkarılan Fiyat Etiketi Yönetmeliği'nde düzenlenmiştir. Yönetmeliğin 10. maddesi kanundaki kuralı tekrarlar: raftaki fiyat ile kasa fiyatı arasında fark olması durumunda tüketici lehine olan fiyat uygulanır. Yönetmelik ayrıca etiketin raf üzerine de konulabileceğini, etiketin hangi mala ait olduğunun açıkça belli olması gerektiğini ve yanıltıcı bilgi içeremeyeceğini söyler. Etikette fiyatın uygulanmaya başladığı tarihin de yazılması zorunludur.
 
 Satıcının "o ürün satılık değil" demesi de çoğu zaman bir çıkış yolu değildir. Kanunun 6. maddesine göre vitrinde, rafta ya da açıkça görülebilen bir yerde teşhir edilen malın satışından, satılık olmadığı yazılmadıkça kaçınılamaz.
 

@@ -11,9 +11,9 @@ dayanak:
   - ad: "193 sayılı Gelir Vergisi Kanunu m. 80"
     not: "Değer artışı kazancının diğer kazanç ve iratlar arasında sayılması"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=193&MevzuatTur=1&MevzuatTertip=4"
-  - ad: "193 sayılı Gelir Vergisi Kanunu m. Mükerrer 80"
+  - ad: "193 sayılı Gelir Vergisi Kanunu mükerrer m. 80"
     not: "Beş yıl kuralı, ivazsız edinme istisnası, elden çıkarma tanımı ve yıllık istisna"
-  - ad: "193 sayılı Gelir Vergisi Kanunu m. Mükerrer 81"
+  - ad: "193 sayılı Gelir Vergisi Kanunu mükerrer m. 81"
     not: "Safi kazancın hesabı ve maliyet bedelinin endekslenmesi"
   - ad: "193 sayılı Gelir Vergisi Kanunu m. 37"
     not: "Gayrimenkul alım satımıyla devamlı uğraşanların kazancı"
@@ -73,7 +73,7 @@ Hesap kabaca şu sırayla yapılır:
 3. Satış bedelinden endekslenmiş alış bedeli, satış giderleri ve satıcının ödediği vergi ve harçlar çıkarılır.
 4. Bulunan kazançtan o yılın istisna tutarı düşülür.
 
-Rakamlar yalnızca anlatım içindir. Bir kişi konutu üç yıl önce 2.000.000 TL'ye almış, bugün 4.000.000 TL'ye satmış olsun. Alış tarihi ile satıştan önceki ay arasındaki endeks artışı yüzde 60 ise alış bedeli 3.200.000 TL'ye yükselir. Satıcının üzerinde kalan harç ve giderler 100.000 TL tutuyorsa safi kazanç 700.000 TL olur. Vergiye tabi kısım, bu tutardan o yılın istisnası düşüldükten sonra kalan miktardır.
+Rakamlar yalnızca anlatım içindir. Bir kişi konutu üç yıl önce 2.000.000 TL'ye almış, bugün 4.000.000 TL'ye satmış olsun. Kanunda öngörülen dönem için hesaplanan endeks artışı yüzde 60 ise alış bedeli 3.200.000 TL'ye yükselir. Satıcının üzerinde kalan harç ve giderler 100.000 TL tutuyorsa safi kazanç 700.000 TL olur. Vergiye tabi kısım, bu tutardan o yılın istisnası düşüldükten sonra kalan miktardır.
 
 Endeksleme olmasaydı aynı satışta kazanç 1.900.000 TL görünecekti. Aradaki fark, endekslemenin enflasyonun yarattığı görünüşteki kazancı vergiden ne ölçüde ayıkladığını gösterir. Endeks artışının hangi aylar arasında hesaplandığına bu yüzden dikkat etmek gerekir.
 

@@ -73,7 +73,7 @@ Tazminatı ödeyen işveren, ödediği parayı belli ölçüde çalışandan ger
 
 Çalışan ile işveren arasında iş sözleşmesi varsa, 400. madde de devreye girer. İşçi işverene kusuruyla verdiği zarardan sorumludur. Bu sorumluluk belirlenirken işin tehlikeli olup olmadığı, uzmanlık ve eğitim gerektirip gerektirmediği ve işçinin işverence bilinen ya da bilinmesi gereken yetenekleri dikkate alınır.
 
-Rücu isteminin de zamanaşımı vardır. Bu süre, tazminatın tamamının ödendiği ve birlikte sorumlu kişinin öğrenildiği tarihten itibaren iki yıl, her hâlde ödemeden itibaren on yıldır (73. madde).
+Kanun, haksız fiilden birlikte sorumlu olanlar arasındaki rücu istemi için ayrı bir zamanaşımı da öngörür: tazminatın tamamının ödendiği ve birlikte sorumlu kişinin öğrenildiği tarihten itibaren iki yıl, her hâlde tazminatın tamamının ödendiği tarihten itibaren on yıl (73. madde).
 
 ## Aranızda sözleşme varsa durum farklıdır
 

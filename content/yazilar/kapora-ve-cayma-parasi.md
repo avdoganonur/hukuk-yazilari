@@ -64,7 +64,7 @@ Kapora bağlanma parası niteliğindeyse ve taraflardan biri borcunu yerine geti
 
 Sözleşmeden dönülürse taraflar karşılıklı olarak ifa yükümlülüğünden kurtulur ve daha önce verdiklerini geri isteyebilir. Kapora da bu kapsamdadır. Temerrüde düşen taraf kusursuz olduğunu ispat edemezse, karşı taraf sözleşmenin hükümsüz kalmasından doğan zararını da isteyebilir.
 
-Bu sistemde kaporanın kendiliğinden "yanması" ya da iki katının istenmesi diye bir sonuç yoktur. Örneğin alıcı vazgeçti diye satıcı kaporayı tek taraflı olarak alıkoyamaz. Satıcının zararı varsa bunu ayrıca ileri sürmesi gerekir. Satıcı vazgeçtiyse de alıcı iki katını değil, verdiği parayı ve varsa ispat ettiği zararını isteyebilir.
+Bu sistemde kaporanın kendiliğinden "yanması" ya da iki katının istenmesi diye bir sonuç yoktur. Örneğin alıcı vazgeçti diye kapora kendiliğinden satıcıya kalmaz. Satıcının zararı varsa bunu ayrıca ileri sürmesi gerekir. Satıcı vazgeçtiyse de alıcı iki katını değil, verdiği parayı ve varsa ispat ettiği zararını isteyebilir.
 
 ## Sözleşme geçersizse kapora iadesi
 

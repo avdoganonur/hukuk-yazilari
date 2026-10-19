@@ -85,7 +85,7 @@ Su kurudukça iz de kaybolur. Bu yüzden ispat için zaman önemlidir:
 - Tesisatçının arıza tespitini ve onarım faturalarını saklayın.
 - Hasarlı eşyayı, değeri belirlenmeden atmayın.
 
-Asıl güçlü delil, mahkeme aracılığıyla yaptırılan delil tespitidir. Hukuk Muhakemeleri Kanunu m. 400'e göre ileride açılacak davada ileri sürülecek bir vakıa için keşif ve bilirkişi incelemesi istenebilir. Delilin hemen tespit edilmezse kaybolacağı ya da ispatının önemli ölçüde zorlaşacağı ihtimali varsa hukuki yarar var sayılır; kuruyup kaybolan su izi bunun tipik örneğidir. Delil tespitinin usulü ayrı bir yazıda anlatılıyor.
+Asıl güçlü delil, mahkeme aracılığıyla yaptırılan delil tespitidir. Hukuk Muhakemeleri Kanunu m. 400'e göre ileride açılacak davada ileri sürülecek bir vakıa için keşif ve bilirkişi incelemesi istenebilir. Delilin hemen tespit edilmezse kaybolacağı ya da ispatının önemli ölçüde zorlaşacağı ihtimali varsa hukuki yarar var sayılır; kuruyup kaybolan su izi bunun tipik örneğidir.
 
 ## Arabuluculuk, dava ve zamanaşımı
 
