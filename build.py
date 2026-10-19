@@ -15,6 +15,7 @@ import hashlib
 import html
 import json
 import math
+import os
 import re
 import shutil
 import sys
@@ -28,8 +29,9 @@ import yaml
 KOK = Path(__file__).resolve().parent
 YAZILAR = KOK / "content" / "yazilar"
 SAYFALAR = KOK / "content" / "sayfalar"
+ARACLAR = KOK / "content" / "araclar"
 STATIK = KOK / "static"
-CIKTI = KOK / "dist"
+CIKTI = Path(os.environ["CIKTI_DIZIN"]).resolve() if os.environ.get("CIKTI_DIZIN") else KOK / "dist"
 TZ = ZoneInfo("Europe/Istanbul")
 AYLAR = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz",
          "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
@@ -215,6 +217,7 @@ def yazilari_yukle() -> tuple[list[dict], list[str]]:
 # ---------------------------------------------------------------- şablonlar
 
 CSS_SURUM = ""
+ARAC_SAYISI = 0
 
 
 def sayfa(*, baslik: str, aciklama: str, yol: str, icerik: str, aktif: str = "",
@@ -270,6 +273,7 @@ def sayfa(*, baslik: str, aciklama: str, yol: str, icerik: str, aktif: str = "",
     </a>
     <nav class="menu" aria-label="Ana menü">
       {menu('/yazilar/', 'Yazılar', 'yazilar')}
+      {menu('/hesaplama-araclari/', 'Hesaplama araçları', 'araclar')}
       {menu('/hakkinda/', 'Hakkında', 'hakkinda')}
     </nav>
   </div>
@@ -606,6 +610,157 @@ def bulunamadi() -> str:
                  icerik=icerik)
 
 
+# ---------------------------------------------------------------- hesaplama araçları
+
+ARAC_GRUPLARI = {
+    "sure-faiz": "Süre ve faiz",
+    "harc-vergi": "Harç, masraf ve vergi",
+    "is": "İş hukuku",
+    "ucret": "Vekâlet ve arabuluculuk ücreti",
+    "miras": "Miras",
+    "sgk": "Sosyal güvenlik",
+    "diger": "Diğer",
+}
+
+
+def arac_oku(yol: Path) -> dict:
+    ad = yol.name
+    metin = yol.read_text(encoding="utf-8")
+    m = re.match(r"\A---\s*\n(.*?)\n---\s*\n(.*)\Z", metin, re.S)
+    if not m:
+        raise YaziHatasi(f"araç {ad}: dosya, --- satırları arasında bilgi bölümüyle başlamalı")
+    bilgi = yaml.safe_load(m.group(1)) or {}
+    govde = m.group(2).strip()
+    hatalar = []
+    if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", yol.stem):
+        hatalar.append("dosya adı yalnızca küçük harf, rakam ve tire içermeli")
+    for alan in ("baslik", "kisa_ad", "aciklama", "nasil"):
+        if not isinstance(bilgi.get(alan), str) or not bilgi[alan].strip():
+            hatalar.append(f"'{alan}' alanı eksik")
+    if isinstance(bilgi.get("aciklama"), str) and not 50 <= len(bilgi["aciklama"]) <= 160:
+        hatalar.append(f"aciklama 50–160 karakter olmalı (şu an {len(bilgi['aciklama'])})")
+    if bilgi.get("grup") not in ARAC_GRUPLARI:
+        hatalar.append(f"grup şunlardan biri olmalı: {', '.join(ARAC_GRUPLARI)}")
+    if not isinstance(bilgi.get("guncelleme"), dt.date):
+        hatalar.append("guncelleme YYYY-AA-GG biçiminde olmalı (parametrelerin son kontrol tarihi)")
+    kaynaklar = bilgi.get("kaynaklar") or []
+    if not isinstance(kaynaklar, list) or not kaynaklar:
+        hatalar.append("en az bir kaynak (kanun, tarife, Resmî Gazete) yazılmalı")
+    else:
+        for i, k in enumerate(kaynaklar, 1):
+            if not isinstance(k, dict) or not isinstance(k.get("ad"), str):
+                hatalar.append(f"kaynak {i}: 'ad' alanı eksik")
+    for v in bilgi.get("veri") or []:
+        if not (STATIK / "araclar" / f"veri-{v}.js").exists():
+            hatalar.append(f"veri dosyası yok: static/araclar/veri-{v}.js")
+    if "<form" not in govde:
+        hatalar.append("gövdede bir <form> olmalı")
+    tum = " ".join(str(bilgi.get(a, "")) for a in ("baslik", "aciklama", "nasil")) + govde
+    for kalip in YASAK_IFADELER:
+        b = re.search(kalip, tum, re.I)
+        if b:
+            hatalar.append(f"reklam yasağı açısından sorunlu ifade: '{b.group(0)}'")
+    if hatalar:
+        raise YaziHatasi(f"araç {ad}:\n  - " + "\n  - ".join(hatalar))
+    return {
+        "slug": yol.stem, "baslik": bilgi["baslik"], "kisa_ad": bilgi["kisa_ad"],
+        "aciklama": bilgi["aciklama"], "grup": bilgi["grup"], "sira": int(bilgi.get("sira", 50)),
+        "nasil": bilgi["nasil"], "kaynaklar": kaynaklar, "guncelleme": bilgi["guncelleme"],
+        "ilgili": bilgi.get("ilgili_yazilar") or [], "taslak": bool(bilgi.get("taslak", False)),
+        "govde": govde, "yol": f"/hesaplama-araclari/{yol.stem}/", "veri": bilgi.get("veri") or [],
+    }
+
+
+def araclari_yukle() -> tuple[list[dict], list[str]]:
+    araclar, hatalar = [], []
+    if ARACLAR.exists():
+        for yol in sorted(ARACLAR.glob("*.html")):
+            try:
+                araclar.append(arac_oku(yol))
+            except YaziHatasi as h:
+                hatalar.append(str(h))
+    araclar.sort(key=lambda a: (list(ARAC_GRUPLARI).index(a["grup"]), a["sira"], a["kisa_ad"]))
+    return araclar, hatalar
+
+
+JS_SURUM = ""
+DOSYA_SURUM: dict = {}
+
+
+def araclar_dizini(araclar: list[dict]) -> str:
+    bolumler = []
+    for anahtar, ad in ARAC_GRUPLARI.items():
+        grup = [a for a in araclar if a["grup"] == anahtar]
+        if not grup:
+            continue
+        kartlar = "".join(
+            f'<li><a href="{a["yol"]}"><span class="arac-kart-ad">{e(a["kisa_ad"])}</span>'
+            f'<span class="arac-kart-acik">{e(a["aciklama"])}</span></a></li>' for a in grup)
+        bolumler.append(f'<section class="arac-grup" aria-labelledby="g-{anahtar}">'
+                        f'<h2 id="g-{anahtar}" class="bolum-baslik">{e(ad)}</h2>'
+                        f'<ul class="arac-kartlar">{kartlar}</ul></section>')
+    icerik = f"""<section class="kap sayfa-bas">
+  <h1>Hesaplama araçları</h1>
+  <p class="sayfa-acik">Süre, faiz, harç, işçilik alacakları ve miras payı gibi sık sorulan hesaplar için {len(araclar)} araç. Her araçta kullanılan oranların dayandığı kaynak ve son kontrol tarihi yazılıdır. Sonuçlar yaklaşık bilgi içindir.</p>
+</section>
+<div class="kap arac-dizin">{''.join(bolumler)}</div>"""
+    return sayfa(baslik="Hesaplama araçları",
+                 aciklama="Süre, faiz, dava ve icra harcı, kıdem ve ihbar tazminatı, miras payı gibi hukuki hesaplar için ücretsiz hesaplama araçları.",
+                 yol="/hesaplama-araclari/", icerik=icerik, aktif="araclar")
+
+
+def arac_sayfasi(arac: dict, yazilar: list[dict], araclar: list[dict]) -> str:
+    kaynaklar = "".join(
+        "<li>" + (f'<a href="{e(k["url"])}" rel="noopener">{e(k["ad"])}</a>' if k.get("url") else e(k["ad"]))
+        + (f' <span class="kaynak-not">{e(k["not"])}</span>' if k.get("not") else "") + "</li>"
+        for k in arac["kaynaklar"])
+    yazi_haritasi = {y["slug"]: y for y in yazilar}
+    ilgili = [yazi_haritasi[s] for s in arac["ilgili"] if s in yazi_haritasi]
+    ilgili_html = ""
+    if ilgili:
+        ilgili_html = ('<section class="arac-bolum" aria-labelledby="ilgili-b"><h2 id="ilgili-b">İlgili yazılar</h2><ul class="arac-ilgili">'
+                       + "".join(f'<li><a href="{y["yol"]}">{e(y["baslik"])}</a></li>' for y in ilgili)
+                       + "</ul></section>")
+    diger = [a for a in araclar if a["grup"] == arac["grup"] and a["slug"] != arac["slug"]]
+    diger_html = ""
+    if diger:
+        diger_html = ('<section class="arac-bolum" aria-labelledby="diger-b"><h2 id="diger-b">Diğer araçlar</h2><ul class="arac-ilgili">'
+                      + "".join(f'<li><a href="{a["yol"]}">{e(a["kisa_ad"])}</a></li>' for a in diger)
+                      + "</ul></section>")
+    veri_betikleri = "".join(
+        f'  <script src="/araclar/veri-{v}.js?v={DOSYA_SURUM.get("veri-" + v, "")}"></script>\n'
+        for v in arac["veri"])
+    icerik = f"""<article class="kap arac">
+  <header class="arac-bas">
+    <p class="ust-baglanti"><a href="/hesaplama-araclari/">Hesaplama araçları</a> · {e(ARAC_GRUPLARI[arac['grup']])}</p>
+    <h1>{e(arac['baslik'])}</h1>
+    <p class="sayfa-acik">{e(arac['aciklama'])}</p>
+  </header>
+  <script src="/araclar/ortak.js?v={JS_SURUM}"></script>
+{veri_betikleri}
+  <div class="arac-alan">
+{arac['govde']}
+  </div>
+  <p class="arac-uyari">Sonuç, girdiğiniz bilgilere göre yapılan yaklaşık bir hesaptır. Somut olaydaki koşullar, mahkemenin ya da kurumun değerlendirmesi sonucu değiştirebilir; bu araç hukuki danışmanlık yerine geçmez.</p>
+  <section class="arac-bolum yazi-govde" aria-labelledby="nasil-b">
+    <h2 id="nasil-b">Nasıl hesaplanır?</h2>
+    {md_donustur(arac['nasil'])}
+  </section>
+  <section class="arac-bolum" aria-labelledby="kaynak-b">
+    <h2 id="kaynak-b">Dayanak ve kaynaklar</h2>
+    <ul class="arac-kaynaklar">{kaynaklar}</ul>
+    <p class="arac-guncel">Oranlar ve tutarlar en son {tarih_tr(arac['guncelleme'])} tarihinde kontrol edildi.</p>
+  </section>
+  {ilgili_html}
+  {diger_html}
+</article>"""
+    jsonld = {"@context": "https://schema.org", "@type": "WebApplication", "name": arac["baslik"],
+              "description": arac["aciklama"], "url": tam_url(arac["yol"]), "applicationCategory": "UtilitiesApplication",
+              "operatingSystem": "Web", "inLanguage": "tr", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "TRY"}}
+    return sayfa(baslik=arac["baslik"], aciklama=arac["aciklama"], yol=arac["yol"], icerik=icerik,
+                 aktif="araclar", jsonld=[jsonld])
+
+
 # ---------------------------------------------------------------- akışlar
 
 def rss(yazilar: list[dict]) -> str:
@@ -633,11 +788,13 @@ def rss(yazilar: list[dict]) -> str:
 """
 
 
-def site_haritasi(yazilar: list[dict]) -> str:
+def site_haritasi(yazilar: list[dict], araclar: list[dict] | None = None) -> str:
     adresler = [("/", yazilar[0]["tarih"] if yazilar else BUGUN), ("/yazilar/", None),
                 ("/hakkinda/", None), ("/yasal-uyari/", None)]
     adresler += [(f"/konu/{a}/", None) for a, _, _ in alan_sayilari(yazilar)]
     adresler += [(y["yol"], y["guncelleme"] or y["tarih"]) for y in yazilar]
+    if araclar:
+        adresler += [("/hesaplama-araclari/", None)] + [(a["yol"], a["guncelleme"]) for a in araclar]
     satirlar = "".join(
         f"\n  <url><loc>{tam_url(yol)}</loc>" + (f"<lastmod>{t.isoformat()}</lastmod>" if t else "") + "</url>"
         for yol, t in adresler)
@@ -709,11 +866,13 @@ def yaz(yol: str, metin: str) -> None:
 
 
 def main() -> int:
-    global CSS_SURUM
+    global CSS_SURUM, JS_SURUM, ARAC_SAYISI
     yazilar, hatalar = yazilari_yukle()
     for y in yazilar:
         for u in y["uyarilar"]:
             print(f"Uyarı – {y['slug']}: {u}")
+    araclar, arac_hatalari = araclari_yukle()
+    hatalar += arac_hatalari
     if hatalar:
         print("Yazılarda düzeltilmesi gereken hatalar var:\n" + "\n".join(hatalar))
         return 1
@@ -726,6 +885,8 @@ def main() -> int:
                      key=lambda y: (y["tarih"], y["slug"]), reverse=True)
     bekleyen = [y["slug"] for y in yazilar if y not in yayinda]
     print(f"{len(yayinda)} yazı yayında" + (f", {len(bekleyen)} yazı bekliyor: {', '.join(bekleyen)}" if bekleyen else "."))
+    araclar = [a for a in araclar if not a["taslak"]]
+    print(f"{len(araclar)} hesaplama aracı.")
     if "--kontrol" in sys.argv:
         return 0
 
@@ -733,6 +894,11 @@ def main() -> int:
         shutil.rmtree(CIKTI)
     shutil.copytree(STATIK, CIKTI)
     CSS_SURUM = hashlib.md5((STATIK / "style.css").read_bytes()).hexdigest()[:8]
+    ortak = STATIK / "araclar" / "ortak.js"
+    JS_SURUM = hashlib.md5(ortak.read_bytes()).hexdigest()[:8] if ortak.exists() else ""
+    for v in (STATIK / "araclar").glob("veri-*.js"):
+        DOSYA_SURUM[v.stem] = hashlib.md5(v.read_bytes()).hexdigest()[:8]
+    ARAC_SAYISI = len(araclar)
 
     yaz("/", ana_sayfa(yayinda))
     yaz("/yazilar/", tum_yazilar(yayinda))
@@ -740,17 +906,21 @@ def main() -> int:
         yaz(f"/konu/{anahtar}/", konu_sayfasi(anahtar, ad, [y for y in yayinda if y["alan"] == anahtar], yayinda))
     for y in yayinda:
         yaz(y["yol"], yazi_sayfasi(y, yayinda))
+    if araclar:
+        yaz("/hesaplama-araclari/", araclar_dizini(araclar))
+        for a in araclar:
+            yaz(a["yol"], arac_sayfasi(a, yayinda, araclar))
     yaz("/hakkinda/", md_sayfa("hakkinda.md", "/hakkinda/", "hakkinda", [kisi_jsonld(), buro_jsonld()]))
     yaz("/yasal-uyari/", md_sayfa("yasal-uyari.md", "/yasal-uyari/"))
     yaz("/404.html", bulunamadi())
     yaz("/rss.xml", rss(yayinda))
-    yaz("/sitemap.xml", site_haritasi(yayinda))
+    yaz("/sitemap.xml", site_haritasi(yayinda, araclar))
     yaz("/robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {URL}/sitemap.xml\n")
     alan_adi = URL.split("//", 1)[-1]
     if not ON_EK and not alan_adi.endswith("github.io"):
         yaz("/CNAME", alan_adi + "\n")
     paylasim_gorselleri(yayinda)
-    print(f"Site {CIKTI.relative_to(KOK)}/ klasörüne üretildi.")
+    print(f"Site {CIKTI}/ klasörüne üretildi.")
     return 0
 
 

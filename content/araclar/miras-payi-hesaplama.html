@@ -1,0 +1,164 @@
+---
+baslik: "Miras payı hesaplama: yasal mirasçıların payları"
+kisa_ad: "Miras payı"
+aciklama: "Ölenin eşi, çocukları, torunları, anne-babası ve kardeşleri arasında yasal miras paylarını Türk Medeni Kanunu'na göre hesaplar."
+grup: miras
+sira: 10
+guncelleme: 2026-10-19
+ilgili_yazilar: [yasal-mirascilar-ve-miras-paylari, sakli-pay-ve-tenkis-davasi, mirascilik-belgesi-veraset-ilami-nasil-alinir, mirasin-reddi-sure-ve-usul]
+kaynaklar:
+  - ad: "4721 sayılı Türk Medeni Kanunu m. 495–501"
+    url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
+    not: "Kan hısımlarının zümreleri, sağ kalan eşin payı, Devletin mirasçılığı"
+nasil: |
+  Kanun mirasçıları zümrelere ayırır. Ölenin altsoyu (çocukları, onlardan önce ölmüş olanların çocukları) birinci zümredir ve miras önce onlara kalır; çocuklar eşit pay alır, mirastan önce ölmüş bir çocuğun payını onun altsoyu aralarında eşit böler (TMK m. 495).
+
+  Altsoy yoksa miras anne ve babaya eşit olarak kalır. Anne ya da babadan biri önce ölmüşse onun payını kendi altsoyu, yani ölenin kardeşleri alır; ölmüş olan tarafın hiç altsoyu yoksa pay diğer tarafa geçer (TMK m. 496). Bu nedenle tam kardeşler hem anne hem baba tarafından, ana bir ya da baba bir kardeşler yalnızca kendi taraflarından pay alır.
+
+  Sağ kalan eş, altsoyla birlikte mirasın dörtte birini, anne-baba zümresiyle birlikte yarısını, büyükanne-büyükbaba zümresiyle birlikte dörtte üçünü alır; bunlar da yoksa mirasın tamamı eşe kalır (TMK m. 499). Hiç yasal mirasçı yoksa miras Devlete geçer (TMK m. 501).
+
+  Araç; vasiyetname, miras sözleşmesi, mirastan çıkarma, mirasın reddi ve evlatlık ilişkisinin özel durumlarını hesaba katmaz. Büyükanne-büyükbaba zümresinin kendi içindeki paylaşımı ve kardeşlerden önce ölmüş olanların çocuklarına düşen pay ayrıca hesaplanmalıdır.
+---
+<form class="arac-form" id="miras-form" novalidate>
+  <div class="alan">
+    <label for="tereke">Terekenin değeri (isteğe bağlı)</label>
+    <input id="tereke" name="tereke" inputmode="decimal" data-para autocomplete="off" placeholder="Örn. 2.400.000">
+    <p class="ipucu">Girerseniz her mirasçıya düşen tutar da gösterilir.</p>
+  </div>
+  <label class="secim"><input type="checkbox" name="es" checked> Ölenin eşi sağ ve evlilik ölüm anında sürüyordu</label>
+  <fieldset>
+    <legend>Birinci zümre: altsoy</legend>
+    <div class="alan">
+      <label for="cocuk">Sağ olan çocuk sayısı</label>
+      <input id="cocuk" name="cocuk" type="number" min="0" max="30" step="1" value="0" inputmode="numeric">
+    </div>
+    <div class="alan">
+      <label for="olucocuk">Önce ölmüş çocukların sağ çocuk sayıları</label>
+      <input id="olucocuk" name="olucocuk" autocomplete="off" placeholder="Örn. 2, 1">
+      <p class="ipucu">Önce ölmüş her çocuk için, onun sağ çocuklarının sayısını virgülle yazın. Hiç çocuğu olmadan ölen çocuğu yazmayın.</p>
+    </div>
+  </fieldset>
+  <fieldset id="ikinci">
+    <legend>İkinci zümre: anne, baba ve kardeşler (altsoy yoksa)</legend>
+    <div class="secimler">
+      <label class="secim"><input type="checkbox" name="anne"> Anne sağ</label>
+      <label class="secim"><input type="checkbox" name="baba"> Baba sağ</label>
+    </div>
+    <div class="alan-cift">
+      <div class="alan">
+        <label for="tam">Anne-baba bir kardeş</label>
+        <input id="tam" name="tam" type="number" min="0" max="30" step="1" value="0" inputmode="numeric">
+      </div>
+      <div class="alan">
+        <label for="anabir">Ana bir kardeş</label>
+        <input id="anabir" name="anabir" type="number" min="0" max="30" step="1" value="0" inputmode="numeric">
+      </div>
+      <div class="alan">
+        <label for="bababir">Baba bir kardeş</label>
+        <input id="bababir" name="bababir" type="number" min="0" max="30" step="1" value="0" inputmode="numeric">
+      </div>
+    </div>
+    <p class="ipucu">Kardeş sayıları yalnızca anne ya da baba önce ölmüşse kullanılır.</p>
+  </fieldset>
+  <label class="secim"><input type="checkbox" name="ucuncu"> İlk iki zümrede kimse yoksa: büyükanne, büyükbaba ya da onların altsoyundan sağ olan biri var</label>
+  <div class="arac-dugmeler">
+    <button class="dugme" type="submit">Hesapla</button>
+    <button class="dugme dugme-ikincil" type="reset">Temizle</button>
+  </div>
+</form>
+<div class="arac-sonuc" id="miras-sonuc" aria-live="polite" hidden></div>
+<script>
+(function () {
+  function obeb(a, b) { while (b) { var t = b; b = a % b; a = t; } return a; }
+  function K(p, q) { var g = obeb(Math.abs(p), Math.abs(q)) || 1; return { p: p / g, q: q / g }; }
+  function carp(a, b) { return K(a.p * b.p, a.q * b.q); }
+  function topla(a, b) { return K(a.p * b.q + b.p * a.q, a.q * b.q); }
+  function yaz(k) { return k.q === 1 ? String(k.p) : k.p + "/" + k.q; }
+  function tamSayi(f, ad, etiket) {
+    var v = f.sayiVarsa(ad, 0);
+    if (v < 0 || Math.floor(v) !== v) throw new Error(etiket + " için 0 ya da pozitif tam sayı girin.");
+    return v;
+  }
+
+  HA.bagla(document.getElementById("miras-form"), document.getElementById("miras-sonuc"), function (f) {
+    var tereke = f.deger("tereke") ? f.sayi("tereke", "Terekenin değeri") : null;
+    if (tereke !== null && tereke < 0) throw new Error("Terekenin değeri negatif olamaz.");
+    var es = f.secili("es");
+    var cocuk = tamSayi(f, "cocuk", "Sağ olan çocuk sayısı");
+    var olu = f.deger("olucocuk") ? f.deger("olucocuk").split(/[,;\s]+/).filter(Boolean).map(function (x) {
+      var n = Number(x);
+      if (!isFinite(n) || n < 1 || Math.floor(n) !== n) throw new Error("Önce ölmüş çocuklar için 1 ya da daha büyük tam sayılar yazın.");
+      return n;
+    }) : [];
+    var paylar = [];
+    var zumre = "";
+    var esPay = null;
+    var kalan;
+
+    if (cocuk + olu.length > 0) {
+      zumre = "altsoy";
+      esPay = es ? K(1, 4) : null;
+      kalan = es ? K(3, 4) : K(1, 1);
+      var kol = cocuk + olu.length;
+      var kolPay = carp(kalan, K(1, kol));
+      if (cocuk) paylar.push(["Her bir çocuk (" + cocuk + " kişi)", kolPay, cocuk]);
+      olu.forEach(function (n, i) {
+        paylar.push(["Önce ölen " + (i + 1) + ". çocuğun her bir çocuğu (" + n + " kişi)", carp(kolPay, K(1, n)), n]);
+      });
+    } else {
+      var anne = f.secili("anne"), baba = f.secili("baba");
+      var tam = tamSayi(f, "tam", "Anne-baba bir kardeş"), ana = tamSayi(f, "anabir", "Ana bir kardeş"),
+          bab = tamSayi(f, "bababir", "Baba bir kardeş");
+      var anneTaraf = anne || tam + ana > 0, babaTaraf = baba || tam + bab > 0;
+      if (anneTaraf || babaTaraf) {
+        zumre = "anababa";
+        esPay = es ? K(1, 2) : null;
+        kalan = es ? K(1, 2) : K(1, 1);
+        var yarim = carp(kalan, K(1, 2));
+        var anneP = anneTaraf && babaTaraf ? yarim : (anneTaraf ? kalan : K(0, 1));
+        var babaP = anneTaraf && babaTaraf ? yarim : (babaTaraf ? kalan : K(0, 1));
+        var tamPay = K(0, 1), anaPay = null, babPay = null;
+        if (anne) paylar.push(["Anne", anneP, 1]);
+        else if (anneTaraf) {
+          var nA = tam + ana, kA = carp(anneP, K(1, nA));
+          tamPay = topla(tamPay, kA);
+          if (ana) anaPay = kA;
+        }
+        if (baba) paylar.push(["Baba", babaP, 1]);
+        else if (babaTaraf) {
+          var nB = tam + bab, kB = carp(babaP, K(1, nB));
+          tamPay = topla(tamPay, kB);
+          if (bab) babPay = kB;
+        }
+        if (tam && tamPay.p) paylar.push(["Her bir anne-baba bir kardeş (" + tam + " kişi)", tamPay, tam]);
+        if (anaPay) paylar.push(["Her bir ana bir kardeş (" + ana + " kişi)", anaPay, ana]);
+        if (babPay) paylar.push(["Her bir baba bir kardeş (" + bab + " kişi)", babPay, bab]);
+      } else if (f.secili("ucuncu")) {
+        zumre = "ucuncu";
+        esPay = es ? K(3, 4) : null;
+        paylar.push(["Büyükanne-büyükbaba zümresi (toplam)", es ? K(1, 4) : K(1, 1), 1]);
+      } else {
+        zumre = es ? "es" : "devlet";
+        esPay = es ? K(1, 1) : null;
+        if (!es) paylar.push(["Devlet (TMK m. 501)", K(1, 1), 1]);
+      }
+    }
+    if (esPay) paylar.unshift(["Sağ kalan eş", esPay, 1]);
+
+    var satirlar = paylar.map(function (r) {
+      var oran = r[1].p / r[1].q;
+      var satir = [r[0], yaz(r[1]), HA.yuzde(oran * 100)];
+      if (tereke !== null) satir.push(HA.tl(tereke * oran));
+      return satir;
+    });
+    var notlar = [];
+    if (zumre === "ucuncu") notlar.push("Büyükanne-büyükbaba zümresinin kendi içindeki paylaşımı (TMK m. 497–498) bu araçla ayrıntılı hesaplanmaz.");
+    if (zumre === "anababa") notlar.push("Önce ölmüş bir kardeşin payı onun çocuklarına geçer; bu durumda o kardeşin payını kendi çocukları arasında eşit bölün.");
+    if (zumre === "altsoy" && es) notlar.push("Eşin payı mal rejiminin tasfiyesinden (örneğin edinilmiş mallara katılma alacağından) sonra kalan tereke üzerinden hesaplanır.");
+    notlar.push("Paylar kişi başınadır. Vasiyetname, miras sözleşmesi, mirasın reddi ya da mirastan çıkarma sonucu değiştirir.");
+    var basliklar = ["Mirasçı", "Pay", "Oran"];
+    if (tereke !== null) basliklar.push("Tutar");
+    return { baslik: "Yasal miras payları", basliklar: basliklar, satirlar: satirlar, notlar: notlar };
+  });
+})();
+</script>
