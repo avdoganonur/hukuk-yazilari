@@ -658,7 +658,23 @@
         }
       ],
       "commit": "eb10f842992c4f7fe2e8c65d817a2858f8854229"
+    },
+    {
+      "slug": "miras-sebebiyle-istihkak-davasi",
+      "title": "Miras malı başkasının elindeyse miras sebebiyle istihkak davası açılabilir mi?",
+      "url": "https://avukatonurdogan.com/yazilar/miras-sebebiyle-istihkak-davasi/",
+      "word_count": 938,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 637–639, 993–995",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "d4b55cf4b603f5c10af611c9546b5cbf2d1e193f"
     }
   ],
-  "next_sequence": 37
+  "next_sequence": 38
 }
