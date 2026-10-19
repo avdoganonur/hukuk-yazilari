@@ -471,7 +471,23 @@
       "http_status": 200,
       "live_verified_date": "2026-10-19",
       "deployment_run_id": 39176580724
+    },
+    {
+      "slug": "vergi-odevlerinde-mucbir-sebep-ve-muhlet",
+      "title": "Vergi ödevini süresinde yerine getiremiyorum: mücbir sebep ve mühlet",
+      "url": "https://avukatonurdogan.com/yazilar/vergi-odevlerinde-mucbir-sebep-ve-muhlet/",
+      "word_count": 1009,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "213 sayılı Vergi Usul Kanunu m. 13–18, 20 ve geçici 36",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.213.pdf",
+          "not": "19 Ekim 2026 tarihinde yeniden alınan resmî PDF: SHA-256 f04c9b088672ddaf6e861738346bc9eb07b2475e278a8eab7e06e8c46ef5f200."
+        }
+      ],
+      "commit": "3d5f43b0f1de6df85c9fde24582500da7f0c2ee3"
     }
   ],
-  "next_sequence": 27
+  "next_sequence": 28
 }
