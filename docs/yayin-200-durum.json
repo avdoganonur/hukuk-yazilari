@@ -528,7 +528,42 @@
       "http_status": 200,
       "live_verified_date": "2026-10-19",
       "deployment_run_id": 39223317352
+    },
+    {
+      "slug": "ucretsiz-kullandirmada-kullanim-oduncu",
+      "title": "Eşyamı ücretsiz kullanması için verdim: ne zaman geri isteyebilirim?",
+      "url": "https://avukatonurdogan.com/yazilar/ucretsiz-kullandirmada-kullanim-oduncu/",
+      "word_count": 972,
+      "status": "live_verified",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 379–385",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "19 Ekim 2026 yeniden indirilen resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "b12be5f0118657da8b9cbaa78b0ab0a1b56c8580",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39230477724
+    },
+    {
+      "slug": "onmirasci-ve-artmirasci-atama",
+      "title": "Miras önce bir kişiye, sonra başka bir kişiye bırakılabilir mi?",
+      "url": "https://avukatonurdogan.com/yazilar/onmirasci-ve-artmirasci-atama/",
+      "word_count": 926,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 521–525",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "19 Ekim 2026 yeniden indirilen resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "e53b14e6db79699c8e23f99b31c47b46df9a2e64"
     }
   ],
-  "next_sequence": 30
+  "next_sequence": 32
 }
