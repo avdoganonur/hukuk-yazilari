@@ -496,7 +496,7 @@
       "title": "Mirastan yoksunluk: hangi davranışlar miras hakkını kaybettirir?",
       "url": "https://avukatonurdogan.com/yazilar/mirastan-yoksunluk-sebepleri-af-ve-altsoy/",
       "word_count": 979,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -505,7 +505,10 @@
           "not": "19 Ekim 2026 tarihinde yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
         }
       ],
-      "commit": "3c63096bf192d091d4c2f1de79dcb55ec745a64f"
+      "commit": "3c63096bf192d091d4c2f1de79dcb55ec745a64f",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39204354346
     }
   ],
   "next_sequence": 29
