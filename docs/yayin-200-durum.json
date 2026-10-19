@@ -620,7 +620,23 @@
         }
       ],
       "commit": "27ca8e5650591481d2c32d3a044d020606dcca31"
+    },
+    {
+      "slug": "kayip-esyayi-bulanin-yukumlulukleri",
+      "title": "Kaybolmuş bir eşya buldum: bildirim, koruma ve geri verme kuralları",
+      "url": "https://avukatonurdogan.com/yazilar/kayip-esyayi-bulanin-yukumlulukleri/",
+      "word_count": 924,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 769–774, 778",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "11c646bcffded5be5dbefaf4018b682061ada82f"
     }
   ],
-  "next_sequence": 35
+  "next_sequence": 36
 }
