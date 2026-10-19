@@ -49,7 +49,7 @@ sss:
   - soru: "Vergi dairesi takdir komisyonunun belirlediği değere göre ek harç isteyebilir mi?"
     cevap: "Harçlar Kanunu'nun 63. maddesi, takdir komisyonu kararlarına dayanarak bu madde uyarınca tarhiyat yapılamayacağını açıkça söyler. Eksik harç tarhı için beyan edilen bedelin gerçek durumu yansıtmadığının tespit edilmesi gerekir. Bu tespit, gerçek ödemeyi gösteren banka kayıtları, sözleşmeler veya benzeri somut belgelerle yapılabilir."
   - soru: "Vergi dairesi eksik harcı kaç yıl sonra isteyebilir?"
-    cevap: "Vergi Usul Kanunu'na göre vergi alacağının doğduğu takvim yılını izleyen yılın başından itibaren beş yıl içinde tarh edilip mükellefe tebliğ edilmeyen vergiler zamanaşımına uğrar. Tapu harcı da bu kurala tabidir. Örneğin 2026 yılında yapılan bir satışta süre 1 Ocak 2027'de başlar. Bu süre içinde gerçek bedel ortaya çıkarsa eksik harç ve ceza istenebilir."
+    cevap: "Vergi Usul Kanunu'na göre vergi alacağının doğduğu takvim yılını izleyen yılın başından itibaren beş yıl içinde tarh edilip mükellefe tebliğ edilmeyen vergiler zamanaşımına uğrar. Tapu harcı da bu kurala tabidir. Örneğin 2026 yılında yapılan bir satışta süre 1 Ocak 2027'de başlar. Eksik harç ve cezanın istenebilmesi için tarhiyatın bu süre içinde yapılıp mükellefe tebliğ edilmesi gerekir."
 ---
 Tapuda satış yapılırken alıcı ve satıcı satış bedelini beyan eder. Tapu harcı bu beyana göre hesaplandığı için bedelin gerçekte ödenenden düşük gösterilmesine sık rastlanır. Görünürde harçtan tasarruf sağlayan bu yol, ileride hem vergi hem de taraflar arasındaki ilişki bakımından beklenmedik sonuçlar doğurabilir.
 
@@ -69,9 +69,9 @@ Vergi ziyaı, mükellefin ödevini zamanında ya da tam yerine getirmemesi yüz�
 
 Bedeli düşük göstermenin etkisi tapu harcıyla sınırlı kalmayabilir:
 
-- Taşınmaz edinildiği tarihten itibaren beş yıl içinde satılırsa, doğan değer artışı kazancı gelir vergisine tabidir (Gelir Vergisi Kanunu mükerrer m. 80). Satış bedeli düşük beyan edilirse kazanç da eksik beyan edilmiş olur. Konuyu [konut satışında değer artış kazancı yazısında](/yazilar/konut-satisinda-deger-artis-kazanci-vergisi/) ayrıca anlattık.
+- Taşınmaz edinildiği tarihten itibaren beş yıl içinde satılırsa, doğan değer artışı kazancı kural olarak gelir vergisine tabidir (Gelir Vergisi Kanunu mükerrer m. 80). Satış bedeli düşük beyan edilirse kazanç da eksik beyan edilmiş olur. Konuyu [konut satışında değer artış kazancı yazısında](/yazilar/konut-satisinda-deger-artis-kazanci-vergisi/) ayrıca anlattık.
 - Bugün düşük bedelle alan kişi, taşınmazı beş yıl içinde satarsa maliyet olarak bu düşük bedel görünür ve hesaplanan kazancı kendi aleyhine büyür.
-- Satıcı fatura düzenlemek zorunda olan bir şirket ya da müteahhitse ve fatura da düşük bedelle kesilmişse, durum ağırlaşabilir. Gerçek bir işlemi miktar bakımından gerçeğe aykırı yansıtan belge, kanunda muhteviyatı itibarıyla yanıltıcı belge olarak tanımlanır. Böyle bir belgeyi düzenlemek ya da kullanmak on sekiz aydan beş yıla kadar hapis cezası gerektiren kaçakçılık suçlarındandır (m. 359). Bu fiillerle verginin ziyaa uğratılması hâlinde vergi ziyaı cezası üç kat uygulanır (m. 344).
+- Satıcı fatura düzenlemek zorunda olan bir şirket ya da müteahhitse ve fatura da düşük bedelle kesilmişse, durum ağırlaşabilir. Gerçek bir işlemi miktar bakımından gerçeğe aykırı yansıtan belge, kanunda muhteviyatı itibarıyla yanıltıcı belge olarak tanımlanır. Fatura bu tanıma girerse, vergi kanunlarına göre düzenlenen ve saklanıp ibraz edilmesi zorunlu olan böyle bir belgeyi düzenleyen ya da kullananlar için on sekiz aydan beş yıla kadar hapis cezası öngörülmüştür (m. 359). Vergi ziyaına bu fiillerle sebebiyet verilmişse vergi ziyaı cezası üç kat uygulanır (m. 344).
 
 Vergi ziyaı cezasının genel kuralları ve indirim imkânları [vergi ziyaı cezası yazısında](/yazilar/vergi-ziyai-cezasi/) yer alıyor.
 

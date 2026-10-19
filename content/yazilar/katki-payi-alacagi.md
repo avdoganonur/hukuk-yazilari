@@ -43,7 +43,7 @@ Boşanmada mal paylaşımı denince akla genellikle edinilmiş mallara katılma 
 
 ## 2002 öncesi evliliklerde mal rejimi
 
-Eski Medeni Kanun'da (743 sayılı Kanun, m. 170) eşler başka bir rejim seçmemişse mal ayrılığı rejimi uygulanırdı. Mal ayrılığında her eş kendi adına edindiği malların sahibidir. Evlilik sona erdiğinde de mallar bu yüzden paylaşılmaz; ev kimin adına kayıtlıysa onun olarak kalır.
+Eski Medeni Kanun'da (743 sayılı Kanun) eşler başka bir rejim seçmemişse mal ayrılığı rejimi uygulanırdı. Mal ayrılığında her eş kendi adına edindiği malların sahibidir. Evlilik sona erdiğinde de mallar bu yüzden paylaşılmaz; ev kimin adına kayıtlıysa onun olarak kalır.
 
 Yeni kanun yürürlüğe girince geçiş dönemi kuralları 4722 sayılı Kanun'un 10. maddesiyle belirlendi:
 
@@ -84,4 +84,4 @@ Davada katkının tutarını ve tarihini olabildiğince somut göstermek gerekir
 
 Görevli mahkeme aile mahkemesidir. 4787 sayılı Kanun, 4722 sayılı Kanun'a göre aile hukukundan doğan dava ve işleri de açıkça aile mahkemesinin görevine verir (m. 4). Aile mahkemesi kurulamayan yerlerde bu davalara bu iş için görevlendirilen asliye hukuk mahkemesi bakar (m. 2).
 
-Kanunda katkı payı alacağı için ayrıca düzenlenmiş bir zamanaşımı süresi yoktur. Türk Borçlar Kanunu'na göre kanunda aksine hüküm bulunmadıkça her alacak on yıllık zamanaşımına tabidir (m. 146). Evlilik devam ettiği sürece eşlerin birbirinden alacakları için zamanaşımı işlemez (m. 153). Delillerin zamanla kaybolabileceği de düşünülürse, talebi boşanmadan sonra bekletmeden ileri sürmek en güvenli yoldur.
+Süre bakımından Türk Borçlar Kanunu'nun iki genel kuralı önemlidir. Kanunda aksine bir hüküm bulunmadıkça her alacak on yıllık zamanaşımına tabidir (m. 146). Evlilik devam ettiği sürece eşlerin birbirinden olan alacakları için zamanaşımı işlemeye başlamaz, başlamışsa durur (m. 153). Delillerin zamanla kaybolabileceği de düşünülürse, talebi boşanmadan sonra bekletmeden ileri sürmek en güvenli yoldur.

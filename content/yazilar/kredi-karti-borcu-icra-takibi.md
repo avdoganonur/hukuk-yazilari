@@ -5,7 +5,7 @@ kisaca:
   - "Kredi kartı borcu için gelen ödeme emrine tebliğden itibaren yedi gün içinde icra dairesine itiraz edilebilir."
   - "Kart borcuna, temerrüt hâlinde bile, bileşik faiz uygulanamaz; azami faiz oranlarını Merkez Bankası belirler."
   - "Sözleşmede yer almayan faiz, komisyon ya da masraf adı altında kart hamilinden ödeme istenemez."
-  - "İtiraz edilirse banka bir yıl içinde itirazın iptali davası açabilir; haksız bulunan taraf tazminat öder."
+  - "İtiraz edilirse banka bir yıl içinde itirazın iptali davası açabilir; itirazı haksız bulunan borçlu tazminat öder."
 tarih: 2026-10-19
 alan: icra-hukuku
 dayanak:
@@ -42,7 +42,7 @@ dayanak:
     not: "Tüketici davalarında dava şartı arabuluculuk"
 sss:
   - soru: "Hesap özetine süresinde itiraz etmedim. Artık hiçbir kaleme karşı çıkamaz mıyım?"
-    cevap: "Kanuna göre son ödeme tarihinden itibaren on gün içinde itiraz edilmeyen hesap özeti kesinleşir. Ancak aynı madde, hesap özetinin kesinleşmesinin genel hükümlere göre dava hakkını ortadan kaldırmadığını da söyler. Bu yüzden haksız olduğunu düşündüğünüz bir kalemi icra takibinde ödeme emrine itiraz ederek ya da dava yoluyla yine tartışabilirsiniz; yalnız bu durumda ispat yükü daha ağır hissedilir."
+    cevap: "Kanuna göre son ödeme tarihinden itibaren on gün içinde itiraz edilmeyen hesap özeti kesinleşir. Ancak aynı madde, hesap özetinin kesinleşmesinin genel hükümlere göre dava hakkını ortadan kaldırmadığını da söyler. Bu yüzden haksız olduğunu düşündüğünüz bir kalemi icra takibinde ödeme emrine itiraz ederek ya da dava yoluyla yine tartışabilirsiniz."
   - soru: "Kart borcuna faizin faizi işletilebilir mi?"
     cevap: "Hayır. Banka Kartları ve Kredi Kartları Kanunu, temerrüt hâli de dahil olmak üzere kart uygulamasından doğan borçlarda bileşik faiz uygulanamayacağını açıkça söyler. Takip talebindeki hesapta faizin anaparaya eklenip yeniden faiz yürütüldüğünü görürseniz, bu kısma itiraz ederken bunu ayrıca belirtin."
   - soru: "Kefil olduğum kartın borcu için banka doğrudan bana gelebilir mi?"

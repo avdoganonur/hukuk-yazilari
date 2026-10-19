@@ -82,4 +82,4 @@ Kamu görevlisine görevinden dolayı işlenen hakaret dışında, soruşturma v
 
 Şikâyet süresi altı aydır ve mağdurun fiili ve failin kim olduğunu öğrendiği günden başlar. 2024'te eklenen kurala göre hakarette bu süre, fiilin gerçekleştiği tarihten itibaren her hâlde iki yılı geçemez (m. 73/2).
 
-Hakaret suçunda uzlaştırma yoluna gidilemez (Ceza Muhakemesi Kanunu m. 253/3). Buna karşılık kamu görevlisine görevinden dolayı yapılan hakaret dışında önödeme uygulanır (TCK m. 75/6). Önödemede savcılığın bildirdiği tutar ve soruşturma giderleri on gün içinde ödenirse kamu davası açılmaz. Önödeme kapsamındaki bu suçların beş yıl içinde tekrar işlenmesi hâlinde aynı suç için önödeme uygulanmaz.
+Şikâyete bağlı olsa bile 125. maddedeki hakaret suçunda uzlaştırma yoluna gidilemez (Ceza Muhakemesi Kanunu m. 253/3). Buna karşılık bu suçta, kamu görevlisine görevinden dolayı yapılan hakaret dışında önödeme uygulanır (TCK m. 75/6). Önödemede savcılığın bildirdiği tutar ve soruşturma giderleri on gün içinde ödenirse kamu davası açılmaz. Önödeme kapsamındaki bu suçların beş yıl içinde tekrar işlenmesi hâlinde aynı suç için önödeme uygulanmaz.
