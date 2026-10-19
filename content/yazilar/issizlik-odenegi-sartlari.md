@@ -3,7 +3,7 @@ baslik: "İşsizlik ödeneği kimlere verilir, kaç gün ödenir, başvuru süre
 aciklama: "İşsizlik ödeneği için işten çıkış nedeni, son 120 gün ve son üç yıldaki prim günü şartları, ödenek süreleri, otuz günlük başvuru süresi ve kesilme hâlleri."
 kisaca:
   - "İşsizlik ödeneği için işten ayrılış kanunda sayılan, işçinin kendi kusuru dışındaki nedenlerden birine dayanmalıdır."
-  - "Son 120 gün kesintisiz çalışmış ve son üç yılda en az 600 gün prim ödemiş olmak gerekir."
+  - "Son 120 gün hizmet akdine tabi olmak ve son üç yılda en az 600 gün prim ödemiş olmak gerekir."
   - "Ödenek, prim gününe göre 180, 240 veya 300 gün süreyle verilir."
   - "Başvuru, iş sözleşmesinin sona erdiği tarihi izleyen günden itibaren otuz gün içinde yapılmalıdır."
 tarih: 2026-10-19

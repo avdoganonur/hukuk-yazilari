@@ -20,7 +20,7 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Ticari araç ya da kamyon kullanıyorum. Benim için sınır farklı mı?"
-    cevap: "Evet. Kanun, hususi otomobil dışındaki araçları alkollü kullanan sürücüler için idari yaptırımdaki promil alt sınırının 0.21 olarak uygulanacağını söyler. Bu sürücüler 0.20 promilin üzerinde alkolle kazaya sebep olursa ayrıca Türk Ceza Kanunu'nun ilgili hükümleri uygulanır. Yük ve yolcu taşımacılığı yapılan araçlarda beş yıl içinde toplam üç ihlal hâlinde sürücü belgesi iptal edilir."
+    cevap: "Evet. Kanun, hususi otomobil dışındaki araçları alkollü kullanan sürücüler için idari yaptırımdaki promil alt sınırının 0.21 olarak uygulanacağını söyler. Bu sürücüler 0.20 promilin üzerinde alkolle kazaya sebep olursa ayrıca Türk Ceza Kanunu'nun ilgili hükümleri uygulanır. Kanunda sayılan yük ve yolcu taşımacılığı kapsamındaki araçları kullanırken alkollü araç kullanma ya da ölçüm yaptırmama ihlali beş yıl içinde toplam üç kez gerçekleşirse sürücü belgesi iptal edilir."
   - soru: "Para cezasını ödemeden ehliyetimi geri alabilir miyim?"
     cevap: "Hayır. Kanuna göre geçici olarak geri alınan sürücü belgesinin iade edilebilmesi için, kişi hakkında Karayolları Trafik Kanunu kapsamında verilen idari para cezalarının tamamının tahsil edilmiş olması şarttır."
   - soru: "Ölçüm sonucuna itiraz edersem ne olur?"

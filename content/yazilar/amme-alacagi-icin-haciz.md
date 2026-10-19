@@ -103,4 +103,4 @@ Haczedilen mal başkasına aitse, malın sahibi istihkak iddiasında bulunabilir
 
 İstihkak davalarına haczi yapan tahsil dairesinin bulunduğu yerdeki mahkeme bakar ve bu davalar diğer işlerden önce görülür. Davacı takibin ertelenmesini isteyebilir; mahkeme delillere göre ve yeterli teminat alarak buna karar verebilir. Takip ertelenmiş ve dava sonunda reddedilmişse, davacı aleyhine haczedilen malın değerinin yüzde onu tutarında tazminata hükmedilir.
 
-Haczin hukuka aykırı olduğu düşünülüyorsa, 6183 sayılı Kanunun uygulanmasına ilişkin davalara vergi mahkemeleri bakar. Dava açma süreleri, vergi mahkemesinde dava süresini anlatan yazıda ayrıca ele alınmıştır.
+Haczin hukuka aykırı olduğu düşünülüyorsa, vergi, resim, harç ve benzeri mali yükümlerin tahsilinde 6183 sayılı Kanunun uygulanmasına ilişkin davalara vergi mahkemeleri bakar. Dava açma süreleri, vergi mahkemesinde dava süresini anlatan yazıda ayrıca ele alınmıştır.
