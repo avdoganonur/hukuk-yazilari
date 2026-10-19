@@ -515,7 +515,7 @@
       "title": "İcra takibinde aciz belgesi alınırsa borç sona erer mi?",
       "url": "https://avukatonurdogan.com/yazilar/haciz-yoluyla-takipte-aciz-belgesi/",
       "word_count": 961,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -524,7 +524,10 @@
           "not": "19 Ekim 2026 tarihinde yeniden alınan güncel resmî PDF; SHA-256 1365a10578f7a12cd77cd067fcb15dc43969fa5762b7c23a4151651d3baef5b8."
         }
       ],
-      "commit": "efac90f0387be458c3c3e7fe5567be77c7bd7b6e"
+      "commit": "efac90f0387be458c3c3e7fe5567be77c7bd7b6e",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39223317352
     }
   ],
   "next_sequence": 30
