@@ -629,7 +629,7 @@
       "title": "Kaybolmuş bir eşya buldum: bildirim, koruma ve geri verme kuralları",
       "url": "https://avukatonurdogan.com/yazilar/kayip-esyayi-bulanin-yukumlulukleri/",
       "word_count": 924,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -638,8 +638,27 @@
           "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
         }
       ],
-      "commit": "11c646bcffded5be5dbefaf4018b682061ada82f"
+      "commit": "11c646bcffded5be5dbefaf4018b682061ada82f",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39311675636
+    },
+    {
+      "slug": "ceza-yargilamasinda-tercuman-ve-giderler",
+      "title": "Ceza yargılamasında tercüman ne zaman görevlendirilir, ücretini kim öder?",
+      "url": "https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-tercuman-ve-giderler/",
+      "word_count": 927,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "5271 sayılı Ceza Muhakemesi Kanunu m. 202, 324",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 46d9b6447ac516eaf56f2619665a01c079d5aa305b48b7b1a773a87b4045064a."
+        }
+      ],
+      "commit": "eb10f842992c4f7fe2e8c65d817a2858f8854229"
     }
   ],
-  "next_sequence": 36
+  "next_sequence": 37
 }
