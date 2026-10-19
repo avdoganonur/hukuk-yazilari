@@ -585,7 +585,23 @@
       "http_status": 200,
       "live_verified_date": "2026-10-19",
       "deployment_run_id": 39261271422
+    },
+    {
+      "slug": "vergi-yoklamasi-ve-yoklama-fisi",
+      "title": "İşyerine vergi yoklaması için gelindi: kimlik, tutanak ve imza kuralları",
+      "url": "https://avukatonurdogan.com/yazilar/vergi-yoklamasi-ve-yoklama-fisi/",
+      "word_count": 928,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "213 sayılı Vergi Usul Kanunu m. 127–133",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.213.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 f04c9b088672ddaf6e861738346bc9eb07b2475e278a8eab7e06e8c46ef5f200."
+        }
+      ],
+      "commit": "58b4e3dca45017d9d3085a3e1a11775e672fe621"
     }
   ],
-  "next_sequence": 33
+  "next_sequence": 34
 }
