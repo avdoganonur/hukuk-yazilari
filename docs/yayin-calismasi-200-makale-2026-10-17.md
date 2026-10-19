@@ -2,7 +2,7 @@
 
 Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 
-19 Ekim 2026 itibarıyla 29 metin ayrı kayıtlarla main dalına eklenmiştir. İlk 28 yazı canlı doğrulanmıştır; 29. yazının kontrolü beklenmektedir. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
+19 Ekim 2026 itibarıyla 29 metin ayrı kayıtlarla main dalına eklenmiştir. 29 yazının tamamı canlı doğrulanmıştır. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
 
 ## Eklenen makaleler
 
@@ -40,7 +40,7 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 
 28. [Mirastan yoksunluk: hangi davranışlar miras hakkını kaybettirir?](https://avukatonurdogan.com/yazilar/mirastan-yoksunluk-sebepleri-af-ve-altsoy/) — 979 kelime; live_verified.
 
-29. [İcra takibinde aciz belgesi alınırsa borç sona erer mi?](https://avukatonurdogan.com/yazilar/haciz-yoluyla-takipte-aciz-belgesi/) — 961 kelime; uploaded.
+29. [İcra takibinde aciz belgesi alınırsa borç sona erer mi?](https://avukatonurdogan.com/yazilar/haciz-yoluyla-takipte-aciz-belgesi/) — 961 kelime; live_verified.
 
 ## Doğruluk ve devam kuralları
 
@@ -89,3 +89,5 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 28. makalenin yayın akışı 39204354346 başarıyla tamamlandı. Canlı sayfa 19 Ekim 2026 tarihinde HTTP 200 ve kayıtlı H1 başlığıyla doğrulandı. Yerel site derlemesi ve site haritası kontrolü başarılıdır. Bu devam adımında bir yeni makale yayımlandı. Güncel ilerleme: 28/200; kalan 172.
 
 29. yazı 19 Ekim 2026 tarihinde eklendi. İİK m. 105, 143, 277 ve geçici 5, yeniden alınan resmî PDF üzerinden kontrol edildi; SHA-256: `1365a10578f7a12cd77cd067fcb15dc43969fa5762b7c23a4151651d3baef5b8`. Önceki yarım kalan metin tamamlandı; tekrar oluşturulmadı. Güncel başlık ve içerik taramasında konuya ilişkin diğer yazıların mal beyanı, kefalet ve miras bağlamındaki atıfları incelendi. Yeni yazı haciz yoluyla takipte belgenin düzenlenmesi, faiz, süreler ve terkin üzerinedir. Metin 961 kelime, dört ara başlık, üç Kısaca maddesi ve üç soru içerir. `python build.py --kontrol` başarılıdır. Başka oturumların beş yeni yazısı korunmuş, bu hedefe sayılmamıştır.
+
+29. makalenin yayın akışı 39223317352 başarıyla tamamlandı; canlı sayfa 19 Ekim 2026 tarihinde HTTP 200 ve doğru H1 başlığıyla doğrulandı. Yayın commit'i: `efac90f0387be458c3c3e7fe5567be77c7bd7b6e`. Güncel ilerleme: 29/200; kalan 171.
