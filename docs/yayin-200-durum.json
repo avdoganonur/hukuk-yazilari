@@ -572,7 +572,7 @@
       "title": "Hukuk davasında yemin teklif edilirse ne olur?",
       "url": "https://avukatonurdogan.com/yazilar/hukuk-davasinda-yemin-delili/",
       "word_count": 943,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -581,7 +581,10 @@
           "not": "19 Ekim 2026 yeniden indirilen resmî PDF; SHA-256 481c1389a8b144ff84e4674848dc566503a748b39d2d035d762d7dc9ef171edd."
         }
       ],
-      "commit": "ffb7f1d373f183d647e03fcff0d59e1167f89b4e"
+      "commit": "ffb7f1d373f183d647e03fcff0d59e1167f89b4e",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39261271422
     }
   ],
   "next_sequence": 33
