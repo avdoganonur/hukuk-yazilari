@@ -2,6 +2,8 @@
 
 Hukukçu olmayan okurlar için yazılmış hukuk yazılarının yayımlandığı site.
 
+**Site:** [avukatonurdogan.com](https://avukatonurdogan.com)
+
 ## Nasıl çalışır?
 
 - Yazılar `content/yazilar/` klasöründe, her biri bir Markdown (`.md`) dosyasıdır. Biçim ve içerik kuralları: [YAZIM-KURALLARI.md](YAZIM-KURALLARI.md).
