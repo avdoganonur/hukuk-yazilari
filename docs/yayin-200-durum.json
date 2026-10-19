@@ -667,7 +667,7 @@
       "title": "Miras malı başkasının elindeyse miras sebebiyle istihkak davası açılabilir mi?",
       "url": "https://avukatonurdogan.com/yazilar/miras-sebebiyle-istihkak-davasi/",
       "word_count": 938,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -676,7 +676,10 @@
           "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
         }
       ],
-      "commit": "d4b55cf4b603f5c10af611c9546b5cbf2d1e193f"
+      "commit": "d4b55cf4b603f5c10af611c9546b5cbf2d1e193f",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39312287348
     },
     {
       "slug": "hukuk-davasinda-kesif-ve-katlanma",
@@ -693,7 +696,23 @@
         }
       ],
       "commit": "36e3872d6f9dc6f75b8223fa473d31d5a6b6d52d"
+    },
+    {
+      "slug": "hakli-savunma-zorunluluk-ve-tazminat",
+      "title": "Kendimi veya başkasını korurken zarar verdim: tazminat ödemem gerekir mi?",
+      "url": "https://avukatonurdogan.com/yazilar/hakli-savunma-zorunluluk-ve-tazminat/",
+      "word_count": 926,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 49–52, 63–64",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "ecc1b00a117fde78ef067946427874d6ed31b66c"
     }
   ],
-  "next_sequence": 39
+  "next_sequence": 40
 }
