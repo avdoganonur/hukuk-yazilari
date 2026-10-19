@@ -686,7 +686,7 @@
       "title": "Mahkeme keşif kararı verdi: inceleme nasıl yapılır, karşı çıkılırsa ne olur?",
       "url": "https://avukatonurdogan.com/yazilar/hukuk-davasinda-kesif-ve-katlanma/",
       "word_count": 924,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -695,7 +695,10 @@
           "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 481c1389a8b144ff84e4674848dc566503a748b39d2d035d762d7dc9ef171edd."
         }
       ],
-      "commit": "36e3872d6f9dc6f75b8223fa473d31d5a6b6d52d"
+      "commit": "36e3872d6f9dc6f75b8223fa473d31d5a6b6d52d",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39312559604
     },
     {
       "slug": "hakli-savunma-zorunluluk-ve-tazminat",
@@ -712,7 +715,23 @@
         }
       ],
       "commit": "ecc1b00a117fde78ef067946427874d6ed31b66c"
+    },
+    {
+      "slug": "aile-halinde-yasamada-ev-duzeni-ve-emek",
+      "title": "Aile hâlinde birlikte yaşamak: ev düzeni, gözetim ve aileye verilen emeğin karşılığı",
+      "url": "https://avukatonurdogan.com/yazilar/aile-halinde-yasamada-ev-duzeni-ve-emek/",
+      "word_count": 914,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 367–371",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "d944fdde7ea5c45646232795af6d5283bb76b1c3"
     }
   ],
-  "next_sequence": 40
+  "next_sequence": 41
 }
