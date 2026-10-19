@@ -610,7 +610,7 @@
       "title": "Borcumu yerine getirmek istiyorum ama alacaklı kabul etmiyor: ne yapılabilir?",
       "url": "https://avukatonurdogan.com/yazilar/alacaklinin-temerrudu-ve-tevdi/",
       "word_count": 929,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -619,7 +619,10 @@
           "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
         }
       ],
-      "commit": "27ca8e5650591481d2c32d3a044d020606dcca31"
+      "commit": "27ca8e5650591481d2c32d3a044d020606dcca31",
+      "http_status": 200,
+      "live_verified_date": "2026-10-19",
+      "deployment_run_id": 39311393307
     },
     {
       "slug": "kayip-esyayi-bulanin-yukumlulukleri",
