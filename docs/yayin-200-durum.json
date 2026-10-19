@@ -490,7 +490,23 @@
       "http_status": 200,
       "live_verified_date": "2026-10-19",
       "deployment_run_id": 39194578202
+    },
+    {
+      "slug": "mirastan-yoksunluk-sebepleri-af-ve-altsoy",
+      "title": "Mirastan yoksunluk: hangi davranışlar miras hakkını kaybettirir?",
+      "url": "https://avukatonurdogan.com/yazilar/mirastan-yoksunluk-sebepleri-af-ve-altsoy/",
+      "word_count": 979,
+      "status": "uploaded",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 6, 510, 512, 575, 577–581",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "19 Ekim 2026 tarihinde yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "3c63096bf192d091d4c2f1de79dcb55ec745a64f"
     }
   ],
-  "next_sequence": 28
+  "next_sequence": 29
 }
