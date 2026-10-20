@@ -39,3 +39,41 @@ jobs:
     steps:
       - id: yayin
         uses: actions/deploy-pages@v4
+
+  indexnow:
+    # Yayından sonra yeni/değişen sayfaları Bing ve Yandex'e IndexNow ile bildirir.
+    needs: yayinla
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Değişen sayfaları bildir
+        env:
+          ONCEKI: ${{ github.event.before }}
+          SIMDIKI: ${{ github.sha }}
+          ANAHTAR: "af97bec3027ff254dd6ec502265873ae"
+        run: |
+          python3 - <<'PY'
+          import json, os, re, subprocess, urllib.request
+          once, simdi = os.environ.get("ONCEKI") or "", os.environ["SIMDIKI"]
+          site = "https://avukatonurdogan.com"
+          urls = {site + "/", site + "/yazilar/", site + "/hesaplama-araclari/"}
+          if once and not set(once) <= {"0"}:
+              try:
+                  dosyalar = subprocess.check_output(["git", "diff", "--name-only", "--diff-filter=AM", once, simdi], text=True).split()
+              except subprocess.CalledProcessError:
+                  dosyalar = []
+              for d in dosyalar:
+                  m = re.fullmatch(r"content/yazilar/([a-z0-9-]+)\.md", d)
+                  if m: urls.add(f"{site}/yazilar/{m.group(1)}/")
+                  m = re.fullmatch(r"content/araclar/([a-z0-9-]+)\.html", d)
+                  if m: urls.add(f"{site}/hesaplama-araclari/{m.group(1)}/")
+          govde = {"host": "avukatonurdogan.com", "key": os.environ["ANAHTAR"],
+                   "keyLocation": f"{site}/{os.environ['ANAHTAR']}.txt", "urlList": sorted(urls)[:10000]}
+          istek = urllib.request.Request("https://api.indexnow.org/indexnow", data=json.dumps(govde).encode(),
+                                         headers={"Content-Type": "application/json; charset=utf-8"})
+          with urllib.request.urlopen(istek, timeout=30) as yanit:
+              print("IndexNow:", yanit.status, len(urls), "adres")
+          PY
