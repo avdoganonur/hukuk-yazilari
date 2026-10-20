@@ -870,7 +870,23 @@
       "http_status": 200,
       "live_verified_date": "2026-10-20",
       "deployment_run_id": 39387621984
+    },
+    {
+      "slug": "davanin-ihbari-ve-feri-mudahale",
+      "title": "Bana bir dava ihbar edildi: taraf mı oldum, davaya nasıl katılabilirim?",
+      "url": "https://avukatonurdogan.com/yazilar/davanin-ihbari-ve-feri-mudahale/",
+      "word_count": 911,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "6100 sayılı Hukuk Muhakemeleri Kanunu m. 61–69",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf",
+          "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 598947fc2958c0a3a1bd9a8cd5412c2e3f50040ab246b0753f946fd5416536af."
+        }
+      ],
+      "commit": "a0975d17d8dffd258084fb52dd968c488219a121"
     }
   ],
-  "next_sequence": 48
+  "next_sequence": 49
 }
