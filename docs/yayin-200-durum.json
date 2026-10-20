@@ -983,7 +983,23 @@
         }
       ],
       "commit": "b0a7da379073fe741b7ecf873396ad84bdc92c34"
+    },
+    {
+      "slug": "vasinin-gorevden-alinmasi-ve-son-hesap",
+      "title": "Vasi görevini yerine getirmiyorsa nasıl değiştirilir, son hesabı kim inceler?",
+      "url": "https://avukatonurdogan.com/yazilar/vasinin-gorevden-alinmasi-ve-son-hesap/",
+      "word_count": 908,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 479–491",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "20 Ekim 2026 resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "0c3bae1e5f2b255f1e0717416c2e361c41e1087a"
     }
   ],
-  "next_sequence": 54
+  "next_sequence": 55
 }
