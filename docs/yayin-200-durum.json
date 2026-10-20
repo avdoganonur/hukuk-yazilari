@@ -4,7 +4,7 @@
   "repository": "avdoganonur/hukuk-yazilari",
   "branch": "main",
   "site": "https://avukatonurdogan.com",
-  "updated_date": "2026-10-19",
+  "updated_date": "2026-10-20",
   "articles": [
     {
       "slug": "telafi-calismasi-sartlari-ve-sinirlari",
@@ -743,7 +743,7 @@
       "title": "İş için cebimden harcama yaptım: araç, yol ve diğer giderleri kim karşılar?",
       "url": "https://avukatonurdogan.com/yazilar/iscinin-is-giderleri-arac-ve-avans/",
       "word_count": 912,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-19",
       "verified_sources": [
         {
@@ -752,8 +752,30 @@
           "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
         }
       ],
-      "commit": "9816cb2fd7212f4b1a40080b5c5cfca90a899a06"
+      "commit": "9816cb2fd7212f4b1a40080b5c5cfca90a899a06",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39313198994
+    },
+    {
+      "slug": "temsil-yetkisi-ve-yetkisiz-islemler",
+      "title": "Benim adıma işlem yapılmış: temsil yetkisi yoksa sözleşme beni bağlar mı?",
+      "url": "https://avukatonurdogan.com/yazilar/temsil-yetkisi-ve-yetkisiz-islemler/",
+      "word_count": 914,
+      "status": "live_verified",
+      "published_date": "2026-10-19",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 40–48",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "19 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "69b86ea09b1aabb75d424e91dda45bbb96cfbbd3",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39313399553
     }
   ],
-  "next_sequence": 42
+  "next_sequence": 43
 }
