@@ -838,7 +838,7 @@
       "title": "Ceza yargılamasında hâkimin reddi ne zaman ve nasıl istenir?",
       "url": "https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-hakimin-reddi/",
       "word_count": 935,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -847,8 +847,27 @@
           "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 46d9b6447ac516eaf56f2619665a01c079d5aa305b48b7b1a773a87b4045064a."
         }
       ],
-      "commit": "c76317a20adf937702ca0e0f373312be82b9045b"
+      "commit": "c76317a20adf937702ca0e0f373312be82b9045b",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39387301877
+    },
+    {
+      "slug": "terekenin-korunmasi-ve-resmen-yonetimi",
+      "title": "Miras malları korunamıyorsa: yazım, mühürleme ve resmen yönetim nasıl işler?",
+      "url": "https://avukatonurdogan.com/yazilar/terekenin-korunmasi-ve-resmen-yonetimi/",
+      "word_count": 920,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 589–594",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "bb0931db22aedfeebb9ddb0e5009e6ca47747673"
     }
   ],
-  "next_sequence": 47
+  "next_sequence": 48
 }
