@@ -2,7 +2,7 @@
 
 Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 
-19 Ekim 2026 itibarıyla 32 metin ayrı kayıtlarla main dalına eklenmiştir. 32 yazının tamamı canlı doğrulanmıştır. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
+20 Ekim 2026 itibarıyla 42 metin ayrı kayıtlarla main dalına eklenmiştir. 42 yazının tamamı canlı doğrulanmıştır. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
 
 ## Eklenen makaleler
 
@@ -100,3 +100,23 @@ Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 32. [Hukuk davasında yemin delili](https://avukatonurdogan.com/yazilar/hukuk-davasinda-yemin-delili/)
 
 Güncel ilerleme: 32/200; kalan 168. Kullanıcının site tasarımı ve okunabilirlik isteği üzerine tasarım çalışmasına geçildi; on yeni makale hedefi tamamlanmış değildir.
+
+
+## 19–20 Ekim 2026: 33–42. yazıların tamamlanması
+
+Önceki çalışmada 10 yeni makale ayrı create_file işlemleriyle main dalına eklendi. Her biri 912–938 kelime, 4–5 ara başlık, üç Kısaca maddesi ve üç pratik soru içerir. `python build.py --kontrol` ve ayrı kelime/başlık kontrolleri başarılıdır. İlgili 213, 4721, 5271, 6098 ve 6100 sayılı kanunların resmî PDF'leri 19 Ekim 2026 tarihinde yeniden alınarak ilgili hükümler kontrol edildi; kaynak ve hash kayıtları durum dosyasındadır. Mevcut yazılar ve tasarım korunmuştur; diğer oturumların yazıları hedefe sayılmamıştır.
+
+Son takip güncellemesi kullanım limiti nedeniyle uygulanamadığı için 41. yazının canlı durumu ile 42. yazının kaydı 20 Ekim 2026 tarihinde tamamlandı. İki yazı yeniden oluşturulmadı. Başarılı yayın akışları ve HTTP 200/doğru H1 kontrolleri kaydedildi.
+
+33. [İşyerine vergi yoklaması için gelindi: kimlik, tutanak ve imza kuralları](https://avukatonurdogan.com/yazilar/vergi-yoklamasi-ve-yoklama-fisi/) — 928 kelime; live_verified; yayın akışı 39310840366.
+34. [Borcumu yerine getirmek istiyorum ama alacaklı kabul etmiyor: ne yapılabilir?](https://avukatonurdogan.com/yazilar/alacaklinin-temerrudu-ve-tevdi/) — 929 kelime; live_verified; yayın akışı 39311393307.
+35. [Kaybolmuş bir eşya buldum: bildirim, koruma ve geri verme kuralları](https://avukatonurdogan.com/yazilar/kayip-esyayi-bulanin-yukumlulukleri/) — 924 kelime; live_verified; yayın akışı 39311675636.
+36. [Ceza yargılamasında tercüman ne zaman görevlendirilir, ücretini kim öder?](https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-tercuman-ve-giderler/) — 927 kelime; live_verified; yayın akışı 39312183178.
+37. [Miras malı başkasının elindeyse miras sebebiyle istihkak davası açılabilir mi?](https://avukatonurdogan.com/yazilar/miras-sebebiyle-istihkak-davasi/) — 938 kelime; live_verified; yayın akışı 39312287348.
+38. [Mahkeme keşif kararı verdi: inceleme nasıl yapılır, karşı çıkılırsa ne olur?](https://avukatonurdogan.com/yazilar/hukuk-davasinda-kesif-ve-katlanma/) — 924 kelime; live_verified; yayın akışı 39312559604.
+39. [Kendimi veya başkasını korurken zarar verdim: tazminat ödemem gerekir mi?](https://avukatonurdogan.com/yazilar/hakli-savunma-zorunluluk-ve-tazminat/) — 926 kelime; live_verified; yayın akışı 39312805026.
+40. [Aile hâlinde birlikte yaşamak: ev düzeni, gözetim ve aileye verilen emeğin karşılığı](https://avukatonurdogan.com/yazilar/aile-halinde-yasamada-ev-duzeni-ve-emek/) — 914 kelime; live_verified; yayın akışı 39313014969.
+41. [İş için cebimden harcama yaptım: araç, yol ve diğer giderleri kim karşılar?](https://avukatonurdogan.com/yazilar/iscinin-is-giderleri-arac-ve-avans/) — 912 kelime; live_verified; yayın akışı 39313198994.
+42. [Benim adıma işlem yapılmış: temsil yetkisi yoksa sözleşme beni bağlar mı?](https://avukatonurdogan.com/yazilar/temsil-yetkisi-ve-yetkisiz-islemler/) — 914 kelime; live_verified; yayın akışı 39313399553.
+
+Güncel ilerleme: 42/200; kalan 158. Bu kayıtların tamamlanması yeni 10 makale üretimi olarak sayılmaz.
