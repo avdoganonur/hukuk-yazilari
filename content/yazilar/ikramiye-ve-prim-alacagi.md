@@ -2,7 +2,7 @@
 baslik: "İşçi sözleşmedeki ikramiye ve primi isteyebilir mi, kıdem tazminatına dahil mi?"
 aciklama: "Sözleşmede kararlaştırılan ikramiye ve primin hukuki niteliği, ödenmezse ne yapılacağı, işverenin kaldırması ve kıdem tazminatına etkisi."
 kisaca:
-  - "İş Kanunu ücreti, primi ve ikramiyeyi aynı ödeme kurallarına bağlar."
+  - "İş Kanunu ücret, prim ve ikramiyenin kural olarak Türk parası ile ödenmesini öngörür."
   - "Sözleşmede kararlaştırılan ikramiye ve prim, şartları gerçekleştiğinde işverenden istenebilir."
   - "İş sözleşmesi sona erdiğinde işçinin sözleşmeden doğan para ile ölçülebilen menfaatleri tam olarak ödenmelidir."
   - "Kıdem tazminatı hesabında ücrete ek olarak sözleşme ve kanundan doğan para ile ölçülebilen menfaatler de dikkate alınır."
@@ -38,12 +38,12 @@ Bu ödemelerle ilgili üç soru sıkça sorulur: işçi bunları hak olarak iste
 
 ## İkramiye ve primin kanundaki yeri
 
-İş Kanunu genel anlamda ücreti, bir kimseye bir iş karşılığında işveren veya üçüncü kişiler tarafından sağlanan ve para ile ödenen tutar olarak tanımlar (m. 32). Aynı madde, ücret, prim, ikramiye ve bu nitelikteki her çeşit ödemeyi birlikte sayar ve hepsini aynı kurala bağlar:
+İş Kanunu genel anlamda ücreti, bir kimseye bir iş karşılığında işveren veya üçüncü kişiler tarafından sağlanan ve para ile ödenen tutar olarak tanımlar (m. 32). Aynı madde, ücret, prim, ikramiye ve bu nitelikteki her çeşit ödemeyi birlikte sayar:
 
-- Kural olarak Türk parası ile, işyerinde ya da özel olarak açılan bir banka hesabına ödenirler.
-- Bono, kupon ya da paranın yerine geçtiği iddia edilen bir senetle ödenemezler.
+- Bunlar kural olarak Türk parası ile, işyerinde ya da özel olarak açılan bir banka hesabına ödenir.
+- Ücret, bono, kupon ya da paranın yerine geçtiği iddia edilen bir senetle ödenemez.
 
-Kanun her işverene ikramiye ya da prim ödeme yükümlülüğü yüklemez. Bu ödemeler kural olarak iş sözleşmesinden, toplu iş sözleşmesinden, iş sözleşmesinin eki sayılan personel yönetmeliğinden ya da işyeri uygulamasından doğar. İş Kanunu da çalışma koşullarının bu kaynaklarla oluşabileceğini kabul eder (m. 22).
+Kanun her işverene ikramiye ya da prim ödeme yükümlülüğü yüklemez. Bu ödemeler kural olarak iş sözleşmesinden, toplu iş sözleşmesinden, iş sözleşmesinin eki sayılan personel yönetmeliğinden ya da işyeri uygulamasından doğar. İş Kanunu da çalışma koşullarının iş sözleşmesi, personel yönetmeliği ve benzeri kaynaklar ile işyeri uygulamasıyla oluşabileceğini kabul eder (m. 22).
 
 ## Sözleşmedeki ikramiye ve prim istenebilir mi
 
@@ -63,7 +63,7 @@ Bu şekle uygun yapılmayan ve işçinin altı iş günü içinde yazılı olara
 
 İş sözleşmesi hangi sebeple sona ererse ersin, işçinin ücreti ile sözleşme ve kanundan doğan para ile ölçülebilen menfaatlerinin tam olarak ödenmesi zorunludur (m. 32). Hak edilmiş ama ödenmemiş bir ikramiye ya da prim bu kapsamdadır.
 
-Ödeme yapılmazsa işçi alacağını yargı yoluyla isteyebilir. Ancak bireysel ya da toplu iş sözleşmesine dayanan işçi alacaklarında dava açmadan önce arabulucuya başvurmak dava şartıdır (7036 sayılı Kanun m. 3). Bu sürecin işleyişi [iş uyuşmazlıklarında zorunlu arabuluculuk](/yazilar/iscilik-alacaklarinda-zorunlu-arabuluculuk/) yazısında ele alındı.
+Ödeme yapılmazsa işçi alacağını yargı yoluyla isteyebilir. Ancak kanuna, bireysel ya da toplu iş sözleşmesine dayanan işçi alacaklarında dava açmadan önce arabulucuya başvurmak dava şartıdır (7036 sayılı Kanun m. 3). Bu sürecin işleyişi [iş uyuşmazlıklarında zorunlu arabuluculuk](/yazilar/iscilik-alacaklarinda-zorunlu-arabuluculuk/) yazısında ele alındı.
 
 İspat için şu belgeler önem taşır:
 
@@ -75,6 +75,6 @@ Bu şekle uygun yapılmayan ve işçinin altı iş günü içinde yazılı olara
 
 Kıdem tazminatı, 1475 sayılı eski İş Kanunu'nun yürürlükte kalan 14. maddesine göre hesaplanır. Bu maddeye göre kıdem tazminatına esas olacak ücretin hesabında, ücrete ek olarak işçiye sağlanmış para ve para ile ölçülmesi mümkün, sözleşmeden ve kanundan doğan menfaatler de göz önünde tutulur. Bu eklemelerle bulunan ücrete uygulamada giydirilmiş ücret denir.
 
-Kanunun lafzı açıktır: sözleşmeden doğan ve para ile ölçülebilen bir menfaat hesaba katılır. İş sözleşmesinde ya da toplu iş sözleşmesinde kararlaştırılan ikramiye bu tanıma girer. Sözleşmeye dayanan primler için de aynı ölçü uygulanır. Yalnızca bir kez yapılmış ve hiçbir sözleşme ya da uygulamaya dayanmayan bir ödemenin hesaba girip girmeyeceği ise ödemenin niteliğine göre ayrıca değerlendirilir.
+Kanunun lafzı açıktır: sözleşmeden doğan ve para ile ölçülebilen bir menfaat hesaba katılır. İş sözleşmesinde ya da toplu iş sözleşmesinde kararlaştırılan ikramiye bu tanıma girer. Primlerde ve yalnızca bir kez yapılmış, düzenli olmayan ödemelerde ise hesaba girip girmeme, ödemenin niteliğine ve süreklilik gösterip göstermediğine göre ayrıca değerlendirilir.
 
 Giydirilmiş ücret ne kadar yüksek olursa olsun, bir yıl için ödenecek kıdem tazminatı kanundaki tavanı aşamaz. Tavan dönem dönem yeniden belirlenir. Hesabın ayrıntıları ve tavanın işleyişi [kıdem tazminatı hangi ücret üzerinden hesaplanır](/yazilar/kidem-tazminati-hangi-ucret-uzerinden-hesaplanir/) yazısında anlatılıyor.

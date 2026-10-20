@@ -29,7 +29,7 @@ sss:
   - soru: "Kira sözleşmesinde, çıkışta kiracının ayrıca bir tazminat ödeyeceği yazıyor. Bu madde geçerli mi?"
     cevap: "Kiracının, sözleşmenin sona ermesi hâlinde sözleşmeye aykırı kullanmadan doğan zararları giderme dışında başkaca bir tazminat ödeyeceğini önceden taahhüt ettiği anlaşmalar kanunen geçersizdir. Kiracı, gerçekten verdiği zarardan sorumludur; bunun ötesinde götürü bir bedel ödemeyi önceden kabul etmesi onu bağlamaz."
   - soru: "Ev sahibi izinsiz tadilat yaptım diye beni evden çıkarabilir mi?"
-    cevap: "Değişiklik kiralananı özenle kullanma borcuna aykırılık oluşturuyorsa bu mümkün olabilir. Konut kiralarında ev sahibi önce en az otuz gün süre vererek aykırılığın giderilmesini, aksi hâlde sözleşmeyi feshedeceğini ihtar eder. Kiracı kiralanana kasten ağır bir zarar vermişse ev sahibi süre vermeden, yazılı bildirimle sözleşmeyi hemen feshedebilir."
+    cevap: "Değişiklik kiralananı özenle kullanma borcuna aykırılık oluşturuyorsa bu mümkün olabilir. Konut kiralarında ev sahibi önce en az otuz gün süre vererek aykırılığın giderilmesini, aksi hâlde sözleşmeyi feshedeceğini yazılı olarak ihtar eder. Kiracı kiralanana kasten ağır bir zarar vermişse ev sahibi süre vermeden, yazılı bildirimle sözleşmeyi hemen feshedebilir."
 ---
 Kiralık bir evde oturan herkes bir noktada evi kendine göre düzenlemek ister. Duvarı başka renge boyatmak, mutfak dolaplarını yenilemek, banyoyu değiştirmek ya da iki odayı birleştirmek bunların en sık görülenleridir. Türk Borçlar Kanunu (TBK) bu tür işleri yenilik ve değişiklik olarak adlandırır ve bunları bozulan bir şeyin onarımından ayrı tutar.
 
@@ -64,7 +64,7 @@ Rıza olmadan yapılan değişiklikte kiracı, 321. maddenin rızaya bağladığ
 
 Kiracı, sözleşmeye uygun kullanmadan doğan eskime ve bozulmalardan sorumlu değildir (m. 334). Duvardaki boyanın yıllar içinde solması ya da parkelerin olağan aşınması bu türdendir. İzinsiz yapılan bir değişiklik ise olağan kullanımın sonucu sayılmaz.
 
-Kanun kiracıyı ayrıca kiralananı sözleşmeye uygun olarak özenle kullanmakla yükümlü tutar (m. 316). İzinsiz bir tadilat kiralanana zarar veriyorsa ya da sözleşmeye uygun kullanımın dışına çıkıyorsa bu borçla çatışabilir. Böyle bir aykırılıkta ev sahibi, konut ve çatılı işyeri kiralarında en az otuz gün süre vererek aykırılığın giderilmesini, aksi hâlde sözleşmeyi feshedeceğini ihtar edebilir. Kiracının kiralanana kasten ağır bir zarar vermesi gibi hâllerde ise yazılı bildirimle sözleşmeyi hemen feshedebilir. Ev sahibinin sözleşmeyi hangi sebeplerle sona erdirebileceği [ayrı bir yazıda](/yazilar/ev-sahibi-kiraciyi-hangi-durumlarda-cikarabilir/) ele alındı.
+Kanun kiracıyı ayrıca kiralananı sözleşmeye uygun olarak özenle kullanmakla yükümlü tutar (m. 316). İzinsiz bir tadilat kiralanana zarar veriyorsa ya da sözleşmeye uygun kullanımın dışına çıkıyorsa bu borçla çatışabilir. Böyle bir aykırılıkta ev sahibi, konut ve çatılı işyeri kiralarında en az otuz gün süre vererek aykırılığın giderilmesini, aksi hâlde sözleşmeyi feshedeceğini yazılı olarak ihtar edebilir. Kiracının kiralanana kasten ağır bir zarar vermesi gibi hâllerde ise yazılı bildirimle sözleşmeyi hemen feshedebilir. Ev sahibinin sözleşmeyi hangi sebeplerle sona erdirebileceği [ayrı bir yazıda](/yazilar/ev-sahibi-kiraciyi-hangi-durumlarda-cikarabilir/) ele alındı.
 
 ## Masrafı geri istemek mümkün mü
 
