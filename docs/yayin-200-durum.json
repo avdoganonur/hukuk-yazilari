@@ -1081,7 +1081,28 @@
         }
       ],
       "commit": "555afeae7082b15e787af30d6d8cbe23bab60984"
+    },
+    {
+      "slug": "dernek-uyeliginden-cikma-cikarilma-ve-aidat",
+      "title": "Dernekten ayrılmak veya çıkarılmak: üyelik, aidat ve itiraz hakları nasıl etkilenir?",
+      "url": "https://avukatonurdogan.com/yazilar/dernek-uyeliginden-cikma-cikarilma-ve-aidat/",
+      "word_count": 903,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 63–71, 82–83",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        },
+        {
+          "ad": "5253 sayılı Dernekler Kanunu m. 4",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5253.pdf",
+          "not": "20 Ekim 2026 resmî PDF; SHA-256 92b283517ab1e4de83ed23068c5898dd04e05ae499678f7eb5a068f196c3d63e."
+        }
+      ],
+      "commit": "c14fce8af04ad92f8518b1fca6f539a266e85cc6"
     }
   ],
-  "next_sequence": 59
+  "next_sequence": 60
 }
