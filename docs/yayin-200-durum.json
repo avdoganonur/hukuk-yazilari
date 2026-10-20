@@ -1033,7 +1033,7 @@
       "title": "Sözleşme bir olayın gerçekleşmesine bağlıysa borç ne zaman doğar veya sona erer?",
       "url": "https://avukatonurdogan.com/yazilar/sozlesmede-geciktirici-ve-bozucu-kosul/",
       "word_count": 904,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -1042,14 +1042,17 @@
           "not": "20 Ekim 2026 resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
         }
       ],
-      "commit": "1ac77c9f84aa360dcc6d696f75eaa5542efa28ff"
+      "commit": "1ac77c9f84aa360dcc6d696f75eaa5542efa28ff",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39433946021
     },
     {
       "slug": "vasiyet-alacagi-belirli-malin-teslimi",
       "title": "Vasiyetnamede bana bir mal bırakılmış: teslimini kimden ve ne zaman isteyebilirim?",
       "url": "https://avukatonurdogan.com/yazilar/vasiyet-alacagi-belirli-malin-teslimi/",
       "word_count": 907,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -1058,7 +1061,10 @@
           "not": "20 Ekim 2026 resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
         }
       ],
-      "commit": "df0a0d3e1b54e9289ae6cdc7e273e02fb69eeb28"
+      "commit": "df0a0d3e1b54e9289ae6cdc7e273e02fb69eeb28",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39433946021
     }
   ],
   "next_sequence": 58
