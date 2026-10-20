@@ -886,7 +886,23 @@
         }
       ],
       "commit": "a0975d17d8dffd258084fb52dd968c488219a121"
+    },
+    {
+      "slug": "payli-mulkiyette-yonetim-ve-kullanim-kararlari",
+      "title": "Ortak taşınmazda onarım, kiralama ve kullanım kararlarını kim alabilir?",
+      "url": "https://avukatonurdogan.com/yazilar/payli-mulkiyette-yonetim-ve-kullanim-kararlari/",
+      "word_count": 911,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 688–695",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "aa53bd5765a406227c4e638ecc567968bd8b4f06"
     }
   ],
-  "next_sequence": 49
+  "next_sequence": 50
 }
