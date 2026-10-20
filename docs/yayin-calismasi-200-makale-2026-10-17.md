@@ -2,7 +2,7 @@
 
 Hedef: Bu çalışma kapsamında toplam 200 yeni Türk hukuku makalesi.
 
-20 Ekim 2026 itibarıyla 42 metin ayrı kayıtlarla main dalına eklenmiştir. 42 yazının tamamı canlı doğrulanmıştır. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
+20 Ekim 2026 itibarıyla 57 metin ayrı kayıtlarla main dalına eklenmiştir. 57 yazının tamamı canlı doğrulanmıştır. Yayın durumu için `docs/yayin-200-durum.json` esas alınır.
 
 ## Eklenen makaleler
 
@@ -120,3 +120,30 @@ Son takip güncellemesi kullanım limiti nedeniyle uygulanamadığı için 41. y
 42. [Benim adıma işlem yapılmış: temsil yetkisi yoksa sözleşme beni bağlar mı?](https://avukatonurdogan.com/yazilar/temsil-yetkisi-ve-yetkisiz-islemler/) — 914 kelime; live_verified; yayın akışı 39313399553.
 
 Güncel ilerleme: 42/200; kalan 158. Bu kayıtların tamamlanması yeni 10 makale üretimi olarak sayılmaz.
+
+
+## 20 Ekim 2026: 43–57. yazıların yayın kaydı
+
+43–47. yazılar önceki çalışmada ayrı dosyalarla yayımlanmıştı. 47. yazının bekleyen canlı kontrolü tamamlandı; yeniden oluşturulmadı. Bu devam çalışmasında 48–57. sıralardaki 10 yeni makale tek tek create_file ile main dalına eklendi. Önceki beş yazı bu on yeni makale içinde sayılmadı.
+
+Yeni on metnin her biri 901–979 kelime, dört ara başlık, üç Kısaca maddesi ve üç pratik soru içerir. Güncel main başlıkları ve ilgili içerikler tarandı; mevcut sorularla örtüşen adaylar elendi. `python build.py --kontrol` ve bağımsız uzunluk/başlık kontrolleri başarılıdır. Yerel metinlerle main üzerindeki yeni dosyalar birebir karşılaştırıldı. Mevcut yazılar ve tasarım değiştirilmedi.
+
+213, 4721, 5271, 5320, 6098 ve 6100 sayılı kanunların resmî PDF'leri 20 Ekim 2026 tarihinde yeniden indirildi. İlgili hükümler ve gerekli göndermeler incelendi. 6100 sayılı Kanunun yeni PDF özeti önceki nüshadan farklı olduğundan yeni metin ayrıca okunarak kontrol edildi. Kullanılan nüshaların SHA-256 kayıtları her yazının durum kaydındadır. Gerçekliği doğrulanmamış karar künyesi kullanılmadı.
+
+43. [Borcumu başkası üstlendi: alacaklı artık benden ödeme isteyemez mi?](https://avukatonurdogan.com/yazilar/borcun-ustlenilmesi-ve-borca-katilma/) — 902 kelime; live_verified; yayın akışı 39386443124.
+44. [Vasi atandım: hangi işlemler için izin almalıyım, nasıl hesap vermeliyim?](https://avukatonurdogan.com/yazilar/vasinin-islemlerinde-izin-ve-hesap-denetimi/) — 930 kelime; live_verified; yayın akışı 39386737142.
+45. [Ürün veren bir malı kiraladım: işletme, onarım ve geri verme kuralları neler?](https://avukatonurdogan.com/yazilar/urun-kirasinda-isletme-onarim-ve-geri-verme/) — 914 kelime; live_verified; yayın akışı 39386983782.
+46. [Ceza yargılamasında hâkimin reddi ne zaman ve nasıl istenir?](https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-hakimin-reddi/) — 935 kelime; live_verified; yayın akışı 39387301877.
+47. [Miras malları korunamıyorsa: yazım, mühürleme ve resmen yönetim nasıl işler?](https://avukatonurdogan.com/yazilar/terekenin-korunmasi-ve-resmen-yonetimi/) — 920 kelime; live_verified; yayın akışı 39387621984.
+48. [Bana bir dava ihbar edildi: taraf mı oldum, davaya nasıl katılabilirim?](https://avukatonurdogan.com/yazilar/davanin-ihbari-ve-feri-mudahale/) — 911 kelime; live_verified; yayın akışı 39430573314.
+49. [Ortak taşınmazda onarım, kiralama ve kullanım kararlarını kim alabilir?](https://avukatonurdogan.com/yazilar/payli-mulkiyette-yonetim-ve-kullanim-kararlari/) — 911 kelime; live_verified; yayın akışı 39430938907.
+50. [Vergi idaresi benden bilgi istedi: kimler cevap vermekle yükümlüdür?](https://avukatonurdogan.com/yazilar/vergi-idaresine-bilgi-verme-yukumlulugu/) — 979 kelime; live_verified; yayın akışı 39431413395.
+51. [Birden fazla borcum var: yaptığım ödeme hangi borçtan düşülür?](https://avukatonurdogan.com/yazilar/odemenin-borclara-mahsubu-ve-makbuz/) — 904 kelime; live_verified; yayın akışı 39431777429.
+52. [Mahkeme beni isticvaba çağırdı: bizzat gitmem ve cevap vermem gerekir mi?](https://avukatonurdogan.com/yazilar/hukuk-davasinda-isticvap-davetiyesi/) — 901 kelime; live_verified; yayın akışı 39432156326.
+53. [Pazarlamacı olarak çalışıyorum: komisyonum, yetkim ve müşteri borcundan sorumluluğum nedir?](https://avukatonurdogan.com/yazilar/pazarlamacinin-yetkisi-komisyonu-ve-musteri-borcu/) — 949 kelime; live_verified; yayın akışı 39432490939.
+54. [Vasi görevini yerine getirmiyorsa nasıl değiştirilir, son hesabı kim inceler?](https://avukatonurdogan.com/yazilar/vasinin-gorevden-alinmasi-ve-son-hesap/) — 908 kelime; live_verified; yayın akışı 39432844114.
+55. [Ceza duruşmasını izleyebilir miyim, salonda kayıt alabilir miyim?](https://avukatonurdogan.com/yazilar/ceza-durusmasinin-acikligi-kayit-ve-duzen/) — 907 kelime; live_verified; yayın akışı 39433257464.
+56. [Sözleşme bir olayın gerçekleşmesine bağlıysa borç ne zaman doğar veya sona erer?](https://avukatonurdogan.com/yazilar/sozlesmede-geciktirici-ve-bozucu-kosul/) — 904 kelime; live_verified; yayın akışı 39433946021.
+57. [Vasiyetnamede bana bir mal bırakılmış: teslimini kimden ve ne zaman isteyebilirim?](https://avukatonurdogan.com/yazilar/vasiyet-alacagi-belirli-malin-teslimi/) — 907 kelime; live_verified; yayın akışı 39433946021.
+
+Tüm yeni sayfalar HTTP 200 ve kayıtlı H1 başlığıyla doğrulandı; başarılı yayın akışları kaydedildi. Güncel ilerleme: 57/200; kalan 143. Bu on yazılık yayın grubu tamamlandı; 200 makale hedefi henüz tamamlanmadı.
