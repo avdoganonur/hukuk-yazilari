@@ -929,7 +929,23 @@
         }
       ],
       "commit": "be896e67e8a2f9f2113a7937b17ccc7059f66628"
+    },
+    {
+      "slug": "odemenin-borclara-mahsubu-ve-makbuz",
+      "title": "Birden fazla borcum var: yaptığım ödeme hangi borçtan düşülür?",
+      "url": "https://avukatonurdogan.com/yazilar/odemenin-borclara-mahsubu-ve-makbuz/",
+      "word_count": 904,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 100–105",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "e3a2f4b121564379aeb08ccd9127f5c49016578c"
     }
   ],
-  "next_sequence": 51
+  "next_sequence": 52
 }
