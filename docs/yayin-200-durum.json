@@ -1021,7 +1021,23 @@
         }
       ],
       "commit": "08bcc40354a132b117c91e47bce6598d9352bb9e"
+    },
+    {
+      "slug": "sozlesmede-geciktirici-ve-bozucu-kosul",
+      "title": "Sözleşme bir olayın gerçekleşmesine bağlıysa borç ne zaman doğar veya sona erer?",
+      "url": "https://avukatonurdogan.com/yazilar/sozlesmede-geciktirici-ve-bozucu-kosul/",
+      "word_count": 904,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 170–176",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "20 Ekim 2026 resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "1ac77c9f84aa360dcc6d696f75eaa5542efa28ff"
     }
   ],
-  "next_sequence": 56
+  "next_sequence": 57
 }
