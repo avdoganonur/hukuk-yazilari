@@ -810,7 +810,23 @@
         }
       ],
       "commit": "cc0a97f01ef7b1b3302aa42d087e0873c55912fa"
+    },
+    {
+      "slug": "urun-kirasinda-isletme-onarim-ve-geri-verme",
+      "title": "Ürün veren bir malı kiraladım: işletme, onarım ve geri verme kuralları neler?",
+      "url": "https://avukatonurdogan.com/yazilar/urun-kirasinda-isletme-onarim-ve-geri-verme/",
+      "word_count": 914,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 357–366, 372–375",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "ed3a3003a2035ee25a7adab278ec3ba6d8f0aafa"
     }
   ],
-  "next_sequence": 45
+  "next_sequence": 46
 }
