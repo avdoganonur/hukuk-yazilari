@@ -14,9 +14,8 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2886&MevzuatTur=1&MevzuatTertip=5"
   - ad: "Hazine Taşınmazlarının İdaresi Hakkında Yönetmelik m. 4"
     not: "Ecrimisil ve fuzuli şagil tanımları"
-    baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11385&MevzuatTur=7&MevzuatTertip=5"
-  - ad: "Hazine Taşınmazlarının İdaresi Hakkında Yönetmelik m. 84–85"
-    not: "İşgalin tespiti ve ecrimisilin takdiri"
+  - ad: "Hazine Taşınmazlarının İdaresi Hakkında Yönetmelik m. 84–86"
+    not: "İşgalin tespiti, ecrimisilin takdiri ve düzeltme talebi"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 715"
     not: "Devletin hüküm ve tasarrufu altındaki yerler"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
@@ -44,7 +43,7 @@ Hazineye ait bir araziyi ekip biçmek, üzerine bir yapı kurmak ya da bahçesin
 
 Devlet İhale Kanunu'nun 75. maddesi, Devletin özel mülkiyetindeki ya da hüküm ve tasarrufu altındaki taşınmazlar ile özel bütçeli idarelere ve Vakıflar Genel Müdürlüğüne ait taşınmazların işgalini düzenler. Bu taşınmazları izinsiz kullanandan ilgili idare ecrimisil ister. Kişiler arasındaki davalardan önemli bir farkı vardır: idarenin zarara uğrayıp uğramadığına ve kullananın kusurlu olup olmadığına bakılmaz.
 
-Devletin hüküm ve tasarrufu altındaki yerler, tapuda kimse adına kayıtlı olmayabilir. Türk Medeni Kanunu'nun 715. maddesine göre sahipsiz yerler ile kamu yararına ait mallar Devletin hüküm ve tasarrufu altındadır. Bir arazinin tapusunun bulunmaması, onun serbestçe kullanılabileceği anlamına gelmez.
+Devletin hüküm ve tasarrufu altındaki yerler, tapuda kimse adına kayıtlı olmayabilir. Türk Medeni Kanunu'nun 715. maddesine göre sahibi bulunmayan yerler ile kamunun yararlanmasına ayrılmış mallar Devletin hüküm ve tasarrufu altındadır. Bir arazinin tapusunun bulunmaması, onun serbestçe kullanılabileceği anlamına gelmez.
 
 Kusurun aranmaması önemli bir sonuç doğurur. Kullanan kişi araziyi kendisine ait sanmış, komşusundan ya da yakınından devraldığını düşünmüş olsa bile idare ecrimisil isteyebilir. Kişiler arasındaki davalarda tartışılan iyiniyet savunması burada aynı etkiyi göstermez.
 
@@ -54,7 +53,7 @@ Ecrimisil, işgal tarihinden tespit tarihine kadar geçen süre için istenir. A
 
 ## Tespit, takdir ve ihbarname
 
-Süreç, taşınmazın yerinde incelenmesiyle başlar. İdare görevlileri işgali, işgal edilen alanı, kullananın kim olduğunu ve kullanma biçimini bir tutanakla tespit eder (Yönetmelik m. 84). Ardından komisyon, taşınmazın yerini, kullanım şeklini ve piyasa koşullarını dikkate alarak ecrimisili takdir eder (m. 85).
+Süreç, taşınmazın yerinde incelenmesiyle başlar. İdare görevlileri işgali bir tutanakla tespit eder (Yönetmelik m. 84). Ardından komisyon ecrimisili takdir eder (m. 85).
 
 Takdir edilen tutar, kullanana ecrimisil ihbarnamesiyle bildirilir. İhbarname eline geçen kişinin ilk yapması gereken, içeriği kontrol etmektir:
 
@@ -66,7 +65,7 @@ Takdir edilen tutar, kullanana ecrimisil ihbarnamesiyle bildirilir. İhbarname e
 
 ## Düzeltme talebi ve dava yolu
 
-İhbarnamedeki tutarın ya da bilgilerin yanlış olduğunu düşünen kişi, tebliğden itibaren otuz gün içinde idareye düzeltme talebinde bulunabilir. Talep komisyonca incelenir ve sonuç, düzeltme ihbarnamesiyle bildirilir. Dilekçede ihbarnamedeki hangi bilginin neden yanlış olduğu açıkça yazılmalı; tapu kaydı, kira sözleşmesi, izin belgesi, fotoğraf ya da kroki gibi belgeler eklenmelidir. Gerekçesiz ve belgesiz bir itiraz, komisyonun ihbarnameyi yeniden incelemesini zorlaştırır; itiraz dilekçesinin bir örneğini alındı kaydıyla saklamak da ileride açılacak davada işe yarar. Kanun, ecrimisile itiraz edilmemesi hâlinde indirim, peşin ödenmesi hâlinde ayrıca ek indirim öngörür. İtiraz edip etmemeye karar verirken bu indirimler de hesaba katılmalıdır.
+İhbarnamedeki tutarın ya da bilgilerin yanlış olduğunu düşünen kişi, tebliğden itibaren otuz gün içinde idareye düzeltme talebinde bulunabilir (Yönetmelik m. 86). Talep komisyonca incelenir ve sonuç, düzeltme ihbarnamesiyle bildirilir. Dilekçede ihbarnamedeki hangi bilginin neden yanlış olduğu açıkça yazılmalı; tapu kaydı, kira sözleşmesi, izin belgesi, fotoğraf ya da kroki gibi belgeler eklenmelidir. Gerekçesiz ve belgesiz bir itiraz, komisyonun ihbarnameyi yeniden incelemesini zorlaştırır; itiraz dilekçesinin bir örneğini alındı kaydıyla saklamak da ileride açılacak davada işe yarar. Kanun, ecrimisile itiraz edilmemesi hâlinde indirim, peşin ödenmesi hâlinde ayrıca ek indirim öngörür. İtiraz edip etmemeye karar verirken bu indirimler de hesaba katılmalıdır.
 
 Hazine taşınmazı için idarenin istediği ecrimisil bir idari işlemdir ve buna karşı dava idari yargıda açılır. Özel bir süre öngörülmediği için idare mahkemesinde dava açma süresi, İdari Yargılama Usulü Kanunu'nun 7. maddesine göre altmış gündür. Sürelerin nasıl hesaplandığını [idari dava açma süresi](/yazilar/idari-dava-acma-suresi/) yazısında anlattık.
 

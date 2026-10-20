@@ -37,7 +37,7 @@ Yasa dışı bahis ve kumar, Türk hukukunda iki ayrı kanunla düzenlenir. Spor
 
 7258 sayılı Kanun'un 5. maddesi, Kanun'un verdiği yetkiye dayanmadan yapılan bahis faaliyetlerini cezalandırır. Maddenin birinci fıkrası dört ayrı suç sayar:
 
-- Spor müsabakalarına dayalı sabit ihtimalli ve müşterek bahis veya şans oyunlarını oynatanlar ya da oynanmasına yer veya imkân sağlayanlar, üç yıldan beş yıla kadar hapis ve on bin güne kadar adli para cezasıyla cezalandırılır.
+- Spor müsabakalarına dayalı sabit ihtimalli veya müşterek bahis ya da şans oyunlarını oynatanlar ya da oynanmasına yer veya imkân sağlayanlar, üç yıldan beş yıla kadar hapis ve on bin güne kadar adli para cezasıyla cezalandırılır.
 - Yurt dışında oynatılan bu tür oyunların internet yoluyla ya da başka bir şekilde erişim sağlanarak Türkiye'den oynanmasına imkân sağlayanlar dört yıldan altı yıla kadar hapis cezası alır.
 - Bu oyunlarla bağlantılı para nakline aracılık edenler üç yıldan beş yıla kadar hapis ve beş bin güne kadar adli para cezasıyla cezalandırılır.
 - Reklam vererek ya da başka bir yolla kişileri bu oyunları oynamaya teşvik edenler bir yıldan üç yıla kadar hapis ve üç bin güne kadar adli para cezası alır.

@@ -73,7 +73,7 @@ Bu indirime hakkaniyet indirimi denir. Dayanağı zarar verenin durumu olduğu i
 
 ## İndirilemeyen ödemeler ve sözleşmeden doğan tazminat
 
-Zarar görene olaydan sonra çeşitli ödemeler yapılmış olabilir. 55. madde, bedensel zararlarda ve ölüm hâlinde bu konuda bir sınır koyar: kısmen veya tamamen rücu edilemeyen sosyal güvenlik ödemeleri ile ifa amacı taşımayan ödemeler, zararın belirlenmesinde gözetilemez, zarardan ya da tazminattan indirilemez. Yapılan her ödemenin tazminattan otomatik olarak düşüleceği bu yüzden söylenemez.
+Zarar görene olaydan sonra çeşitli ödemeler yapılmış olabilir. 55. madde, bedensel zararlarda ve ölüm hâlinde bu konuda bir sınır koyar: kısmen veya tamamen rücu edilemeyen sosyal güvenlik ödemeleri ile ifa amacı taşımayan ödemeler, zararın belirlenmesinde gözetilemez, zarardan ya da tazminattan indirilemez. Yapılan her ödemenin tazminattan otomatik olarak düşüleceği bu yüzden söylenemez. 31 Temmuz 2026'da yürürlüğe giren 7589 sayılı Kanun, 55. maddeye iki fıkra ekledi: çalışma gücü kaybı ve destekten yoksun kalma tazminatında tahkikat başlayıncaya kadar ifa amacıyla yapılan ödemeler, ödeme tarihine göre belirlenecek tazminattan oransal olarak mahsup edilir; aynı fıkralar bu tazminatlarda faizin başlangıcını da düzenler. Yeni fıkralar, yürürlük tarihinden sonra gerçekleşen olaylara uygulanır.
 
 İndirim kuralları yalnızca haksız fiillerle sınırlı değildir. Kanunun 114. maddesine göre haksız fiil sorumluluğuna ilişkin hükümler, sözleşmeye aykırılık hâlinde de kıyas yoluyla uygulanır. Bir sözleşmenin ihlalinden doğan tazminat davasında da alacaklının zarardaki payı tartışılabilir.
 

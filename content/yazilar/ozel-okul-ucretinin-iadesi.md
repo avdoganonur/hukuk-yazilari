@@ -38,9 +38,9 @@ sss:
 
 Yönetmeliğin 56. maddesinin üçüncü fıkrası, öğrenim ücretini yıllık olarak belirleyen okul öncesi eğitim kurumu, ilkokul, ortaokul, özel eğitim okulu ve ortaöğretim okulları için iade esaslarını belirler. İade hesabında iki şey belirleyicidir: öğrencinin okuldan ne zaman ayrıldığı ve sözleşmedeki yıllık ücret.
 
-Yönetmelik 20 Mart 2012 tarihli Resmî Gazete'de yayımlandı ve o tarihten bu yana birçok kez değiştirildi. Ücret iadesine ilişkin hüküm, 5 Eylül 2025 tarihli Resmî Gazete'de yayımlanan değişiklikle yeniden yazıldı. Oranlar değişmedi; ancak hesabın, öğrenci kayıt sözleşmesinde belirlenen yıllık ücret üzerinden yapılacağı metne açıkça eklendi. Böylece iadenin hangi tutar üzerinden hesaplanacağı, imzaladığınız sözleşmeye bağlanmış oldu.
+Yönetmelik 20 Mart 2012 tarihli Resmî Gazete'de yayımlandı ve o tarihten bu yana birçok kez değiştirildi. Ücret iadesine ilişkin hüküm, 5 Eylül 2025 tarihli Resmî Gazete'de yayımlanan değişiklikle yeniden yazıldı. Güncel metinde iade, öğrenci kayıt sözleşmesinde belirlenen yıllık ücret üzerinden hesaplanır. Bu nedenle iadenin hangi tutar üzerinden yapılacağını, imzaladığınız sözleşmedeki ücret belirler.
 
-Aynı değişiklik ücret artışlarını da yeniden düzenledi. Millî Eğitim Bakanlığının duyurusuna göre eğitim ücretlerinde yapılabilecek artış artık önceki yılın aralık ayına ait yıllık yurt içi ÜFE ve TÜFE oranlarının ortalamasının 1,05 katı esas alınarak hesaplanıyor. Kayıt yenilerken sözleşmedeki yeni ücreti bu açıdan da kontrol etmek gerekir.
+Aynı değişiklik ücret artışlarını da yeniden düzenledi. Millî Eğitim Bakanlığının duyurusuna göre okulda öğrenimine devam eden öğrencilerin ücretlerinde yapılabilecek artış, önceki yılın aralık ayına ait yıllık yurt içi ÜFE ve TÜFE oranlarının ortalamasının 1,05 katı esas alınarak hesaplanır. Kayıt yenilerken sözleşmedeki yeni ücreti bu açıdan da kontrol etmek gerekir.
 
 ## Öğretim yılı başlamadan ayrılma
 
@@ -63,7 +63,7 @@ Geri kalan tutar veliye iade edilir. Öğrencinin okula yalnızca birkaç gün d
 
 ## Veli tüketicidir: sözleşme ve haksız şartlar
 
-6502 sayılı Tüketicinin Korunması Hakkında Kanun, ticari veya mesleki olmayan amaçlarla hareket eden kişiyi tüketici sayar. Mal veya hizmet piyasasında ticari amaçla hareket eden biriyle tüketici arasında kurulan her türlü sözleşme de tüketici işlemidir (m. 3). Çocuğu için özel okuldan eğitim hizmeti alan veli bu tanıma girer ve Kanun'un sağladığı korumadan yararlanabilir. Kayıt sözleşmesinin hükümleri bu nedenle yalnızca yönetmeliğe göre değil, tüketiciyi koruyan kurallara göre de değerlendirilir.
+6502 sayılı Tüketicinin Korunması Hakkında Kanun, ticari veya mesleki olmayan amaçlarla hareket eden kişiyi tüketici sayar. Mal veya hizmet piyasasında ticari veya mesleki amaçla hareket eden biriyle tüketici arasında kurulan her türlü sözleşme de tüketici işlemidir (m. 3). Çocuğu için özel okuldan eğitim hizmeti alan veli bu tanıma girer ve Kanun'un sağladığı korumadan yararlanabilir. Kayıt sözleşmesinin hükümleri bu nedenle yalnızca yönetmeliğe göre değil, tüketiciyi koruyan kurallara göre de değerlendirilir.
 
 Bu korumanın en önemli sonucu haksız şart kuralıdır. Tüketiciyle müzakere edilmeden sözleşmeye konulan ve dürüstlük kuralına aykırı biçimde tüketici aleyhine dengesizlik yaratan şartlar haksız şarttır ve kesin olarak hükümsüzdür (m. 5). Kayıt sözleşmesine eklenen ve ücretin hiçbir koşulda iade edilmeyeceğini söyleyen bir madde bu açıdan incelenmelidir. Haksız şartın ayrıntılarını [tüketici sözleşmesindeki haksız şart](/yazilar/tuketici-sozlesmesinde-haksiz-sart/) yazısında anlattık.
 
