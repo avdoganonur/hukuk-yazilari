@@ -5,7 +5,7 @@ kisaca:
   - "Durmada o ana kadar geçen süre korunur; sebep ortadan kalkınca zamanaşımı kaldığı yerden işler."
   - "Kesilmede geçmiş süre silinir ve zamanaşımı baştan başlar; borcun ikrarı, dava ve icra takibi kesme sebeplerindendir."
   - "Kanunda sayılan kesme sebepleri arasında ihtarname yoktur."
-  - "Dava yetki, görev ya da erken açılma gibi sebeplerle reddedilmişse alacaklının altmış günlük ek süresi vardır."
+  - "Dava yetki, görev ya da erken açılma gibi sebeplerle reddedilmiş ve bu arada süre dolmuşsa alacaklının altmış günlük ek süresi vardır."
 tarih: 2026-10-20
 alan: borclar-hukuku
 dayanak:

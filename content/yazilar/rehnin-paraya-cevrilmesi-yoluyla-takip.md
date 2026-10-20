@@ -68,11 +68,11 @@ Buna göre borçlu, icra emrinin tebliğinden itibaren yedi gün içinde şu seb
 
 Örneğin icra emri 3 Mart'ta tebliğ edildiyse, geri bırakma için başvurulabilecek son gün 10 Mart'tır; otuz günlük ödeme süresi ise 2 Nisan'da dolar. Son günün resmî tatile denk gelmesi gibi durumlar hesabı değiştirebilir.
 
-Ödeme ya da süre verme iddiasının kanunda aranan nitelikte, örneğin resmî bir belgeyle ispat edilmesi gerekir; borçlunun kendi beyanı yeterli değildir. Bu sebepler icra emrinin tebliğinden sonra doğmuşsa geri bırakma her zaman istenebilir; ancak bu durumda belge noterce düzenlenmiş ya da onaylanmış olmalıdır.
+Ödeme ya da süre verme iddiasının kanunda aranan nitelikte, örneğin resmî bir belgeyle ispat edilmesi gerekir; borçlunun kendi beyanı yeterli değildir. Bu sebepler icra emrinin tebliğinden sonra doğmuşsa geri bırakma her zaman istenebilir; ancak bu durumda ödeme ya da süre verme iddiası noterce düzenlenmiş veya onaylanmış bir belgeye ya da icra tutanağına dayanmalıdır.
 
-İcra mahkemesi talebi reddederse borçlu istinaf yoluna gidebilir. Ancak istinafa başvuran borçlu ya da üçüncü kişi, takip konusu alacağın yüzde on beşi oranında teminat yatırmazsa satış durmaz. Konut finansmanından doğan alacaklar ile Toplu Konut İdaresi'nin rehinle güvenceye alınmış alacaklarında bu oran yüzde otuzdur. Bölge adliye mahkemesi başvuruyu reddederse teminat, ayrıca hüküm gerekmeksizin alacaklıya tazminat olarak ödenir.
+İcra mahkemesi talebi reddederse borçlu istinaf yoluna gidebilir. Ancak istinafa başvuran borçlu ya da üçüncü kişi, takip konusu alacağın yüzde on beşi oranında teminat yatırmazsa satış durmaz. Bölge adliye mahkemesi başvuruyu reddederse teminat, ayrıca hüküm gerekmeksizin alacaklıya tazminat olarak ödenir. Konut finansmanından doğan alacaklar ile Toplu Konut İdaresi'nin rehinle güvenceye alınmış alacaklarında ise teminat oranı yüzde otuzdur ve başvurunun reddinde teminatın nasıl kullanılacağına ilişkin ayrı kurallar uygulanır.
 
-Hesap kat ihtarıyla başlatılan kredi ipoteği takiplerinde ayrı bir imkân daha vardır. Krediyi kullanan, hesap özetine ve ihtara, bunlar kendisine tebliğ edildiği tarihten itibaren sekiz gün içinde noter aracılığıyla itiraz ettiğini ispat ederek icra mahkemesine şikâyette bulunabilir. Banka alacağını başka belgelerle ispat edebiliyorsa şikâyet reddedilir. Bu nedenle bankadan gelen noter ihtarını önemsemek gerekir.
+Hesap kat ihtarıyla başlatılan kredi ipoteği takiplerinde ayrı bir imkân daha vardır. Krediyi kullanan, hesap özetine ve ihtara, bunlar kendisine tebliğ edildiği tarihten itibaren sekiz gün içinde noter aracılığıyla itiraz ettiğini ispat ederek icra mahkemesine şikâyette bulunabilir. Bu nedenle bankadan gelen noter ihtarını önemsemek gerekir.
 
 ## Ödeme emri geldiyse: yedi günlük itiraz
 

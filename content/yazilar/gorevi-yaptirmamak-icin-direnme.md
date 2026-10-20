@@ -24,7 +24,7 @@ sss:
   - soru: "Polis beni götürmek isterken yere oturdum ve gitmek istemedim. Bu direnme suçu mu?"
     cevap: "Kanun, suçun cebir veya tehdit kullanılarak işlenmesini arar. Bu suç üzerine yapılmış akademik bir çalışmada, cebir veya tehdit içermeyen itaati reddetme, kaçma ya da kapıyı açmama gibi pasif davranışların bu suçu oluşturmadığı belirtilmektedir. Ancak itme, vurma, kollarını savurarak polise karşı koyma gibi kuvvet kullanımı içeren davranışlar cebir sayılabilir; olayın nasıl gerçekleştiği belirleyicidir."
   - soru: "Polise bağırdım ve küfrettim. Bu da direnme sayılır mı?"
-    cevap: "Hakaret, tek başına cebir veya tehdit değildir. Kamu görevlisine görevinden dolayı hakaret, Türk Ceza Kanunu'nda ayrı bir suç olarak düzenlenmiştir. Sözler bir kötülük yapılacağını bildiren tehdit niteliği taşıyorsa ve görevi engellemek amacı varsa direnme suçu da gündeme gelebilir."
+    cevap: "Hakaret, tek başına cebir veya tehdit değildir. Kamu görevlisine görevinden dolayı hakaret, hakaret suçu kapsamında değerlendirilir. Sözler bir kötülük yapılacağını bildiren tehdit niteliği taşıyorsa ve görevi engellemek amacı varsa direnme suçu da gündeme gelebilir."
   - soru: "Polis memuru şikâyetinden vazgeçerse dava düşer mi?"
     cevap: "Hayır. Kanun bu suçun soruşturulmasını şikâyete bağlamamıştır. Savcılık suçu öğrendiğinde kendiliğinden soruşturma yapar; mağdur kamu görevlisinin şikâyetten vazgeçmesi soruşturmayı ya da davayı sona erdirmez."
   - soru: "Bu suçtan verilen hapis cezası ertelenebilir mi?"
@@ -50,7 +50,7 @@ Bu, söz konusu davranışların hiçbir sonucu olmayacağı anlamına gelmez. B
 
 Bir örnek farkı gösterir. Trafik kontrolünde aracının aranmasını istemeyen bir sürücü yalnızca araçtan inmeyi reddederse pasif bir davranış söz konusudur. Aynı sürücü polisi iterek ya da ona zarar vereceğini söyleyerek aramayı engellemeye çalışırsa cebir veya tehdit gündeme gelir.
 
-Eski Kanun'da memura yardım eden kişilere karşı direnme de aynı hükümde yer alıyordu. Yürürlükteki 265. maddede bu ifadeye yer verilmemiştir; madde doğrudan kamu görevlisine karşı kullanılan cebir veya tehdidi esas alır.
+Aynı çalışmaya göre eski Kanun'da memura yardım eden kişilere karşı direnme de aynı hükümde yer alıyordu. Yürürlükteki 265. maddede bu ifadeye yer verilmemiştir; madde doğrudan kamu görevlisine karşı kullanılan cebir veya tehdidi esas alır.
 
 Uygulamada sorun çoğu zaman olayın nasıl anlatıldığıdır. Kolunu çekip kurtulmaya çalışmak ile polise vurmak arasındaki fark, tanık beyanları, kamera kayıtları ve tutanaklarla belirlenir. Bu yüzden olay yerindeki görüntüler ve tanıklar savunma açısından önem taşır.
 
@@ -78,4 +78,4 @@ Mahkûmiyet hâlinde mahkemenin bazı imkânları vardır:
 - Hükmedilen hapis cezası bir yıl veya daha azsa kısa süreli hapis cezasıdır. Bu ceza, failin kişiliği, sosyal ve ekonomik durumu, yargılama sürecinde duyduğu pişmanlık ve suçun işlenmesindeki özellikler dikkate alınarak adli para cezası gibi seçenek yaptırımlara çevrilebilir.
 - Hapis cezası iki yıl veya daha az ise ertelenebilir. Bunun için kişinin daha önce kasıtlı bir suçtan üç aydan fazla hapis cezasına mahkûm edilmemiş olması ve yargılama sürecindeki pişmanlığı nedeniyle mahkemede yeniden suç işlemeyeceği kanaatinin oluşması gerekir. Fiili işlediği sırada on sekiz yaşını doldurmamış ya da altmış beş yaşını bitirmiş kişilerde bu sınır üç yıldır.
 
-Hükmün açıklanmasının geri bırakılmasına ilişkin kurallar ise 2026 yılında 7589 sayılı Kanunla yeniden düzenlenmiştir. Bu kurumun şartları ayrıca değerlendirilmelidir.
+Hükmün açıklanmasının geri bırakılmasına ilişkin Ceza Muhakemesi Kanunu'nun 231. maddesinin birçok fıkrası ise 2026 yılında 7589 sayılı Kanunla değiştirilmiştir. Bu kurumun şartları ayrıca değerlendirilmelidir.

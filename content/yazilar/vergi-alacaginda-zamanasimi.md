@@ -30,7 +30,7 @@ sss:
   - soru: "Uzun süredir yurt dışındayım. Vergi borcum için zamanaşımı işliyor mu?"
     cevap: "Borçlunun yabancı bir ülkede bulunması nedeniyle hakkında takip yapılamaması, tahsil zamanaşımını durduran hâller arasındadır. Bu süre zamanaşımı hesabına katılmaz; durma sebebi ortadan kalkınca zamanaşımı kaldığı yerden işler."
   - soru: "Vergi mahkemesinde dava açmak tahsil zamanaşımını keser mi?"
-    cevap: "Dava açılması kanunda tek başına bir kesme sebebi olarak sayılmamıştır. Kesme sebepleri arasında yargı mercilerinin ihtilaflı amme alacaklarında bozma kararı vermesi ile icranın geri bırakılmasına karar vermesi yer alır."
+    cevap: "Dava açılması kanunda tek başına bir kesme sebebi olarak sayılmamıştır. Kesme sebepleri arasında yargı mercilerinin ihtilaflı amme alacaklarında bozma kararı vermesi ile icranın tehirine karar vermesi yer alır."
 ---
 Vergi borcu da belli bir süre geçince istenemez hâle gelebilir. Ancak vergide tek bir zamanaşımı yoktur. Vergi Usul Kanunu, verginin hiç tarh edilmemesi hâlindeki zamanaşımını ve vergi cezalarının kesilmesindeki zamanaşımını düzenler. Kesinleşmiş bir vergi borcunun tahsili için ise Amme Alacaklarının Tahsil Usulü Hakkında Kanun ayrı bir süre öngörür.
 
@@ -78,7 +78,7 @@ Uygulamada tahsil zamanaşımının en sık tartışılan yönü kesilme sebeple
 - Bu işlemlerin kefile ya da yabancı kişi veya kurumların temsilcilerine uygulanması veya bunlar tarafından yapılması,
 - İhtilaflı amme alacaklarında yargı mercilerince bozma kararı verilmesi,
 - Amme alacağının teminata bağlanması,
-- Yargı mercilerince icranın geri bırakılmasına karar verilmesi,
+- Yargı mercilerince icranın tehirine karar verilmesi,
 - İki kamu idaresi arasındaki borçlarda alacaklı idarenin borçlu idareye yazılı olarak başvurması,
 - Amme alacağının özel kanunlara göre ödenmek üzere başvuruya veya ödeme planına bağlanması.
 

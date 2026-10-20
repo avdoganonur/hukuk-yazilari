@@ -4,7 +4,7 @@ aciklama: "İnternetten alınan ürün kırık ya da hasarlı gelirse sorumluluk
 kisaca:
   - "Satıcı, malın tüketiciye teslimine kadar oluşan kayıp ve hasarlardan sorumludur; kargo şirketine teslim, tüketiciye teslim sayılmaz."
   - "Teslim anında hasarlı olan mal ayıplı maldır; tüketici satıcıdan dönme, indirim, onarım ya da değişim isteyebilir."
-  - "Açıkça görülen hasar en geç teslim sırasında, görülmeyen hasar teslimden sonraki yedi gün içinde taşıyıcıya bildirilmelidir."
+  - "Kargo şirketine karşı haklar için açık hasar en geç teslimde, görünmeyen hasar yedi gün içinde bildirilmelidir; satıcının sorumluluğu buna bağlı değildir."
 tarih: 2026-10-20
 alan: tuketici-hukuku
 dayanak:
@@ -28,7 +28,7 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Satıcı 'kargo firmasıyla görüşün' diyor. Haklı mı?"
-    cevap: "Hayır. Mesafeli Sözleşmeler Yönetmeliği'ne göre satıcı, malın tüketiciye teslimine kadar oluşan kayıp ve hasarlardan sorumludur. Kargo şirketiyle sözleşme yapan ve onu seçen satıcıdır. Taşıyıcıdan doğan zararı satıcı kendi sözleşmesine göre taşıyıcıdan ister; tüketicinin talebi satıcıya yöneltilir."
+    cevap: "Hayır. Mesafeli Sözleşmeler Yönetmeliği'ne göre satıcı, malın tüketiciye teslimine kadar oluşan kayıp ve hasarlardan sorumludur. Kargo şirketiyle sözleşme yapan ve onu seçen kural olarak satıcıdır. Taşıyıcıdan doğan zararı satıcı kendi sözleşmesine göre taşıyıcıdan ister; tüketicinin talebi satıcıya yöneltilir."
   - soru: "Paketi kargo görevlisinin yanında açamadım, hasarı sonradan gördüm. Hakkım kayboldu mu?"
     cevap: "Hayır. Satıcının teslime kadar oluşan hasardan sorumluluğu, teslim sırasında tutanak tutulmuş olmasına bağlı değildir. Yalnızca ispat zorlaşabilir. Açıkça görülmeyen hasar teslimden sonraki yedi gün içinde taşıyıcıya da bildirilebilir. Hasarı fark ettiğiniz anda fotoğraflamanız ve satıcıya yazılı bildirimde bulunmanız ispat açısından yararlıdır."
   - soru: "Hasarlı ürünü geri gönderirken kargo ücretini ben mi ödeyeceğim?"
