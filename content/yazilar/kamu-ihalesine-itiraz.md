@@ -3,7 +3,7 @@ baslik: "Kamu ihalesinde şikâyet ve itirazen şikâyet nasıl yapılır?"
 aciklama: "4734 sayılı Kanun'a göre ihale işlemlerine karşı idareye şikâyet, Kamu İhale Kurumuna itirazen şikâyet, başvuru süreleri ve dava yolu."
 kisaca:
   - "İhale işlemine karşı önce ihaleyi yapan idareye şikâyet, sonra Kamu İhale Kurumuna itirazen şikâyet yoluna gidilir."
-  - "Şikâyet süresi kural olarak on gün, Kanun m. 21/1-b ve c'ye göre yapılan ihalelerde beş gündür."
+  - "Şikâyet süresi kural olarak on gün, Kanun m. 21/b ve c'ye göre yapılan ihalelerde beş gündür."
   - "İlan ve dokümana yönelik şikâyetler en geç ihale ya da son başvuru tarihinden üç iş günü öncesine kadar yapılmalıdır."
   - "Kurulun kararına karşı idari yargıda otuz gün içinde dava açılabilir."
 tarih: 2026-10-20
@@ -16,8 +16,6 @@ dayanak:
     not: "İdareye şikâyet ve idarenin karar süresi"
   - ad: "4734 sayılı Kamu İhale Kanunu m. 56"
     not: "Kuruma itirazen şikâyet ve Kurumun karar süresi"
-  - ad: "4734 sayılı Kamu İhale Kanunu m. 57"
-    not: "Kurum kararlarına karşı yargı yolu"
   - ad: "4734 sayılı Kamu İhale Kanunu m. 53"
     not: "İtirazen şikâyet başvuru bedeli ve kısmi iadesi (7571 sayılı Kanun ile değişik)"
   - ad: "2577 sayılı İdari Yargılama Usulü Kanunu m. 20/A"
@@ -39,7 +37,7 @@ sss:
   - soru: "İdare şikâyetime on gün içinde cevap vermedi. Ne yapmalıyım?"
     cevap: "İdarenin karar alma süresinin bittiği günü izleyen günden itibaren on gün içinde Kamu İhale Kurumuna itirazen şikâyet başvurusu yapabilirsiniz."
   - soru: "Başvuru bedeli ne kadar, geri alınabilir mi?"
-    cevap: "Bedel Kanun'daki ölçütlere göre ihaleden ihaleye değişir ve dönemsel olarak güncellenir; bu yüzden burada rakam vermiyoruz. Bedel ilanda ya da dokümanda yazmıyorsa Kurumun sitesinde ihale kayıt numarasıyla öğrenilebilir. 2025 sonunda yapılan değişiklikle, Kurulun haklı bulduğu iddiaların oranına karşılık gelen kısmın, başvuru sahibinin talebi üzerine iadesine karar verilebilmektedir."
+    cevap: "Bedel Kanun'daki ölçütlere göre ihaleden ihaleye değişir ve dönemsel olarak güncellenir; bu yüzden burada rakam vermiyoruz. Bedel ilanda ya da dokümanda yazmıyorsa Kurumun sitesinde ihale kayıt numarasıyla öğrenilebilir. 2025 sonunda yapılan değişiklikle, bedelin haklı bulunan iddiaların oranına karşılık gelen kısmı, başvuru sahibinin talebi üzerine Kurul kararıyla iade edilebilmektedir."
   - soru: "Sözleşme imzalandıysa başvurum ne olur?"
     cevap: "Usulüne uygun olarak sözleşme imzalanmışsa başvuru reddedilir. Ancak Kanun'daki sürelere ve usule uyulmadan imzalanan sözleşme, Kurumun itirazen şikâyeti incelemesine engel değildir."
 ---
@@ -59,13 +57,13 @@ Usule ilişkin ayrıntılar, Kamu İhale Kurumunun çıkardığı İhalelere Yö
 
 ## İdareye şikâyet ve süreleri
 
-Şikâyet süresi, şikâyete konu işlemin ya da eylemin farkına varıldığı veya farkına varılmış olması gereken tarihi izleyen günden başlar. Süre kural olarak on gündür. Kanun'un 21. maddesinin birinci fıkrasının (b) ve (c) bentlerine göre pazarlık usulüyle yapılan ihalelerde ise beş gündür. Pazarlık usulü, Kanun'un saydığı belirli hâllerde idarenin teklifleri görüşme yoluyla aldığı bir ihale usulüdür; bu iki bentteki hâller ivedilik gerektiren durumları kapsadığı için süre de kısaltılmıştır.
+Şikâyet süresi, şikâyete konu işlemin ya da eylemin farkına varıldığı veya farkına varılmış olması gereken tarihi izleyen günden başlar. Süre kural olarak on gündür. Kanun'un 21. maddesinin (b) ve (c) bentlerine göre pazarlık usulüyle yapılan ihalelerde ise beş gündür. Pazarlık usulü, Kanun'un saydığı belirli hâllerde idarenin teklifleri görüşme yoluyla aldığı bir ihale usulüdür; bu iki bentteki hâller ivedilik gerektiren durumları kapsadığı için süre de kısaltılmıştır.
 
 İlana yönelik başvurularda süre ilk ilan tarihinden, dokümana yönelik başvurularda ise dokümanın EKAP üzerinden indirildiği tarihten itibaren hesaplanır. Ancak ilan ile ön yeterlik ya da ihale dokümanına yönelik şikâyetler, başvuru ya da teklif sunulmadan önce ve en geç ihale veya son başvuru tarihinden üç iş günü öncesine kadar yapılmak zorundadır. Sürelere resmî tatiller dâhildir; son gün tatile denk gelirse süre, tatili izleyen ilk iş gününün sonuna kadar uzar.
 
 Bir örnekle açıklayalım. İhale komisyonu kararının size 3 Mart'ta bildirildiğini ve kararı o gün öğrendiğinizi varsayalım. On günlük şikâyet süresi 4 Mart'ta başlar ve 13 Mart günü sona erer. 13 Mart cumartesiye denk gelirse son gün, izleyen pazartesinin sonudur.
 
-Şikâyet dilekçesinde başvurunun konusu, sebepleri ve dayandığı deliller yer almalıdır. 2026 değişikliğiyle her ayrı konunun ayrı bir iddia olarak yazılması da istenmektedir. 15 Nisan 2023'ten bu yana şikâyet ve itirazen şikâyet başvurularının EKAP üzerinden e-imzayla yapılması zorunludur.
+Şikâyet dilekçesinde başvurunun konusu, sebepleri ve dayandığı deliller yer almalıdır. Yönetmelik, her ayrı konunun ayrı bir iddia olarak yazılmasını da ister. 15 Nisan 2023'ten bu yana şikâyet ve itirazen şikâyet başvurularının EKAP üzerinden e-imzayla yapılması zorunludur.
 
 EKAP, Elektronik Kamu Alımları Platformunun kısaltmasıdır. Başvuru dilekçesi bu sistem üzerinden e-imzayla gönderilir.
 
@@ -80,9 +78,9 @@ EKAP, Elektronik Kamu Alımları Platformunun kısaltmasıdır. Başvuru dilekç
 
 Şikâyet ya da itirazen şikâyet üzerine idarenin verdiği iptal kararına karşı başvuru süresi ise beş gündür. Başvuruda, Kanun'da öngörülen başvuru bedelinin Kurum hesabına yatırıldığını gösteren belgenin eklenmesi zorunludur.
 
-Başvuru dilekçesinde her iddianın ayrı ayrı yazılması, 2026'dan itibaren bedelin hesaplanması ve iadesi bakımından da önem taşır. Kurum dilekçeyi gerektiğinde ayrı iddialara ayırır, aynı konudaki gerekçeleri ise birleştirir.
+Başvuru dilekçesinde her iddianın ayrı ayrı yazılması, başvuru bedelinin iadesi bakımından da önem taşır. Kurum dilekçeyi gerektiğinde ayrı iddialara ayırır, aynı konudaki gerekçeleri ise birleştirir.
 
-Kurum, itirazen şikâyet hakkındaki nihai kararını, dosya kayıtlarına alındığı tarihten itibaren yirmi gün içinde verir. Kanun m. 21/1-b ve c'ye göre yapılan ihalelerde ve iptal kararlarına karşı yapılan başvurularda bu süre on iş günüdür.
+Kurum, itirazen şikâyet hakkındaki nihai kararını, ihale işlem dosyasının Kurum kayıtlarına alındığı tarihten itibaren yirmi gün içinde verir. Kanun m. 21/b ve c'ye göre yapılan ihalelerde ve iptal kararlarına karşı yapılan başvurularda bu süre on iş günüdür.
 
 ## Başvuru sürerken sözleşme ve dava yolu
 
