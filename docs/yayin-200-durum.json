@@ -1071,7 +1071,7 @@
       "title": "Evde ürün hazırlayarak çalışıyorum: teslim, malzeme ve ücret kuralları neler?",
       "url": "https://avukatonurdogan.com/yazilar/evde-hizmet-sozlesmesinde-urun-ve-ucret/",
       "word_count": 947,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -1080,7 +1080,10 @@
           "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
         }
       ],
-      "commit": "555afeae7082b15e787af30d6d8cbe23bab60984"
+      "commit": "555afeae7082b15e787af30d6d8cbe23bab60984",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39491813865
     },
     {
       "slug": "dernek-uyeliginden-cikma-cikarilma-ve-aidat",
@@ -1102,7 +1105,23 @@
         }
       ],
       "commit": "c14fce8af04ad92f8518b1fca6f539a266e85cc6"
+    },
+    {
+      "slug": "teslime-bagli-tasinir-rehni-ve-geri-verme",
+      "title": "Borç için eşyamı rehin verdim: alacaklı ne yapabilir, ne zaman geri vermelidir?",
+      "url": "https://avukatonurdogan.com/yazilar/teslime-bagli-tasinir-rehni-ve-geri-verme/",
+      "word_count": 905,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 939–949",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "9a7ed7dcde9764f7680cde82caeb5c7e0e706b18"
     }
   ],
-  "next_sequence": 60
+  "next_sequence": 61
 }
