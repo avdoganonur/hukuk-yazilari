@@ -857,7 +857,7 @@
       "title": "Miras malları korunamıyorsa: yazım, mühürleme ve resmen yönetim nasıl işler?",
       "url": "https://avukatonurdogan.com/yazilar/terekenin-korunmasi-ve-resmen-yonetimi/",
       "word_count": 920,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -866,7 +866,10 @@
           "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
         }
       ],
-      "commit": "bb0931db22aedfeebb9ddb0e5009e6ca47747673"
+      "commit": "bb0931db22aedfeebb9ddb0e5009e6ca47747673",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39387621984
     }
   ],
   "next_sequence": 48
