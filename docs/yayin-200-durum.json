@@ -775,7 +775,23 @@
       "http_status": 200,
       "live_verified_date": "2026-10-20",
       "deployment_run_id": 39313399553
+    },
+    {
+      "slug": "borcun-ustlenilmesi-ve-borca-katilma",
+      "title": "Borcumu başkası üstlendi: alacaklı artık benden ödeme isteyemez mi?",
+      "url": "https://avukatonurdogan.com/yazilar/borcun-ustlenilmesi-ve-borca-katilma/",
+      "word_count": 902,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 195–201, 204",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "6e7b25a58d8e3ddffbb6619e543d20781c6316a6"
     }
   ],
-  "next_sequence": 43
+  "next_sequence": 44
 }
