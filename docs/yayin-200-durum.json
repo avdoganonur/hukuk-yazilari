@@ -1065,7 +1065,23 @@
       "http_status": 200,
       "live_verified_date": "2026-10-20",
       "deployment_run_id": 39433946021
+    },
+    {
+      "slug": "evde-hizmet-sozlesmesinde-urun-ve-ucret",
+      "title": "Evde ürün hazırlayarak çalışıyorum: teslim, malzeme ve ücret kuralları neler?",
+      "url": "https://avukatonurdogan.com/yazilar/evde-hizmet-sozlesmesinde-urun-ve-ucret/",
+      "word_count": 947,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 461–466, 468–469",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "555afeae7082b15e787af30d6d8cbe23bab60984"
     }
   ],
-  "next_sequence": 58
+  "next_sequence": 59
 }
