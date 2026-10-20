@@ -914,7 +914,7 @@
       "title": "Vergi idaresi benden bilgi istedi: kimler cevap vermekle yükümlüdür?",
       "url": "https://avukatonurdogan.com/yazilar/vergi-idaresine-bilgi-verme-yukumlulugu/",
       "word_count": 979,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -928,14 +928,17 @@
           "not": "20 Ekim 2026 resmî PDF; SHA-256 44a05b6d8377f36bb3f76deaa02f096530cabbcbd1abedd37db69cc833428660."
         }
       ],
-      "commit": "be896e67e8a2f9f2113a7937b17ccc7059f66628"
+      "commit": "be896e67e8a2f9f2113a7937b17ccc7059f66628",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39431413395
     },
     {
       "slug": "odemenin-borclara-mahsubu-ve-makbuz",
       "title": "Birden fazla borcum var: yaptığım ödeme hangi borçtan düşülür?",
       "url": "https://avukatonurdogan.com/yazilar/odemenin-borclara-mahsubu-ve-makbuz/",
       "word_count": 904,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -944,7 +947,10 @@
           "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
         }
       ],
-      "commit": "e3a2f4b121564379aeb08ccd9127f5c49016578c"
+      "commit": "e3a2f4b121564379aeb08ccd9127f5c49016578c",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39431777429
     },
     {
       "slug": "hukuk-davasinda-isticvap-davetiyesi",
@@ -961,7 +967,23 @@
         }
       ],
       "commit": "e0fcb061b7f93cdedbb53bf9fb7b73e6499bfa4f"
+    },
+    {
+      "slug": "pazarlamacinin-yetkisi-komisyonu-ve-musteri-borcu",
+      "title": "Pazarlamacı olarak çalışıyorum: komisyonum, yetkim ve müşteri borcundan sorumluluğum nedir?",
+      "url": "https://avukatonurdogan.com/yazilar/pazarlamacinin-yetkisi-komisyonu-ve-musteri-borcu/",
+      "word_count": 949,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 448–455, 457, 460",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "20 Ekim 2026 resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "b0a7da379073fe741b7ecf873396ad84bdc92c34"
     }
   ],
-  "next_sequence": 53
+  "next_sequence": 54
 }
