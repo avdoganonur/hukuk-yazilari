@@ -781,7 +781,7 @@
       "title": "Borcumu başkası üstlendi: alacaklı artık benden ödeme isteyemez mi?",
       "url": "https://avukatonurdogan.com/yazilar/borcun-ustlenilmesi-ve-borca-katilma/",
       "word_count": 902,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -790,8 +790,27 @@
           "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
         }
       ],
-      "commit": "6e7b25a58d8e3ddffbb6619e543d20781c6316a6"
+      "commit": "6e7b25a58d8e3ddffbb6619e543d20781c6316a6",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39386443124
+    },
+    {
+      "slug": "vasinin-islemlerinde-izin-ve-hesap-denetimi",
+      "title": "Vasi atandım: hangi işlemler için izin almalıyım, nasıl hesap vermeliyim?",
+      "url": "https://avukatonurdogan.com/yazilar/vasinin-islemlerinde-izin-ve-hesap-denetimi/",
+      "word_count": 930,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 397, 448–455, 461–465",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "cc0a97f01ef7b1b3302aa42d087e0873c55912fa"
     }
   ],
-  "next_sequence": 44
+  "next_sequence": 45
 }
