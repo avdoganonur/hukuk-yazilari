@@ -1090,7 +1090,7 @@
       "title": "Dernekten ayrılmak veya çıkarılmak: üyelik, aidat ve itiraz hakları nasıl etkilenir?",
       "url": "https://avukatonurdogan.com/yazilar/dernek-uyeliginden-cikma-cikarilma-ve-aidat/",
       "word_count": 903,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -1104,14 +1104,17 @@
           "not": "20 Ekim 2026 resmî PDF; SHA-256 92b283517ab1e4de83ed23068c5898dd04e05ae499678f7eb5a068f196c3d63e."
         }
       ],
-      "commit": "c14fce8af04ad92f8518b1fca6f539a266e85cc6"
+      "commit": "c14fce8af04ad92f8518b1fca6f539a266e85cc6",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39492383615
     },
     {
       "slug": "teslime-bagli-tasinir-rehni-ve-geri-verme",
       "title": "Borç için eşyamı rehin verdim: alacaklı ne yapabilir, ne zaman geri vermelidir?",
       "url": "https://avukatonurdogan.com/yazilar/teslime-bagli-tasinir-rehni-ve-geri-verme/",
       "word_count": 905,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -1120,8 +1123,27 @@
           "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
         }
       ],
-      "commit": "9a7ed7dcde9764f7680cde82caeb5c7e0e706b18"
+      "commit": "9a7ed7dcde9764f7680cde82caeb5c7e0e706b18",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39492383615
+    },
+    {
+      "slug": "ceza-yargilamasinda-sure-ve-eski-hale-getirme",
+      "title": "Ceza yargılamasında süreyi kusurum olmadan kaçırdım: eski hâle getirme nasıl istenir?",
+      "url": "https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-sure-ve-eski-hale-getirme/",
+      "word_count": 909,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "5271 sayılı Ceza Muhakemesi Kanunu m. 35, 39–42, 268, geçici 6",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf",
+          "not": "20 Ekim 2026 resmî PDF; SHA-256 46d9b6447ac516eaf56f2619665a01c079d5aa305b48b7b1a773a87b4045064a."
+        }
+      ],
+      "commit": "f52c6a9e7b03794843f4cce9e6666eab07c8ff3a"
     }
   ],
-  "next_sequence": 61
+  "next_sequence": 62
 }
