@@ -3,7 +3,7 @@ baslik: "4/a, 4/b ve 4/c hizmetleri emeklilikte nasıl birleştirilir?"
 aciklama: "SSK, Bağ-Kur ve memurluk statülerinde geçen hizmetlerin birleştirilmesi, aynı anda iki statünün çakışması ve emeklilikte hangi statünün esas alındığı."
 kisaca:
   - "Farklı statülerde geçen hizmetler emeklilikte birleştirilir; ancak aylık tek bir statünün kurallarına göre bağlanır."
-  - "Aynı anda birden fazla statüye girilirse önce 4/c, 4/a ile 4/b çakışırsa 4/a kapsamında sigortalılık esas alınır."
+  - "Statüler çakışırsa 4/c ile çakışmada 4/c, 4/a ile 4/b çakışmasında 4/a kapsamında sigortalılık esas alınır."
   - "1 Ekim 2008'den sonra ilk kez sigortalı olanlarda yaşlılık aylığı en fazla sigortalılığın geçtiği statüye göre bağlanır."
   - "Bu tarihten önce sigortalı olanlarda eski 2829 sayılı Kanunun son yedi yıllık fiilî hizmet kuralı uygulanır."
 tarih: 2026-10-20

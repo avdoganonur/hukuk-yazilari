@@ -20,7 +20,7 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Evden çalışırken kullandığım internet ve elektrik giderini işveren öder mi?"
-    cevap: "Yönetmelik bu konuda sabit bir tutar ya da oran belirlemez. İşin yapılmasıyla doğrudan ilgili zorunlu giderlerin neler olduğu ve nasıl karşılanacağı iş sözleşmesinde yazılmalıdır. Türk Borçlar Kanunu da işin görülmesinin gerektirdiği harcamaları işverene yükler ve zorunlu harcamaların işçi tarafından karşılanmasına ilişkin anlaşmaları geçersiz sayar. Yazılı sözleşmede bu giderler için günlük, haftalık ya da aylık götürü bir ödeme kararlaştırılabilir; ancak bu ödeme zorunlu harcamaları karşılayacak miktardan az olamaz."
+    cevap: "Yönetmelik bu konuda sabit bir tutar ya da oran belirlemez. Mal veya hizmet üretimiyle doğrudan ilgili zorunlu giderlerin neler olduğu ve nasıl karşılanacağı iş sözleşmesinde yazılmalıdır. Türk Borçlar Kanunu da işin görülmesinin gerektirdiği harcamaları işverene yükler ve zorunlu harcamaların işçi tarafından karşılanmasına ilişkin anlaşmaları geçersiz sayar. Yazılı sözleşmede bu giderler için günlük, haftalık ya da aylık götürü bir ödeme kararlaştırılabilir; ancak bu ödeme zorunlu harcamaları karşılayacak miktardan az olamaz."
   - soru: "İşveren beni onayım olmadan evden çalışmaya geçirebilir mi?"
     cevap: "Yönetmeliğe göre işyerinde çalışan bir işçinin sözleşmesi, işçi ile işverenin anlaşmasıyla uzaktan çalışmaya dönüştürülebilir. Bunun bir istisnası vardır: mevzuatta belirtilen zorlayıcı nedenlerle işyerinin tamamında ya da bir bölümünde uzaktan çalışmaya geçilmesi hâlinde işçinin talebi veya onayı aranmaz."
   - soru: "Uzaktan çalışırken bilgisayar bozulursa ya da zarar görürse ne olur?"
@@ -47,7 +47,7 @@ Uzaktan çalışmanın hangi zaman aralığında ve ne kadar süreyle yapılaca�
 
 ## Eşit davranma ve iş sağlığı ve güvenliği
 
-İş Kanunu, uzaktan çalışan işçinin esaslı bir neden olmadıkça yalnızca bu çalışma biçimi yüzünden emsal işçiye göre farklı işleme tabi tutulamayacağını söyler. Emsal işçi, işyerinde aynı ya da benzer işi yapan işçidir. Örneğin yalnızca evden çalıştığı için bir işçiyi ikramiyeden, eğitimden ya da terfi değerlendirmesinden dışlamak bu kurala aykırı olabilir.
+İş Kanunu, uzaktan çalışan işçinin esaslı bir neden olmadıkça yalnızca bu çalışma biçimi yüzünden emsal işçiye göre farklı işleme tabi tutulamayacağını söyler. Örneğin yalnızca evden çalıştığı için bir işçiyi ikramiyeden, eğitimden ya da terfi değerlendirmesinden dışlamak bu kurala aykırı olabilir.
 
 İşverenin iş sağlığı ve güvenliği yükümlülüğü de işçi evde çalışıyor diye ortadan kalkmaz. İşveren, işin niteliğini dikkate alarak işçiyi güvenlik önlemleri konusunda bilgilendirmek, gerekli eğitimi vermek, sağlık gözetimini sağlamak ve kendi verdiği ekipmanla ilgili güvenlik tedbirlerini almakla yükümlüdür.
 
@@ -63,7 +63,7 @@ Yönetmeliğin temel kuralı açıktır: sözleşmede aksi kararlaştırılmadı
 
 Evde çalışma alanının hazırlanması için gereken düzenlemeler, uzaktan çalışmaya başlamadan önce yapılır. Bu düzenlemelerin maliyetinin nasıl karşılanacağını işçi ve işveren birlikte belirler.
 
-İnternet, elektrik, telefon gibi giderler için yönetmelik bir rakam vermez. İşin yapılmasıyla doğrudan ilgili zorunlu giderlerin neler olduğu ve nasıl karşılanacağı iş sözleşmesinde gösterilmelidir. Burada Türk Borçlar Kanunu'nun 414. maddesi de önem taşır. Bu maddeye göre işveren, işin görülmesinin gerektirdiği her türlü harcamayı ödemekle yükümlüdür. Yazılı sözleşmede bu harcamalar için götürü, yani toplu bir ödeme kararlaştırılabilir, ancak bu ödeme zorunlu harcamaları karşılayacak miktardan az olamaz. Zorunlu harcamaların kısmen ya da tamamen işçiye bırakıldığı anlaşmalar ise geçersizdir.
+İnternet, elektrik, telefon gibi giderler için yönetmelik bir rakam vermez. Mal veya hizmet üretimiyle doğrudan ilgili zorunlu giderlerin neler olduğu ve nasıl karşılanacağı iş sözleşmesinde gösterilmelidir. Burada Türk Borçlar Kanunu'nun 414. maddesi de önem taşır. Bu maddeye göre işveren, işin görülmesinin gerektirdiği her türlü harcamayı ödemekle yükümlüdür. Yazılı sözleşmede bu harcamalar için götürü, yani toplu bir ödeme kararlaştırılabilir, ancak bu ödeme zorunlu harcamaları karşılayacak miktardan az olamaz. Zorunlu harcamaların kısmen ya da tamamen işçiye bırakıldığı anlaşmalar ise geçersizdir.
 
 Bu yüzden sözleşmeyi imzalamadan önce gider maddesine bakmak gerekir. Masrafların nasıl karşılanacağı hiç yazılmamışsa ya da yetersiz bir tutar belirlenmişse, bunu baştan konuşup yazıya geçirmek ileride çıkacak anlaşmazlığı azaltır.
 

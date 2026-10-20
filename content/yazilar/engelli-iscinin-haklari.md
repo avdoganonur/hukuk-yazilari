@@ -32,7 +32,7 @@ sss:
   - soru: "Engelli işçiyi her işte çalıştırmak mümkün mü?"
     cevap: "Hayır. Kanun, engelli işçinin yer altı ve su altı işlerinde çalıştırılmasını yasaklar. Bu işlerde çalışanlar, işverenin çalıştırmak zorunda olduğu engelli sayısının hesabında da dikkate alınmaz. Engelli işçiler mesleki, bedensel ve ruhsal durumlarına uygun işlerde çalıştırılmalıdır."
   - soru: "İşveren, kendi bulduğu engelli kişiyi işe alarak yükümlülüğünü yerine getirebilir mi?"
-    cevap: "Kanun, işverenlerin bu yükümlülük kapsamındaki işçileri Türkiye İş Kurumu aracılığıyla sağlayacağını söyler. Bu işçilerin nitelikleri, çalışabilecekleri işler ve işe alınma usulleri yönetmelikle belirlenir. İşverenin doğrudan bulduğu bir engelli kişiyi işe alması mümkündür; ancak bu kişinin kontenjanda sayılması için İŞKUR kayıtlarına ilişkin usullere uyulması gerekir."
+    cevap: "Kanun, işverenlerin bu yükümlülük kapsamındaki işçileri Türkiye İş Kurumu aracılığıyla sağlayacağını söyler. Bu işçilerin nitelikleri, çalışabilecekleri işler ve işe alınma usulleri yönetmelikle belirlenir."
 ---
 Engelli bir kişinin iş hayatına katılması iki ayrı hukuki güvenceye dayanır. İlki, belirli büyüklükteki işverenleri engelli işçi çalıştırmaya zorlayan kontenjan sistemidir. İkincisi, işe alınan engelli işçiyi ayrımcılığa karşı koruyan ve işverene uyum yükümlülükleri getiren kurallardır. İlk konu İş Kanunu'nun 30. maddesinde, ikincisi ağırlıkla Engelliler Hakkında Kanun'da düzenlenir.
 

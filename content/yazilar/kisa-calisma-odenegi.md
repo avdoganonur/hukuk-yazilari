@@ -3,7 +3,7 @@ baslik: "Kısa çalışma ödeneği nedir, kimler alabilir?"
 aciklama: "Kriz, salgın ya da zorlayıcı sebeple çalışma süresi azalan işçiye ödenen kısa çalışma ödeneğinin şartları, süresi, hesabı ve işsizlik ödeneğine etkisi."
 kisaca:
   - "Kısa çalışma ödeneği, kriz ya da zorlayıcı sebeple çalışılamayan saatler için İşsizlik Sigortası Fonundan işçiye yapılan ödemedir."
-  - "Başvuruyu işçi değil işveren yapar; kısa çalışma işyerinde en fazla üç ay sürebilir."
+  - "Başvuruyu işçi değil işveren yapar; kısa çalışma işyerinde kural olarak en fazla üç ay sürebilir."
   - "İşçinin son 120 gün hizmet akdiyle çalışmış ve son üç yılda en az 450 gün prim ödemiş olması gerekir."
   - "Kısa çalışmanın başlangıcından itibaren üç yıl içinde iş sözleşmesi biterse ödenen süreler işsizlik ödeneğinden düşülür."
 tarih: 2026-10-20
