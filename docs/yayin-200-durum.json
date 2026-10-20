@@ -800,7 +800,7 @@
       "title": "Vasi atandım: hangi işlemler için izin almalıyım, nasıl hesap vermeliyim?",
       "url": "https://avukatonurdogan.com/yazilar/vasinin-islemlerinde-izin-ve-hesap-denetimi/",
       "word_count": 930,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -809,14 +809,17 @@
           "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
         }
       ],
-      "commit": "cc0a97f01ef7b1b3302aa42d087e0873c55912fa"
+      "commit": "cc0a97f01ef7b1b3302aa42d087e0873c55912fa",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39386737142
     },
     {
       "slug": "urun-kirasinda-isletme-onarim-ve-geri-verme",
       "title": "Ürün veren bir malı kiraladım: işletme, onarım ve geri verme kuralları neler?",
       "url": "https://avukatonurdogan.com/yazilar/urun-kirasinda-isletme-onarim-ve-geri-verme/",
       "word_count": 914,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -825,8 +828,27 @@
           "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
         }
       ],
-      "commit": "ed3a3003a2035ee25a7adab278ec3ba6d8f0aafa"
+      "commit": "ed3a3003a2035ee25a7adab278ec3ba6d8f0aafa",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39386983782
+    },
+    {
+      "slug": "ceza-yargilamasinda-hakimin-reddi",
+      "title": "Ceza yargılamasında hâkimin reddi ne zaman ve nasıl istenir?",
+      "url": "https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-hakimin-reddi/",
+      "word_count": 935,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "5271 sayılı Ceza Muhakemesi Kanunu m. 22, 24–31",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf",
+          "not": "20 Ekim 2026 yeniden alınan resmî PDF; SHA-256 46d9b6447ac516eaf56f2619665a01c079d5aa305b48b7b1a773a87b4045064a."
+        }
+      ],
+      "commit": "c76317a20adf937702ca0e0f373312be82b9045b"
     }
   ],
-  "next_sequence": 46
+  "next_sequence": 47
 }
