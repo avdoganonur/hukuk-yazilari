@@ -65,7 +65,7 @@ Her olay kendi koşullarıyla değerlendirilir. Fesih tarihini, öncesinde yaşa
 
 İş güvencesi kapsamındaki işçi için yol farklıdır. Bu işçi feshin geçerli bir sebebe dayanmadığını ileri sürerek işe iade isteyebilir; ispat yükü de işverendedir. Kanun bu işçiler için ayrıca kötüniyet tazminatı öngörmemiştir. Anayasa Mahkemesi de iş güvencesi kapsamındaki ve dışındaki işçilerin aynı hukuki durumda olmadığını belirterek bu ayrımı Anayasa'ya aykırı bulmamıştır.
 
-17. maddenin aynı fıkrası bir noktayı daha açıklığa kavuşturur: işverenin bildirim süresi vererek ya da bu sürenin ücretini peşin ödeyerek fesih yapması, iş güvencesi hükümlerinin uygulanmasını engellemez. İşe iadenin şartları ve süreleri [işe iade davası](/yazilar/ise-iade-davasi-sartlar-ve-sureler/) yazısında anlatılmıştır.
+17. maddenin aynı fıkrası bir noktayı daha açıklığa kavuşturur: işverenin bildirim şartına uymaması ya da bildirim süresine ait ücreti peşin ödeyerek fesih yapması, iş güvencesi hükümlerinin uygulanmasını engellemez. İşe iadenin şartları ve süreleri [işe iade davası](/yazilar/ise-iade-davasi-sartlar-ve-sureler/) yazısında anlatılmıştır.
 
 ## Tazminat ne kadar?
 
