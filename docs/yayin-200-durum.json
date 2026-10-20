@@ -995,7 +995,7 @@
       "title": "Vasi görevini yerine getirmiyorsa nasıl değiştirilir, son hesabı kim inceler?",
       "url": "https://avukatonurdogan.com/yazilar/vasinin-gorevden-alinmasi-ve-son-hesap/",
       "word_count": 908,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -1004,14 +1004,17 @@
           "not": "20 Ekim 2026 resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
         }
       ],
-      "commit": "0c3bae1e5f2b255f1e0717416c2e361c41e1087a"
+      "commit": "0c3bae1e5f2b255f1e0717416c2e361c41e1087a",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39432844114
     },
     {
       "slug": "ceza-durusmasinin-acikligi-kayit-ve-duzen",
       "title": "Ceza duruşmasını izleyebilir miyim, salonda kayıt alabilir miyim?",
       "url": "https://avukatonurdogan.com/yazilar/ceza-durusmasinin-acikligi-kayit-ve-duzen/",
       "word_count": 907,
-      "status": "uploaded",
+      "status": "live_verified",
       "published_date": "2026-10-20",
       "verified_sources": [
         {
@@ -1020,7 +1023,10 @@
           "not": "20 Ekim 2026 resmî PDF; SHA-256 46d9b6447ac516eaf56f2619665a01c079d5aa305b48b7b1a773a87b4045064a."
         }
       ],
-      "commit": "08bcc40354a132b117c91e47bce6598d9352bb9e"
+      "commit": "08bcc40354a132b117c91e47bce6598d9352bb9e",
+      "http_status": 200,
+      "live_verified_date": "2026-10-20",
+      "deployment_run_id": 39433257464
     },
     {
       "slug": "sozlesmede-geciktirici-ve-bozucu-kosul",
@@ -1037,7 +1043,23 @@
         }
       ],
       "commit": "1ac77c9f84aa360dcc6d696f75eaa5542efa28ff"
+    },
+    {
+      "slug": "vasiyet-alacagi-belirli-malin-teslimi",
+      "title": "Vasiyetnamede bana bir mal bırakılmış: teslimini kimden ve ne zaman isteyebilirim?",
+      "url": "https://avukatonurdogan.com/yazilar/vasiyet-alacagi-belirli-malin-teslimi/",
+      "word_count": 907,
+      "status": "uploaded",
+      "published_date": "2026-10-20",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 516–519, 600–604",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "20 Ekim 2026 resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "df0a0d3e1b54e9289ae6cdc7e273e02fb69eeb28"
     }
   ],
-  "next_sequence": 57
+  "next_sequence": 58
 }
