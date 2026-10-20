@@ -6,6 +6,7 @@ kisaca:
   - "Hesapta ölenin geliri, bu gelirden destek verdiği kişilere ayırdığı pay ve desteğin ne kadar süreceği dikkate alınır."
   - "Kural olarak istem, zararın ve yükümlünün öğrenilmesinden itibaren iki yıl ve her hâlde fiilden itibaren on yıl içinde zamanaşımına uğrar."
 tarih: 2026-10-17
+guncelleme: 2026-10-20
 alan: tazminat-hukuku
 dayanak:
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 49"
@@ -86,6 +87,8 @@ Kanuna 2026 yılında eklenen iki fıkra, faiz ve önceki ödemeler konusunda ye
 
 - Destek kişisinin kazancının bilindiği döneme ait tazminata haksız fiilin meydana geldiği tarihten, kazancının bilinemediği döneme ait tazminata ise karar tarihinden itibaren kanuni faiz işler.
 - Borcu ödemek amacıyla ve davada tahkikat, yani delillerin toplanıp incelendiği aşama başlayıncaya kadar yapılan ödemeler, ödeme tarihine göre belirlenecek tazminattan oransal olarak düşülür. Sigorta şirketinin dava öncesinde yaptığı ödeme buna örnektir.
+
+Bu fıkralar 7589 sayılı Kanunla eklendi ve 31 Temmuz 2026'da yürürlüğe girdi. Yalnızca yürürlük tarihinden sonra meydana gelen olaylara uygulanır; daha önce gerçekleşen ölümlerde faiz ve mahsup eski kurallara göre değerlendirilir.
 
 ## Tazminatı azaltan sebepler
 

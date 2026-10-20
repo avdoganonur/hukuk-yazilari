@@ -6,6 +6,7 @@ kisaca:
   - "Ağır bedensel zarar hâlinde zarar görenin yakınlarına da manevi tazminat verilebilir."
   - "Genel haksız fiilde zamanaşımı, zarar ve sorumlunun öğrenilmesinden itibaren iki yıl, her durumda fiilden itibaren on yıldır."
 tarih: 2026-10-17
+guncelleme: 2026-10-20
 alan: tazminat-hukuku
 dayanak:
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 49–52"
@@ -61,7 +62,7 @@ Ekonomik geleceğin sarsılmasından doğan kayıplar da maddede ayrı yer alır
 
 55. madde bedensel zararların sorumluluk hukuku ilkeleriyle hesaplanmasını düzenler. Kısmen veya tamamen rücu edilemeyen sosyal güvenlik ödemeleri ile ifa amacı taşımayan ödemelerin indirim konusu yapılmayacağını belirtir. Dolayısıyla alınmış her ödemenin tazminattan otomatik düşüleceği söylenemez; ödemenin türü ve niteliği incelenmelidir.
 
-Aynı maddenin güncel metninde belirli çalışma gücü kaybı ve destekten yoksun kalma tazminatlarında faiz başlangıcı ile bazı ön ödemelerin mahsubuna ilişkin özel hükümler de bulunmaktadır. Bu nedenle faiz veya önceki ödeme hesabı yapılırken bütün zarar kalemlerine tek bir başlangıç tarihi ve tek bir mahsup yöntemi uygulanmamalıdır. Burada, somut hesap gerektiren bu konular için doğrulanmamış bir oran veya tutar verilmemektedir.
+Aynı maddenin güncel metninde belirli çalışma gücü kaybı ve destekten yoksun kalma tazminatlarında faiz başlangıcı ile bazı ön ödemelerin mahsubuna ilişkin özel hükümler de bulunmaktadır. Bu hükümler 7589 sayılı Kanunla eklenmiş, 31 Temmuz 2026'da yürürlüğe girmiştir ve yürürlük tarihinden sonra meydana gelen olaylara uygulanır. Bu nedenle faiz veya önceki ödeme hesabı yapılırken bütün zarar kalemlerine tek bir başlangıç tarihi ve tek bir mahsup yöntemi uygulanmamalıdır. Burada, somut hesap gerektiren bu konular için doğrulanmamış bir oran veya tutar verilmemektedir.
 
 ## Manevi tazminat ve yakınların durumu
 
