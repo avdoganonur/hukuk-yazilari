@@ -29,7 +29,7 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2577&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Fatura istemeyen müşteriye de ceza kesilir mi?"
-    cevap: "Fatura almak zorunda olan kişi faturayı almazsa ona da özel usulsüzlük cezası kesilir. Kanun cezayı belgeyi düzenlemesi gereken kişiyle almak zorunda olan kişiye ayrı ayrı öngörür. Tutarı yıllık sınırın altında kalan alışverişlerde ise alıcının fatura istemesi zorunlu değildir; ancak isterse satıcı fatura vermek zorundadır."
+    cevap: "Fatura almak zorunda olan kişi faturayı almazsa ona da özel usulsüzlük cezası kesilir. Kanun cezayı belgeyi düzenlemesi gereken kişiyle almak zorunda olan kişiye ayrı ayrı öngörür. Tutarı kanundaki sınırın altında kalan alışverişlerde ise alıcının fatura istemesi zorunlu değildir; ancak isterse satıcı fatura vermek zorundadır."
   - soru: "Satıcı fatura vermiyor. Alıcı olarak ne yapmalıyım?"
     cevap: "Fatura almak zorunda olan alıcı, satıcının faturayı vermediğini idare bunu tespit etmeden önce ve faturanın düzenlenmesi gereken süreyi izleyen beş iş günü içinde idareye bildirirse kendisine ceza kesilmez. Bu durumda satıcıya kesilecek ceza üç kat uygulanır. Bildirimin yapıldığını gösteren kaydı saklamak gerekir."
   - soru: "Faturada gerçek tutardan düşük bir rakam yazılırsa ne olur?"
@@ -45,7 +45,7 @@ Bu cezanın adı özel usulsüzlük cezasıdır. Vergi kaybı doğup doğmadığ
 
 VUK m. 232, fatura kullanma zorunluluğunu sayar. Birinci ve ikinci sınıf tüccarlar, kazancı basit usulde belirlenenler, defter tutmak zorunda olan çiftçiler, serbest meslek erbabı ve vergiden muaf esnaf bu kapsamdadır. Kanunda sayılanlar arasındaki alım satımlarda satıcı fatura vermek, alıcı da fatura istemek ve almak zorundadır.
 
-Bu zorunluluk belirli bir tutarın üzerindeki işlemler için geçerlidir. Sınır her yıl yeniden değerleme oranında güncellenir. Tutarı sınırın altında kalan alışverişlerde alıcının fatura istemesi zorunlu değildir. Ancak alıcı isterse satıcı fatura vermek zorundadır.
+Bu zorunluluk belirli bir tutarın üzerindeki işlemler için geçerlidir. Bu sınır her yıl güncellenir. Tutarı sınırın altında kalan alışverişlerde alıcının fatura istemesi zorunlu değildir. Ancak alıcı isterse satıcı fatura vermek zorundadır.
 
 ## Yedi gün kuralı
 
@@ -66,9 +66,9 @@ VUK m. 353/1'e göre fatura, gider pusulası, müstahsil makbuzu ve serbest mesl
 
 Ceza, belgeyi düzenlemesi gereken kişiye de, alması gereken kişiye de ayrı ayrı kesilir. Her belge için ayrı ceza hesaplanır. Oran, belgeye yazılması gereken tutarın ya da gerçek tutarla yazılan tutar arasındaki farkın yüzde onudur.
 
-Kanun bu oranın yanında belge başına bir asgari tutar da belirlemiştir. Hesaplanan yüzde on bu asgari tutarın altında kalırsa asgari tutar uygulanır. Yani bedeli yüksek bir satışta ceza yüzde on üzerinden hesaplanırken, küçük tutarlı bir satışta yüzde on asgari tutara ulaşmayacağı için asgari tutar kesilir. Bu yüzden küçük bir faturanın verilmemesi bile, faturadaki tutarla orantısız görünen bir cezaya yol açabilir. 7524 sayılı Kanunla getirilen yeni sistemde asgari tutar, aynı takvim yılı içindeki tespit sayısına göre artar; birinci, ikinci, üçüncü ve sonraki tespitler için kademeli tutarlar öngörülmüştür. Bir tespitte birden fazla belge eksik çıkarsa bu tek tespit sayılır.
+Kanun bu oranın yanında belge başına bir asgari tutar da belirlemiştir. Hesaplanan yüzde on bu asgari tutarın altında kalırsa asgari tutar uygulanır. Yani bedeli yüksek bir satışta ceza yüzde on üzerinden hesaplanırken, küçük tutarlı bir satışta yüzde on asgari tutara ulaşmayacağı için asgari tutar kesilir. Bu yüzden küçük bir faturanın verilmemesi bile, faturadaki tutarla orantısız görünen bir cezaya yol açabilir. 7524 sayılı Kanunla getirilen yeni sistemde asgari tutar, aynı takvim yılı içindeki tespit sayısına göre artar; tespit sayısı arttıkça yükselen kademeli tutarlar öngörülmüştür. Bir tespitte birden fazla belge eksik çıkarsa bu tek tespit sayılır.
 
-Kesilebilecek cezaya bir yıllık üst sınır da konmuştur. Bu sınır her belge türü için bir takvim yılı içinde ayrı ayrı uygulanır. Asgari tutarlar ve üst sınır her yıl yeniden değerleme oranında artırıldığından burada rakam vermiyoruz.
+Kesilebilecek cezaya bir yıllık üst sınır da konmuştur. Bu sınır her belge türü için bir takvim yılı içinde ayrı ayrı uygulanır. Asgari tutarlar ve üst sınır her yıl yeniden belirlendiğinden burada rakam vermiyoruz.
 
 ## Beş iş günü içinde bildirim ve kat artırımları
 
@@ -76,11 +76,11 @@ Kesilebilecek cezaya bir yıllık üst sınır da konmuştur. Bu sınır her bel
 
 Kanun ayrıca faturanın yerine vergi mevzuatında yeri olmayan bir belgenin verilmesini ağırlaştırıcı sebep sayar. Örneğin fatura yerine kanunda öngörülmeyen bir kâğıt verilirse, belgeyi düzenleyene kesilecek ceza iki kat uygulanır. Alıcı bu durumu beş iş günü içinde bildirirse, düzenleyenin cezası altı kata çıkar.
 
-Uygulamada bildirim vergi dairesine yapılır. Bildirimin süresinde yapıldığını ispat edebilmek için yazılı başvuru ya da elektronik başvuru kaydı saklanmalıdır.
+Bildirim vergi idaresine yapılır. Bildirimin süresinde yapıldığını ispat edebilmek için yazılı başvuru ya da elektronik başvuru kaydı saklanmalıdır.
 
 ## Diğer belgeler, sahte fatura ve dava yolu
 
-Cezanın kapsamındaki gider pusulası, tüccarın vergiden muaf esnaftan satın aldığı mallar ya da ona yaptırdığı işler için düzenlediği belgedir (VUK m. 234). Müstahsil makbuzu ise defter tutmayan çiftçilerden satın alınan zirai ürünler için düzenlenir (VUK m. 235). Bu belgelerde de düzenleme yükümlülüğü alıcı konumundaki tüccardadır.
+Cezanın kapsamındaki gider pusulası, tüccarın vergiden muaf esnaftan satın aldığı mallar ya da ona yaptırdığı işler için düzenlediği belgedir (VUK m. 234). Müstahsil makbuzu ise gerçek usulde vergilendirilmeyen çiftçilerden satın alınan zirai ürünler için düzenlenir (VUK m. 235). Bu belgelerde de düzenleme yükümlülüğü alıcı konumundaki tüccardadır.
 
 VUK m. 353/2, perakende satış fişi, ödeme kaydedici cihaz fişi, sevk irsaliyesi gibi belgeler için benzer bir ceza düzeni kurar. Bu belgelerde ceza yüzde on üzerinden değil, her belge için belirlenen tutarlar üzerinden hesaplanır; her tespit ve her takvim yılı için ayrı üst sınırlar vardır.
 

@@ -40,7 +40,7 @@ sss:
   - soru: "Fiil devam ediyorsa bir yıllık süre ne zaman başlar?"
     cevap: "Kanun süreyi, dava hakkı olanın bu hakların doğduğunu öğrendiği günden başlatır ve her hâlde hakkın doğumundan itibaren üç yılla sınırlar. Devam eden fiillerde sürenin nasıl işleyeceği, fiilin niteliğine göre ayrıca değerlendirilir; bu nedenle durumu fark eder etmez harekete geçmek en güvenli yoldur."
   - soru: "Haksız rekabet davası hangi mahkemede açılır?"
-    cevap: "Türk Ticaret Kanunu'nda düzenlenen hususlardan doğan davalar ticari davadır ve asliye ticaret mahkemesinde görülür. Bir miktar para istenen tazminat taleplerinde dava açmadan önce arabulucuya başvurmak dava şartıdır."
+    cevap: "Türk Ticaret Kanunu'nda düzenlenen hususlardan doğan davalar ticari davadır ve asliye ticaret mahkemesinde görülür. Konusu bir miktar para olan tazminat davalarında dava açmadan önce arabulucuya başvurmak dava şartıdır."
 ---
 Rekabet serbesttir; daha iyi ürün, daha uygun fiyat ya da daha başarılı tanıtım yoluyla rakibin müşterisini kazanmak hukuka uygundur. Haksız rekabet ise bu yarışın dürüstlük kuralına aykırı araçlarla yürütülmesidir. 6102 sayılı Türk Ticaret Kanunu (TTK), m. 54 ile 63 arasında haksız rekabeti tanımlar, açılabilecek davaları ve ceza hükümlerini düzenler.
 
@@ -87,7 +87,7 @@ TTK m. 60'a göre haksız rekabet davaları, dava hakkı olan kişinin bu haklar
 
 Bu kuralın bir istisnası vardır. Haksız rekabet fiili aynı zamanda Türk Ceza Kanunu'na göre daha uzun dava zamanaşımına tabi bir suç oluşturuyorsa, bu daha uzun süre hukuk davaları için de uygulanır.
 
-Ticari davalarda konusu bir miktar paranın ödenmesi olan alacak ve tazminat taleplerinde dava açmadan önce arabulucuya başvurmak dava şartıdır (TTK m. 5/A). Bu nedenle tazminat istenecekse arabuluculuk sürecini de zamanaşımı süresini gözeterek planlamak gerekir.
+Ticari davalardan konusu bir miktar para olan alacak, tazminat, itirazın iptali, menfi tespit ve istirdat davalarında dava açmadan önce arabulucuya başvurmak dava şartıdır (TTK m. 5/A). Bu nedenle tazminat istenecekse arabuluculuk sürecini de zamanaşımı süresini gözeterek planlamak gerekir.
 
 ## Ceza hükmü
 
@@ -98,6 +98,6 @@ TTK m. 62, bazı haksız rekabet fiillerini suç olarak düzenler. Bu fiillerin 
 - çalışanları, vekilleri ya da yardımcıları aldatarak işveren veya müvekkillerinin üretim ya da ticaret sırlarının ele geçirilmesini sağlayanlar,
 - çalışanının ya da vekilinin cezayı gerektiren bir haksız rekabet fiilini işlediğini öğrenip önlemeyen ya da gerçeğe aykırı beyanları düzeltmeyen işveren ve müvekkiller.
 
-Bu suçların kovuşturulması, m. 56'ya göre dava açma hakkı olanların şikâyetine bağlıdır. Fiil daha ağır cezayı gerektiren başka bir suç oluşturuyorsa o suçun hükümleri uygulanır. Haksız rekabet bir tüzel kişinin işleri görülürken işlenirse, ceza tüzel kişi adına hareket eden ya da etmesi gereken organ üyeleri hakkında uygulanır; tüzel kişi hakkında da ona özgü güvenlik tedbirlerine hükmolunabilir (m. 63).
+Bu suçların kovuşturulması, m. 56'ya göre dava açma hakkı olanların şikâyetine bağlıdır. Fiil daha ağır cezayı gerektiren başka bir suç oluşturuyorsa o suçun hükümleri uygulanır. Haksız rekabet bir tüzel kişinin işleri görülürken işlenirse, ceza tüzel kişi adına hareket eden ya da etmesi gereken organların üye ve ortakları hakkında uygulanır; tüzel kişi hakkında da ona özgü güvenlik tedbirlerine hükmolunabilir (m. 63).
 
 Haksız rekabet, tescilli bir markanın taklidi biçiminde ortaya çıkıyorsa ayrıca [marka hakkına tecavüz suçu](/yazilar/marka-hakkina-tecavuz-sucu/) gündeme gelebilir.
