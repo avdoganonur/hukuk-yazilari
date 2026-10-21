@@ -449,9 +449,20 @@ def ana_sayfa(yazilar: list[dict]) -> str:
     tum = '<p class="tum"><a href="/yazilar/">Tüm yazılar</a></p>' if len(yazilar) > 10 else ""
     icerik = f"""<section class="giris kap">
   <div class="giris-metin">
+    <p class="giris-etiket">AV. ONUR DOĞAN · KAYSERİ</p>
     <h1>Doğan Hukuk Bürosu</h1>
     <p class="giris-acik">Doğan Hukuk Bürosu, Kayseri Barosu'na kayıtlı Av. Onur Doğan tarafından Kocasinan / Kayseri'de yürütülmektedir. Bu sitede yayımlanan yazılar, güncel mevzuat esas alınarak hazırlanan genel bilgilendirme metinleridir; her yazıda dayanılan kanun hükümleri ayrıca belirtilir.</p>
+    <div class="giris-yollar"><a class="giris-buton" href="/yazilar/">Hukuk yazılarını inceleyin <span aria-hidden="true">↗</span></a><a href="#konular-b">Konulara göz atın <span aria-hidden="true">↓</span></a></div>
   </div>
+  <aside class="giris-rehber" aria-labelledby="rehber-b">
+    <p class="rehber-etiket">HUKUK YAZILARI</p>
+    <h2 id="rehber-b">Sorunuzdan<br>başlayın.</h2>
+    <p>Bir konuyu seçin veya arama alanına merak ettiğiniz kavramı yazın.</p>
+    <a href="/konu/is-hukuku/"><span>İş hukuku</span><span aria-hidden="true">↗</span></a>
+    <a href="/konu/aile-hukuku/"><span>Aile hukuku</span><span aria-hidden="true">↗</span></a>
+    <a href="/konu/tasinmaz-ve-kira/"><span>Taşınmaz ve kira</span><span aria-hidden="true">↗</span></a>
+    <a href="/arama/"><span>Tüm konularda arama</span><span aria-hidden="true">↗</span></a>
+  </aside>
 </section>
 <nav class="kap konular" aria-labelledby="konular-b">
   <h2 id="konular-b" class="bolum-baslik">Konular</h2>

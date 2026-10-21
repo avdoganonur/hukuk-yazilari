@@ -10,6 +10,14 @@ Avukatlık reklam yasağı (Av. K. m.55, TBB Reklam Yasağı Yönetmeliği) tasa
 
 ## Renkler
 
+### 21 Ekim 2026 tasarım güncellemesi
+
+Açık tema sıcak kâğıt (#f6f3ed), lacivert mürekkep (#192b3b), ikincil metin (#54606b), çizgi (#dcd7ce), bronz vurgu (#825c33) ve açık vurgu (#eee6da) kullanır. Koyu temada vurgu #dfbb89, açık vurgu #30312f olur; diğer koyu tema değerleri korunur. Aşağıdaki eski renk tablosunun yerine bu değerler geçerlidir.
+
+Ana sayfa rehberi iki temada da `--panel` (#192b3b), `--panel-metin` (#fffaf2), `--panel-ikincil` (#ccd4da), `--panel-vurgu` (#dfbb89), `--panel-cizgi` (#465460) kullanır.
+
+Ana sayfa 56em ve üzerinde tanıtım ve konu rehberi olarak iki sütundur; dar ekranlarda tek sütuna iner. Yazı listeleri geniş ekranda iki sütun, dar ekranda tek sütundur. Literata bölüm ve liste başlıklarında da kullanılır; makale gövdesi sistem sans olarak korunur. Metinler iki yana yaslanmaz. Ana başlık 2.7–4.8rem, satır yüksekliği 1.13; liste başlığı 1.5rem olur. Üst bant 3px, kart köşeleri 4px olarak güncellenir. Makale içeriği, URL'ler, arama ve hesaplama işlevleri değişmez.
+
 Tümü `:root` üzerinde değişkendir; koyu tema `prefers-color-scheme: dark` ile aynı adları yeniden tanımlar. Kodda renk değeri yazılmaz, yalnız değişken kullanılır.
 
 | Rol | Değişken | Açık | Koyu | Kullanım |
