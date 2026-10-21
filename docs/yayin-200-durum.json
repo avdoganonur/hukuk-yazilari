@@ -4,7 +4,7 @@
   "repository": "avdoganonur/hukuk-yazilari",
   "branch": "main",
   "site": "https://avukatonurdogan.com",
-  "updated_date": "2026-10-20",
+  "updated_date": "2026-10-21",
   "articles": [
     {
       "slug": "telafi-calismasi-sartlari-ve-sinirlari",
@@ -1143,7 +1143,103 @@
         }
       ],
       "commit": "f52c6a9e7b03794843f4cce9e6666eab07c8ff3a"
+    },
+    {
+      "slug": "hukuk-davasinda-islah",
+      "title": "Hukuk davasında talebimi veya beyanımı değiştirmek istiyorum: ıslah nasıl yapılır?",
+      "url": "https://avukatonurdogan.com/yazilar/hukuk-davasinda-islah/",
+      "word_count": 916,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6100 sayılı Hukuk Muhakemeleri Kanunu m. 176–183",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 598947fc2958c0a3a1bd9a8cd5412c2e3f50040ab246b0753f946fd5416536af."
+        }
+      ],
+      "commit": "d0c0291f2f40e6b1605603171af766edb407c741"
+    },
+    {
+      "slug": "alim-satim-komisyoncusunun-hak-ve-borclari",
+      "title": "Malımı komisyoncu satacak: bedel, veresiye satış ve komisyon ücreti nasıl belirlenir?",
+      "url": "https://avukatonurdogan.com/yazilar/alim-satim-komisyoncusunun-hak-ve-borclari/",
+      "word_count": 922,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 532–546",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "4edc2f6ebf24240ba932579a3103684f5397918c"
+    },
+    {
+      "slug": "paydasliktan-cikarma-davasi",
+      "title": "Ortak taşınmazdaki paydaş yükümlülüklerini ağır biçimde ihlal ediyorsa çıkarılabilir mi?",
+      "url": "https://avukatonurdogan.com/yazilar/paydasliktan-cikarma-davasi/",
+      "word_count": 906,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 693–697",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "6caba80bfe94fed25196e376633d05911eaa8080"
+    },
+    {
+      "slug": "hizmet-sozlesmesinde-isci-ve-isverenin-olumu",
+      "title": "İşçi veya işveren ölürse hizmet sözleşmesi ve ödemeler ne olur?",
+      "url": "https://avukatonurdogan.com/yazilar/hizmet-sozlesmesinde-isci-ve-isverenin-olumu/",
+      "word_count": 905,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 440–443",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "22261d2aadbd0d85c6179cdbd635046f19b41c4b"
+    },
+    {
+      "slug": "baglantili-hukuk-davalarinin-birlestirilmesi",
+      "title": "Bağlantılı iki hukuk davası birleştirilebilir mi, hangi mahkeme devam eder?",
+      "url": "https://avukatonurdogan.com/yazilar/baglantili-hukuk-davalarinin-birlestirilmesi/",
+      "word_count": 910,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6100 sayılı Hukuk Muhakemeleri Kanunu m. 166–168",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 598947fc2958c0a3a1bd9a8cd5412c2e3f50040ab246b0753f946fd5416536af."
+        }
+      ],
+      "commit": "93bf9f34212bd85551bee8e31ae2cd9428ad0d65"
+    },
+    {
+      "slug": "vergi-mahremiyeti-ve-bilgi-paylasimi",
+      "title": "Vergi bilgilerim açıklanabilir mi: vergi mahremiyeti kimleri bağlar, istisnaları nelerdir?",
+      "url": "https://avukatonurdogan.com/yazilar/vergi-mahremiyeti-ve-bilgi-paylasimi/",
+      "word_count": 915,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "213 sayılı Vergi Usul Kanunu m. 5–6",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.213.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 f04c9b088672ddaf6e861738346bc9eb07b2475e278a8eab7e06e8c46ef5f200."
+        }
+      ],
+      "commit": "f91f18a1ceceba8bc2f004ae5907b18aa94f9510"
     }
   ],
-  "next_sequence": 62
+  "next_sequence": 68
 }
