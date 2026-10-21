@@ -147,3 +147,23 @@ Yeni on metnin her biri 901–979 kelime, dört ara başlık, üç Kısaca madde
 57. [Vasiyetnamede bana bir mal bırakılmış: teslimini kimden ve ne zaman isteyebilirim?](https://avukatonurdogan.com/yazilar/vasiyet-alacagi-belirli-malin-teslimi/) — 907 kelime; live_verified; yayın akışı 39433946021.
 
 Tüm yeni sayfalar HTTP 200 ve kayıtlı H1 başlığıyla doğrulandı; başarılı yayın akışları kaydedildi. Güncel ilerleme: 57/200; kalan 143. Bu on yazılık yayın grubu tamamlandı; 200 makale hedefi henüz tamamlanmadı.
+
+
+## 20–21 Ekim 2026: 58–67. yazıların yayın kaydı
+
+Bu devam çalışmasında 10 yeni makale ayrı create_file işlemleriyle main dalına eklendi. Her metin 903–947 kelime, dört ara başlık, üç Kısaca maddesi ve üç pratik soru içerir. Güncel site başlık ve içerikleri tarandı; aynı soruyu ele alan adaylar kullanılmadı. `python build.py --kontrol` ve bağımsız uzunluk/yapı kontrolleri başarılıdır.
+
+4721, 5253, 5271, 6098 ve 6100 sayılı kanunlar ile 213 sayılı Vergi Usul Kanununun birleştirilmiş resmî PDF'leri yayımdan önce mevzuat.gov.tr üzerinden yeniden alındı. Kapsam, istisna, süre başlangıcı ve geçiş hükümleri ilgili konular bakımından incelendi. Kaynak özetleri, SHA-256 değerleri ve commit kimlikleri durum dosyasındadır. Doğrulanmamış içtihat veya karar künyesi kullanılmadı.
+
+58. [Evde ürün hazırlayarak çalışıyorum: teslim, malzeme ve ücret kuralları neler?](https://avukatonurdogan.com/yazilar/evde-hizmet-sozlesmesinde-urun-ve-ucret/) — 947 kelime; live_verified.
+59. [Dernekten ayrılmak veya çıkarılmak: üyelik, aidat ve itiraz hakları nasıl etkilenir?](https://avukatonurdogan.com/yazilar/dernek-uyeliginden-cikma-cikarilma-ve-aidat/) — 903 kelime; live_verified.
+60. [Borç için eşyamı rehin verdim: alacaklı ne yapabilir, ne zaman geri vermelidir?](https://avukatonurdogan.com/yazilar/teslime-bagli-tasinir-rehni-ve-geri-verme/) — 905 kelime; live_verified.
+61. [Ceza yargılamasında süreyi kusurum olmadan kaçırdım: eski hâle getirme nasıl istenir?](https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-sure-ve-eski-hale-getirme/) — 909 kelime; live_verified.
+62. [Hukuk davasında talebimi veya beyanımı değiştirmek istiyorum: ıslah nasıl yapılır?](https://avukatonurdogan.com/yazilar/hukuk-davasinda-islah/) — 916 kelime; live_verified.
+63. [Malımı komisyoncu satacak: bedel, veresiye satış ve komisyon ücreti nasıl belirlenir?](https://avukatonurdogan.com/yazilar/alim-satim-komisyoncusunun-hak-ve-borclari/) — 922 kelime; live_verified.
+64. [Ortak taşınmazdaki paydaş yükümlülüklerini ağır biçimde ihlal ediyorsa çıkarılabilir mi?](https://avukatonurdogan.com/yazilar/paydasliktan-cikarma-davasi/) — 906 kelime; live_verified.
+65. [İşçi veya işveren ölürse hizmet sözleşmesi ve ödemeler ne olur?](https://avukatonurdogan.com/yazilar/hizmet-sozlesmesinde-isci-ve-isverenin-olumu/) — 905 kelime; live_verified.
+66. [Bağlantılı iki hukuk davası birleştirilebilir mi, hangi mahkeme devam eder?](https://avukatonurdogan.com/yazilar/baglantili-hukuk-davalarinin-birlestirilmesi/) — 910 kelime; live_verified.
+67. [Vergi bilgilerim açıklanabilir mi: vergi mahremiyeti kimleri bağlar, istisnaları nelerdir?](https://avukatonurdogan.com/yazilar/vergi-mahremiyeti-ve-bilgi-paylasimi/) — 915 kelime; live_verified.
+
+Yayın akışları başarıyla tamamlandı. On sayfanın tamamı HTTP 200 ve kayıtlı H1 başlığıyla doğrulandı. Güncel ilerleme: 67/200; kalan 133. Bu on yazılık yayın grubu tamamlandı; 200 makale hedefi henüz tamamlanmadı.
