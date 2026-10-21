@@ -14,7 +14,7 @@ Dosya `---` satırları arasındaki bilgi bölümüyle başlar:
 
 ```yaml
 ---
-baslik: "Soruyu okurun diliyle soran başlık (10–110 karakter)"
+baslik: "Kurumsal, genel ifadeli başlık (10–110 karakter)"
 aciklama: "Arama sonuçlarında görünen özet (50–160 karakter)"
 kisaca:                    # zorunlu; yazının başındaki "Kısaca" kutusu
   - "Okurun sorusuna doğrudan cevap veren kısa cümle."
@@ -52,6 +52,7 @@ Av. Onur Doğan'ın 21.10.2026 kararıyla bu tarihten sonra yazılan yazıların
   5. Dilekçede ve dosyada dikkat edilecekler: talep sonucunun nasıl kurulacağı, sık yapılan usul hataları, karşı tarafın muhtemel savunmaları.
   6. Gerekirse kısa örnek olay ya da hesap (gerçek veri olmadığı belirtilerek).
 - Paragraflar en fazla 4–5 cümle; sayılabilen şartlar ve adımlar madde listesiyle yazılır. Karşılaştırma gerekiyorsa tablo kullanılabilir.
+- Başlık (`baslik`) kurumsal ve genel ifadeyle yazılır: konuyu adlandırır, birinci tekil kişi ya da okur ağzından bireysel soru kullanılmaz ("Kitabımı yayımlatacağım: …", "Ayıplı mal aldım: …", "… ne yapmalıyım?" yok). Örnek: "Yayım Sözleşmesinde Yazar ve Yayımcının Hakları", "Tüketici İşlemlerinde Ayıplı Mal ve Seçimlik Haklar". (Onur, 21.10.2026)
 - Ana başlık (`# `) kullanılmaz. Retorik soru başlıkları, "Sonuç olarak" ile başlayan özet paragrafları, gereksiz kalın yazı kullanılmaz.
 - Sık sorulan sorular meslektaşın soracağı usul sorularıdır (ör. "Belirsiz alacak davası açılabilir mi?" — 7589 sonrası durumu kontrol ederek).
 - Sona "Bu yazı genel bilgilendirme amaçlıdır..." notu eklenmez; site bunu kendisi ekler.

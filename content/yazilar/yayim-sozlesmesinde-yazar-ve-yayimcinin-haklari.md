@@ -1,5 +1,5 @@
 ---
-baslik: "Kitabımı yayımlatacağım: yazar ve yayımcının hakları nasıl belirlenir?"
+baslik: "Yayım Sözleşmesinde Yazar ve Yayımcının Hakları"
 aciklama: "Yayım sözleşmesinin yazılı şekli, baskı sayısı, değişiklik ve çeviri hakkı, satış hesabı, bedel ve eserin yok olması."
 tarih: 2026-10-21
 alan: borclar-hukuku
