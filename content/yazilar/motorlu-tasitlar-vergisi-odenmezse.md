@@ -4,7 +4,7 @@ aciklama: "MTV mükellefiyetinin başlaması ve sona ermesi, satıştan önce ö
 kisaca:
   - "MTV mükellefi, trafik sicilinde adına taşıt kayıtlı olan kişidir; taraflar arasındaki anlaşma vergi dairesini bağlamaz."
   - "Satış ve devirden önce o güne kadar ödenmemiş MTV, gecikme zammı, faiz ve cezaların ödendiği belgelenmelidir."
-  - "Bu kontrolü yapmadan işlem yapan noter ve diğer yetkililer mükellefle birlikte müteselsilen sorumludur; alıcı kanunen sorumlu tutulmaz."
+  - "Bu kontrolü yapmadan işlem yapan noter ve diğer yetkililer mükellefle birlikte müteselsilen sorumludur; alıcı satıcının geçmiş borcundan sorumlu değildir."
 tarih: 2026-10-21
 alan: vergi-hukuku
 dayanak:

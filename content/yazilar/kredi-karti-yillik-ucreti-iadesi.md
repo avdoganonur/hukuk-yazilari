@@ -2,7 +2,7 @@
 baslik: "Kredi kartı yıllık ücreti geri alınabilir mi? İade şartları, hakem heyeti ve dava"
 aciklama: "Kredi kartı yıllık üyelik ücretinin hangi hâllerde iade edilebileceği, 5464 ve 6502 sayılı Kanunlar, TCMB ücret tebliği, hakem heyeti ve dava usulü."
 kisaca:
-  - "Yıllık üyelik ücreti kural olarak yasaktır denemez; sözleşmede yer alan ve tüketicinin onayına dayanan ücret alınabilir."
+  - "Yıllık üyelik ücreti tek başına hukuka aykırı değildir; sözleşmede yer alan ve tüketicinin onayına dayanan ücret alınabilir."
   - "Kart çıkaran kuruluş yıllık ücretsiz bir kart türü sunmak ve ücretli kartı aynı limitle ücretsiz karta çevirme talebini yerine getirmek zorundadır."
   - "Sözleşmede bulunmayan, onay alınmadan ya da iptal sonrası tahsil edilen ücretin iadesi hakem heyeti veya tüketici mahkemesi yoluyla istenebilir."
 tarih: 2026-10-21
