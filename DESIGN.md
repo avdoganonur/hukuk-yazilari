@@ -4,6 +4,10 @@ Bu dosya sitenin görsel dilini tanımlar. Siteye yeni bir sayfa, bölüm ya da 
 
 ## Karakter
 
+### Ana sayfa kimliği — ikinci tasarım
+
+Ana sayfa tam genişlikte lacivert açılış, krem Literata başlık ve bronz italik vurgu kullanır. Sağdaki `mimari-imza.svg` özgün, dekoratif çizimdir; gerçek büro fotoğrafı veya resmî amblem değildir ve yardımcı teknolojilerden gizlenir. OD monogramı üst bantta da tekrarlanır. Alanlar numaralı bir dizin olarak, yayınlar ilk yazının öne çıktığı editoryal düzende sunulur. Araçlara erişim ayrı bir şerittir. Yeni animasyon, izleme veya harici font eklenmez. Mobilde dekoratif görsel kaldırılır; metin ve arama önceliklidir. Alt bölüm iki temada da koyu laciverttir. Hukuki içerik ve adresler değiştirilmez.
+
 Sakin, okunaklı, güven veren bir hukuk bilgilendirme sitesi. Bir gazetenin hukuk köşesi ya da iyi dizilmiş bir kitap gibi okunur; bir pazarlama sayfası gibi değil. Hukukçu olmayan okur için yazılır: önce kısa ve net cevap, sonra ayrıntı ve dayanak.
 
 Avukatlık reklam yasağı (Av. K. m.55, TBB Reklam Yasağı Yönetmeliği) tasarımın da sınırıdır: "hemen arayın" düğmeleri, başarı rozetleri, müvekkil yorumları, ücret ya da kampanya kutuları, sayaçlar, övücü başlıklar yok. Tek iletişim öğesi sağ alttaki WhatsApp balonu ve Hakkında sayfasıdır.

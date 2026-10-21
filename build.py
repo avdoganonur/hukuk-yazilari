@@ -268,8 +268,8 @@ def sayfa(*, baslik: str, aciklama: str, yol: str, icerik: str, aktif: str = "",
 <header class="ust">
   <div class="kap ust-ic">
     <a class="imza" href="/">
-      <span class="imza-ad">{e(SITE['ad'])}</span>
-      <span class="imza-alt">{e(SITE['alt_ad'])}</span>
+      <span class="imza-monogram" aria-hidden="true">OD</span>
+      <span class="imza-yazi"><span class="imza-ad">{e(SITE['ad'])}</span><span class="imza-alt">{e(SITE['alt_ad'])}</span></span>
     </a>
     <nav class="menu" aria-label="Ana menü">
       {menu('/yazilar/', 'Yazılar', 'yazilar')}
@@ -447,29 +447,23 @@ def site_jsonld() -> dict:
 def ana_sayfa(yazilar: list[dict]) -> str:
     son = yazilar[:10]
     tum = '<p class="tum"><a href="/yazilar/">Tüm yazılar</a></p>' if len(yazilar) > 10 else ""
-    icerik = f"""<section class="giris kap">
+    icerik = f"""<div class="giris-zemin"><section class="giris kap">
   <div class="giris-metin">
-    <p class="giris-etiket">AV. ONUR DOĞAN · KAYSERİ</p>
-    <h1>Doğan Hukuk Bürosu</h1>
-    <p class="giris-acik">Doğan Hukuk Bürosu, Kayseri Barosu'na kayıtlı Av. Onur Doğan tarafından Kocasinan / Kayseri'de yürütülmektedir. Bu sitede yayımlanan yazılar, güncel mevzuat esas alınarak hazırlanan genel bilgilendirme metinleridir; her yazıda dayanılan kanun hükümleri ayrıca belirtilir.</p>
+    <p class="giris-etiket"><span aria-hidden="true"></span> AV. ONUR DOĞAN · KAYSERİ</p>
+    <h1>Doğan<br><em>Hukuk</em> Bürosu</h1>
+    <p class="giris-sunu">Hukuka dair, anlaşılır bir kaynak.</p>
+    <p class="giris-acik">Hukuki konulara ilişkin sade açıklamalar, kanun dayanakları ve hesaplama araçları. Doğan Hukuk Bürosu'nun genel bilgilendirme amaçlı yayınları.</p>
     <div class="giris-yollar"><a class="giris-buton" href="/yazilar/">Hukuk yazılarını inceleyin <span aria-hidden="true">↗</span></a><a href="#konular-b">Konulara göz atın <span aria-hidden="true">↓</span></a></div>
   </div>
-  <aside class="giris-rehber" aria-labelledby="rehber-b">
-    <p class="rehber-etiket">HUKUK YAZILARI</p>
-    <h2 id="rehber-b">Sorunuzdan<br>başlayın.</h2>
-    <p>Bir konuyu seçin veya arama alanına merak ettiğiniz kavramı yazın.</p>
-    <a href="/konu/is-hukuku/"><span>İş hukuku</span><span aria-hidden="true">↗</span></a>
-    <a href="/konu/aile-hukuku/"><span>Aile hukuku</span><span aria-hidden="true">↗</span></a>
-    <a href="/konu/tasinmaz-ve-kira/"><span>Taşınmaz ve kira</span><span aria-hidden="true">↗</span></a>
-    <a href="/arama/"><span>Tüm konularda arama</span><span aria-hidden="true">↗</span></a>
-  </aside>
-</section>
-<nav class="kap konular" aria-labelledby="konular-b">
-  <h2 id="konular-b" class="bolum-baslik">Konular</h2>
+  <div class="giris-cizim" aria-hidden="true"><img src="/mimari-imza.svg" alt="" width="420" height="480"><span class="cizim-not">DOĞAN HUKUK BÜROSU</span></div>
+</section><div class="kap giris-dip"><span>HUKUK YAZILARI &amp; BİLGİLENDİRME</span><a href="/hakkinda/">Büro hakkında <span aria-hidden="true">↗</span></a></div></div>
+<nav class="kap konular ana-konular" aria-labelledby="konular-b">
+  <div class="bolum-kunye"><p class="bolum-etiket">01 / HUKUK ALANLARI</p><div class="bolum-satir"><h2 id="konular-b" class="bolum-baslik">Hangi konuyu arıyorsunuz?</h2><p>İlgilendiğiniz alandan başlayın.</p></div></div>
   {konu_izgarasi(yazilar)}
 </nav>
-<section class="kap liste-bolum" aria-labelledby="son-b">
-  <h2 id="son-b" class="bolum-baslik">Son yazılar</h2>
+<section class="kap arac-vitrini" aria-labelledby="vitrin-b"><div><p class="bolum-etiket">PRATİK ARAÇLAR</p><h2 id="vitrin-b">Hesaplamalar, bir arada.</h2><p>İlgili açıklama ve kaynaklarıyla hukuki hesaplama araçları.</p></div><a href="/hesaplama-araclari/">Araçları inceleyin <span aria-hidden="true">↗</span></a></section>
+<section class="kap liste-bolum ana-yazilar" aria-labelledby="son-b">
+  <div class="bolum-kunye"><p class="bolum-etiket">02 / YAYINLAR</p><div class="bolum-satir"><h2 id="son-b" class="bolum-baslik">Hukuk notları</h2><a href="/yazilar/">Tüm yazılar <span aria-hidden="true">↗</span></a></div></div>
   {liste(son)}
   {tum}
 </section>"""
