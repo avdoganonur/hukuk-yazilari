@@ -1450,7 +1450,172 @@
       "http_status": 200,
       "live_verified_date": "2026-10-21",
       "deployment_run_id": 39534029760
+    },
+    {
+      "slug": "ticari-temsilcinin-yetkisi-ve-sinirlari",
+      "title": "Ticari temsilci hangi işlemleri yapabilir, yetkisi nasıl sınırlandırılır?",
+      "url": "https://avukatonurdogan.com/yazilar/ticari-temsilcinin-yetkisi-ve-sinirlari/",
+      "word_count": 900,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 547–550",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "1c93de5bd00fd1cf0808abb68a39d8df00004572"
+    },
+    {
+      "slug": "ceza-yargilamasinda-tanigin-cagrilmasi-ve-cekinmesi",
+      "title": "Ceza yargılamasında tanık çağrıya gitmezse ne olur, kimler çekinebilir?",
+      "url": "https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-tanigin-cagrilmasi-ve-cekinmesi/",
+      "word_count": 905,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "5271 sayılı Ceza Muhakemesi Kanunu m. 43–49",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 46d9b6447ac516eaf56f2619665a01c079d5aa305b48b7b1a773a87b4045064a."
+        }
+      ],
+      "commit": "675e0f2a3df794815833fa65bbe3beb2be52670c"
+    },
+    {
+      "slug": "kaynak-suyu-mulkiyeti-zarar-ve-zorunlu-su-hakki",
+      "title": "Arazide çıkan kaynak suyu kime aittir, komşu zorunlu su isteyebilir mi?",
+      "url": "https://avukatonurdogan.com/yazilar/kaynak-suyu-mulkiyeti-zarar-ve-zorunlu-su-hakki/",
+      "word_count": 907,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 756–761 ve 837",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "1affbf53562b7d5ccd3ab95068ef3831e75b2eba"
+    },
+    {
+      "slug": "vergi-dairesine-ise-baslama-degisiklik-ve-birakma-bildirimi",
+      "title": "Vergi dairesine işe başlama, değişiklik ve işi bırakma ne zaman bildirilir?",
+      "url": "https://avukatonurdogan.com/yazilar/vergi-dairesine-ise-baslama-degisiklik-ve-birakma-bildirimi/",
+      "word_count": 905,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "213 sayılı Vergi Usul Kanunu m. 153–160 ve 168–170/A",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.213.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 f04c9b088672ddaf6e861738346bc9eb07b2475e278a8eab7e06e8c46ef5f200."
+        }
+      ],
+      "commit": "8e50fe6a5c9f96836702c070934b43a0cf6ab3cc"
+    },
+    {
+      "slug": "hukuk-davasinda-durusmaya-katilim-soru-ve-tutanak",
+      "title": "Hukuk davasında duruşmaya katılım, soru sorma ve tutanak kuralları",
+      "url": "https://avukatonurdogan.com/yazilar/hukuk-davasinda-durusmaya-katilim-soru-ve-tutanak/",
+      "word_count": 904,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6100 sayılı Hukuk Muhakemeleri Kanunu m. 147–158",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 598947fc2958c0a3a1bd9a8cd5412c2e3f50040ab246b0753f946fd5416536af."
+        }
+      ],
+      "commit": "8a5e1f4bd335eadc0e8c9abe34420c911cfccb71"
+    },
+    {
+      "slug": "konaklama-yerinde-esyanin-kaybi-ve-isletenin-sorumlulugu",
+      "title": "Otelde eşya kaybolursa işleten hangi ölçüde sorumlu olur?",
+      "url": "https://avukatonurdogan.com/yazilar/konaklama-yerinde-esyanin-kaybi-ve-isletenin-sorumlulugu/",
+      "word_count": 905,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 576–580",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "eba3dd3e5bbb226806abc9f20b539566e6848435"
+    },
+    {
+      "slug": "ceza-yargilamasinda-bilirkisi-raporu-ve-uzman-mutalaasi",
+      "title": "Ceza yargılamasında bilirkişi raporuna karşı ne yapılabilir?",
+      "url": "https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-bilirkisi-raporu-ve-uzman-mutalaasi/",
+      "word_count": 903,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "5271 sayılı Ceza Muhakemesi Kanunu m. 62–73",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 46d9b6447ac516eaf56f2619665a01c079d5aa305b48b7b1a773a87b4045064a."
+        }
+      ],
+      "commit": "2289a352aaadcf9e9dbbc15197e8405144229fcb"
+    },
+    {
+      "slug": "ardiyecinin-saklama-borcu-ucreti-ve-hapis-hakki",
+      "title": "Ardiyeye bırakılan ticari mal nasıl saklanır, ücret ve hapis hakkı nedir?",
+      "url": "https://avukatonurdogan.com/yazilar/ardiyecinin-saklama-borcu-ucreti-ve-hapis-hakki/",
+      "word_count": 917,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 571–575",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "478c7f50cf058a2636a91e5fda23d351fd4ee3f2"
+    },
+    {
+      "slug": "takim-sozlesmesi-ve-takim-kilavuzunun-konumu",
+      "title": "Takım sözleşmesi nedir, işçilerin ücretini kim öder?",
+      "url": "https://avukatonurdogan.com/yazilar/takim-sozlesmesi-ve-takim-kilavuzunun-konumu/",
+      "word_count": 902,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "4857 sayılı İş Kanunu m. 16",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4857.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 cd75c7fe92bd438443549c3e973e7ea6d03137e9a6bb2652aded52a8ca95e84e."
+        },
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 128",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "743422f5f2d30fffd1870602dd1db293e60bca5c"
+    },
+    {
+      "slug": "omur-boyu-gelir-sozlesmesi-sekil-ve-odeme",
+      "title": "Ömür boyu gelir sözleşmesi nasıl kurulur ve ödemeler ne zaman yapılır?",
+      "url": "https://avukatonurdogan.com/yazilar/omur-boyu-gelir-sozlesmesi-sekil-ve-odeme/",
+      "word_count": 909,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 607–610",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "1b32708f91c88112f9a40568b2c2b5855e8c7262"
     }
   ],
-  "next_sequence": 78
+  "next_sequence": 88
 }
