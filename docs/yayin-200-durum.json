@@ -1260,7 +1260,167 @@
       "http_status": 200,
       "live_verified_date": "2026-10-21",
       "deployment_run_id": 39528056029
+    },
+    {
+      "slug": "hukuk-davasinda-dava-arkadasligi",
+      "title": "Birden fazla kişi aynı hukuk davasında birlikte yer alabilir mi?",
+      "url": "https://avukatonurdogan.com/yazilar/hukuk-davasinda-dava-arkadasligi/",
+      "word_count": 902,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6100 sayılı Hukuk Muhakemeleri Kanunu m. 57–60",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 598947fc2958c0a3a1bd9a8cd5412c2e3f50040ab246b0753f946fd5416536af."
+        }
+      ],
+      "commit": "afc7fe3ae743f607c6dbc9d3e55144e766dfa50a"
+    },
+    {
+      "slug": "ceza-davalarinda-baglanti-birlestirme-ve-ayirma",
+      "title": "Bağlantılı ceza davaları ne zaman birleştirilir veya ayrılır?",
+      "url": "https://avukatonurdogan.com/yazilar/ceza-davalarinda-baglanti-birlestirme-ve-ayirma/",
+      "word_count": 912,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "5271 sayılı Ceza Muhakemesi Kanunu m. 8–11, 16",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 46d9b6447ac516eaf56f2619665a01c079d5aa305b48b7b1a773a87b4045064a."
+        }
+      ],
+      "commit": "75b5cc0e0f7efb765f82c449d017f0575e7c247a"
+    },
+    {
+      "slug": "vakif-kurulusu-tescil-ve-vakif-senedi",
+      "title": "Vakıf nasıl kurulur: mal özgüleme, resmî senet ve tescil süreci",
+      "url": "https://avukatonurdogan.com/yazilar/vakif-kurulusu-tescil-ve-vakif-senedi/",
+      "word_count": 909,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 101–109, 111–116",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "589899d8047b77cb0b5a9925666e85046c6cf75a"
+    },
+    {
+      "slug": "yayim-sozlesmesinde-yazar-ve-yayimcinin-haklari",
+      "title": "Kitabımı yayımlatacağım: yazar ve yayımcının hakları nasıl belirlenir?",
+      "url": "https://avukatonurdogan.com/yazilar/yayim-sozlesmesinde-yazar-ve-yayimcinin-haklari/",
+      "word_count": 927,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 487–501",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "363b07347ac5f01cdabd1af31f7abff108f39568"
+    },
+    {
+      "slug": "baskasinin-malzemesiyle-araziye-yapi-yapilmasi",
+      "title": "Başkasının malzemesiyle araziye yapı yapılırsa malzeme ve yapı kime ait olur?",
+      "url": "https://avukatonurdogan.com/yazilar/baskasinin-malzemesiyle-araziye-yapi-yapilmasi/",
+      "word_count": 908,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "4721 sayılı Türk Medenî Kanunu m. 722–724",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 e08a8b2e6df1d4263ca29b1b2e1e1666a82f65e2a0c8e9ef47372d6864a3e178."
+        }
+      ],
+      "commit": "94bad4100aaafdd3c1014f8a85e60ca9853f5199"
+    },
+    {
+      "slug": "havale-isleminde-odeme-kabul-ve-geri-alma",
+      "title": "Bir borcun ödenmesi için üçüncü kişiye havale verdim: borç ne zaman sona erer?",
+      "url": "https://avukatonurdogan.com/yazilar/havale-isleminde-odeme-kabul-ve-geri-alma/",
+      "word_count": 915,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 555–560",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "19c83968e64cfee6dd189900de90accf16661f3c"
+    },
+    {
+      "slug": "vergi-defter-ve-belgelerini-muhafaza-ibraz",
+      "title": "Vergi defter ve belgeleri kaç yıl saklanır, istendiğinde nasıl ibraz edilir?",
+      "url": "https://avukatonurdogan.com/yazilar/vergi-defter-ve-belgelerini-muhafaza-ibraz/",
+      "word_count": 900,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "213 sayılı Vergi Usul Kanunu m. 253–257",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.213.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 f04c9b088672ddaf6e861738346bc9eb07b2475e278a8eab7e06e8c46ef5f200."
+        }
+      ],
+      "commit": "b5cc063e12555a1aaaa2a784d12743c82a68e6ee"
+    },
+    {
+      "slug": "kredi-mektubu-ve-kredi-emri-sorumlulugu",
+      "title": "Kredi mektubu veya kredi emri verdim: ödeme ve sorumluluk nasıl doğar?",
+      "url": "https://avukatonurdogan.com/yazilar/kredi-mektubu-ve-kredi-emri-sorumlulugu/",
+      "word_count": 912,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6098 sayılı Türk Borçlar Kanunu m. 515–519",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 052287d8111a07612974f31a71ed3c90e9743aa28d77a005846e4c392316b9d9."
+        }
+      ],
+      "commit": "a83ad26f76faff23989f3e7139d32e2b33b23c66"
+    },
+    {
+      "slug": "hukuk-davasinda-on-sorun-ve-bekletici-sorun",
+      "title": "Hukuk davasında ön sorun ve bekletici sorun ne anlama gelir?",
+      "url": "https://avukatonurdogan.com/yazilar/hukuk-davasinda-on-sorun-ve-bekletici-sorun/",
+      "word_count": 905,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "6100 sayılı Hukuk Muhakemeleri Kanunu m. 163–165",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 598947fc2958c0a3a1bd9a8cd5412c2e3f50040ab246b0753f946fd5416536af."
+        }
+      ],
+      "commit": "038350751a12adf10ad097c544925e0b63119ace"
+    },
+    {
+      "slug": "ceza-davasinda-yetkili-mahkeme-ve-yetkisizlik",
+      "title": "Ceza davasına hangi yer mahkemesi bakar, yetkisizlik ne zaman ileri sürülür?",
+      "url": "https://avukatonurdogan.com/yazilar/ceza-davasinda-yetkili-mahkeme-ve-yetkisizlik/",
+      "word_count": 902,
+      "status": "uploaded",
+      "published_date": "2026-10-21",
+      "verified_sources": [
+        {
+          "ad": "5271 sayılı Ceza Muhakemesi Kanunu m. 12–21",
+          "baglanti": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf",
+          "not": "21 Ekim 2026 yeniden alınan resmî PDF; SHA-256 46d9b6447ac516eaf56f2619665a01c079d5aa305b48b7b1a773a87b4045064a."
+        }
+      ],
+      "commit": "053e3aae863ea15b5e70f16ea4aa8e7753abe2df"
     }
   ],
-  "next_sequence": 68
+  "next_sequence": 78
 }
