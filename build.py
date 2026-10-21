@@ -178,8 +178,10 @@ def yazi_oku(yol: Path) -> dict:
 
     kelime = kelime_say(govde + " ".join(f"{s.get('soru','')} {s.get('cevap','')}"
                                             for s in sss if isinstance(s, dict)))
-    if kelime < 700 or kelime > 1600:
-        uyarilar.append(f"uzunluk {kelime} kelime (hedef 900–1.200)")
+    # 21.10.2026'dan önceki yazılar halka yönelik (900–1.200), sonrakiler meslektaşlara yönelik (1.500–2.800).
+    alt, ust, hedef = (700, 1600, "900–1.200") if str(bilgi.get("tarih", "")) < "2026-10-21" else (1300, 3200, "1.500–2.800")
+    if kelime < alt or kelime > ust:
+        uyarilar.append(f"uzunluk {kelime} kelime (hedef {hedef})")
 
     if hatalar:
         raise YaziHatasi(f"{ad}:\n  - " + "\n  - ".join(hatalar))

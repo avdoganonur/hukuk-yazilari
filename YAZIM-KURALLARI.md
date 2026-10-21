@@ -40,17 +40,26 @@ sss:                       # 3–4 soru önerilir
 
 ## Metin
 
-- Okur hukukçu değildir. Sade Türkçe; terimler ilk geçtiği yerde açıklanır.
-- Uzunluk: metin ve sık sorulan sorular birlikte 900–1.200 kelime.
-- Paragraflar kısa tutulur: en fazla 3–4 cümle (telefonda okunurken duvar gibi görünmesin). Sayılabilen şartlar ve adımlar madde listesiyle yazılır.
-- Ana başlık (`# `) kullanılmaz; ara başlıklar `## ` ile yazılır, 3–5 ara başlık.
-- Retorik soru başlıkları, "Sonuç olarak" ile başlayan özet paragrafları, gereksiz kalın yazı kullanılmaz.
+Av. Onur Doğan'ın 21.10.2026 kararıyla bu tarihten sonra yazılan yazıların okuru **hukuki bir soruna cevap arayan meslektaşlardır** (avukat, stajyer, hukukçu). Yazı, somut bir uyuşmazlıkta izlenecek çözüm yolunu göstermelidir. Daha önce halka yönelik yazılmış yazılar olduğu gibi kalır.
+
+- Hukuk dili kullanılır; temel kavramlar açıklanmaz, ama uygulamada karıştırılan noktalar netleştirilir.
+- Uzunluk: metin ve sık sorulan sorular birlikte 1.500–2.800 kelime.
+- 5–8 ara başlık (`## `). Önerilen sıra:
+  1. Sorun ve kısa cevap (hangi hükümler, hangi yol).
+  2. Hukuki dayanak ve şartlar (madde madde, lafza sadık).
+  3. Uygulamada tartışmalı noktalar ve öğretideki görüşler.
+  4. Usul: görevli ve yetkili mahkeme, dava şartı arabuluculuk ya da idari başvuru, süreler (hak düşürücü / zamanaşımı ve başlangıcı), harç türü (nispi / maktu; tutar yazılmaz), ispat yükü ve deliller, ihtiyati tedbir / haciz imkânı, kanun yolu.
+  5. Dilekçede ve dosyada dikkat edilecekler: talep sonucunun nasıl kurulacağı, sık yapılan usul hataları, karşı tarafın muhtemel savunmaları.
+  6. Gerekirse kısa örnek olay ya da hesap (gerçek veri olmadığı belirtilerek).
+- Paragraflar en fazla 4–5 cümle; sayılabilen şartlar ve adımlar madde listesiyle yazılır. Karşılaştırma gerekiyorsa tablo kullanılabilir.
+- Ana başlık (`# `) kullanılmaz. Retorik soru başlıkları, "Sonuç olarak" ile başlayan özet paragrafları, gereksiz kalın yazı kullanılmaz.
+- Sık sorulan sorular meslektaşın soracağı usul sorularıdır (ör. "Belirsiz alacak davası açılabilir mi?" — 7589 sonrası durumu kontrol ederek).
 - Sona "Bu yazı genel bilgilendirme amaçlıdır..." notu eklenmez; site bunu kendisi ekler.
 
 ## Doğruluk (atlanamaz)
 
 - Her kanun maddesi, süre, tutar ve oran yayımdan önce mevzuat.gov.tr'deki güncel metinden kontrol edilir.
-- Yargı kararı künyesi yalnızca resmî karar arama kaynağında bulunduysa verilir; bulunamayan künye yazılmaz.
+- Yargı kararı künyesi yalnızca resmî karar arama kaynağında (karararama.yargitay.gov.tr, emsal.uyap.gov.tr, Anayasa Mahkemesi ve Danıştay karar arama) bulunduysa verilir; daire, esas ve karar numarası ile tarih eksiksiz yazılır. Karar metninden alıntı en çok iki cümledir ve tırnak içinde verilir. Bulunamayan künye yazılmaz; uygulama yalnızca akademik bir kaynağa dayanıyorsa bu açıkça belirtilir ("öğretide aktarıldığına göre").
 - Değişebilen tutarlar (asgari ücret, kıdem tavanı, harçlar) yalnızca resmî kaynaktan doğrulandıysa ve dönemi belirtilerek yazılır.
 - Doğrulanamayan bilgi metinden çıkarılır. Metinde `[doğrulanacak]` işareti kalırsa site derlenmez.
 
