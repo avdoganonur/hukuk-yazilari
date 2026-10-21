@@ -45,7 +45,7 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6183&MevzuatTur=1&MevzuatTertip=3"
 sss:
   - soru: "Gelir testi için başvuru süresi kaçırıldıysa geçmiş dönem primleri ne olur?"
-    cevap: "5510 m. 80'e göre tescil tebliğinden itibaren bir ay içinde gelir testi talep edenlerden geliri asgari ücretin üçte birinin altında çıkanların bu sürelerde yaptıkları ödemeler faizsiz iade veya mahsup edilir. SGK'nın 2019/17 sayılı Genelgesine göre bir ay içinde yapılan başvuruda tescil ilk tescil tarihinden, daha sonraki başvurularda başvuru tarihinden itibaren güncellenir. Süre kaçırılmışsa başvuru tarihinden önceki dönem (g) bendi kapsamında kalır; o dönem için silme hükümleri ve zamanaşımı ayrıca incelenmelidir."
+    cevap: "5510 m. 80'e göre tescil tebliğinden itibaren bir ay içinde gelir testi talep edenlerden geliri asgari ücretin üçte birinin altında çıkanların bu sürelerde yaptıkları ödemeler faizsiz iade veya mahsup edilir. Süre kaçırılmışsa bu iade ve mahsup imkânından yararlanılamaz; o dönem için silme hükümleri ve zamanaşımı ayrıca incelenmelidir."
   - soru: "Yurt dışında yaşayan müvekkil adına GSS borcu çıkarılmış. Ne yapılmalı?"
     cevap: "(g) bendi, başka bir ülkede sağlık sigortasından yararlanma hakkı bulunmayan vatandaşları kapsar ve genel sağlık sigortalılığı yerleşim yerinin Türkiye olmadığı tarihten itibaren sona erer (m. 60, 61). Yurt dışında ikamet ya da o ülkedeki sağlık sigortası belgelendirilerek önce SGK'ya başvurulmalı, talep reddedilirse veya altmış gün içinde cevap verilmezse iş mahkemesinde tescilin iptali ve borçlu olunmadığının tespiti istenmelidir."
   - soru: "SGK'ya başvurmadan doğrudan iş mahkemesinde dava açılabilir mi?"
@@ -78,7 +78,7 @@ Gelir testi, kişinin (g) bendinden çıkıp primi devlet tarafından ödenen (c
 
 Aile kavramı Kanunda tanımlanmıştır: aynı hane içinde yaşayan eş, evli olmayan çocuk, büyük ana ve büyük babadan oluşur (m. 60). Kişi başı gelir bu hane üzerinden hesaplanır. Aynı evde yaşayan evli kardeş ya da ana babanın geliri bu tanımın dışında kalır; ancak hanenin harcamaları ve malvarlığı testte dikkate alınabilir.
 
-SGK'nın 2019/17 sayılı Genel Sağlık Sigortası Tescil ve Prim İşlemleri Genelgesine göre gelir testini kişinin yerleşim yerindeki Sosyal Yardımlaşma ve Dayanışma Vakfı yapar ve sonuç SGK'ya elektronik ortamda iletilir. Süre burada belirleyicidir. m. 80'e göre tescil tebliğinden itibaren bir ay içinde gelir testi talebinde bulunanlardan aile içi geliri brüt asgari ücretin üçte birinin altında tespit edilenlerin bu sürelerde yaptıkları ödemeler faiz uygulanmaksızın iade veya mahsup edilir. Genelgeye göre de bir ay içinde yapılan başvuruda tescil ilk tescil tarihinden, daha sonraki başvurularda ise başvuru tarihinden itibaren güncellenir. Geç yapılan başvuru, geçmiş dönem borcunu kurtarmaz.
+Süre burada belirleyicidir. m. 80'e göre tescil tebliğinden itibaren bir ay içinde gelir testi talebinde bulunanlardan aile içi geliri brüt asgari ücretin üçte birinin altında tespit edilenlerin bu sürelerde yaptıkları ödemeler faiz uygulanmaksızın iade veya mahsup edilir. Bu süreden sonra yapılan başvuru, Kanundaki iade ve mahsup imkânını sağlamaz.
 
 ## Ödenmeyen primin sonuçları ve borcun silinmesi
 
@@ -96,18 +96,18 @@ Silme hükümlerine gelince, Kanuna eklenen geçici maddelerle (g) bendi prim al
 - Geçici m. 105 (7537 sayılı Kanun, 2024): 1 Ocak 2015 öncesine ait ödenmemiş (g) bendi primleri ve ferileri,
 - Geçici m. 111 (7571 sayılı Kanun, 2025): 1 Ocak 2016 tarihinden önceye ait ödenmemiş (g) bendi primleri ile gecikme cezası ve gecikme zammı gibi ferileri.
 
-Bu maddelerin hepsinde, maddenin yayımı tarihine kadar söz konusu süreler için ödenmiş primlerin iade ve mahsup edilmeyeceği ayrıca belirtilmiştir. Silme, ödenmemiş alacakla sınırlıdır. Mevzuat bilgi sisteminde 21 Ekim 2026 itibarıyla görülen konsolide metne göre 1 Ocak 2016 ve sonrasına ait (g) bendi primleri için benzer bir hüküm bulunmamaktadır. Ölüm hâlinde ise SGK Genelgesine göre vefat eden kişinin borçlarından mirası reddetmeyen mirasçılar müşterek ve müteselsilen sorumludur.
+Bu maddelerin hepsinde, maddenin yayımı tarihine kadar söz konusu süreler için ödenmiş primlerin iade ve mahsup edilmeyeceği ayrıca belirtilmiştir. Silme, ödenmemiş alacakla sınırlıdır. Mevzuat bilgi sisteminde 21 Ekim 2026 itibarıyla görülen konsolide metne göre 1 Ocak 2016 ve sonrasına ait (g) bendi primleri için benzer bir hüküm bulunmamaktadır.
 
 ## Usul: başvuru, görev, yetki, süre ve kanun yolu
 
 - İdari başvuru: 5510'dan kaynaklanan uyuşmazlıklarda dava açılmadan önce SGK'ya başvurulması zorunludur. Başvuruya altmış gün içinde cevap verilmezse talep reddedilmiş sayılır ve dava açılabilmesi için talebin reddedilmesi ya da reddedilmiş sayılması şarttır. Başvuruda geçen süre zamanaşımı ve hak düşürücü sürelerin hesabında dikkate alınmaz (7036 m. 4).
-- Görev: Kanunun uygulanmasından doğan uyuşmazlıklar iş mahkemelerinde görülür (5510 m. 101); idari para cezalarına itirazlar hariç SGK'nın taraf olduğu sosyal güvenlik uyuşmazlıkları iş mahkemesinin görevindedir (7036 m. 5/1-b). Uyuşmazlık Mahkemesi kararlarında, SGK'nın 6183 sayılı Kanuna göre düzenlediği ödeme emirlerine karşı açılan davalarda adli yargının görevli olduğu kabul edilmiştir.
+- Görev: Kanunun uygulanmasından doğan uyuşmazlıklar iş mahkemelerinde görülür (5510 m. 101); idari para cezalarına itirazlar hariç SGK'nın taraf olduğu sosyal güvenlik uyuşmazlıkları iş mahkemesinin görevindedir (7036 m. 5/1-b).
 - Yetki: Davalının yerleşim yeri mahkemesi ile işin veya işlemin yapıldığı yer mahkemesi yetkilidir (7036 m. 6).
 - Ödeme emrine itiraz süresi: SGK alacaklarının tahsilinde 6183 sayılı Kanun uygulandığından, ödeme emrine karşı itiraz süresi tebliğden itibaren on beş gündür (6183 m. 58). Bu kısa süre, SGK'ya idari başvuru ile ödeme emrine itirazın birbirine karıştırılmaması gerektiğini gösterir; ödeme emri tebliğ edilmişse süre gözetilerek hareket edilmelidir.
 - Yargılama usulü ve kanun yolu: İş mahkemelerinde basit yargılama usulü uygulanır; kanun yollarında HMK hükümleri uygulanır ve süre ilamın tebliğinden itibaren işler (7036 m. 7).
-- Harç: Harç türü talebin niteliğine göre değişir. Belirli dönem ve tutardaki prim borcunun bulunmadığının tespiti konusu para olan bir talep olarak nispi harca, tescilin iptali gibi parayla ölçülemeyen talepler maktu harca tabi olabilir; harç dava tarihindeki tarifeye göre hesaplanır.
+- Harç: 492 sayılı Harçlar Kanunu'na bağlı (1) sayılı tarife, konusu belli bir değerle ilgili davalarda nispi, ilgili olmayanlarda maktu harç öngörür. Belirli dönem ve tutardaki prim borcunun bulunmadığının tespiti talebi nispi, tescilin iptali gibi parayla ölçülemeyen talepler maktu harç kapsamında değerlendirilebilir; harç dava tarihindeki tarifeye göre hesaplanır.
 - İspat: Re'sen tescilin dayanağı SGK kayıtlarıdır. Kapsam dışında kalındığını (yurt dışında yerleşme, başka bir bent kapsamında sigortalılık, bakmakla yükümlü olunan kişi olma) ileri süren taraf bunu ikamet, çalışma ve sigortalılık belgeleriyle ispat etmelidir.
-- Tedbir: Haciz ya da tahsilat devam ederken dava açılması kendiliğinden tahsili durdurmaz; tahsilatın durdurulması için ihtiyati tedbir talebi gerekçelendirilerek yapılmalıdır.
+- Tedbir: Haciz ya da tahsilat devam ediyorsa tahsilatın durdurulması için ihtiyati tedbir talebi dava dilekçesinde gerekçelendirilerek yapılmalıdır.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
@@ -120,7 +120,7 @@ Dosyaya eklenecek ya da celbi istenecek belgeler:
 - SGK tescil kaydı, borç dökümü ve varsa ödeme emri ile tebliğ belgesi,
 - Hizmet dökümü ve diğer bentlerdeki sigortalılık kayıtları,
 - Yurt dışı ikamet ve sağlık sigortası belgeleri, giriş çıkış kayıtları,
-- Gelir testi başvurusu ve Sosyal Yardımlaşma ve Dayanışma Vakfı sonucu,
+- Gelir testi başvurusu ve sonucu,
 - SGK'ya yapılan başvuru ve ret cevabı ya da altmış günlük sürenin dolduğunu gösteren kayıt.
 
 Sık yapılan hatalar:

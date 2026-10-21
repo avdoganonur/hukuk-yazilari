@@ -49,7 +49,7 @@ sss:
   - soru: "Satış sözleşmesinde MTV borcunu alıcının üstlendiği yazıyor. Vergi dairesi satıcıdan isteyebilir mi?"
     cevap: "Evet. VUK m. 8'e göre vergi kanunlarıyla kabul edilen hâller dışında mükellefiyete ilişkin özel sözleşmeler vergi dairelerini bağlamaz. Vergi dairesi, mükellefiyet döneminde sicilde adına araç kayıtlı olan kişiye başvurur. Sözleşmedeki üstlenme kaydı, satıcının ödediği tutarı alıcıdan genel hükümlere göre istemesine dayanak olur."
   - soru: "Araç haczedilip yediemine bırakıldı. MTV işlemeye devam eder mi?"
-    cevap: "Mükellefiyet, trafik sicilindeki kaydın silinmesiyle sona erer (m. 8). Gelir İdaresinin bir özelgesinde, haczedilerek yediemine teslim edilen ve satış bekleyen araçta kayıt silinmedikçe mükellefiyetin devam ettiği görüşü benimsenmiştir. İcra yoluyla satılan araçta ise mükellefiyet, Gelir İdaresinin rehberine göre aracın alıcı adına tescil edildiği tarihte başlar."
+    cevap: "Mükellefiyet, trafik sicilindeki kaydın silinmesiyle sona erer (m. 8). Bu nedenle haczedilerek yediemine teslim edilen araçta da kayıt silinmedikçe mükellefiyetin devam edeceği sonucuna varılır. İcra yoluyla satılan araçta ise mükellefiyet, Gelir İdaresinin rehberine göre aracın alıcı adına tescil edildiği tarihte başlar."
   - soru: "MTV tahakkukuna karşı dava açma süresi ne zaman başlar?"
     cevap: "Vergi, her yıl Ocak ayının başında tahakkuk etmiş sayılır ve ayrıca tebliğ edilmez; tahakkuk günü tebliğ edilmiş sayılır (m. 9). Vergi mahkemesinde dava açma süresi otuz gündür ve tebliğ yerine geçen işlemi izleyen günden başlar (İYUK m. 7). Süre kaçırılmışsa yanlış tahakkuk için VUK m. 122 uyarınca düzeltme, reddi hâlinde m. 124 uyarınca şikâyet yoluyla başvuru değerlendirilmelidir."
   - soru: "Vadesi geçmiş MTV borcu olan araç muayeneden geçebilir mi?"
@@ -67,7 +67,7 @@ Devir ve temlik hâlinde kural farklıdır. Kayıtlı bir taşıt devir ve temli
 
 Vergi, her yıl Ocak ayının başında yıllık olarak tahakkuk etmiş sayılır; ayrıca tebliğ edilmez ve tahakkuk günü tebliğ edilmiş sayılır (m. 9). Eksik ya da hiç tahakkuk ettirilmeyen vergi ikmalen tarh edilir. Vergi Ocak ve Temmuz aylarında iki eşit taksitte ödenir. Tutarlar her yıl yeniden değerleme oranına göre güncellendiğinden yazıda rakam verilmemiştir.
 
-Bu kurallar satış yılının vergisini paylaştırır. Gelir İdaresinin Motorlu Taşıtlar Vergisi ve Trafik İdari Para Cezası Rehberi'ndeki (2025) örneğe göre Mart ayında satılan araçta satıcı, satıştan önce Ocak taksitini öder; alıcının mükellefiyeti ise Temmuz'da başlar. Satış ikinci altı ayda yapılırsa alıcının mükellefiyeti takip eden yılın başından başlar ve o yılın Temmuz taksiti satıcıya aittir.
+Bu kurallar satış yılının vergisini paylaştırır. Gelir İdaresinin Motorlu Taşıtlar Vergisi ve Trafik İdari Para Cezası Rehberi'ndeki (2025) örneğe göre Mart ayında satılan araçta satıcı, satıştan önce Ocak taksitini öder; alıcının mükellefiyeti ise Temmuz'da başlar. Satış ikinci altı ayda yapılırsa m. 7/b gereği alıcının mükellefiyeti takip eden yılın başından başlar; satıcı o yılın sonuna kadar mükellef kaldığından Temmuz taksiti de ona aittir.
 
 ## Satış ve devirde ödeme şartı ve müteselsil sorumluluk
 
@@ -95,7 +95,7 @@ Süresinde ödenmeyen MTV, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakk
 
 ## Uygulamada tartışmalı noktalar
 
-Haciz ve yediemin: Mükellefiyet kaydın silinmesine bağlı olduğundan, aracın fiilen kullanılamaması tek başına mükellefiyeti sona erdirmez. Gelir İdaresinin bir özelgesinde, haczedilip yediemine teslim edilen ve satışı beklenen araçta kayıt silinmedikçe mükellefiyetin devam ettiği görüşüne yer verilmiştir. İcra yoluyla satılan araçta ise rehbere göre mükellefiyet, aracın alıcı adına tescil edildiği tarihte başlar.
+Haciz ve yediemin: Mükellefiyet kaydın silinmesine bağlı olduğundan, aracın fiilen kullanılamaması tek başına mükellefiyeti sona erdirmez. Haczedilip yediemine teslim edilen araç bakımından da belirleyici olan, kaydın silinip silinmediğidir. İcra yoluyla satılan araçta ise rehbere göre mükellefiyet, aracın alıcı adına tescil edildiği tarihte başlar.
 
 Çalınma ve trafikten çekme: Rehbere göre çalıntı kaydıyla silinen araçta mükellefiyet, silinmeyi izleyen dönemin başından sona erer; araç bulunup kaydı yeniden açılırsa mükellefiyet o dönemin başından yeniden başlar. Trafikten çekme işlemi için de MTV borcunun bulunmaması gerekir. Bu durumların hepsinde belirleyici olan sicil kaydıdır; müvekkilin aracı fiilen elinden çıkarmış olması değil, kaydın ne zaman değiştiği ya da silindiğidir.
 
