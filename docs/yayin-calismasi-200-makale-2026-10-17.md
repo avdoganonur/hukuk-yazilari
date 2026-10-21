@@ -187,3 +187,23 @@ Bu çalıştırmada 10 yeni ve birbirinden farklı makale, ayrı create_file iş
 77. [Ceza davasına hangi yer mahkemesi bakar, yetkisizlik ne zaman ileri sürülür?](https://avukatonurdogan.com/yazilar/ceza-davasinda-yetkili-mahkeme-ve-yetkisizlik/) — 902 kelime; live_verified.
 
 Yayın akışı 39534029760 başarıyla tamamlandı. On sayfanın tamamı HTTP 200 ve kayıtlı H1 başlığıyla doğrulandı. Güncel ilerleme: 77/200; kalan 123. Bu on yazılık grup tamamlandı; 200 makale hedefi henüz tamamlanmadı.
+
+
+## 21 Ekim 2026: 78–87. yazıların yayın kaydı
+
+Bu çalıştırmada 10 yeni ve birbirinden farklı makale, ayrı create_file işlemleriyle main dalına eklendi. Metinler 900–917 kelime, dört ara başlık, üç Kısaca maddesi ve üç pratik soru içerir. Güncel main başlıkları ve içerikleri tarandı; aynı soruyu ele alan adaylar kullanılmadı. `python build.py --kontrol` ile yapı ve biçim denetimi başarılıdır.
+
+213, 4721, 4857, 5271, 6098 ve 6100 sayılı kanunların güncel birleştirilmiş PDF'leri 21 Ekim 2026 tarihinde mevzuat.gov.tr üzerinden yeniden alındı. Kapsam, istisna, süre başlangıcı ve ilgili bağlantılı hükümler incelendi. Ücret Garanti Fonu başlığı için 4857 sayılı Kanunun 33. maddesinin mülga olduğu görüldüğünden bu konu kullanılmadı; yerine yürürlükteki takım sözleşmesi düzenlemesi seçildi. Kaynak SHA-256 değerleri ve her dosyanın commit kimliği durum dosyasındadır. Doğrulanmamış karar veya içtihat kullanılmadı.
+
+78. [Ticari temsilci hangi işlemleri yapabilir, yetkisi nasıl sınırlandırılır?](https://avukatonurdogan.com/yazilar/ticari-temsilcinin-yetkisi-ve-sinirlari/) — 900 kelime; live_verified.
+79. [Ceza yargılamasında tanık çağrıya gitmezse ne olur, kimler çekinebilir?](https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-tanigin-cagrilmasi-ve-cekinmesi/) — 905 kelime; live_verified.
+80. [Arazide çıkan kaynak suyu kime aittir, komşu zorunlu su isteyebilir mi?](https://avukatonurdogan.com/yazilar/kaynak-suyu-mulkiyeti-zarar-ve-zorunlu-su-hakki/) — 907 kelime; live_verified.
+81. [Vergi dairesine işe başlama, değişiklik ve işi bırakma ne zaman bildirilir?](https://avukatonurdogan.com/yazilar/vergi-dairesine-ise-baslama-degisiklik-ve-birakma-bildirimi/) — 905 kelime; live_verified.
+82. [Hukuk davasında duruşmaya katılım, soru sorma ve tutanak kuralları](https://avukatonurdogan.com/yazilar/hukuk-davasinda-durusmaya-katilim-soru-ve-tutanak/) — 904 kelime; live_verified.
+83. [Otelde eşya kaybolursa işleten hangi ölçüde sorumlu olur?](https://avukatonurdogan.com/yazilar/konaklama-yerinde-esyanin-kaybi-ve-isletenin-sorumlulugu/) — 905 kelime; live_verified.
+84. [Ceza yargılamasında bilirkişi raporuna karşı ne yapılabilir?](https://avukatonurdogan.com/yazilar/ceza-yargilamasinda-bilirkisi-raporu-ve-uzman-mutalaasi/) — 903 kelime; live_verified.
+85. [Ardiyeye bırakılan ticari mal nasıl saklanır, ücret ve hapis hakkı nedir?](https://avukatonurdogan.com/yazilar/ardiyecinin-saklama-borcu-ucreti-ve-hapis-hakki/) — 917 kelime; live_verified.
+86. [Takım sözleşmesi nedir, işçilerin ücretini kim öder?](https://avukatonurdogan.com/yazilar/takim-sozlesmesi-ve-takim-kilavuzunun-konumu/) — 902 kelime; live_verified.
+87. [Ömür boyu gelir sözleşmesi nasıl kurulur ve ödemeler ne zaman yapılır?](https://avukatonurdogan.com/yazilar/omur-boyu-gelir-sozlesmesi-sekil-ve-odeme/) — 909 kelime; live_verified.
+
+Yayın akışı 39539699845 başarıyla tamamlandı. On sayfanın tamamı HTTP 200 ve kayıtlı H1 başlığıyla doğrulandı. Güncel ilerleme: 87/200; kalan 113. Bu on yazılık grup tamamlandı; 200 makale hedefi henüz tamamlanmadı.
