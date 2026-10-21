@@ -114,7 +114,7 @@ Yüz tanıma veya parmak izi gibi biyometrik sistemler kamera tartışmasından 
 
 ## Kurulun yaklaşımı
 
-Kişisel Verileri Koruma Kurulu'nun 04.08.2022 tarihli ve 2022/797 sayılı kararında, işyerinde güvenlik kamerası ve işe giriş-çıkışta yüz tanıma sistemi birlikte incelenmiştir. Kurul, kameralar bakımından m. 5/2'nin (ç), (e) ve (f) bentlerindeki işleme şartlarının değerlendirilebileceğini kabul etmiş, ancak kameraların çalışanların makul mahremiyet beklentisini zedeleyecek şekilde konumlandırıldığını tespit ederek yeniden konumlandırılmalarını istemiştir. Yüz tanıma sistemi bakımından ise istihdam ilişkisindeki güç dengesizliği nedeniyle açık rızanın özgür iradeye dayandığının kabul edilemeyeceğini, kart gibi daha az müdahaleci bir yöntem varken biyometrik sistem kullanılmasının ölçülülük ilkesine aykırı olduğunu belirtmiştir.
+Kişisel Verileri Koruma Kurulu'nun 04.08.2022 tarihli ve 2022/797 sayılı kararında, işyerinde güvenlik kamerası ve işe giriş-çıkışta yüz tanıma sistemi birlikte incelenmiştir. Kurul, kameralar bakımından m. 5/2'nin (ç), (e) ve (f) bentlerindeki işleme şartlarının değerlendirilebileceğini kabul etmiş, ancak veri sorumlusuna kameraları çalışanların makul mahremiyet beklentisini zedelemeyecek şekilde konumlandırması ve tüm kameraları gözden geçirerek konumlarını düzenlemesi talimatını vermiştir. Yüz tanıma sistemi bakımından ise istihdam ilişkisindeki güç dengesizliği nedeniyle açık rızanın özgür iradeye dayandığının kabul edilemeyeceğini, kart gibi daha az müdahaleci bir yöntem varken biyometrik sistem kullanılmasının ölçülülük ilkesine aykırı olduğunu belirtmiştir.
 
 Kurumun 8 Haziran 2026 tarihli, işyerlerinde güvenlik kamerası kullanımına ilişkin kamuoyu duyurusu bu çizgiyi genelleştirir. Duyurunun öne çıkan tespitleri şunlardır:
 
@@ -123,7 +123,7 @@ Kurumun 8 Haziran 2026 tarihli, işyerlerinde güvenlik kamerası kullanımına 
 - Giriş-çıkış, depo ve kasa gibi güvenlik riski taşıyan noktalar ölçülü kabul edilebilir; tuvalet, soyunma odası, mescit ve dinlenme alanı gibi özel alanlara kamera yerleştirilmemelidir. Tüm alanı kapsayan geniş açılı veya yüz odaklı kayıtlardan kaçınılmalıdır.
 - Sesli kayıt yapan kameralar son derece müdahalecidir; hukuka uygun gerekçesi ve gerekliliği açıkça ortaya konulmadan kullanılmamalıdır.
 - Kayıtlar mümkün olan en kısa süre saklanmalı, otomatik imha mekanizması kurulmalı; bir olay yaşandığında yalnızca ilgili kayıt hukuki süreç boyunca tutulmalıdır.
-- Kayıtlara yalnızca yetkili kişiler erişebilmeli; erişim yetkileri bir yetki matrisiyle belirlenmelidir.
+- Kayıtların güvenliği için yetki matrisi ve yetkisiz erişimin önlenmesi gibi teknik ve idari tedbirler alınmalıdır.
 
 ## Uygulamada tartışmalı noktalar
 
@@ -150,8 +150,8 @@ Tazminat davası:
 - Görev: İşçi ile işveren arasında iş ilişkisi nedeniyle sözleşmeden veya kanundan doğan her türlü hukuk uyuşmazlığına iş mahkemesi bakar (7036 m. 5/1-a). İş mahkemesi kurulmamış yerlerde davaya asliye hukuk mahkemesi, 7036 sayılı Kanundaki usul ve esaslara göre bakar (m. 2/3).
 - Yetki: Davalının dava tarihindeki yerleşim yeri mahkemesi ile işin veya işlemin yapıldığı yer mahkemesi yetkilidir; bu hükme aykırı yetki sözleşmeleri geçersizdir (m. 6).
 - Dava şartı: Kanuna, bireysel veya toplu iş sözleşmesine dayanan işçi alacağı ve tazminatı için açılan davalarda arabulucuya başvurulmuş olması dava şartıdır (m. 3/1). Son tutanağın aslı veya onaylı örneği dava dilekçesine eklenir (m. 3/2).
-- Hukuki sebep: TBK m. 417/3'e göre işverenin kanuna ve sözleşmeye aykırı davranışı nedeniyle işçinin kişilik haklarının ihlaline bağlı zararların tazmini sözleşmeye aykırılık hükümlerine tabidir. Manevi tazminatın ölçüsü ve giderim biçimi TBK m. 58'e göre belirlenir.
-- Harç: Talep edilen tazminat miktarı üzerinden nispi harç esas alınır.
+- Hukuki sebep: TBK m. 417/3'e göre işverenin kanuna ve sözleşmeye aykırı davranışı nedeniyle işçinin kişilik haklarının ihlaline bağlı zararların tazmini sözleşmeye aykırılık hükümlerine tabidir. Manevi tazminat talebi ve hâkimin başka bir giderim biçimine hükmetme yetkisi TBK m. 58'e dayanır.
+- Harç: Konusu belli bir değerle ilgili dava olduğundan Harçlar Kanunu'na ekli (1) sayılı tarifenin III/1-a bendi uyarınca nispi karar ve ilam harcı söz konusudur; tutar burada yazılmamıştır.
 - Yargılama usulü ve kanun yolu: İş mahkemelerinde basit yargılama usulü uygulanır; kanun yolu süresi ilamın taraflara tebliğinden itibaren işler (7036 m. 7). İstinaf ve temyiz süresi iki haftadır (HMK m. 345, 361).
 
 Ceza şikâyeti: TCK m. 134'teki suç şikâyete bağlıdır ve TCK m. 73'teki şikâyet süresi işler; m. 135 ise resen soruşturulur.
