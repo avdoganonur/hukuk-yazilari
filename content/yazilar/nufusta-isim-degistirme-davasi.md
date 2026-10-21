@@ -9,7 +9,7 @@ tarih: 2026-10-17
 alan: aile-hukuku
 dayanak:
   - ad: "4721 sayılı Türk Medeni Kanunu m. 27"
-    not: "Adın haklı sebeple değiştirilmesi, tescil ve ilan, bir yıllık itiraz davası"
+    not: "Adın haklı sebeple değiştirilmesi, tescil ve ilan (ilan ibaresi AYM'ce iptal edildi; iptal 1.1.2027'de yürürlüğe girer), itiraz davası"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
   - ad: "5490 sayılı Nüfus Hizmetleri Kanunu m. 35"
     not: "Nüfus kaydının ancak kesinleşmiş mahkeme kararıyla düzeltilebilmesi"
