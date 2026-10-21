@@ -167,3 +167,23 @@ Bu devam çalışmasında 10 yeni makale ayrı create_file işlemleriyle main da
 67. [Vergi bilgilerim açıklanabilir mi: vergi mahremiyeti kimleri bağlar, istisnaları nelerdir?](https://avukatonurdogan.com/yazilar/vergi-mahremiyeti-ve-bilgi-paylasimi/) — 915 kelime; live_verified.
 
 Yayın akışları başarıyla tamamlandı. On sayfanın tamamı HTTP 200 ve kayıtlı H1 başlığıyla doğrulandı. Güncel ilerleme: 67/200; kalan 133. Bu on yazılık yayın grubu tamamlandı; 200 makale hedefi henüz tamamlanmadı.
+
+
+## 21 Ekim 2026: 68–77. yazıların yayın kaydı
+
+Bu çalıştırmada 10 yeni ve birbirinden farklı makale, ayrı create_file işlemleriyle main dalına eklendi. Metinler 900–927 kelime, dört ara başlık, üç Kısaca maddesi ve üç pratik soru içerir. Güncel site başlıkları ve içerikleri tarandı; konu tekrarı olan adaylar kullanılmadı. `python build.py --kontrol` ile bağımsız uzunluk ve yapı kontrolleri başarılıdır.
+
+213, 4721, 5271, 6098 ve 6100 sayılı kanunların güncel birleştirilmiş PDF'leri 21 Ekim 2026 tarihinde mevzuat.gov.tr üzerinden yeniden alındı. İlgili maddelerin kapsam, istisna, süre başlangıcı ve bağlantılı hükümleri incelendi. Kaynak SHA-256 değerleri ve her dosyanın commit kimliği durum dosyasında kayıtlıdır. Doğrulanmamış karar veya içtihat kullanılmadı.
+
+68. [Birden fazla kişi aynı hukuk davasında birlikte yer alabilir mi?](https://avukatonurdogan.com/yazilar/hukuk-davasinda-dava-arkadasligi/) — 902 kelime; live_verified.
+69. [Bağlantılı ceza davaları ne zaman birleştirilir veya ayrılır?](https://avukatonurdogan.com/yazilar/ceza-davalarinda-baglanti-birlestirme-ve-ayirma/) — 912 kelime; live_verified.
+70. [Vakıf nasıl kurulur: mal özgüleme, resmî senet ve tescil süreci](https://avukatonurdogan.com/yazilar/vakif-kurulusu-tescil-ve-vakif-senedi/) — 909 kelime; live_verified.
+71. [Kitabımı yayımlatacağım: yazar ve yayımcının hakları nasıl belirlenir?](https://avukatonurdogan.com/yazilar/yayim-sozlesmesinde-yazar-ve-yayimcinin-haklari/) — 927 kelime; live_verified.
+72. [Başkasının malzemesiyle araziye yapı yapılırsa malzeme ve yapı kime ait olur?](https://avukatonurdogan.com/yazilar/baskasinin-malzemesiyle-araziye-yapi-yapilmasi/) — 908 kelime; live_verified.
+73. [Bir borcun ödenmesi için üçüncü kişiye havale verdim: borç ne zaman sona erer?](https://avukatonurdogan.com/yazilar/havale-isleminde-odeme-kabul-ve-geri-alma/) — 915 kelime; live_verified.
+74. [Vergi defter ve belgeleri kaç yıl saklanır, istendiğinde nasıl ibraz edilir?](https://avukatonurdogan.com/yazilar/vergi-defter-ve-belgelerini-muhafaza-ibraz/) — 900 kelime; live_verified.
+75. [Kredi mektubu veya kredi emri verdim: ödeme ve sorumluluk nasıl doğar?](https://avukatonurdogan.com/yazilar/kredi-mektubu-ve-kredi-emri-sorumlulugu/) — 912 kelime; live_verified.
+76. [Hukuk davasında ön sorun ve bekletici sorun ne anlama gelir?](https://avukatonurdogan.com/yazilar/hukuk-davasinda-on-sorun-ve-bekletici-sorun/) — 905 kelime; live_verified.
+77. [Ceza davasına hangi yer mahkemesi bakar, yetkisizlik ne zaman ileri sürülür?](https://avukatonurdogan.com/yazilar/ceza-davasinda-yetkili-mahkeme-ve-yetkisizlik/) — 902 kelime; live_verified.
+
+Yayın akışı 39534029760 başarıyla tamamlandı. On sayfanın tamamı HTTP 200 ve kayıtlı H1 başlığıyla doğrulandı. Güncel ilerleme: 77/200; kalan 123. Bu on yazılık grup tamamlandı; 200 makale hedefi henüz tamamlanmadı.
