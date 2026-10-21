@@ -2,7 +2,7 @@
 baslik: "Banka hesabımı başkasına kullandırırsam suç işlemiş olur muyum?"
 aciklama: "Banka kartı ya da internet bankacılığı bilgilerini başkasına vermenin cezai sonuçları, dolandırıcılığa iştirak, kast ve 2026'da TCK m. 158'e eklenen indirim."
 kisaca:
-  - "Hesabı başkasına kullandırmak kendi başına ayrı bir suç olarak tanımlanmamıştır; sorun hesabın suçta kullanılmasıdır."
+  - "Türk Ceza Kanunu'nda hesabı başkasına kullandırma adıyla ayrı bir suç tanımı yoktur; sorun hesabın suçta kullanılmasıdır."
   - "Hesabını dolandırıcılıkta kullanılacağını bilerek veren kişi, suça iştirakten sorumlu tutulabilir."
   - "31 Temmuz 2026'dan bu yana katkısı yalnızca hesap ya da kart vermekten ibaret olan kişinin cezası yarı oranında indirilir."
   - "Dolandırıcılık kasten işlenebilen bir suçtur; hesabının suçta kullanıldığını bilmeyen ve öngörmeyen kişi bu suçtan cezalandırılmaz."
@@ -76,4 +76,4 @@ Sınır olası kasttır. Kişi suçun unsurlarının gerçekleşebileceğini ön
 
 ## Bankanın ve MASAK'ın rolü
 
-Bankalar, 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun kapsamında yükümlü kuruluşlardır. Nezdlerinde yapılan bir işlemin konusu olan paranın yasa dışı yoldan elde edildiğinden ya da yasa dışı amaçlarla kullanıldığından şüphelenirlerse, bunu Mali Suçları Araştırma Kurulu'na (MASAK) bildirmek zorundadırlar (m. 4). Hesabınıza kısa süre içinde birçok kişiden para gelip hemen başka hesaplara aktarılıyorsa, bu hareketlerin bankanın ve MASAK'ın dikkatini çekmesi olağandır.
+Bankalar, 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun kapsamında yükümlü kuruluşlardır. Nezdlerinde yapılan bir işlemin konusu olan paranın yasa dışı yoldan elde edildiğinden ya da yasa dışı amaçlarla kullanıldığından şüphelenirlerse, bunu Mali Suçları Araştırma Kurulu (MASAK) Başkanlığına bildirmek zorundadırlar (m. 4). Hesabınıza kısa süre içinde birçok kişiden para gelip hemen başka hesaplara aktarılıyorsa, bu hareketlerin bankanın ve MASAK'ın dikkatini çekmesi olağandır.

@@ -13,7 +13,7 @@ dayanak:
     not: "Çocuğun soyadı"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 27"
-    not: "Adın haklı sebeple değiştirilmesi, tescil ve ilan, bir yıllık itiraz davası"
+    not: "Adın haklı sebeple değiştirilmesi, sicile kayıt ve ilan (ilan ibaresine ilişkin AYM iptali 1/1/2027'de yürürlüğe girer), bir yıllık kaldırma davası"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 16"
     not: "Ayırt etme gücüne sahip küçüklerin kişiye sıkı sıkıya bağlı hakları"
   - ad: "4721 sayılı Türk Medeni Kanunu m. 336"
@@ -66,7 +66,7 @@ Belirleyici ölçüt çocuğun yararıdır. Ana baba, çocuğun bakım ve eğiti
 
 Davaya hazırlanırken çocuğun nüfus kayıt örneği, boşanma ve velayete ilişkin kesinleşmiş karar, çocuğun annenin yanında yaşadığını gösteren belgeler ve varsa okul ya da sağlık kurumlarıyla yaşanan güçlükleri gösteren yazılar bir araya getirilir. Bu olguları bilen kişiler tanık olarak da gösterilebilir.
 
-Değişiklik kararı nüfus siciline kaydedilir ve ilan olunur (TMK m. 27/2). Değişiklikten zarar gören kişi, öğrendiği günden başlayarak bir yıl içinde kararın kaldırılmasını dava edebilir (m. 27/4). Davanın açılacağı yer ve dava sürecine ilişkin genel bilgiler için [isim değiştirme davası yazımıza](/yazilar/nufusta-isim-degistirme-davasi/) bakabilirsiniz.
+Değişiklik kararı nüfus siciline kaydedilir ve ilan olunur (TMK m. 27/2). Anayasa Mahkemesi, bu fıkradaki Basın İlan Kurumu portalında ilana ilişkin ibareyi ve fıkranın ikinci cümlesini 2025'te iptal etmiştir; iptal 1 Ocak 2027'de yürürlüğe girecektir. Değişiklikten zarar gören kişi, öğrendiği günden başlayarak bir yıl içinde kararın kaldırılmasını dava edebilir (m. 27/4). Davanın açılacağı yer ve dava sürecine ilişkin genel bilgiler için [isim değiştirme davası yazımıza](/yazilar/nufusta-isim-degistirme-davasi/) bakabilirsiniz.
 
 Soyadının değişmesi, çocuğun hukuki durumunu değiştirmez. Kanuna göre ad değişmekle kişisel durum değişmez (TMK m. 27/3). Çocuk ile baba arasındaki soybağı aynen devam eder. Babanın iştirak nafakası yükümlülüğü, çocukla kişisel ilişki kurma hakkı ve çocuğun babasına mirasçı olması da soyadı değişikliğinden etkilenmez. Dilekçede bu noktanın açıkça belirtilmesi, talebin babayla bağı koparmaya değil çocuğun günlük hayatını kolaylaştırmaya yönelik olduğunu göstermeye yardımcı olur.
 

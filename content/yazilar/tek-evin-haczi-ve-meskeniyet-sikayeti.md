@@ -26,7 +26,7 @@ sss:
   - soru: "Oturmadığım, kiraya verdiğim tek evim de korunur mu?"
     cevap: "Akademik çalışmalarda aktarılan Yargıtay uygulamasına göre meskeniyet iddiası için borçlunun evde fiilen oturması şart değildir; evini kiraya vermiş borçlu da bu iddiada bulunabilir. Evin borçlunun hâline uygun olup olmadığı ve değerinin fazla olup olmadığı ise yine ayrıca değerlendirilir."
   - soru: "İki evim var. Biri korunur mu?"
-    cevap: "Akademik çalışmalarda aktarıldığına göre iki taşınmazı bulunan borçlu, bunlardan biri için haczedilmezlik iddiasında bulunabilir; hacizlerin farklı icra dosyalarında konulmuş olması da buna engel değildir. Korunacak evin borçlunun hâline uygun olup olmadığı yine ayrıca incelenir."
+    cevap: "Akademik çalışmalarda aktarıldığına göre birden fazla evin bulunması meskeniyet iddiasına engel değildir; ancak korumadan yalnızca bir ev için yararlanılabilir, iki evin birden borçluya bırakılması söz konusu olmaz. Korunacak evin borçlunun hâline uygun olup olmadığı yine ayrıca incelenir."
   - soru: "Haciz konulduğunu aylar sonra öğrendim. Şikâyet süresi geçti mi?"
     cevap: "Süre haczin konulduğu günden değil, borçlunun haczi öğrendiği günden başlar. Ne zaman öğrendiğinizi gösteren tebligat ya da belgeleri saklayın. Öğrendiğiniz günden itibaren yedi gün içinde icra mahkemesine başvurmanız gerekir."
   - soru: "Kredi sözleşmesinde evimin haczine razı olduğumu imzaladım. Bu beni bağlar mı?"
@@ -51,13 +51,12 @@ Kural yakın zamanda Anayasa Mahkemesinin önüne de geldi. Mahkeme, 12. bende y
 
 Haczi istenen bir mal ya da hakkın haczedilip haczedilemeyeceğini önce icra memuru değerlendirir ve talebin kabulüne ya da reddine karar verir (İİK m. 82). Memur haczi yaparsa, itiraz icra mahkemesinde şikâyet yoluyla dile getirilir.
 
-Akademik çalışmalarda aktarılan uygulamaya göre icra mahkemesi bu soruyu çoğunlukla keşif ve bilirkişi incelemesiyle çözer. Önce evin müştemilatı ve arsasıyla birlikte değeri belirlenir. Ardından borçlunun ve ailesinin durumuna uygun bir evin hangi değerde olacağı saptanır. Değerlendirmede borçlunun haciz tarihindeki durumu esas alınır. Aile kalabalıksa ya da evde bakıma muhtaç biri yaşıyorsa bunun dilekçede anlatılması ve belgelenmesi yararlı olur.
+Akademik çalışmalarda aktarılan uygulamaya göre icra mahkemesi bu soruyu bilirkişi incelemesiyle çözer. Önce evin değeri belirlenir. Ardından borçlunun ve ailesinin durumuna uygun bir evin hangi değerde olacağı saptanır. Değerlendirmede borçlunun haciz tarihindeki durumu esas alınır. Aile kalabalıksa ya da evde bakıma muhtaç biri yaşıyorsa bunun dilekçede anlatılması ve belgelenmesi yararlı olur.
 
 Korumanın kapsamına ilişkin bazı noktalar da akademik çalışmalarda şöyle aktarılır:
 
 - Borçlunun evde fiilen oturması şart değildir. Yargıtay'ın, evini kiraya vermiş borçlunun da meskeniyet iddiasında bulunabileceğini kabul ettiği belirtilir.
-- Borçlunun iki evi varsa, bunlardan biri için haczedilmezlik iddiası ileri sürülebilir. Haciz farklı icra dosyalarında konulmuş olsa da sonuç değişmez.
-- Borçlunun kira ödeyebilecek gelire sahip olması, kendi evi için korumadan yararlanmasına engel sayılmaz.
+- Birden fazla evin bulunması meskeniyet iddiasına engel değildir; ancak korumadan yalnızca bir ev için yararlanılabilir.
 
 Şikâyet yerinde bulunursa mahkeme haczi kaldırır ya da işlemi düzeltir (İİK m. 17). Evin değerinin fazla olduğu anlaşılırsa, borçluya bırakılacak tutar belirlenerek satış yolu açılır.
 
@@ -67,7 +66,7 @@ Meskeniyet şikâyeti, İİK'nın 16. maddesindeki şikâyet yoluyla yapılır. 
 
 Süre kaçırılırsa şikâyet, süresinde yapılmadığı gerekçesiyle reddedilebilir. Hacze ilişkin tebligat geldiğinde tarihi not etmek, tutanağın bir örneğini almak ve beklemeden icra mahkemesine başvurmak bu yüzden önemlidir.
 
-Şikâyetin kim tarafından yapılabileceği ise tartışmalıdır. 2026'da yayımlanan bir akademik çalışmaya göre Yargıtay şikâyet hakkını yalnızca borçluya tanımaktadır; öğretide ise evde birlikte yaşayan aile bireylerinin de hukuki yararı bulunduğu ve şikâyet edebilecekleri savunulmaktadır. Bu belirsizlik nedeniyle şikâyeti borçlunun kendisinin, süresi içinde yapması en güvenli yoldur.
+Şikâyetin kim tarafından yapılabileceği ise tartışmalıdır. 2026'da yayımlanan bir akademik çalışmaya göre Yargıtay meskeniyet şikâyetini borçluya özgü saymaktadır; öğretide ise evde birlikte yaşayan aile bireylerinin de şikâyet edebileceği savunulmaktadır. Anayasa Mahkemesi de 2025 kararında, 12. bendin şikâyeti kimin yapabileceğini düzenlemediğini ve konutta yaşayan aile bireylerinin şikâyet yoluna başvurmasını engellemediğini belirtmiştir. Bu belirsizlik nedeniyle şikâyeti borçlunun kendisinin, süresi içinde yapması en güvenli yoldur.
 
 Borçlunun önceden verdiği onay ise korumayı ortadan kaldırmaz. Haczedilemeyen mal ve hakların haczedilebileceğine dair önceden yapılan anlaşmalar geçersizdir (İİK m. 83/a). Kredi sözleşmesine konulan "evimin haczine razıyım" maddesi bu yüzden borçluyu bağlamaz.
 
@@ -75,7 +74,7 @@ Borçlunun önceden verdiği onay ise korumayı ortadan kaldırmaz. Haczedilemey
 
 Ev bir borç için ipotek edilmişse tablo değişir. İpotek alacaklısı alacağını çoğunlukla rehnin paraya çevrilmesi yoluyla takiple ister. Bu takipte ayrı bir haciz aşaması yoktur; ipotekli ev doğrudan satışa çıkarılır.
 
-Akademik çalışmalarda aktarıldığına göre Yargıtay, evini kendi isteğiyle ipotek ettiren borçlunun ipotek alacaklısına karşı meskeniyet iddiasında bulunamayacağını kabul etmektedir. Öğretide baskın görüş, bu vazgeçmenin yalnızca ipotek alacaklısı bakımından sonuç doğurduğu yönündedir. Buna göre aynı evi haczettiren başka bir alacaklıya karşı meskeniyet şikâyeti yine gündeme gelebilir.
+Akademik çalışmalarda aktarıldığına göre Yargıtay, evini kendi isteğiyle ipotek ettiren borçlunun ipotek alacaklısına karşı meskeniyet iddiasında bulunamayacağını kabul etmektedir. Aynı çalışmaya göre Yargıtay, ipotek kurulmasını haczedilmezlikten mutlak bir vazgeçme sayarak bunu diğer alacaklılar bakımından da geçerli kabul etmektedir. Öğretide baskın görüş ise vazgeçmenin yalnızca ipotek alacaklısı bakımından sonuç doğurduğu yönündedir. Bu nedenle ipotekli evi başka bir alacaklı haczettirdiğinde meskeniyet şikâyetinin sonucu, Yargıtay uygulaması karşısında belirsizdir.
 
 Evi almak için kullanılan konut kredisinde ise sonuç zaten kanundan çıkar. Borç evin bedelinden doğduğu için borçlu, krediyi veren bankaya karşı bu korumayı ileri süremez.
 

@@ -81,7 +81,7 @@ Ev sahibi kira bedelini artırırken başka yollara da başvuramaz. Kanuna göre
 
 TÜFE sınırının en önemli istisnası beş yıl kuralıdır. Tarafların anlaşıp anlaşmadığına bakılmaksızın, beş yıldan uzun süreli ya da beş yıldan sonra yenilenen sözleşmelerde ve sonraki her beş yılın sonunda, yeni kira yılının bedelini hâkim belirleyebilir. Hâkim bu belirlemede TÜFE değişimini, kiralananın durumunu ve emsal kira bedellerini birlikte gözetir (m. 344/3). Böylece yıllar içinde piyasanın çok altında kalmış bir kira, TÜFE oranından fazla artabilir.
 
-Bu belirleme kira tespit davasıyla yapılır. Dava yeni kira döneminin başlangıcından en geç otuz gün önce açılırsa, belirlenen bedel o dönemin başından itibaren uygulanır. Kiraya veren bu süre içinde kiracıya yazılı bildirimde bulunmuşsa, yeni dönemi izleyen bir yıl içinde açılan davada da sonuç aynıdır (m. 345). Ayrıntılar için [kira tespit davası yazımıza](/yazilar/kira-tespit-davasi/) bakabilirsiniz.
+Bu belirleme kira tespit davasıyla yapılır. Dava yeni kira döneminin başlangıcından en geç otuz gün önce açılırsa, belirlenen bedel o dönemin başından itibaren uygulanır. Kiraya veren bu süre içinde kiranın artırılacağını kiracıya yazılı olarak bildirmişse, yeni kira dönemi sonuna kadar açılan davada da sonuç aynıdır (m. 345). Ayrıntılar için [kira tespit davası yazımıza](/yazilar/kira-tespit-davasi/) bakabilirsiniz.
 
 Beş yıl dolana kadar ise hâkim de TÜFE sınırını aşamaz. Emsal kira bedelleri, kanunda yalnızca beş yıllık sürenin sonunda yapılan belirlemede ölçüt olarak sayılır.
 

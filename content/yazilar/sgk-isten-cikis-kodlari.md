@@ -3,8 +3,8 @@ baslik: "SGK işten çıkış kodu ne anlama gelir, yanlış kod kıdem tazminat
 aciklama: "Çıkış kodlarının anlamı, 2021'de kaldırılan 29 kodu, yanlış kodun kıdem tazminatına ve işsizlik ödeneğine etkisi ve kodun nasıl düzeltileceği."
 kisaca:
   - "Çıkış kodu, işverenin SGK'ya bildirdiği işten ayrılış nedenidir ve e-Devlet'ten görülebilir."
-  - "Kıdem tazminatı hakkını kod değil, sözleşmenin gerçekte hangi nedenle sona erdiği belirler."
-  - "İşsizlik ödeneğinde ise İŞKUR işverenin bildirdiği kodu esas aldığı için yanlış kod doğrudan ödemeyi engelleyebilir."
+  - "Kıdem tazminatı hakkı kanunda sayılan sona erme hâllerine bağlıdır; akademik çalışmalara göre kodun aksi ispatlanabilir."
+  - "İşsizlik ödeneğinde ise İŞKUR uygulamada işverenin bildirdiği kodu esas aldığından yanlış kod ödemeyi engelleyebilir."
   - "Yanlış kodun düzeltilmesi için İŞKUR'a başvurulabilir ya da işverene karşı dava açılabilir."
 tarih: 2026-10-21
 alan: is-hukuku
@@ -27,7 +27,7 @@ dayanak:
     not: "İşsizlik ödeneğine hak kazandıran işten ayrılış nedenleri"
 sss:
   - soru: "İşverenim beni çıkardı ama istifa etmişim gibi 03 koduyla bildirmiş. Kıdem tazminatımı kaybeder miyim?"
-    cevap: "Kod tek başına kıdem tazminatı hakkını ortadan kaldırmaz. Hak, sözleşmenin gerçekte nasıl sona erdiğine göre belirlenir. Uyuşmazlıkta işverenin sizi çıkardığını tanık, yazışma ya da fesih bildirimi gibi delillerle ispatlamanız gerekir; yanlış kod bu ispatı zorlaştırabilir ama sonucu tek başına belirlemez."
+    cevap: "Akademik çalışmalarda belirtildiğine göre kod tek başına kıdem tazminatı hakkını ortadan kaldırmaz; işveren bildirdiği kodla bağlı olsa da aksi ispatlanabilir. Hak, kanunda sayılan sona erme hâllerinden hangisinin gerçekleştiğine göre belirlenir. Uyuşmazlıkta işverenin sizi çıkardığını tanık, yazışma ya da fesih bildirimi gibi delillerle ispatlamanız gerekir; yanlış kod bu ispatı zorlaştırabilir ama sonucu tek başına belirlemez."
   - soru: "Çıkış kodumu nereden öğrenebilirim?"
     cevap: "İşverenin işten ayrılış bildirgesiyle SGK'ya bildirdiği kodu e-Devlet üzerinden görebilirsiniz. Kodu işten ayrıldıktan sonra kısa sürede kontrol etmek, yanlışlık varsa düzeltme için zaman kazandırır."
   - soru: "Kodum 22, yani diğer nedenler olarak görünüyor. Bu ne anlama gelir?"
@@ -53,10 +53,10 @@ SGK'nın bildirge açıklamalarında yer alan listeden sık karşılaşılan kod
 - 13: Kadın işçinin evlenmesi.
 - 14: Emeklilik için yaş dışında diğer şartların tamamlanması.
 - 17: İşyerinin kapanması.
-- 24: İşçi tarafından sağlık nedeniyle fesih.
-- 25: İşçi tarafından işverenin ahlak ve iyiniyet kurallarına aykırı davranışı nedeniyle fesih.
 - 22: Diğer nedenler.
 - 23: İşçi tarafından zorunlu nedenle fesih.
+- 24: İşçi tarafından sağlık nedeniyle fesih.
+- 25: İşçi tarafından işverenin ahlak ve iyiniyet kurallarına aykırı davranışı nedeniyle fesih.
 - 27: İşveren tarafından zorunlu nedenlerle ve tutukluluk nedeniyle fesih.
 - 28: İşveren tarafından sağlık nedeniyle fesih.
 - 34: İşyerinin devri, işin veya işyerinin niteliğinin değişmesi nedeniyle fesih.
