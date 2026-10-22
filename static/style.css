@@ -437,6 +437,7 @@ a:hover { text-decoration-thickness: 2px; }
   font-family: var(--sans); font-size: 0.9375rem; line-height: 1.55; color: var(--ikincil);
 }
 .yazar p { margin: 0; }
+.yazar .yazar-isletme { margin-top: 0.5rem; font-size: 0.9375rem; }
 .yazar .yazar-ad { margin-bottom: 0.25rem; font-family: var(--serif); font-size: 1.125rem; font-weight: 600; color: var(--murekkep); }
 
 .ilgili { padding-block: 3rem 4rem; border-top: 1px solid var(--cizgi); }

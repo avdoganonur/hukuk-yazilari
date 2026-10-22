@@ -581,6 +581,7 @@ def yazi_sayfasi(yazi: dict, tumu: list[dict]) -> str:
       <footer class="yazar">
         <p class="yazar-ad">{e(y['unvan'])} {e(y['ad'])}</p>
         <p>{e(y['baro'])}'na kayıtlı avukat. {e(y['buro'])}, Kocasinan / Kayseri.</p>
+        <p class="yazar-isletme"><a href="https://www.google.com/maps?cid=9823240989754438918" rel="noopener">{e(y['buro'])} – Google İşletme Profili</a></p>
       </footer>
     </div>
   </div>
