@@ -77,3 +77,26 @@ jobs:
           with urllib.request.urlopen(istek, timeout=30) as yanit:
               print("IndexNow:", yanit.status, len(urls), "adres")
           PY
+
+  ping:
+    # Yayından sonra RSS/blog ping servislerine "site güncellendi" bildirimi gönderir.
+    needs: yayinla
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - name: Ping servislerine bildir
+        run: |
+          python3 - <<'PY'
+          import xmlrpc.client
+          ad, site, rss = "Doğan Hukuk Bürosu – Hukuk Yazıları", "https://avukatonurdogan.com/", "https://avukatonurdogan.com/rss.xml"
+          for uc in ["http://rpc.pingomatic.com/", "http://rpc.twingly.com/", "http://ping.feedburner.com/", "http://blog.with2.net/ping.php", "http://ping.blo.gs/"]:
+              try:
+                  s = xmlrpc.client.ServerProxy(uc)
+                  try:
+                      r = s.weblogUpdates.extendedPing(ad, site, site, rss)
+                  except Exception:
+                      r = s.weblogUpdates.ping(ad, site)
+                  print(uc, r)
+              except Exception as h:
+                  print(uc, "hata:", h)
+          PY
