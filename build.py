@@ -409,7 +409,7 @@ def kisi_jsonld() -> dict:
     y = SITE["yazar"]
     return {
         "@context": "https://schema.org", "@type": "Person", "name": f"{y['unvan']} {y['ad']}",
-        "jobTitle": "Avukat", "url": tam_url("/hakkinda/"),
+        "jobTitle": "Avukat", "url": tam_url("/hakkinda/"), "sameAs": ["https://www.google.com/maps?cid=9823240989754438918", "https://www.linkedin.com/in/onur-do%C4%9Fan-4197023a0/", "https://tr.pinterest.com/avdoganonur/"],
         "memberOf": {"@type": "Organization", "name": y["baro"]},
         "worksFor": {"@type": "Organization", "name": y["buro"], "url": URL + "/"},
     }
@@ -421,7 +421,7 @@ def buro_jsonld() -> dict:
     posta = re.match(r"(\d{5})\s+(.+?)\s*/\s*(.+)", adres[-1])
     return {
         "@context": "https://schema.org", "@type": "Attorney", "name": y["buro"],
-        "url": URL + "/", "telephone": y["telefon_uluslararasi"], "image": tam_url("/og/site.png"),
+        "url": URL + "/", "telephone": y["telefon_uluslararasi"], "sameAs": ["https://www.google.com/maps?cid=9823240989754438918", "https://www.linkedin.com/in/onur-do%C4%9Fan-4197023a0/", "https://tr.pinterest.com/avdoganonur/"], "image": tam_url("/og/site.png"),
         "address": {
             "@type": "PostalAddress", "streetAddress": ", ".join(adres[:-1]),
             "postalCode": posta.group(1) if posta else "", "addressLocality": posta.group(2) if posta else "",
