@@ -263,6 +263,7 @@ def sayfa(*, baslik: str, aciklama: str, yol: str, icerik: str, aktif: str = "",
 <link rel="stylesheet" href="/style.css?v={CSS_SURUM}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="{e(SITE['ad'])} – yazılar" href="/rss.xml">
+<meta name="p:domain_verify" content="7e97c9488c334824dd46bf8a580bd31c">
 {ld}
 </head>
 <body>
