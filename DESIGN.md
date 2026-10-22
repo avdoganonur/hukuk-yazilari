@@ -54,6 +54,8 @@ Not: değişkenin adı `--mor` olsa da renk koyu yeşil-petroldür; adı değiş
 
 ## Yerleşim
 
+- Ana sayfa açılışının altındaki içerik 64em ve üzerinde iki sütundur: solda araç şeridi ve yazılar, sağda 18.5rem genişliğinde dikey konu dizini. Konular tek tek yatay satırlarda, ad solda ve yazı sayısı sağda gösterilir. Dar ekranlarda konu dizini içeriğin üstüne alınır; tek sütunlu satır düzeni korunur.
+
 - Kap: `.kap`, en çok 72rem, iç boşluk 1rem (telefon) ve 2rem (≥48em). Her bölüm bu kabı kullanır; iki yan boşluk eşittir.
 - Üst bant: üstte 4px vurgu şeridi, altta 1px çizgi, `--yuzey` zemin. Solda büro imzası (Literata), sağda menü. 34em altında satır kırılır.
 - Yazı sayfası sırası değişmez: alan etiketi, h1, meta (tarih, okuma süresi, yazı boyutu düğmesi), "Kısaca" kutusu (sol kenarda 3px vurgu çizgisi, `--mor-acik` zemin), içindekiler, metin, Sık sorulanlar, Dayanak, yazar kutusu, ilgili yazılar.

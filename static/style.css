@@ -830,3 +830,28 @@ h1, .imza-ad { font-family: var(--serif); }
 @media print {
   .giris-cizim, .giris-dip, .imza-monogram, .arac-vitrini { display: none; }
 }
+
+/* Home topic navigation: a vertical rail on the right. */
+.ana-duzen { padding-top: 3rem; }
+.ana-duzen .ana-konular { padding-block: 0 2rem; min-width: 0; }
+.ana-duzen .ana-konular .bolum-satir { display: block; }
+.ana-duzen .ana-konular .bolum-baslik { font-size: 1.5rem; line-height: 1.35; margin-bottom: .7rem; }
+.ana-duzen .ana-konular .bolum-satir p { font-size: .875rem; }
+.ana-duzen .ana-konular .bolum-kunye { margin-bottom: 1.25rem; }
+.ana-duzen .ana-konular .konu-izgara { grid-template-columns: minmax(0, 1fr); border: 0; }
+.ana-duzen .ana-konular .konu-izgara a { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: .15rem .8rem; align-items: center; min-height: 0; padding: .9rem 0; border: 0; border-bottom: 1px solid var(--cizgi); }
+.ana-duzen .ana-konular .konu-izgara a::before, .ana-duzen .ana-konular .konu-izgara a::after { content: none; }
+.ana-duzen .ana-konular .konu-ad { font-family: var(--sans); font-size: .9375rem; font-weight: 500; }
+.ana-duzen .ana-konular .konu-sayi { margin: 0; font-size: .75rem; white-space: nowrap; }
+.ana-duzen .ana-konular .konu-izgara a:hover { background: var(--mor-acik); }
+.ana-duzen .arac-vitrini { min-width: 0; flex-wrap: wrap; margin-bottom: 2.5rem; }
+.ana-duzen .arac-vitrini::before, .ana-duzen .arac-vitrini::after { left: 0; right: 0; }
+.ana-duzen .ana-yazilar { min-width: 0; }
+.ana-duzen .ana-yazilar .kayitlar { grid-template-columns: minmax(0, 1fr); }
+.ana-duzen .ana-yazilar .kayitlar > li:first-child { display: block; }
+@media screen and (min-width: 64em) {
+  .ana-duzen { display: grid; grid-template-columns: minmax(0, 1fr) 18.5rem; column-gap: 3.5rem; align-items: start; }
+  .ana-duzen .ana-konular { grid-column: 2; grid-row: 1 / 3; border-left: 1px solid var(--cizgi); padding-left: 1.75rem; }
+  .ana-duzen .arac-vitrini { grid-column: 1; grid-row: 1; }
+  .ana-duzen .ana-yazilar { grid-column: 1; grid-row: 2; }
+}

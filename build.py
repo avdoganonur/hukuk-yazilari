@@ -459,16 +459,17 @@ def ana_sayfa(yazilar: list[dict]) -> str:
   </div>
   <div class="giris-cizim" aria-hidden="true"><img src="/mimari-imza.svg" alt="" width="420" height="480"><span class="cizim-not">DOĞAN HUKUK BÜROSU</span></div>
 </section><div class="kap giris-dip"><span>HUKUK YAZILARI &amp; BİLGİLENDİRME</span><a href="/hakkinda/">Büro hakkında <span aria-hidden="true">↗</span></a></div></div>
-<nav class="kap konular ana-konular" aria-labelledby="konular-b">
+<div class="kap ana-duzen">
+<nav class="konular ana-konular" aria-labelledby="konular-b">
   <div class="bolum-kunye"><p class="bolum-etiket">01 / HUKUK ALANLARI</p><div class="bolum-satir"><h2 id="konular-b" class="bolum-baslik">Hangi konuyu arıyorsunuz?</h2><p>İlgilendiğiniz alandan başlayın.</p></div></div>
   {konu_izgarasi(yazilar)}
 </nav>
-<section class="kap arac-vitrini" aria-labelledby="vitrin-b"><div><p class="bolum-etiket">PRATİK ARAÇLAR</p><h2 id="vitrin-b">Hesaplamalar, bir arada.</h2><p>İlgili açıklama ve kaynaklarıyla hukuki hesaplama araçları.</p></div><a href="/hesaplama-araclari/">Araçları inceleyin <span aria-hidden="true">↗</span></a></section>
-<section class="kap liste-bolum ana-yazilar" aria-labelledby="son-b">
+<section class="arac-vitrini" aria-labelledby="vitrin-b"><div><p class="bolum-etiket">PRATİK ARAÇLAR</p><h2 id="vitrin-b">Hesaplamalar, bir arada.</h2><p>İlgili açıklama ve kaynaklarıyla hukuki hesaplama araçları.</p></div><a href="/hesaplama-araclari/">Araçları inceleyin <span aria-hidden="true">↗</span></a></section>
+<section class="liste-bolum ana-yazilar" aria-labelledby="son-b">
   <div class="bolum-kunye"><p class="bolum-etiket">02 / YAYINLAR</p><div class="bolum-satir"><h2 id="son-b" class="bolum-baslik">Hukuk notları</h2><a href="/yazilar/">Tüm yazılar <span aria-hidden="true">↗</span></a></div></div>
   {liste(son)}
   {tum}
-</section>"""
+</section></div>"""
     return sayfa(baslik=f"{SITE['ad']} | Kayseri Avukat – {SITE['yazar']['buro']}", baslik_tam=True,
                  aciklama=SITE["aciklama"], yol="/", icerik=icerik, jsonld=[site_jsonld(), buro_jsonld()])
 
