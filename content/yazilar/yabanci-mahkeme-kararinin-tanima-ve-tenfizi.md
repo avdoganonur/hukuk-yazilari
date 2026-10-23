@@ -50,7 +50,7 @@ sss:
   - soru: "Yurt dışında alınan boşanma kararı için mutlaka dava açmak gerekir mi?"
     cevap: "Gerekmeyebilir. Boşanmaya, evliliğin butlanına, iptaline veya mevcut olup olmadığının tespitine ilişkin kesinleşmiş ve kamu düzenine açıkça aykırı olmayan yabancı kararlar, Nüfus Hizmetleri Kanunu m. 27/A uyarınca nüfus kütüğüne doğrudan tescil edilebilir. Velayet, nafaka, mal rejimi ve tazminat hükümleri bu yolun kapsamında değildir; bunlar için tanıma veya tenfiz davası açılır."
   - soru: "Tenfiz kararına karşı kanun yoluna gidilmesi icrayı durdurur mu?"
-    cevap: "Kanunun 57. maddesi, tenfiz isteminin kabulü veya reddi hakkındaki kararlara karşı kanun yolunun genel hükümlere tabi olduğunu ve kanun yolu başvurusunun (metinde 'temyiz') yerine getirmeyi durduracağını düzenler. Bu nedenle tenfiz kararına dayanılarak icra takibine geçilmeden önce kararın kesinleşmesi beklenmelidir."
+    cevap: "Kanunun 57. maddesi, tenfiz isteminin kabulü veya reddi hakkındaki kararlara karşı kanun yoluna başvurmanın genel hükümlere tabi olduğunu belirtir ve ikinci cümlesinde temyizin yerine getirmeyi durduracağını düzenler. Hüküm, istinaf kanun yolunun işlemeye başlamasından önceki ifadesini korumaktadır. Bu nedenle tenfiz kararına dayanılarak icra takibine geçilmeden önce kararın kesinleşmesi beklenmelidir."
 ---
 Yabancı mahkemede alınan bir karar, Türkiye'de kendiliğinden sonuç doğurmaz. Yabancı mahkemenin hükmettiği bir alacağı Türkiye'deki mallardan tahsil etmek isteyen alacaklı tenfiz kararı almak zorundadır. Kararı yalnızca kesin hüküm ya da kesin delil olarak kullanmak isteyen taraf için ise tanıma yeterlidir. 5718 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun (MÖHUK) iki kurumu 50 ila 59. maddelerde birlikte düzenler. Bu yazı genel çerçeveyi ve özellikle para alacağına ilişkin kararların tenfizini ele alır. Yabancı boşanma kararlarının nüfusa tescili ve tanınması [ayrı bir yazının](/yazilar/yabanci-bosanma-kararinin-taninmasi/) konusudur.
 
@@ -101,7 +101,7 @@ Gerçek bir dosyaya dayanmayan bir varsayımda, yabancı bir devlet mahkemesi T�
 - İspat: Kesinleşme ve karşılıklılık davacının ispatı gereken olgulardır. Savunma hakkının ihlali, itiraz eden davalı tarafından ileri sürülür ve yabancı dosyadaki tebligat evrakıyla değerlendirilir.
 - Harç: Tenfiz davasında yabancı ilamdaki alacak yeniden hüküm altına alınmaz; harcın türü bakımından Harçlar Kanunu tarifesindeki güncel düzenleme dava açılmadan önce kontrol edilmelidir.
 - Tedbir: Tenfiz davası sürerken alacağın tahsilini güvenceye almak için genel şartlar çerçevesinde ihtiyati haciz veya ihtiyati tedbir talep edilebilir.
-- Kanun yolu: Tenfiz isteminin kabulü veya reddi hakkındaki kararlara karşı kanun yolu genel hükümlere tabidir; başvuru yerine getirmeyi durdurur (m. 57/2).
+- Kanun yolu: Tenfiz isteminin kabulü veya reddi hakkındaki kararlara karşı kanun yoluna başvurma genel hükümlere tabidir; Kanun ayrıca temyizin yerine getirmeyi durduracağını belirtir (m. 57/2). Hükmün yalnızca temyizi andığı, istinaf aşamasındaki dosyalarda gözetilmelidir.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 

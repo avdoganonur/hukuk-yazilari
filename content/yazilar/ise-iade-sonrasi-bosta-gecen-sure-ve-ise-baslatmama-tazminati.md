@@ -17,7 +17,7 @@ dayanak:
   - ad: "7036 sayılı İş Mahkemeleri Kanunu m. 3"
     not: "İşçi alacağı ve tazminatı davalarında dava şartı arabuluculuk"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7036&MevzuatTur=1&MevzuatTertip=5"
-  - ad: "7036 sayılı İş Mahkemeleri Kanunu m. 5"
+  - ad: "7036 sayılı İş Mahkemeleri Kanunu m. 6"
     not: "İş mahkemelerinde yetki"
   - ad: "1475 sayılı İş Kanunu m. 14"
     not: "Kıdem tazminatı"
@@ -43,19 +43,19 @@ sss:
 3. İşveren işçiyi bir ay içinde işe başlatmazsa, işçiye en az dört aylık, en çok sekiz aylık ücreti tutarında tazminat öder. Mahkeme veya özel hakem, feshin geçersizliğine karar verirken bu tazminatın miktarını da belirler.
 4. Kesinleşen karar ile birlikte işçiye, kararın kesinleşmesine kadar çalıştırılmadığı süre için en çok dört aya kadar doğmuş ücret ve diğer hakları ödenir.
 5. Mahkeme veya özel hakem, tazminat ile boşta geçen süreye ilişkin ücret ve diğer hakları dava tarihindeki ücreti esas alarak parasal olarak belirler.
-6. İşçi işe başlatılırsa, peşin ödenmiş bildirim süresine ait ücret ve kıdem tazminatı, boşta geçen süre için yapılacak ödemeden mahsup edilir. İşe başlatılmayan işçiye bildirim süresi verilmemiş veya bu süreye ait ücret peşin ödenmemişse, bu miktarlar ayrıca ödenir.
+6. İşçi işe başlatılırsa, peşin ödenmiş bildirim süresine ait ücret ve kıdem tazminatı, yukarıdaki fıkralara göre yapılacak ödemeden mahsup edilir. İşe başlatılmayan işçiye bildirim süresi verilmemiş veya bu süreye ait ücret peşin ödenmemişse, bu miktarlar ayrıca ödenir.
 
-Madde, arabuluculukta işe iade konusunda varılan anlaşmayı da düzenler ve son fıkrasında bu hükümlerin sözleşmelerle hiçbir şekilde değiştirilemeyeceğini, aksine sözleşme hükümlerinin geçersiz olduğunu belirtir.
+Madde, arabuluculukta işe iade konusunda varılan anlaşmayı da düzenler ve son fıkrasında tazminat ve boşta geçen süreye ilişkin hükümlerin sözleşmelerle hiçbir suretle değiştirilemeyeceğini, aksine sözleşme hükümlerinin geçersiz olduğunu belirtir.
 
-Tutarların "dava tarihindeki ücret" esas alınarak ve "parasal olarak" belirlenmesi, 2017'de 7036 sayılı Kanunla getirilmiştir. Bu değişiklikten önce boşta geçen süre ücreti feshi izleyen dönemin ücretlerine göre, işe başlatmama tazminatı da fesih tarihindeki ücrete göre infaz aşamasında hesaplanıyordu. Bu nedenle 2017 öncesi kararlara dayanan hesap yöntemleri bugünkü dosyalarda doğrudan kullanılmamalıdır.
+Tutarların "dava tarihindeki ücret" esas alınarak ve "parasal olarak" belirlenmesi, 2017'de 7036 sayılı Kanunla getirilmiştir. Bu nedenle 2017 öncesi kararlara dayanan hesap yöntemleri bugünkü dosyalarda doğrudan kullanılmamalıdır.
 
 ## İşçinin başvurusu
 
 Başvurunun şekli kanunda öngörülmemiştir. Ancak başvurunun süresinde yapıldığının ve işverene ulaştığının ispatı işçiye düşer. Bu yüzden uygulamada noter ihtarnamesi tercih edilir. İhtarnamede işçinin işe başlamaya hazır olduğu açıkça yazılmalı, işveren tarafından gösterilecek tarihte işbaşı yapılacağı belirtilmelidir.
 
-Başvurunun samimi olması gerekir. Gerçekte işe dönme niyeti taşımayan, yalnızca tazminata hak kazanmak için yapılan başvuru, yargı kararlarında sonuç doğurmayan başvuru olarak değerlendirilebilmektedir. Bununla birlikte Çalışma ve Toplum dergisinde yayımlanan bir Yargıtay kararında, işçinin daha yüksek ücretle başka bir işte çalışmasının ya da yeni iş aramasının tek başına başvurunun samimi olmadığını göstermeyeceği kabul edilmiştir. Samimiyet, dosyadaki bütün olgularla birlikte değerlendirilir.
+Başvurunun samimi olması gerekir. Gerçekte işe dönme niyeti taşımayan, yalnızca tazminata hak kazanmak için yapılan başvuru, yargı kararlarında sonuç doğurmayan başvuru olarak değerlendirilebilmektedir. Samimiyet, dosyadaki bütün olgularla birlikte değerlendirilir.
 
-İşçinin başvurusundan sonra işverenin daveti de aynı ölçüye tabidir. Aynı kararda, işverenin işe davetinin ciddi, şartsız ve samimi olması gerektiği; işçiyi gerçekten çalıştırma niyeti olmadan yalnızca mali sonuçlardan kurtulmak için yapılan çağrının gerçek bir işe başlatma sayılmayacağı belirtilmiştir. İşverenin işçiyi eski işine ya da en azından eski işine denk bir işe, eski çalışma koşullarıyla davet etmesi; davetin işe başlama tarihini ve yerini göstermesi beklenir. Davet edildiği hâlde haklı bir sebep olmaksızın işe başlamayan işçinin işe başlatmama tazminatı talebi bu açıdan değerlendirilir.
+İşçinin başvurusundan sonra işverenin daveti de aynı ölçüye tabidir. Çalışma ve Toplum dergisinde yayımlanan bir Yargıtay kararında, işverenin işe davetinin ciddi, şartsız ve samimi olması gerektiği; işçiyi gerçekten çalıştırma niyeti olmadan yalnızca mali sonuçlardan kurtulmak için yapılan çağrının gerçek bir işe başlatma sayılmayacağı belirtilmiştir. İşverenin işçiyi eski işine ya da en azından eski işine denk bir işe, eski çalışma koşullarıyla davet etmesi; davetin işe başlama tarihini ve yerini göstermesi beklenir. Davet edildiği hâlde haklı bir sebep olmaksızın işe başlamayan işçinin işe başlatmama tazminatı talebi bu açıdan değerlendirilir.
 
 ## İşe başlatmama tazminatı
 
@@ -75,7 +75,7 @@ Mahsup kuralı iki ayrı durumu düzenler. İşçi işe başlatılırsa, fesih s
 
 ## Usul
 
-- Görev ve yetki: Alacak davaları iş mahkemesinde görülür. Yetki 7036 sayılı Kanunun 5. maddesine göre davalının yerleşim yeri ya da işin veya işlemin yapıldığı yer mahkemesine aittir.
+- Görev ve yetki: Alacak davaları iş mahkemesinde görülür. Yetki 7036 sayılı Kanunun 6. maddesine göre davalının yerleşim yeri ya da işin veya işlemin yapıldığı yer mahkemesine aittir.
 - Dava şartı: Kanuna, bireysel veya toplu iş sözleşmesine dayanan işçi alacağı ve tazminatı ile işe iade talebiyle açılan davalarda arabulucuya başvurmak dava şartıdır (7036 m. 3/1). İşe iade kararından sonra kıdem, ihbar ve yıllık izin ücreti gibi işe iade ilamında yer almayan alacaklar için ayrı bir arabuluculuk süreci gerekir.
 - Süreler: On iş günlük başvuru süresi hak düşürücü niteliktedir ve kaçırılması feshi geçerli kılar. İşverenin bir aylık işe başlatma süresi başvurunun işverene ulaştığı tarihten itibaren işler.
 - Harç: Alacak taleplerinde nispi harç ödenir.
@@ -94,7 +94,7 @@ Sık yapılan hatalar şunlardır:
 - On iş günlük sürenin karar tarihinden ya da kesinleşme tarihinden hesaplanması; süre kesinleşen kararın tebliğinden başlar.
 - Başvurunun ispatı zor bir yolla, örneğin yalnızca telefonla yapılması.
 - Kıdem ve ihbar tazminatının eski fesih tarihine göre hesaplanması ve dört aylık sürenin kıdeme eklenmemesi.
-- İşe iade davası kesinleşmeden işçilik alacakları için dava açılması.
+- İşe iade davası kesinleşmeden kıdem, ihbar ve yıllık izin ücreti için dava açılması.
 - Fiilî çalışmaya bağlı fazla çalışma ve prim kalemlerinin boşta geçen süre hesabına katılması.
 
 İşverenin muhtemel savunmaları da bellidir: başvurunun süresinde yapılmadığı, başvurunun samimi olmadığı, işçinin davet edildiği hâlde işe başlamadığı, işçiye eski işine denk bir iş önerildiği, peşin ödenen kıdem ve ihbar tazminatının mahsup edilmesi gerektiği. Davet ihtarnamesinin içeriği bu savunmaların merkezindedir. İşe başlama tarihi, yeri ve görevi belirsiz bırakılmış ya da eski koşulların değiştirildiği bir davet, işverenin savunmasını zayıflatır; işçi tarafı bu nedenle davet metnini ve davete verilen cevabı dosyaya mutlaka sunmalıdır.

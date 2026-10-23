@@ -4,7 +4,7 @@ aciklama: "6183 sayılı Kanunda teminat isteme, ihtiyati haciz sebepleri, ihtiy
 kisaca:
   - "İhtiyati haciz, 6183 m. 13'te sayılan hâllerden birinin varlığında herhangi bir süreyle sınırlı olmaksızın uygulanır."
   - "İhtiyati hacze karşı haczin uygulandığı, gıyapta yapılmışsa tebliğ edildiği tarihten itibaren on beş gün içinde vergi mahkemesinde dava açılır."
-  - "İhtiyati tahakkuk, henüz tahakkuk etmemiş amme alacağının güvenceye alınması içindir ve ihtiyati hacizle birlikte uygulanır."
+  - "İhtiyati tahakkuk, henüz tahakkuk etmemiş amme alacağının güvenceye alınması içindir; sebebine ve miktarına itiraz 15. maddeye tabidir."
   - "Vergi inceleme raporu vergi dairesine intikal ettikten sonra teminat isteme sebebine dayanılarak ihtiyati haciz uygulanamaz."
 tarih: 2026-10-23
 alan: vergi-hukuku
@@ -22,8 +22,6 @@ dayanak:
     not: "İhtiyati tahakkuk"
   - ad: "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 18"
     not: "İhtiyati tahakkukun miktarı"
-  - ad: "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 19"
-    not: "İhtiyati tahakkukun düzeltilmesi"
   - ad: "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 20"
     not: "İhtiyati tahakkuka itiraz"
   - ad: "213 sayılı Vergi Usul Kanunu m. 344"
@@ -69,19 +67,19 @@ Teminat isteme yetkisinin zamansal sınırı ise sonradan yargı kararıyla netl
 4. İstenen teminat gösterilmemişse,
 5. Borçlu mal bildiriminde bulunmamış veya noksan bildirmişse,
 6. Para cezasını gerektiren bir fiil nedeniyle borçlu hakkında amme davası açılmışsa,
-7. İptali istenen tasarruf konusu mallar elden çıkarılmışsa.
+7. İptali istenen muamele ve tasarrufun konusu mallar bakımından, bu mallar elden çıkarılmışsa elden çıkaranın diğer malları hakkında uygulanmak üzere, Kanunun 27, 29 ve 30. maddelerinin uygulanmasını gerektiren hâller varsa.
 
 Vergi daireleri bakımından karar yetkisi uygulamada defterdar veya vergi dairesi başkanına aittir; vergi dairesi müdürü önlemi yazılı olarak talep eder. Alacaklı idare belediye ise mahallî en büyük memur belediye başkanıdır.
 
-İhtiyati haciz kararı, borçlunun alacağa yetecek miktardaki mal, hak ve alacaklarına uygulanır. Kural olarak ihtiyaten haczedilen mallar bu aşamada paraya çevrilmez; satış, kesin haciz aşamasının konusudur.
+İhtiyati haciz kararı, borçlunun alacağa yetecek miktardaki mal, hak ve alacaklarına uygulanır.
 
 ## İhtiyati tahakkuk
 
 İhtiyati tahakkuk, henüz tahakkuk etmemiş bir amme alacağının, özel kanunundaki tahakkuk aşaması beklenmeden tahakkuk ettirilmesidir. 17. madde, ihtiyati tahakkukun yapılabileceği hâlleri ihtiyati haciz sebeplerinin bir kısmına bağlar; bunlar 13. maddenin (1), (2), (3) ve (5) numaralı bentlerindeki hâllerdir. Bunlara ek olarak borçlu hakkında 110. madde uyarınca takibe girişilmiş olması ve borçlu malının muvazaalı olarak başkasına ait gösterildiğine dair deliller elde edilmiş olması da sayılır.
 
-Uygulamada süreç, vergi dairesi müdürünün yazılı talebi üzerine defterdarın veya vergi dairesi başkanının yazılı emriyle işler. İhtiyati tahakkukun tutarı 18. maddeye göre belirlenir: matrahı belli olan alacaklarda geçmiş yıllar ve cari yılın geçen aylarına ait matrahlar esas alınır; matrahı henüz belli olmayan alacaklarda takdir yoluyla geçici matrah belirlenir. Özel kanununa göre yapılan tahakkuk ile ihtiyati tahakkuk arasında fark çıkarsa, fark 19. madde uyarınca düzeltilir.
+Uygulamada süreç, vergi dairesi müdürünün yazılı talebi üzerine defterdarın veya vergi dairesi başkanının yazılı emriyle işler. İhtiyati tahakkukun tutarı 18. maddeye göre belirlenir: matrahı belli olan alacaklarda geçmiş yıllar ve cari yılın geçen aylarına ait matrahlar esas alınır; matrahı henüz belli olmayan alacaklarda takdir yoluyla geçici matrah belirlenir.
 
-İhtiyati tahakkuk tek başına tahsil sağlamaz. İhtiyaten tahakkuk ettirilen vergiler, kanunlarına göre ödeme zamanları gelmeden tahsil olunmaz. Tahakkuk, ihtiyati haczin uygulanacağı tutarı belirleyen bir işlemdir; asıl koruma, onunla birlikte uygulanan ihtiyati hacizden gelir.
+Tahakkuk, ihtiyati haczin uygulanacağı tutarı belirleyen bir işlemdir; asıl koruma, onunla birlikte uygulanan ihtiyati hacizden gelir.
 
 ## Uygulamada tartışmalı noktalar
 
@@ -117,7 +115,7 @@ Bu olayda dava süresi haczin uygulandığı günden itibaren on beş gündür. 
 - Harç: İdari yargıda maktu harç ödenir.
 - İspat: Haciz sebebinin varlığını gösteren olgular idarenin dosyasında bulunmalıdır; mahkeme dayanak belgeleri idareden ister.
 - Yürütmenin durdurulması: İYUK m. 27'deki şartlarla istenebilir; telafisi güç veya imkânsız zarar ile idari işlemin açıkça hukuka aykırılığı birlikte gösterilmelidir. Banka hesaplarındaki haczin işletme faaliyetini durdurması, zarar unsurunun somut olarak gösterilebileceği tipik bir durumdur.
-- Kanun yolu: İstinaf ve temyiz İYUK'un güncel hükümlerine göre belirlenir. Temmuz 2026'da 7589 sayılı Kanunla İYUK'un istinaf ve temyize ilişkin maddeleri değiştirildiğinden başvuru öncesinde güncel metin kontrol edilmelidir.
+- Kanun yolu: İstinaf ve temyiz İYUK'un güncel hükümlerine ve parasal sınırlarına göre belirlenir; başvuru öncesinde güncel metin kontrol edilmelidir.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
