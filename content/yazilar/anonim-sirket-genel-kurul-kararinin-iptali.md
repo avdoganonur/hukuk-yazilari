@@ -5,8 +5,8 @@ kisaca:
   - "İptal davası karar tarihinden itibaren üç ay içinde şirket merkezinin bulunduğu yerdeki asliye ticaret mahkemesinde açılır."
   - "İptal davası açabilecekler TTK m. 446'da sınırlı olarak sayılmıştır; olumsuz oyun tutanağa geçirilmesi bu nedenle önemlidir."
   - "TTK m. 447'de sayılan butlan hâlleri için kanunda üç aylık süre öngörülmemiştir."
-  - "Kesinleşen iptal veya butlan kararı bütün pay sahipleri hakkında hüküm ifade eder ve ticaret siciline tescil edilir."
-tarih: 2026-10-22
+  - "Kesinleşen iptal kararı bütün pay sahipleri hakkında hüküm ifade eder ve ticaret siciline tescil edilir."
+tarih: 2026-10-23
 alan: borclar-hukuku
 dayanak:
   - ad: "6102 sayılı Türk Ticaret Kanunu m. 445"
@@ -34,7 +34,7 @@ sss:
   - soru: "Dava açılması kararın uygulanmasını kendiliğinden durdurur mu?"
     cevap: "Hayır. Kararın yürütülmesinin geri bırakılması için talepte bulunmak gerekir. Mahkeme bu konuda yönetim kurulu üyelerinin görüşünü aldıktan sonra karar verir (TTK m. 449). Talep dava dilekçesinde gerekçesiyle birlikte ileri sürülmelidir."
   - soru: "İptal davası için önce arabulucuya başvurmak gerekir mi?"
-    cevap: "TTK m. 5/A, dava şartı arabuluculuğu ticari davalardan konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleriyle sınırlar. Genel kurul kararının iptali ya da butlanının tespiti bu nitelikte bir talep olmadığından, bu talepler bakımından arabuluculuk dava şartı değildir. Aynı dilekçede bir para alacağı da isteniyorsa o talep yönünden ayrıca değerlendirme yapılmalıdır."
+    cevap: "TTK m. 5/A, dava şartı arabuluculuğu ticari davalardan konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri ile itirazın iptali, menfi tespit ve istirdat davalarıyla sınırlar. Genel kurul kararının iptali ya da butlanının tespiti bu nitelikte bir talep olmadığından, bu talepler bakımından arabuluculuk dava şartı değildir. Aynı dilekçede bir para alacağı da isteniyorsa o talep yönünden ayrıca değerlendirme yapılmalıdır."
 ---
 Anonim şirketlerde azlık pay sahibinin, yönetim kurulunun ya da tek tek yönetim kurulu üyelerinin genel kurul kararına karşı başvurabileceği yol, Türk Ticaret Kanunu'nun (TTK) 445 ila 451. maddelerinde düzenlenmiştir. Kanun iki ayrı sakatlık türü öngörür. Kanuna, esas sözleşmeye ve özellikle dürüstlük kuralına aykırı kararlar iptal edilebilirdir ve bunlara karşı belirli kişiler, belirli bir süre içinde dava açabilir. TTK m. 447'de sayılan daha ağır aykırılıklar ise kararı batıl kılar.
 
@@ -83,13 +83,13 @@ Görevli ve yetkili mahkeme: TTK m. 445, şirket merkezinin bulunduğu yerdeki a
 
 Süre: İptal davasında süre karar tarihinden itibaren üç aydır. Süre, kararın öğrenildiği tarihe göre değil toplantı tarihine göre işler. TTK m. 448/2 bu süreyi hak düşürücü süre olarak anar; mahkeme süreyi kendiliğinden gözetir.
 
-Arabuluculuk: TTK m. 5/A uyarınca ticari davalarda dava şartı arabuluculuk, konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleriyle sınırlıdır. Kararın iptali ve butlanının tespiti talepleri bu kapsamda değildir.
+Arabuluculuk: TTK m. 5/A uyarınca ticari davalarda dava şartı arabuluculuk, konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri ile itirazın iptali, menfi tespit ve istirdat davalarıyla sınırlıdır. Kararın iptali ve butlanının tespiti talepleri bu kapsamda değildir.
 
 Harç: İptal ve butlan talebi bir para alacağı içermez. Davayla birlikte bir para alacağı ya da tazminat isteniyorsa harç türü o talep bakımından ayrıca belirlenir.
 
 İlan ve duruşma: Yönetim kurulu, iptal veya butlan davasının açıldığını ve duruşma gününü usulüne göre ilan eder ve şirketin internet sitesine koyar (m. 448/1). İptal davalarında üç aylık hak düşürücü süre sona ermeden duruşmaya başlanamaz; birden fazla iptal davası açılmışsa davalar birleştirilerek görülür (m. 448/2). Bu kural, aynı karara karşı farklı pay sahiplerinin açtığı davalarda çelişkili hüküm kurulmasını önlemeye yöneliktir.
 
-Teminat: Mahkeme, şirketin istemi üzerine, şirketin uğrayabileceği muhtemel zararlara karşı davacıların teminat göstermesine karar verebilir; teminatın türünü ve miktarını mahkeme belirler (m. 448/3). Teminat kendiliğinden istenmez. Davalı vekili açısından bu talebin cevap dilekçesinde gerekçeli olarak ileri sürülmesi gerekir.
+Teminat: Mahkeme, şirketin istemi üzerine, şirketin muhtemel zararlarına karşı davacıların teminat göstermesine karar verebilir; teminatın niteliğini ve miktarını mahkeme belirler (m. 448/3). Teminat kendiliğinden istenmez. Davalı vekili açısından bu talebin cevap dilekçesinde gerekçeli olarak ileri sürülmesi gerekir.
 
 Yürütmenin geri bırakılması: Dava açılması üzerine mahkeme, yönetim kurulu üyelerinin görüşünü aldıktan sonra kararın yürütülmesinin geri bırakılmasına karar verebilir (m. 449). Bu, kararın ticaret siciline tescilini ya da uygulanmasını engellemek için başvurulan özel bir geçici hukuki korumadır. Talepte, kararın uygulanması hâlinde doğacak zararın ve sonradan giderilmesindeki güçlüğün somut olarak gösterilmesi gerekir.
 

@@ -6,7 +6,7 @@ kisaca:
   - "Erteleme için CMK m. 171/3'teki dört şartın, bu arada zararın tamamen giderilmesinin birlikte gerçekleşmesi gerekir."
   - "Suçtan zarar gören ve şüpheli, karara CMK m. 173 uyarınca tebliğden itibaren iki hafta içinde itiraz edebilir."
   - "Erteleme süresinde kasıtlı suç işlenmezse kovuşturmaya yer olmadığına karar verilir; süre boyunca zamanaşımı işlemez."
-tarih: 2026-10-22
+tarih: 2026-10-23
 alan: ceza-hukuku
 dayanak:
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 171"
@@ -62,11 +62,11 @@ CMK m. 171/3'e göre kamu davasının açılmasının ertelenmesi için şu koş
 - (a) Şüphelinin daha önce kasıtlı bir suçtan dolayı hapis cezası ile mahkûm olmamış bulunması.
 - (b) Yapılan soruşturmanın, kamu davası açılmasının ertelenmesi hâlinde şüphelinin suç işlemekten çekineceği kanaatini vermesi.
 - (c) Kamu davası açılmasının ertelenmesinin, şüpheli ve toplum açısından kamu davası açılmasından daha yararlı olması.
-- (ç) Suçun işlenmesiyle mağdurun veya kamunun uğradığı ve Cumhuriyet savcısı tarafından tespit edilen zararın, aynen iade, suçtan önceki hâle getirme veya tazmin suretiyle tamamen giderilmesi.
+- (d) Suçun işlenmesiyle mağdurun veya kamunun uğradığı ve Cumhuriyet savcısı tarafından tespit edilen zararın, aynen iade, suçtan önceki hâle getirme veya tazmin suretiyle tamamen giderilmesi.
 
 (a) bendi yalnızca kasıtlı suçtan hapis cezasıyla mahkûmiyeti engel sayar. Taksirli suçtan mahkûmiyet ya da yalnızca adli para cezasına mahkûmiyet bu bent bakımından engel oluşturmaz. Adli sicil kaydının ve arşiv kaydının dosyaya getirtilip incelenmesi, bu noktada müdafinin ilk işlerinden biridir.
 
-Uygulamada en çok sorun çıkaran şart (ç) bendidir. Zararın tutarını savcı tespit eder ve zararın tamamen giderilmesi gerekir; kısmi ödeme yetmez. Zararın varlığı ve miktarı tartışmalıysa müdafinin, ödeme belgesini, mağdurun zararının karşılandığına ilişkin beyanını ya da eski hâle getirmeyi gösteren belgeleri soruşturma dosyasına sunması gerekir. Zararı bulunmayan suçlarda bu şart konusuz kalır.
+(d) bendinde zararın tutarını savcı tespit eder ve zararın tamamen giderilmesi gerekir; kısmi ödeme yetmez. Zararın varlığı ve miktarı tartışmalıysa müdafinin, ödeme belgesini, mağdurun zararının karşılandığına ilişkin beyanını ya da eski hâle getirmeyi gösteren belgeleri soruşturma dosyasına sunması gerekir. Zararı bulunmayan suçlarda bu şart konusuz kalır.
 
 ## Erteleme süresi ve sonuçları
 
@@ -90,7 +90,7 @@ Hapis cezasının ertelenmesi: TCK m. 51'deki erteleme, mahkûmiyet hükmünün 
 
 Aşağıdaki örnek gerçek bir dosyaya dayanmaz; yalnızca şartların birlikte nasıl değerlendirildiğini göstermek içindir. Daha önce yalnızca taksirli bir suçtan mahkûm olmuş şüpheli hakkında, kanundaki cezasının üst sınırı üç yılı aşmayan ve uzlaştırma kapsamında bulunmayan bir suçtan soruşturma yürütülmektedir. Savcı mağdurun zararını belirli bir tutar olarak tespit etmiştir. Şüpheli bu tutarın yalnızca yarısını ödemiştir.
 
-Bu dosyada (a) bendi engel değildir; çünkü önceki mahkûmiyet taksirli suçtandır. Buna karşılık (ç) bendi gerçekleşmemiştir; zarar tamamen giderilmedikçe erteleme kararı verilemez. Müdafinin yapacağı iş, kalan tutarın ödenmesini sağlamak ve ödeme belgesini soruşturma dosyasına sunmaktır. Zarar giderildikten sonra verilecek erteleme kararına mağdur, örneğin zararının savcının tespit ettiğinden yüksek olduğunu ileri sürerek iki hafta içinde itiraz edebilir. Bu itiraz, savcının zarar tespitinin dayanağını sulh ceza hâkiminin önüne taşır.
+Bu dosyada (a) bendi engel değildir; çünkü önceki mahkûmiyet taksirli suçtandır. Buna karşılık (d) bendi gerçekleşmemiştir; zarar tamamen giderilmedikçe erteleme kararı verilemez. Müdafinin yapacağı iş, kalan tutarın ödenmesini sağlamak ve ödeme belgesini soruşturma dosyasına sunmaktır. Zarar giderildikten sonra verilecek erteleme kararına mağdur, örneğin zararının savcının tespit ettiğinden yüksek olduğunu ileri sürerek iki hafta içinde itiraz edebilir. Bu itiraz, savcının zarar tespitinin dayanağını sulh ceza hâkiminin önüne taşır.
 
 ## Usul
 

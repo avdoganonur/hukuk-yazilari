@@ -6,7 +6,7 @@ kisaca:
   - "Talep, sebebin öğrenildiği tarihten itibaren üç ay ve her hâlde hükmün kesinleşmesinden itibaren on yıl içinde yapılır."
   - "Dilekçeyi kararı veren mahkeme inceler; süre, kesinlik ve sebep şartlarından biri eksikse talep esasa girilmeden reddedilir."
   - "Yargılamanın iadesi davası icrayı kendiliğinden durdurmaz; durdurma için talep ve kural olarak teminat gerekir."
-tarih: 2026-10-22
+tarih: 2026-10-23
 alan: icra-hukuku
 dayanak:
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 374"
@@ -28,7 +28,7 @@ dayanak:
     not: "İcranın durdurulması"
 sss:
   - soru: "7589 sayılı Kanun yargılamanın iadesi hükümlerini değiştirdi mi?"
-    cevap: "Hayır. 7589 sayılı Kanun (RG 31.07.2026) HMK'da 107, 109, 147, 149, 166, 168 ve 362. maddelerde değişiklik yapmıştır; 374 ila 381. maddeler bu değişikliklerin dışında kalmıştır. Yargılamanın iadesi bakımından güncel metin, Anayasa Mahkemesinin m. 377'deki on yıllık süreye ilişkin kısmi iptal kararıyla birlikte okunmalıdır."
+    cevap: "Hayır. 7589 sayılı Kanun (RG 31.07.2026) HMK'nın 107, 109, 147, 149, 166, 168 ve 362. maddelerinde değişiklik yapmış, 374 ila 381. maddelere dokunmamıştır. Yargılamanın iadesi bakımından güncel metin, Anayasa Mahkemesinin m. 377'deki on yıllık süreye ilişkin kısmi iptal kararıyla birlikte okunmalıdır."
   - soru: "Avrupa İnsan Hakları Mahkemesinin ihlal kararına dayanırken on yıllık süre uygulanır mı?"
     cevap: "Anayasa Mahkemesi 21.06.2022 tarihli ve E. 2022/7, K. 2022/79 sayılı kararıyla m. 377/1'deki on yıllık üst sürenin, AİHM kararına dayanan (e) bendi yönünden iptaline karar vermiştir; karar 01.07.2022 tarihli Resmî Gazete'de yayımlanmıştır. Bu sebepte talep, AİHM'in kesinleşmiş kararının tebliğinden itibaren üç ay içinde yapılmalıdır."
   - soru: "Bilirkişi raporunun hatalı olması yargılamanın iadesi sebebi midir?"
@@ -51,7 +51,7 @@ HMK m. 375/1'de sayılan sebepler sınırlıdır:
 - (a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması.
 - (b) Davaya bakması yasak olan ya da reddi kesinleşmiş hâkimin karar vermiş veya karara katılmış olması.
 - (c) Vekil veya temsilci olmayan kimselerin huzuruyla dava görülüp karara bağlanmış olması.
-- (ç) Karardan sonra, yargılama sırasında elde edilmesine imkân bulunmayan bir belgenin ele geçirilmiş olması.
+- (ç) Yargılamanın iadesini isteyen tarafın elinde olmayan sebeplerle yargılama sırasında elde edemediği bir belgenin karardan sonra ele geçirilmiş olması.
 - (d) Hükme esas alınan bir belgenin sahteliğine karar verilmiş ya da sahteliğin mahkeme veya resmî makam önünde ikrar edilmiş olması.
 - (e) Hükme esas alınan tanık beyanının gerçeğe aykırı olduğunun sonradan sabit olması.
 - (f) Bilirkişinin veya tercümanın hükme esas alınan bir hususta kasten gerçeğe aykırı beyanda bulunmuş olması.
@@ -63,7 +63,7 @@ HMK m. 375/1'de sayılan sebepler sınırlıdır:
 
 HMK m. 375/2'ye göre (e), (f) ve (g) bentlerindeki sebeplerle yargılamanın iadesi istenebilmesi için bu hâllerin kesinleşmiş bir ceza mahkûmiyetiyle sabit olması gerekir. Ceza kovuşturmasına delil yetersizliği dışındaki bir sebeple başlanamamış ya da mahkûmiyet kararı verilememişse ceza mahkemesi kararı aranmaz; bu durumda sebep, yargılamanın iadesi davasında ispat edilir.
 
-Uygulamada en çok başvurulan sebep (ç) bendidir. Burada belgenin karardan sonra ele geçirilmiş olması ve yargılama sırasında, talepte bulunanın iradesi dışındaki bir sebeple elde edilememiş olması gerekir. Taraf belgenin varlığını biliyor ve yargılamada delil olarak gösterip getirtebilecek durumdaysa bu sebebe dayanılamaz. Belgenin, elde edilmiş olsaydı hükmün sonucunu değiştirebilecek nitelikte olduğu da dilekçede açıklanmalıdır.
+(ç) bendinde belgenin karardan sonra ele geçirilmiş olması ve yargılama sırasında, talepte bulunanın iradesi dışındaki bir sebeple elde edilememiş olması gerekir. Taraf belgenin varlığını biliyor ve yargılamada delil olarak gösterip getirtebilecek durumdaysa bu sebebe dayanılamaz. Belgenin, elde edilmiş olsaydı hükmün sonucunu değiştirebilecek nitelikte olduğu da dilekçede açıklanmalıdır.
 
 ## Üçüncü kişilerin hükmün iptalini istemesi
 

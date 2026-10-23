@@ -6,14 +6,14 @@ kisaca:
   - "Talep edilirse tutanak taslağı iki gün önceden mükellefin bilgisine sunulur ve tutanakta inceleme elemanının kanaatine yer verilmez."
   - "Tutanağı imzalamayan mükellefin ilgili defter ve belgeleri alınır ve vergi ile cezalar kesinleşinceye kadar geri verilmez."
   - "Tarhiyat öncesi uzlaşmada anlaşma sağlanamazsa tarhiyat sonrası uzlaşma istenemez; dava süresi ihbarnamenin tebliğiyle işler."
-tarih: 2026-10-22
+tarih: 2026-10-23
 alan: vergi-hukuku
 dayanak:
   - ad: "213 sayılı Vergi Usul Kanunu m. 141"
     not: "İnceleme tutanakları, itiraz ve açıklamaların tutanağa geçirilmesi, imzadan kaçınma"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=213&MevzuatTur=1&MevzuatTertip=4"
   - ad: "213 sayılı Vergi Usul Kanunu m. 140"
-    not: "İncelemede uyulacak esaslar, süreler ve inceleme sonu vesikası"
+    not: "İncelemede uyulacak esaslar, inceleme süreleri ve inceleme sonu vesikası"
   - ad: "213 sayılı Vergi Usul Kanunu m. 3"
     not: "Vergilendirmede gerçek mahiyet ve ispat"
   - ad: "213 sayılı Vergi Usul Kanunu m. 35"
@@ -49,7 +49,7 @@ Vergi uyuşmazlıklarında dava dosyasının önemli bir kısmı inceleme sıras
 
 Vergi Usul Kanunu (VUK) m. 141'e göre inceleme sırasında vergilendirmeyle ilgili olaylar ve hesap durumları gerektiğinde tutanakla tespit edilir. İlgililerin itiraz ve açıklamaları varsa bunlar tutanağa geçirilir ve tutanağın bir örneği mükellefe ya da nezdinde inceleme yapılana bırakılır.
 
-Ayrıntılar, Hazine ve Maliye Bakanlığınca çıkarılan Vergi İncelemelerinde Uyulacak Usul ve Esaslar Hakkında Yönetmelik'te düzenlenmiştir (RG 31.10.2011, sayı 28101; en son 13.05.2025 tarihli ve 32899 sayılı Resmî Gazete'de yayımlanan değişiklikle). Yönetmelik m. 16 ve m. 17'ye göre:
+Ayrıntılar, Hazine ve Maliye Bakanlığınca çıkarılan Vergi İncelemelerinde Uyulacak Usul ve Esaslar Hakkında Yönetmelik'te düzenlenmiştir (RG 31.10.2011, sayı 28101; 13.05.2025 tarihli ve 32899 sayılı Resmî Gazete'de yayımlanan değişiklik dahil). Yönetmelik m. 16 ve m. 17'ye göre:
 
 - Mükellef talep ederse tutanak taslağı, itirazlarını bildirebilmesi için iki gün önceden bilgisine sunulur.
 - Tutanaklarda incelemeyi yapanın kanaatini belirten yorum, hüküm ve ifadelere yer verilmez.
@@ -83,11 +83,11 @@ Teslim alınan defter ve belgeler, Yönetmelik m. 22'ye göre Rapor Değerlendir
 
 ## İnceleme raporu ve Rapor Değerlendirme Komisyonu
 
-İnceleme bitince, bunun yapıldığını gösteren bir vesika nezdinde inceleme yapılana verilir (VUK m. 140/4). Yönetmelik m. 19'a göre tarhiyat veya ceza önerisi içeren raporlarda mükellefin itirazlarına ve bunların değerlendirilmesine ayrı bir bölümde yer verilir. Eleştiriyi gerektiren bir husus tespit edilmezse bu durum mükellefe yazıyla bildirilir.
+İnceleme bitince, bunun yapıldığını gösteren bir vesika nezdinde inceleme yapılana verilir (VUK m. 140). Yönetmelik m. 19'a göre tarhiyat veya ceza önerisi içeren raporlarda mükellefin itirazlarına ve bunların değerlendirilmesine raporun eleştirilen hususlar bölümünde yer verilir. Eleştiriyi gerektiren bir husus tespit edilmezse bu durum mükellefe yazıyla bildirilir.
 
 Raporlar, Yönetmelik m. 20 uyarınca ilgili Rapor Değerlendirme Komisyonuna gönderilir. Tutanakta dinlenme talebi kayıtlıysa mükellef ya da vekili komisyonda görüşlerini açıklama imkânını bu talebe dayanarak ister. Komisyon aşamasında sunulacak yazılı açıklama, şerhteki itirazların belgeli ve düzenli bir özeti olmalıdır.
 
-İnceleme süreleri VUK m. 140/6'da düzenlenmiştir: incelemeye başlandığı tarihten itibaren tam incelemede en fazla bir yıl, sınırlı incelemede en fazla altı ay, katma değer vergisi iade incelemelerinde en fazla üç ay. Ek süre verilebilir ve bu durumda incelemenin bitirilememe nedenleri mükellefe yazıyla bildirilir. Sürelerin ve ek süre bildiriminin dosyada izlenmesi, dava dilekçesinde usule ilişkin itirazların temelini oluşturur.
+İnceleme süreleri VUK m. 140'ta düzenlenmiştir: incelemeye başlandığı tarihten itibaren tam incelemede en fazla bir yıl, sınırlı incelemede en fazla altı ay, katma değer vergisi iade incelemelerinde en fazla üç ay (ayrıca Yönetmelik m. 23). Bu sürelere ek süre verilebilir. Sürelerin ve verilen ek sürelerin dosyada izlenmesi, dava dilekçesinde usule ilişkin itirazların temelini oluşturur.
 
 ## Örnek olay
 

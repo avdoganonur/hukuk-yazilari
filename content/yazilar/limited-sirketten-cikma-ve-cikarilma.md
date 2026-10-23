@@ -6,7 +6,7 @@ kisaca:
   - "Şirket sözleşmesinde öngörülen sebeple genel kurul kararıyla çıkarılan ortak, noter bildiriminden itibaren üç ay içinde iptal davası açabilir."
   - "Anayasa Mahkemesi, iki ortaklı limited şirketlerde çıkarma davası için genel kurul kararı arayan hükümleri iptal etmiştir."
   - "Ayrılan ortak esas sermaye payının gerçek değerine uyan ayrılma akçesini ister; ödenmesi TTK m. 642'deki şartlara bağlıdır."
-tarih: 2026-10-22
+tarih: 2026-10-23
 alan: borclar-hukuku
 dayanak:
   - ad: "6102 sayılı Türk Ticaret Kanunu m. 638"
@@ -68,7 +68,7 @@ Bu hüküm, şirketin ayrılma akçesi ödemesi nedeniyle zayıflamadan önce di
 
 TTK m. 640 iki ayrı çıkarma yolu düzenler.
 
-Birincisi, şirket sözleşmesine dayanan çıkarmadır. Şirket sözleşmesi, genel kurula belirli sebeplerin varlığında bir ortağı şirketten çıkarma yetkisi verebilir (m. 640/1). Bu karar için TTK m. 621'deki ağırlaştırılmış nisap aranır: temsil edilen oyların en az üçte ikisi ile oy hakkı bulunan esas sermayenin salt çoğunluğunun bir arada bulunması. Şirket sözleşmesindeki sebeplerin belirli, nesnel ve eşit işlem ilkesine uygun olması gerekir; "şirketin menfaatine aykırı davranış" gibi genel bir ifade, çıkarma kararına dayanak olmaya elverişsiz kalabilir.
+Birincisi, şirket sözleşmesine dayanan çıkarmadır. Şirket sözleşmesinde, bir ortağın genel kurul kararıyla şirketten çıkarılabileceği sebepler öngörülebilir (m. 640/1). Bu karar için TTK m. 621'deki ağırlaştırılmış nisap aranır: temsil edilen oyların en az üçte ikisi ile oy hakkı bulunan esas sermayenin salt çoğunluğunun bir arada bulunması. Şirket sözleşmesindeki sebeplerin belirli, nesnel ve eşit işlem ilkesine uygun olması gerekir; "şirketin menfaatine aykırı davranış" gibi genel bir ifade, çıkarma kararına dayanak olmaya elverişsiz kalabilir.
 
 Ortak, bu çıkarma kararına karşı kararın noter aracılığıyla kendisine bildirilmesinden itibaren üç ay içinde iptal davası açabilir (m. 640/2). Bu davada mahkemenin önündeki temel soru, şirket sözleşmesinde öngörülen çıkarma sebebinin somut olayda gerçekleşip gerçekleşmediğidir.
 
@@ -100,7 +100,7 @@ Taraflar: Çıkma davasında ve çıkarma kararına karşı iptal davasında dav
 
 Süreler: Çıkarma kararına karşı iptal davası noter bildiriminden itibaren üç ay içinde açılır. Diğer ortakların çıkmaya katılma süresi haberin kendilerine ulaşmasından itibaren bir aydır. Haklı sebeple çıkma davası için kanunda ayrı bir süre öngörülmemiştir; ancak haklı sebep olarak gösterilen olaydan sonra uzun süre ortaklığı sürdürmek, olayın ortaklığın devamını gerçekten çekilmez kılıp kılmadığı yönünden karşı tarafın savunmasına malzeme olur.
 
-Arabuluculuk: TTK m. 5/A uyarınca dava şartı arabuluculuk, ticari davalardan konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleriyle sınırlıdır. Çıkma ve çıkarma talepleri bu nitelikte değildir. Ayrılma akçesinin ayrı bir davada para alacağı olarak istenmesi hâlinde ise bu talep yönünden arabuluculuk şartı gözetilmelidir.
+Arabuluculuk: TTK m. 5/A uyarınca dava şartı arabuluculuk, ticari davalardan konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri ile itirazın iptali, menfi tespit ve istirdat davalarıyla sınırlıdır. Çıkma ve çıkarma talepleri bu nitelikte değildir. Ayrılma akçesinin ayrı bir davada para alacağı olarak istenmesi hâlinde ise bu talep yönünden arabuluculuk şartı gözetilmelidir.
 
 Harç: Çıkma ve çıkarma talebi, ayrılma akçesinin ödenmesi talebiyle birlikte ileri sürülürse para talebi yönünden nispi harç gündeme gelir. Ayrılma akçesinin tutarı yargılama sırasında bilirkişi incelemesiyle belirleneceğinden, talep miktarının ve harcın buna göre tamamlanması planlanmalıdır.
 
