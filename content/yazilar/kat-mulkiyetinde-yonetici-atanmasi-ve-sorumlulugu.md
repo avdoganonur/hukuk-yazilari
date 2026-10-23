@@ -4,7 +4,7 @@ aciklama: "KMK m. 34–41: yöneticinin atanması, sulh hukuk mahkemesince atama
 kisaca:
   - "Sekiz veya daha fazla bağımsız bölümü olan anagayrimenkulde yönetici atanması zorunludur ve atama sayı ile arsa payı çoğunluğuyla yapılır."
   - "Kat malikleri yönetici atayamazsa bir kat malikinin başvurusu üzerine sulh mahkemesi yönetici atar; bu yönetici altı ay geçmeden kurulca değiştirilemez."
-  - "Yönetici kat maliklerine karşı vekil gibi sorumludur ve her takvim yılının ilk ayında kurula hesap vermekle yükümlüdür."
+  - "Yönetici kat maliklerine karşı vekil gibi sorumludur; yönetim planında başka zaman yoksa yılın ilk ayında kurula hesap verir."
   - "Kat Mülkiyeti Kanunundan doğan uyuşmazlıklar sulh hukuk mahkemesinde görülür; dava açmadan önce arabuluculuk şartı gözetilmelidir."
 tarih: 2026-10-23
 alan: tasinmaz-ve-kira
@@ -96,15 +96,15 @@ Yöneticinin görevleri yönetim planında belirtilir. Yönetim planında aksine
 - Toplanan paralar için muteber bir bankada, kendi adına fakat yönetici sıfatı gösterilerek hesap açtırılması (j).
 - Kurulun toplantıya çağrılması (k) ve asansörlerin aylık bakım ile yıllık kontrollerinin yaptırılması (l).
 
-m. 35'in ek fıkrasına göre m. 34'teki şartları taşıdığı hâlde yönetici atanmamış anagayrimenkulde bu işlerin yaptırılmasından kat malikleri müştereken sorumludur. Bu hüküm, yönetici atanmasını zorunlu olduğu binalarda atamadan kaçınmanın sorumluluğu ortadan kaldırmadığını gösterir.
+m. 35'in ek fıkrasına göre m. 34'teki şartları taşıdığı hâlde yönetici atanmamış anagayrimenkulde bu işlerin yaptırılmasından kat malikleri müştereken sorumludur. Bu hüküm, yönetici atanmasının zorunlu olduğu binalarda atamadan kaçınmanın sorumluluğu ortadan kaldırmadığını gösterir.
 
 KMK m. 36 yöneticiye defter tutma yükümlülüğü getirir. Yönetici kurul kararlarını, yapılan ihtar ve tebligatın özetini ve tarihlerini ve bütün giderleri m. 32'de sözü geçen deftere tarih sırasıyla yazar; defteri, gider belgelerini ve diğer belgeleri bir dosyada saklar. Defterin her takvim yılının bitmesinden başlayarak bir ay içinde yönetici tarafından notere kapattırılması zorunludur. Bu görevleri yerine getirmeyen yöneticiye m. 33'te yazılı yaptırımlar uygulanır.
 
-İşletme projesi bakımından 7579 sayılı Kanunla (RG 22.05.2026) m. 37'de değişiklik yapılmıştır. Güncel metne göre işletme projesi kat malikleri genel kurulunda onaylanır. Kurulca kabul edilmiş işletme projesi yoksa, en geç üç ay içinde kurulda onaylanıncaya kadar yönetici gecikmeksizin geçici bir işletme projesi yapar. Mevcut bir işletme projesi varsa, geçici projedeki bedel, bir önceki yıl için Vergi Usul Kanunu uyarınca ilan edilen yeniden değerleme oranından fazla olmamak kaydıyla belirlenir. Kesinleşen işletme projeleri veya kurulun işletme giderlerine ilişkin kararları İİK m. 68/1'de sayılan belgelerden sayılır. Aidat tahsiline ilişkin ayrıntılar [apartman aidatı ödenmezse izlenecek yollar yazımızda](/yazilar/apartman-aidati-odenmezse-ne-olur/) ele alınmıştır.
+İşletme projesi bakımından 7579 sayılı Kanunla (yürürlük 22.05.2026) m. 37'de değişiklik yapılmıştır. Güncel metne göre işletme projesi kat malikleri genel kurulunda onaylanır. Kurulca kabul edilmiş işletme projesi yoksa, en geç üç ay içinde kurulda onaylanıncaya kadar yönetici gecikmeksizin geçici bir işletme projesi yapar. Mevcut bir işletme projesi varsa, geçici projedeki bedel, bir önceki yıl için Vergi Usul Kanunu uyarınca ilan edilen yeniden değerleme oranından fazla olmamak kaydıyla belirlenir. Kesinleşen işletme projeleri veya kurulun işletme giderlerine ilişkin kararları İİK m. 68/1'de sayılan belgelerden sayılır. Aidat tahsiline ilişkin ayrıntılar [apartman aidatı ödenmezse izlenecek yollar yazımızda](/yazilar/apartman-aidati-odenmezse-ne-olur/) ele alınmıştır.
 
 ## Hesap verme, denetim ve görevden alma
 
-KMK m. 39'a göre yönetici, yönetim planında yazılı zamanlarda, böyle bir zaman yazılmamışsa her takvim yılının birinci ayı içinde kat malikleri kuruluna, o tarihe kadar elde edilen gelirlerin ve yapılan giderlerin hesabını vermekle yükümlüdür. Kat maliklerinin yarısı isterse, arsa payları ne olursa olsun, yönetim planındaki zamanlar dışında da hesap gösterilmesi istenebilir. Bu hak sayı çoğunluğuna bağlanmıştır; arsa payı oranı aranmaz.
+KMK m. 39'a göre yönetici, yönetim planında yazılı zamanlarda, böyle bir zaman yazılmamışsa her takvim yılının birinci ayı içinde kat malikleri kuruluna, o tarihe kadar elde edilen gelirlerin ve yapılan giderlerin hesabını vermekle yükümlüdür. Kat maliklerinin yarısı isterse, arsa payları ne olursa olsun, yönetim planındaki zamanlar dışında da hesap gösterilmesi istenebilir. Bu hak kat maliklerinin sayıca yarısına tanınmıştır; arsa payı oranı aranmaz.
 
 Denetim m. 41'de düzenlenir:
 

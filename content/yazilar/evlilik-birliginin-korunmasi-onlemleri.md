@@ -27,6 +27,8 @@ dayanak:
     not: "Aile konutu"
   - ad: "4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanun m. 4"
     not: "Aile mahkemelerinin görevi"
+  - ad: "4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanun m. 2"
+    not: "Aile mahkemesi kurulamayan yerlerde asliye hukuk mahkemesi"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4787&MevzuatTur=1&MevzuatTertip=5"
   - ad: "6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun m. 4"
     not: "Hâkimin koruyucu tedbirleri"
@@ -44,11 +46,11 @@ sss:
   - soru: "Eşler aynı evde yaşarken parasal katkı istenebilir mi?"
     cevap: "Evet. m. 196, ortak hayat sürerken eşlerden birinin istemi üzerine ailenin geçimi için her birinin yapacağı parasal katkının hâkim tarafından belirlenmesine imkân verir. Ayrı yaşama şartı yalnızca m. 197 kapsamındaki önlemler için aranır."
   - soru: "Tasarruf yetkisinin sınırlanması kararı verilmeden önce taşınmaz satılırsa ne olur?"
-    cevap: "m. 199 kararı ve buna bağlı tapu şerhi verildikten sonra hüküm doğurur. Dava sürerken devri önlemek için şerhin bir an önce kütüğe işlenmesi ve gerekirse ihtiyati tedbir talep edilmesi gerekir. Taşınmaz aile konutuysa m. 194'teki açık rıza şartı ve aile konutu şerhi ayrıca değerlendirilmelidir."
+    cevap: "m. 199 önlemi, karar verilmeden önce yapılmış tasarrufları kendiliğinden ortadan kaldırmaz. Dava sürerken devri önlemek için HMK'daki genel şartlarla ihtiyati tedbir talep edilmesi gerekir. Taşınmaz aile konutuysa m. 194'teki açık rıza şartı ve aile konutu şerhi ayrıca değerlendirilmelidir."
   - soru: "Hem TMK m. 197'ye hem 6284 sayılı Kanun'a göre nafaka istenebilir mi?"
     cevap: "6284 m. 5'e göre hâkim, şiddet uygulayan ailenin geçimini sağlıyor veya geçime katkıda bulunuyorsa ve daha önce TMK'ya göre nafakaya hükmedilmemişse talep olmasa bile tedbir nafakasına hükmedebilir. TMK'ya göre katkıya hükmedilmişse 6284 kapsamındaki nafaka bu şarta takılır. İki karar arasında tekrar ödeme doğmaması için dosyalar birbirine bildirilmelidir."
   - soru: "Önlem kararına karşı hangi kanun yoluna gidilir?"
-    cevap: "TMK önlemleri bir dava sonunda verilen kararlar olduğundan istinaf yolu açıktır. Temyiz yönünden HMK m. 362'nin 7589 sayılı Kanunla değişen güncel metni kontrol edilmelidir. 6284 kararlarına karşı ise tefhim veya tebliğden itibaren iki hafta içinde aile mahkemesine itiraz edilir ve itiraz merciinin kararı kesindir."
+    cevap: "TMK önlemleri bir dava sonunda verilen kararlar olduğundan, HMK m. 341'deki parasal sınır saklı kalmak üzere istinaf yolu açıktır. Temyiz yönünden HMK m. 362'nin 7589 sayılı Kanunla değişen güncel metni kontrol edilmelidir. 6284 kararlarına karşı ise tefhim veya tebliğden itibaren iki hafta içinde aile mahkemesine itiraz edilir ve itiraz merciinin kararı kesindir."
 ---
 Evlilik birliğinin korunmasına ilişkin hükümler (TMK m. 195–201), boşanma veya ayrılık davası açmak istemeyen ya da henüz bu aşamaya gelmemiş eşe, birliğin ekonomik ve kişisel düzenini mahkeme kararıyla güvence altına alma imkânı verir. Hükümlerin varlık sebebi evliliği sona erdirmek değil, kriz döneminde birliği ve zayıf eşi korumaktır.
 
@@ -56,7 +58,7 @@ Ayrı yaşama hakkının şartları ve ayrı yaşayan eşin temel istemleri [bo�
 
 ## Önlemlerin sistematiği
 
-Kanun önce genel bir müdahale yetkisi tanır. Eşlerden biri evlilik birliğine ilişkin yükümlülüklerini yerine getirmez veya diğer eşi ilgilendiren önemli bir konuda ilgisiz kalırsa ya da eşler birliği ilgilendiren önemli bir konuda uyuşmazlığa düşerse, eşler ayrı ayrı veya birlikte hâkimin müdahalesini isteyebilir (m. 195). Hâkim eşlere yükümlülüklerini hatırlatır, onları uzlaştırmaya çalışır, eşlerin onayıyla uzmanların yardımını sağlayabilir; gerektiğinde bir eşin istemi üzerine kanunda öngörülen önlemleri alır.
+Kanun önce genel bir müdahale yetkisi tanır. Evlilik birliğinden doğan yükümlülükler yerine getirilmez veya eşler evlilik birliğine ilişkin önemli bir konuda uyuşmazlığa düşerse, eşler ayrı ayrı veya birlikte hâkimin müdahalesini isteyebilir (m. 195). Hâkim eşleri yükümlülükleri konusunda uyarır, onları uzlaştırmaya çalışır ve eşlerin ortak rızasıyla uzman kişilerin yardımını isteyebilir; gerektiğinde eşlerden birinin istemi üzerine kanunda öngörülen önlemleri alır.
 
 "Kanunda öngörülen önlemler" ifadesi, müdahalenin dayanağının m. 196–199'da düzenlenen önlemlerde aranması gerektiğini gösterir; dilekçede istenen her önlemin bu maddelerden hangisine dayandığı açıkça belirtilmelidir. Bunları şartlarıyla birlikte şöyle gruplamak mümkündür:
 
@@ -67,7 +69,7 @@ Kanun önce genel bir müdahale yetkisi tanır. Eşlerden biri evlilik birliğin
 | Borçlulara ihtar | m. 198 | Eşin birliğin giderlerine katılma yükümlülüğünü yerine getirmemesi |
 | Tasarruf yetkisinin sınırlanması | m. 199 | Ailenin ekonomik varlığının korunması veya birlikten doğan mali bir yükümlülüğün yerine getirilmesi gereği |
 
-m. 196 ve m. 197 arasındaki ayrım dava dilekçesinin dayanağını belirler. Ortak hayat sürüyorsa m. 197'ye dayanılamaz; eşler fiilen ayrıysa, istem ayrı yaşamanın haklılığı ya da diğer eşin kaçınması üzerine kurulmalıdır. Eşin ev işlerini görmesi, çocuklara bakması ve diğer eşin işinde karşılıksız çalışması m. 196 kapsamında katkının belirlenmesinde dikkate alınır; bu katkılar geçmiş bir yıl ve gelecek için istenebilir.
+m. 196 ve m. 197 arasındaki ayrım dava dilekçesinin dayanağını belirler. Ortak hayat sürüyorsa m. 197'ye dayanılamaz; eşler fiilen ayrıysa, istem ayrı yaşamanın haklılığı ya da diğer eşin kaçınması üzerine kurulmalıdır. Eşin ev işlerini görmesi, çocuklara bakması ve diğer eşin işinde karşılıksız çalışması m. 196 kapsamında katkının belirlenmesinde dikkate alınır; bu katkılar geçmiş bir yıl ve gelecek yıllar için istenebilir.
 
 ## Borçlulara ihtar ve tasarruf yetkisinin sınırlanması
 
@@ -75,7 +77,7 @@ Uygulamada en etkili iki önlem, kararın icrasını kolaylaştıran m. 198 ve m
 
 m. 198'e göre eş birliğin giderlerine katılma yükümlülüğünü yerine getirmezse hâkim, onun borçlularına ödemelerini tamamen veya kısmen diğer eşe yapmalarını emredebilir. Davalı eşin işvereni, kiracısı veya düzenli ödeme yapan diğer kişiler bu kapsamdadır. İhtar kararı, katkı kararının ayrıca icra takibine konu edilmesine gerek kalmadan ödemenin doğrudan istemde bulunan eşe yapılmasını sağlar. Bu nedenle dilekçede borçlunun kimliği, adresi ve borcun niteliği (ücret, kira bedeli vb.) somut olarak gösterilmelidir.
 
-m. 199'a göre ailenin ekonomik varlığının korunması veya evlilik birliğinden doğan mali bir yükümlülüğün yerine getirilmesi gerektirdiği ölçüde hâkim, eşlerden birinin istemi üzerine belirleyeceği malvarlığı değerleri hakkında tasarrufun ancak onun rızasıyla yapılabileceğine karar verebilir. Önlem taşınmazla ilgiliyse hâkim, durumun tapu kütüğüne şerh verilmesini resen tapu idaresine bildirir.
+m. 199'a göre ailenin ekonomik varlığının korunması veya evlilik birliğinden doğan mali bir yükümlülüğün yerine getirilmesi gerektirdiği ölçüde hâkim, eşlerden birinin istemi üzerine belirleyeceği malvarlığı değerleri hakkında tasarrufun ancak onun rızasıyla yapılabileceğine karar verebilir. Hâkim bu durumda gerekli önlemleri alır; eşlerden birinin taşınmaz üzerindeki tasarruf yetkisini kaldırırsa durumun tapu kütüğüne şerhedilmesine resen karar verir.
 
 m. 199 önlemi aile konutu şerhinden farklıdır. Aile konutu şerhi (m. 194) yalnızca aile konutu olarak kullanılan taşınmazı korur ve malik eşin konut üzerindeki tasarruflarını diğer eşin açık rızasına bağlar. m. 199 ise konut dışındaki taşınmazlar, araçlar, şirket payları veya banka hesapları gibi belirlenen malvarlığı değerlerine de uygulanabilir. Aile konutu için ayrıntı [aile konutu şerhi](/yazilar/aile-konutu-serhi/) yazısındadır.
 
@@ -105,7 +107,7 @@ Pratik sonuç şudur. Şiddet veya şiddet tehlikesi varsa önce 6284 kapsamınd
 
 ## Usul
 
-Görevli mahkeme aile mahkemesidir (4787 sayılı Kanun m. 4). Aile mahkemesi bulunmayan yerlerde bu görevi asliye hukuk mahkemesi yürütür.
+Görevli mahkeme aile mahkemesidir (4787 sayılı Kanun m. 4). Aile mahkemesi kurulamayan yerlerde bu dava ve işlere Hâkimler ve Savcılar Kurulunca belirlenen asliye hukuk mahkemesince bakılır (4787 m. 2/2).
 
 Yetki m. 201'de düzenlenmiştir. Önlemler eşlerden herhangi birinin yerleşim yeri mahkemesinden istenir; eşler farklı yerlerde oturuyor ve ikisi de önlem istemişse ilk istemde bulunanın yerleşim yeri mahkemesi yetkilidir. Önlemin değiştirilmesi veya kaldırılması için yetkili mahkeme kararı veren mahkemedir; iki eşin de yerleşim yeri değişmişse eşlerden birinin yeni yerleşim yeri mahkemesine başvurulabilir.
 
@@ -118,7 +120,7 @@ Dava şartı olarak arabuluculuk aranmaz; aile hukukuna ilişkin bu uyuşmazlık
 - Ayrı yaşamanın haklılığını gösteren tanıklar, sağlık raporları, kolluk tutanakları, varsa 6284 dosyası,
 - Mahkemenin taraflar hakkında yaptıracağı sosyal ve ekonomik durum araştırması.
 
-Parasal katkı istemi para alacağına ilişkin olduğundan harç bakımından diğer önlemlerden ayrı değerlendirilir. Tasarruf yetkisinin sınırlanması davası sürerken devri önlemek için HMK'daki genel şartlarla ihtiyati tedbir istenebilir. Karara karşı istinaf yolu açıktır; temyiz yönünden HMK m. 362'nin 7589 sayılı Kanunla değişen güncel metni dikkate alınmalıdır.
+Parasal katkı istemi para alacağına ilişkin olduğundan harç bakımından diğer önlemlerden ayrı değerlendirilir. Tasarruf yetkisinin sınırlanması davası sürerken devri önlemek için HMK'daki genel şartlarla ihtiyati tedbir istenebilir. Karara karşı HMK m. 341'deki parasal sınır saklı kalmak üzere istinaf yolu açıktır; temyiz yönünden HMK m. 362'nin 7589 sayılı Kanunla değişen güncel metni dikkate alınmalıdır.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 

@@ -85,7 +85,7 @@ Birincisi mirasçılıktan çıkarma sebebidir. Sözleşmeyle mirasçı atanan v
 
 Seçer, sözleşmede dönme hakkının saklı tutulabileceğini de kabul etmektedir. Kanunda açık hüküm bulunmadığından bu imkân genel hükümlere dayanır; hak kişiye sıkı sıkıya bağlıdır ve ölümle sona erer.
 
-Dönmenin sonuçları sebebe göre değişir. Mirasçılıktan çıkarma sebebiyle yapılan kaldırmada, aksi yönde bir tasarruf yoksa ortadan kalkan kazandırmanın yerine yasal mirasçılık hükümleri uygulanır; karşı edim sebepsiz zenginleşme hükümlerine göre geri istenebilir. m. 547'ye dayanan dönmede ise sözleşme geçmişe etkili olarak ortadan kalkar.
+Seçer'e göre dönmenin sonuçları sebebe göre değişir. Mirasçılıktan çıkarma sebebiyle yapılan kaldırmada, aksi yönde bir tasarruf yoksa ortadan kalkan kazandırmanın yerine yasal mirasçılık hükümleri uygulanır; karşı edim sebepsiz zenginleşme hükümlerine göre geri istenebilir. m. 547'ye dayanan dönmede ise sözleşme geçmişe etkili olarak ortadan kalkar.
 
 Bunlardan ayrı olarak sözleşme kendiliğinden de sona erebilir. Mirasçı atanan veya kendisine belirli mal bırakılan kişi mirasbırakanın ölümünde sağ değilse sözleşme ortadan kalkar; önce ölen kişinin mirasçıları, aksi kararlaştırılmamışsa, mirasbırakanın sözleşme uyarınca elde ettiği ve ölüm tarihinde mevcut olan zenginleşmeyi geri isteyebilir (m. 548).
 
@@ -104,7 +104,7 @@ Mirasbırakanın sağlığında başvurabileceği yol m. 504'tür. Mirasbırakan
 
 İptal ile tenkis farklı davalardır. İptal, tasarrufun geçerliliğine yöneliktir; tenkis ise geçerli bir tasarrufun saklı payı zedeleyen kısmının indirilmesini amaçlar. İki talep aynı davada kademeli olarak ileri sürülebilir. Tenkisin şartları için [saklı pay ve tenkis davası](/yazilar/sakli-pay-ve-tenkis-davasi/) yazısına bakılabilir.
 
-Gerçek bir dosyaya dayanmayan bir örnekle: mirasbırakan, kendisine ölünceye kadar bakmayı üstlenen yeğeniyle noterde olumlu miras sözleşmesi yapmış, sözleşmede yeğene bir dairenin bırakılması kararlaştırılmıştır. Yeğen birkaç yıl sonra bakım edimini bırakır ve mirasbırakan ihtara rağmen sonuç alamaz. Bu durumda mirasbırakanın yolu m. 547'ye dayanan dönmedir; dönme beyanı karşı tarafa bildirilir ve vasiyetname şekli gerekmez. Mirasbırakan dönmeden ölürse durum zorlaşır: iptal davası yalnızca m. 557'deki sebeplere dayanabilir ve edimin ifa edilmemesi tek başına bu sebeplerden biri değildir. Bu fark, dönme hakkının mirasbırakanın sağlığında kullanılmasının neden önemli olduğunu gösterir.
+Gerçek bir dosyaya dayanmayan bir örnekle: mirasbırakan, kendisine ölünceye kadar bakmayı üstlenen yeğeniyle noterde olumlu miras sözleşmesi yapmış, sözleşmede yeğene bir dairenin bırakılması kararlaştırılmıştır. Yeğen birkaç yıl sonra bakım edimini bırakır ve mirasbırakan ihtara rağmen sonuç alamaz. Bu durumda mirasbırakanın yolu m. 547'ye dayanan dönmedir; dönme beyanı karşı tarafa bildirilir ve vasiyetname şekli gerekmez. Mirasbırakan dönmeden ölürse durum zorlaşır: Seçer'e göre dönme hakkı kişiye sıkı sıkıya bağlı olduğundan mirasçılara geçmez (öğretide mirasçıların bu hakkı kullanabileceği yönünde görüş de vardır); iptal davası ise ancak m. 557'deki sebeplere dayanabilir ve edimin ifa edilmemesi bu sebepler arasında sayılmamıştır. Bu fark, dönme hakkının mirasbırakanın sağlığında kullanılmasının neden önemli olduğunu gösterir.
 
 ## Usul
 

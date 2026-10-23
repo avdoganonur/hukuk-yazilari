@@ -55,7 +55,7 @@ sss:
   - soru: "Yüklenici tacirse fahiş cezai şartın indirilmesini isteyebilir mi?"
     cevap: "TTK m. 22'ye göre tacir sıfatını taşıyan borçlu, ceza koşulunun fahiş olduğu iddiasıyla indirilmesini isteyemez. Yüklenicinin tacir olup olmadığı ve sözleşmenin ticari işletmesiyle ilgili olup olmadığı bu nedenle dosyada tespit edilmelidir; tacir değilse hâkim TBK m. 182/3 uyarınca aşırı cezayı indirir."
   - soru: "İnşaat neredeyse bitmişken arsa sahibi sözleşmeden dönebilir mi?"
-    cevap: "Öğretide aktarıldığına göre Yargıtay, işin en az yüzde doksanının tamamlandığı durumlarda arsa sahibinin dönme beyanına ileriye etkili fesih sonucunu bağlamaktadır. Bu durumda yükleniciye devredilmiş paylar geri istenemez; yüklenici tamamladığı oranda karşılık talep edebilir, arsa sahibi de eksik işler ve gecikme zararı için talepte bulunur."
+    cevap: "Öğretide aktarıldığına göre Yargıtay, işin büyük bölümünün tamamlandığı durumlarda arsa sahibinin dönme beyanına ileriye etkili fesih sonucunu bağlamaktadır. Bu durumda yükleniciye devredilmiş paylar geri istenemez; yüklenici tamamladığı oranda karşılık talep edebilir, arsa sahibi de eksik işler ve gecikme zararı için talepte bulunur."
 ---
 Kat karşılığı inşaat sözleşmesinde en sık görülen uyuşmazlık, yüklenicinin bağımsız bölümleri kararlaştırılan tarihte teslim etmemesidir. Arsa sahibi bu durumda ya inşaatın tamamlanmasını bekleyip gecikme zararını isteyecek ya da sözleşmeyi sona erdirip arsa paylarını geri almaya çalışacaktır. Hangi yolun seçileceği, temerrüdün kurulduğu ana, verilen süreye ve inşaatın tamamlanma oranına göre değişir.
 
@@ -94,7 +94,7 @@ Teslim günü gelmeden de dönme mümkündür. TBK m. 473/1'e göre yüklenici i
 
 Kat karşılığı inşaat sözleşmesinin ani edimli mi sürekli edimli mi sayılacağı öğretide tartışılmaktadır. Ani edimli kabul edildiğinde temerrüt üzerine kullanılan hak TBK m. 125'teki dönmedir. Dönmenin sonucu geçmişe etkilidir: arsa sahibi yükleniciye devrettiği payları geri ister, yüklenici de yaptığı imalatın karşılığını talep eder. TBK m. 126 ise ifasına başlanmış sürekli edimli sözleşmelerde dönme yerine fesih imkânı tanır.
 
-Uygulamada bu ayrım inşaatın tamamlanma oranına göre yumuşatılır. Öğretide aktarıldığına göre Yargıtay, işin büyük bölümünün bitirildiği ve yüklenicinin temerrüde düştüğü dosyalarda arsa sahibinin dönemeyeceğini, beyanının fesih sonucu doğuracağını kabul etmekte; son dönem kararlarında bu sonuç için en az yüzde doksanlık bir tamamlanma oranı aranmaktadır (Müge Ürem, Eser Sözleşmesinde Erken Dönme, 2017). Bu oranın altında dönme beyanı kural olarak geriye etkili sonuç doğurur.
+Uygulamada bu ayrım inşaatın tamamlanma oranına göre yumuşatılır. Öğretide aktarıldığına göre Yargıtay, işin büyük bölümünün bitirildiği ve yüklenicinin temerrüde düştüğü dosyalarda arsa sahibinin dönemeyeceğini, beyanının fesih sonucu doğuracağını kabul etmekte ve bu sonuç için yüksek bir tamamlanma oranı aramaktadır (Müge Ürem, Eser Sözleşmesinde Erken Dönme, 2017). Bu eşiğe ulaşılmamışsa dönme beyanı kural olarak geriye etkili sonuç doğurur; eşiğin güncel uygulamadaki karşılığı karar aşamasında ayrıca araştırılmalıdır.
 
 İki yolun sonuçları farklıdır:
 
@@ -104,7 +104,7 @@ Uygulamada bu ayrım inşaatın tamamlanma oranına göre yumuşatılır. Öğre
 | Yüklenicinin imalatı | Ayni iade mümkün olmadığından bedeli tartışılır | İfa edilen kısım sözleşme düzeninde kalır |
 | Arsa sahibinin zararı | Olumsuz zarar (m. 125/3) | Eksik işler ve gecikme zararı |
 
-Tamamlanma oranı bilirkişi incelemesiyle belirlenir. Oranın yüzde doksan civarında olduğu dosyalarda, raporun hangi iş kalemlerini ve hangi fiyat esasını kullandığı ayrıntılı biçimde denetlenmelidir; sonuç birkaç puanlık farkla değişebilir.
+Tamamlanma oranı bilirkişi incelemesiyle belirlenir. Oranın eşiğe yakın olduğu dosyalarda, raporun hangi iş kalemlerini ve hangi fiyat esasını kullandığı ayrıntılı biçimde denetlenmelidir; sonuç birkaç puanlık farkla değişebilir.
 
 Dönmenin üçüncü kişilere etkisi ayrıca değerlendirilmelidir. Yüklenici kendisine devredilen payları ya da bu paylara isabet eden bağımsız bölümleri üçüncü kişilere satmış olabilir. TMK m. 1023'e göre tapu kütüğündeki tescile iyiniyetle dayanarak mülkiyet veya başka bir ayni hak kazanan üçüncü kişinin bu kazanımı korunur. Bu nedenle dönmeye dayanan tapu iptali ve tescil davasında üçüncü kişinin iyiniyeti tartışılır; sözleşmenin tapuya şerh edilmiş olması iyiniyet tartışmasında arsa sahibinin elini güçlendirir.
 
@@ -115,7 +115,7 @@ Arsa sahibi sözleşmeyi ayakta tutup ifayı isterse, TBK m. 118 uyarınca temer
 Sözleşmelerde gecikme için genellikle ay ya da gün başına belirlenen bir ceza koşulu bulunur. Bu konuda TBK'nın kuralları şunlardır:
 
 - Ceza, borcun belirlenen zamanda ifa edilmemesi için kararlaştırılmışsa alacaklı, hakkından açıkça feragat etmiş veya ifayı çekince ileri sürmeksizin kabul etmiş olmadıkça, asıl borcun ifasıyla birlikte cezayı da isteyebilir (m. 179/2). Bağımsız bölümler teslim alınırken cezai şart hakkının saklı tutulduğu tutanağa ya da ayrı bir yazılı beyana geçirilmelidir.
-- Alacaklı hiçbir zarara uğramamış olsa bile kararlaştırılan ceza ödenir (m. 180/1). Uğranılan zarar ceza tutarını aşıyorsa alacaklı, borçlu kusursuz olduğunu ispat etmedikçe aşan miktarı da isteyebilir (m. 180/2).
+- Alacaklı hiçbir zarara uğramamış olsa bile kararlaştırılan ceza ödenir (m. 180/1). Uğranılan zarar ceza tutarını aşıyorsa alacaklı, borçlunun kusuru bulunduğunu ispat etmedikçe aşan miktarı isteyemez (m. 180/2).
 - Taraflar cezanın miktarını serbestçe belirleyebilir; hâkim aşırı gördüğü cezayı indirir (m. 182). Ancak TTK m. 22'ye göre tacir sıfatını taşıyan borçlu, fahiş olduğu iddiasıyla ceza koşulunun indirilmesini isteyemez.
 - Dönme hâlinde gecikme cezasının istenip istenemeyeceği ayrıca tartışmalıdır; gecikme cezası asıl borcun ifasıyla birlikte istenecek bir ceza olarak kararlaştırıldığından, dönme ile birlikte talep edilmesi sözleşmenin yorumuna bağlıdır.
 
@@ -125,9 +125,9 @@ Teslim sonrasında ortaya çıkan ayıplar için gözden geçirme ve bildirim k�
 
 Görevli mahkeme: Uyuşmazlık kural olarak asliye hukuk mahkemesinde görülür. Her iki taraf tacir ve uyuşmazlık taraflardan birinin ticari işletmesiyle ilgiliyse ticari dava niteliği doğabilir. Bu durumda konusu bir miktar para olan alacak ve tazminat talepleri için TTK m. 5/A uyarınca dava açılmadan önce arabulucuya başvurulması dava şartıdır.
 
-Yetkili mahkeme: Dönmeye dayanan tapu iptali ve tescil talebi taşınmazın aynına ilişkin olduğundan HMK m. 12 uyarınca taşınmazın bulunduğu yer mahkemesinde açılır; bu yetki kesindir. Yalnızca gecikme tazminatı ve cezai şart istenecekse genel yetki kuralları uygulanır. İki talep birlikte ileri sürülecekse davanın taşınmazın bulunduğu yerde açılması yetki tartışmasını önler.
+Yetkili mahkeme: Dönmeye dayanan tapu iptali ve tescil talebi bakımından davanın taşınmazın bulunduğu yer mahkemesinde açılması, HMK m. 12'deki kesin yetki kuralının bu talebe uygulanıp uygulanmayacağı tartışmasını baştan önler. Yalnızca gecikme tazminatı ve cezai şart istenecekse genel yetki kuralları uygulanır.
 
-Süreler: TBK m. 125'te dönme beyanı için ayrı bir süre öngörülmemiştir; ifadan vazgeçme ise verilen süre dolduktan sonra "hemen" bildirilmelidir. Süre bittikten sonra uzun süre beklenmesi ve inşaatın devamına göz yumulması, ifa talebinin seçildiği yönünde yorumlanabilir. Taleplerin zamanaşımı talebin türüne göre ayrı ayrı belirlenmelidir.
+Süreler: TBK m. 125/2'ye göre ifadan vazgeçme, verilen süre dolduktan sonra "hemen" bildirilmelidir; seçimlik hakkın gecikmeden kullanılması bu nedenle önemlidir. Süre bittikten sonra uzun süre beklenmesi ve inşaatın devamına göz yumulması, ifa talebinin seçildiği yönünde yorumlanabilir. Taleplerin zamanaşımı talebin türüne göre ayrı ayrı belirlenmelidir.
 
 Harç: Tapu iptali ve tescil talebinde taşınmazın değeri, gecikme tazminatı ve cezai şart talebinde istenen miktar üzerinden nispi harç alınır. 7589 sayılı Kanun belirsiz alacak davasını düzenleyen HMK m. 107'yi kaldırdığından, bilirkişi raporuyla belirlenecek kira kaybı bakımından kısmi dava ve ıslah imkânları, HMK m. 109'daki yeni düzenlemeyle birlikte değerlendirilmelidir.
 
@@ -139,7 +139,7 @@ Kanun yolu: Kararlar genel hükümlere göre istinaf ve temyiz yoluna tabidir; 7
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
-Dönmeye dayanan davada talep sonucu kademeli kurulmalıdır: "Sözleşmeden dönme nedeniyle davalı adına kayıtlı ... ada, ... parseldeki ... arsa paylarının tapu kaydının iptali ile davacı adına tesciline; mahkemece inşaatın yüzde doksan veya üzerinde tamamlandığı ve sözleşmenin ileriye etkili feshedildiği kabul edilirse, eksik ve ayıplı işler bedeli ile gecikme tazminatının davalıdan tahsiline; yargılama süresince payların devrinin önlenmesi için ihtiyati tedbir konulmasına." Sözleşmeyi ayakta tutan davada ise talep, cezai şart ve aşan zarar olarak kira kaybı biçiminde ayrı kalemlerle gösterilmelidir.
+Dönmeye dayanan davada talep sonucu kademeli kurulmalıdır: "Sözleşmeden dönme nedeniyle davalı adına kayıtlı ... ada, ... parseldeki ... arsa paylarının tapu kaydının iptali ile davacı adına tesciline; mahkemece inşaatın büyük ölçüde tamamlandığı ve sözleşmenin ileriye etkili feshedildiği kabul edilirse, eksik ve ayıplı işler bedeli ile gecikme tazminatının davalıdan tahsiline; yargılama süresince payların devrinin önlenmesi için ihtiyati tedbir konulmasına." Sözleşmeyi ayakta tutan davada ise talep, cezai şart ve aşan zarar olarak kira kaybı biçiminde ayrı kalemlerle gösterilmelidir.
 
 Sık yapılan hatalar şunlardır:
 
@@ -149,4 +149,4 @@ Sık yapılan hatalar şunlardır:
 - Payları satın alan üçüncü kişilerin davaya dahil edilmemesi.
 - Arsa sahibinin kendi edimlerini yerine getirdiğinin belgelenmemesi.
 
-Karşı tarafın muhtemel savunmaları da öngörülmelidir. Yüklenici gecikmenin ruhsat işlemleri, resmî makamlar, deprem yönetmeliği değişiklikleri ya da arsa sahibinin edimlerini yerine getirmemesinden kaynaklandığını; inşaatın yüzde doksanın üzerinde tamamlandığını; arsa sahibinin teslimi çekincesiz kabul ettiğini ve cezai şartın fahiş olduğunu ileri sürecektir. Bu savunmalara karşı süre uzatımına ilişkin sözleşme hükümleri, resmî yazışma tarihleri ve teslim tutanağı dosyaya eksiksiz konulmalı; yüklenicinin tacir olduğu ticaret sicil kaydıyla gösterilmelidir.
+Karşı tarafın muhtemel savunmaları da öngörülmelidir. Yüklenici gecikmenin ruhsat işlemleri, resmî makamlar, deprem yönetmeliği değişiklikleri ya da arsa sahibinin edimlerini yerine getirmemesinden kaynaklandığını; inşaatın büyük ölçüde tamamlandığını ve dönmenin ancak ileriye etkili fesih sonucu doğurabileceğini; arsa sahibinin teslimi çekincesiz kabul ettiğini ve cezai şartın fahiş olduğunu ileri sürecektir. Bu savunmalara karşı süre uzatımına ilişkin sözleşme hükümleri, resmî yazışma tarihleri ve teslim tutanağı dosyaya eksiksiz konulmalı; yüklenicinin tacir olduğu ticaret sicil kaydıyla gösterilmelidir.

@@ -27,11 +27,11 @@ dayanak:
   - ad: "5237 sayılı Türk Ceza Kanunu m. 67"
     not: "Zamanaşımının durması ve kesilmesi"
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 218"
-    not: "Ceza davasında hukuki meselenin çözümü ve bekletme"
+    not: "Ceza mahkemelerinin ek yetkisi ve bekletici sorun"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Ödeme indiriminden yararlanmak için vergi davasından vazgeçmek gerekir mi?"
-    cevap: "7394 sayılı Kanunla eklenen hükme göre indirim, tarh edilen vergi, gecikme faizi ve gecikme zammının tamamının, kesilen cezaların yarısının ve buna isabet eden gecikme zammının ödenmesine bağlıdır. Bunun yanında vergi mahkemesinde dava açılmaması veya açılmışsa feragat edilmesi ve kanun yollarına başvurulmaması ya da başvurudan vazgeçilmesi şarttır."
+    cevap: "Hayır. 7394 sayılı Kanunla eklenen ve indirimi vergi mahkemesinde dava açılmaması veya açılan davadan feragat edilmesi şartına bağlayan fıkra, Anayasa Mahkemesinin 13.9.2023 tarihli, E. 2022/81, K. 2023/153 sayılı kararıyla iptal edilmiştir (RG 29.11.2023). İndirim, tarh edilen vergi, gecikme faizi ve gecikme zammının tamamının, kesilen cezaların yarısının ve bunlara isabet eden gecikme zammının ödenmesine bağlıdır."
   - soru: "Fiil 15.04.2022'den önce işlendiyse hangi ceza uygulanır?"
     cevap: "7394 sayılı Kanun cezaların üst sınırlarını artırdığından, yürürlükten önce işlenen fiillerde TCK m. 7/2 uyarınca lehe olan kanun uygulanır. Bu durumda önceki metindeki üst sınırlar hem ceza hem de dava zamanaşımı hesabında dikkate alınır."
   - soru: "Birden fazla yılda sahte fatura kullanılması ayrı suçlar mı oluşturur?"
@@ -65,13 +65,13 @@ Manevi unsur bakımından, DergiPark'ta yayımlanan bir çalışmada aktarıldı
 | Muhteviyatı itibarıyla yanıltıcı belge düzenleme veya kullanma (m. 359/a) | 18 ay – 3 yıl | 18 ay – 5 yıl |
 | Belgelerin asıl veya suretlerini tamamen veya kısmen sahte olarak düzenleme veya kullanma (m. 359/b) | 3 yıl – 5 yıl | 3 yıl – 8 yıl |
 
-Aynı Kanunla m. 359'a iki fıkra daha eklenmiştir.
+Aynı Kanunla m. 359'a yeni fıkralar eklenmiştir; bunlardan ikisi uygulamada öne çıkar.
 
-Birincisi ödeme indirimidir. Tarh edilen verginin, gecikme faizi ve gecikme zammının tamamı ile kesilen cezaların yarısı ve buna isabet eden gecikme zammı ödenirse, verilecek ceza soruşturma evresinde ödemede yarı oranında, kovuşturma evresinde hüküm verilinceye kadar ödemede üçte bir oranında indirilir. İndirim için vergi mahkemesinde dava açılmaması veya açılmışsa feragat edilmesi ve kanun yollarına başvurulmaması ya da başvurudan vazgeçilmesi gerekir. Vergi tarh edilmemişse verilecek ceza yarı oranında indirilir.
+Birincisi ödeme indirimidir. Tarh edilen verginin, gecikme faizi ve gecikme zammının tamamı ile kesilen cezaların yarısı ve buna isabet eden gecikme zammı ödenirse, verilecek ceza soruşturma evresinde ödemede yarı oranında, kovuşturma evresinde hüküm verilinceye kadar ödemede üçte bir oranında indirilir. Tarh edilen vergi ve vergi aslına bağlı olarak kesilen ceza bulunmayan durumlarda verilecek ceza yarı oranında indirilir. 7394 sayılı Kanun indirimi ayrıca vergi mahkemesinde dava açılmaması veya açılan davadan feragat edilmesi şartına bağlamıştı; bu fıkra Anayasa Mahkemesinin 13.9.2023 tarihli, E. 2022/81, K. 2023/153 sayılı kararıyla iptal edilmiştir (RG 29.11.2023).
 
 İkincisi zincirleme suçtur. Bu maddede düzenlenen suçların birden fazla takvim yılı veya vergilendirme dönemi içinde aynı suç işleme kararının icrası kapsamında işlenmesi hâlinde TCK m. 43 uygulanır. Bu hüküm, her takvim yılını ayrı suç kabul eden önceki uygulama karşısında failin lehine bir değişikliktir.
 
-Suça iştirak edenler bakımından VUK m. 360 özel bir indirim öngörür; DergiPark'taki çalışmada aktarıldığı üzere, şahsi menfaati bulunmayan iştirakçinin cezası, TCK iştirak hükümlerine göre belirlenecek cezanın yarısına indirilir.
+Suça iştirak edenler bakımından VUK m. 360 özel bir indirim öngörür; DergiPark'taki çalışmada aktarıldığı üzere, suçun işlenmesinde menfaati bulunmayan iştirakçinin TCK iştirak hükümlerine göre verilecek cezası yarı oranında indirilir.
 
 Ceza mahkûmiyeti vergi yönünden ayrı sonuçlarla birlikte gelir. Vergi ziyaına m. 359'daki fiillerle sebebiyet verilmişse vergi ziyaı cezası üç kat uygulanır (m. 344). Kullanan mükellef yönünden ayrıca belgeye dayalı KDV indiriminin ve gider kaydının reddiyle yapılan tarhiyat gündeme gelir.
 
@@ -85,13 +85,13 @@ Pratikte iki rapor türü birlikte bulunur: vergi inceleme raporu (vergi farkı 
 
 ## Ceza davası ile vergi davasının ilişkisi
 
-Aynı belgeler iki ayrı yargı yerinde değerlendirilir: vergi mahkemesinde tarhiyat ve ceza ihbarnamesine karşı açılan dava, asliye ceza mahkemesinde kamu davası. Kanun bu iki yargılamayı birbirine bağlamamıştır. VUK m. 367'nin son fıkrasına göre m. 359'daki suçlardan ceza verilmesi, vergi ziyaı cezası veya usulsüzlük cezalarının ayrıca uygulanmasına engel olmaz.
+Aynı belgeler iki ayrı yargı yerinde değerlendirilir: vergi mahkemesinde tarhiyat ve ceza ihbarnamesine karşı açılan dava, asliye ceza mahkemesinde kamu davası. Kanun bu iki yargılamayı birbirine bağlamamıştır. m. 359'un son fıkrasına göre bu maddede yazılı suçların işlenmesi, m. 344'teki vergi ziyaı cezasının ayrıca uygulanmasına engel teşkil etmez.
 
 Bunun sonuçları şunlardır:
 
 - Vergi davasının iptalle sonuçlanması ceza davasını kendiliğinden düşürmez; ceza mahkemesi suçun unsurlarını kendisi değerlendirir. Vergi mahkemesi kararı ceza dosyasında güçlü bir delil olarak sunulabilir.
 - Ceza mahkemesinin vergi davasını bekletmesi kanunda zorunlu tutulmamıştır. CMK m. 218 hukuki bir meselenin çözümü için bekletme imkânı tanısa da bu, mahkemenin takdirindedir.
-- Ödeme indirimi vergi davasından feragati şart koştuğundan, iki dosyadaki strateji birlikte kurulmalıdır. Vergi davasında güçlü bir iptal ihtimali varken indirim için feragat, ceza dosyası lehine sonuçlansa bile vergi borcunu kesinleştirir.
+- Feragat şartı iptal edildiğinden ödeme indirimi için vergi davasından vazgeçmek gerekmez; ancak indirim, vergi ve gecikme faizi ile zammının tamamının ve cezaların yarısının ödenmesine bağlı olduğundan ödeme kararı iki dosya birlikte değerlendirilerek verilmelidir.
 
 ## Usul
 

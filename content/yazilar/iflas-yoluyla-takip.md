@@ -44,7 +44,7 @@ sss:
   - soru: "Depo emrine uyan borçlunun iflasına karar verilebilir mi?"
     cevap: "İİK m. 158/2'ye göre mahkeme, borcun faiz ve icra masraflarıyla birlikte yedi gün içinde ödenmesini veya mahkeme veznesine depo edilmesini emreder; iflas kararı bu emre uyulmaması hâlinde verilir. Depo edilecek tutarın takip konusu borç, faiz ve masrafları tam olarak karşılaması gerekir; eksik depo emre uyulmuş sayılmama riskini taşır."
   - soru: "Kambiyo senedine dayalı iflas takibinde imzaya itiraz icra mahkemesine mi yapılır?"
-    cevap: "Hayır. Haciz yoluyla kambiyo takibinde itirazlar icra mahkemesine yapılırken, iflas yoluyla kambiyo takibinde İİK m. 171/3 uyarınca senede ve borca ilişkin her türlü itiraz ve şikâyet, sebepleriyle birlikte beş gün içinde icra dairesine bildirilir. İtirazın kaldırılması ve iflas talebi ise ticaret mahkemesine yöneltilir (m. 174)."
+    cevap: "Hayır. Haciz yoluyla kambiyo takibinde itirazlar icra mahkemesine yapılırken, iflas yoluyla kambiyo takibinde İİK m. 171'in 3 numaralı bendi uyarınca senede ve borca ilişkin her türlü itiraz ve şikâyet, sebepleriyle birlikte beş gün içinde icra dairesine bildirilir. İtirazın kaldırılması ve iflas talebi ise ticaret mahkemesine yöneltilir (m. 174)."
   - soru: "İflas kararına karşı istinafa başvurmak iflasın ilanını durdurur mu?"
     cevap: "Hayır. İİK m. 164'e göre iflas kararına karşı kanun yoluna başvurulması iflasın ilanına ve masanın teşkiline engel değildir; yalnızca ikinci alacaklılar toplantısı karar kesinleşmeden yapılamaz. Bölge adliye mahkemesi iflas kararını kaldırırsa borçlunun malları üzerindeki tedbirler devam eder ve ticaret mahkemesi bunları davanın seyrine göre değiştirebilir veya kaldırabilir."
 ---
@@ -109,8 +109,8 @@ Bu madde uyarınca alınan tedbirler borçlu aleyhindeki icra takiplerini etkile
 
 Alacak çek, poliçe veya bonoya dayanıyorsa alacaklı İİK m. 171 vd.'deki özel iflas takibini seçebilir. İcra memuru senedin kambiyo senedi niteliğini taşıdığını ve vadesinin geldiğini görürse borçluya senet suretiyle birlikte ödeme emri gönderir (m. 171). Bu takibin adi iflas takibinden farkları şunlardır:
 
-- Ödeme süresi beş gündür (m. 171/2).
-- Kambiyo senedine ve borca ilişkin her türlü itiraz ve şikâyet, sebepleriyle birlikte ve karşı tarafa tebliğ edilecek nüsha kadar fazla dilekçeyle beş gün içinde icra dairesine bildirilir (m. 171/3). İtiraz ve şikâyet merci icra mahkemesi değildir.
+- Ödeme süresi beş gündür (m. 171, 2 numaralı bent).
+- Kambiyo senedine ve borca ilişkin her türlü itiraz ve şikâyet, sebepleriyle birlikte ve karşı tarafa tebliğ edilecek nüsha kadar fazla dilekçeyle beş gün içinde icra dairesine bildirilir (m. 171, 3 numaralı bent). İtiraz ve şikâyet merci icra mahkemesi değildir.
 - Borçlu beş gün içinde borcu ödemez, itiraz veya şikâyette de bulunmazsa alacaklı ödeme emri nüshasıyla ticaret mahkemesinden iflas kararı isteyebilir (m. 173/1).
 - Borçlu itiraz veya şikâyette bulunmuşsa alacaklı, itiraz ve şikâyetin kaldırılmasını ve iflasa karar verilmesini ticaret mahkemesinden ister; mahkeme talebi m. 158'e göre iflas davası olarak karara bağlar (m. 174).
 
