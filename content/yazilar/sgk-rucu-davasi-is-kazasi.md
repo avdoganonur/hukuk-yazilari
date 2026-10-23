@@ -21,7 +21,9 @@ dayanak:
     not: "İş kazası ve meslek hastalığına ilişkin rücu davalarında arabuluculuğun dava şartı olmaması"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7036&MevzuatTur=1&MevzuatTertip=5"
   - ad: "7036 sayılı İş Mahkemeleri Kanunu m. 5"
-    not: "İş mahkemesinin görevi; iş mahkemesi bulunmayan yerlerde asliye hukuk mahkemesi"
+    not: "İş mahkemesinin görevi; Kurumun taraf olduğu sosyal güvenlik uyuşmazlıkları"
+  - ad: "7036 sayılı İş Mahkemeleri Kanunu m. 2"
+    not: "İş mahkemesi kurulmamış yerlerde asliye hukuk mahkemesi"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 74"
     not: "Hukuk hâkiminin ceza kararıyla bağlı olmaması"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5"
@@ -45,8 +47,8 @@ Rücu davası, işçinin işverene karşı açtığı tazminat davasından ayrı
 
 5510 sayılı Kanun'da rücuya dayanak olan başlıca hükümler şunlardır:
 
-- m. 21/1: İş kazası ve meslek hastalığı işverenin kastı veya sigortalıların sağlığını koruma ve iş güvenliği mevzuatına aykırı hareketi sonucu meydana gelmişse, Kurumca sigortalıya veya hak sahiplerine yapılan veya ileride yapılması gereken masraflar ile bağlanan gelirin başladığı tarihteki ilk peşin sermaye değeri toplamı, sigortalı veya hak sahiplerinin işverenden isteyebilecekleri tutarlarla sınırlı olmak üzere işverene ödettirilir. İşverenin sorumluluğunun tespitinde kaçınılmazlık ilkesi dikkate alınır.
-- m. 21/2: İş kazası Kanun'daki süre içinde Kuruma bildirilmezse, bildirim tarihine kadar geçen süreye ait geçici iş göremezlik ödeneği işverenden alınır.
+- m. 21/1: İş kazası ve meslek hastalığı işverenin kastı veya sigortalıların sağlığını koruma ve iş güvenliği mevzuatına aykırı hareketi sonucu meydana gelmişse, Kurumca sigortalıya veya hak sahiplerine bu Kanun gereğince yapılan veya ileride yapılması gereken ödemeler ile bağlanan gelirin başladığı tarihteki ilk peşin sermaye değeri toplamı, sigortalı veya hak sahiplerinin işverenden isteyebilecekleri tutarlarla sınırlı olmak üzere işverene ödettirilir. İşverenin sorumluluğunun tespitinde kaçınılmazlık ilkesi dikkate alınır.
+- m. 21/2: İş kazası m. 13/2-a'da belirtilen sürede işveren tarafından Kuruma bildirilmezse, bildirim tarihine kadar geçen süreye ait geçici iş göremezlik ödeneği işverenden alınır.
 - m. 21/4: İş kazası, meslek hastalığı veya hastalık üçüncü bir kişinin kusuru nedeniyle meydana gelmişse, yapılan ve ileride yapılacak ödemeler ile bağlanan gelirin başladığı tarihteki ilk peşin sermaye değerinin yarısı, zarara sebep olan üçüncü kişilere ve kusuru varsa bunları çalıştıranlara rücu edilir.
 - m. 23: Çalıştırılmaya başlandığı süre içinde Kuruma bildirilmeyen sigortalı bakımından, bildirimden önce meydana gelen iş kazası veya meslek hastalığı nedeniyle yapılan ödemeler ve gelirin ilk peşin sermaye değeri işverenden alınır.
 - m. 76: Sağlık giderleri yönünden işverenin ve üçüncü kişilerin sorumluluğunu düzenler; işverenin iş kazası geçiren sigortalıya gerekli sağlık hizmetini derhal sağlama yükümlülüğünü ihmal etmesi veya geciktirmesi ile kasıt veya iş sağlığı ve güvenliği mevzuatına aykırılık hâllerinde Kurumun sağlık giderleri işverene tazmin ettirilir.
@@ -62,7 +64,7 @@ m. 21/1 kapsamında Kurumun işverene rücu edebilmesi için şu unsurların bir
 - İşverenin kastı veya iş sağlığı ve güvenliği mevzuatına aykırı bir hareketinin varlığı,
 - Bu hareket ile zarar arasında illiyet bağı.
 
-m. 21/1'deki sorumluluk kusura dayanır. m. 23'teki sorumlulukta ise işverenin kusuru aranmaz; sigortalıyı süresinde bildirmemiş olması yeterlidir. Bununla birlikte, Ankara Üniversitesi açık ders malzemesinde aktarıldığına göre, Yargıtay m. 23 kapsamındaki sorumluluğun kapsamını da kusur oranlarına göre belirlemektedir.
+m. 21/1'deki sorumluluk kusura dayanır. m. 23'teki sorumlulukta ise işverenin kusuru aranmaz; sigortalıyı süresinde bildirmemiş olması yeterlidir.
 
 Kaçınılmazlık, işverenin bütün yasal ve teknik önlemleri aldığı hâlde olayın önlenemediği durumu ifade eder. Oğuz'un aktardığı yaklaşıma göre işveren alınması gereken herhangi bir önlemi almamışsa olayın kaçınılmazlığından söz edilemez. Kaçınılmazlık savunması bu nedenle ancak işverenin mevzuatın öngördüğü önlemlerin tamamını aldığını ispat ettiği dosyada sonuç verir.
 
@@ -83,13 +85,13 @@ m. 21'in beşinci fıkrası iki istisna öngörür. Kamu görevlileri, er ve erb
 
 Üçüncü kişi, işveren dışında kalan ve olayın meydana gelmesinde kusuru bulunan kişidir. İşyerine dışarıdan hizmet veren bir firmanın çalışanı, servis aracına çarpan sürücü veya kusurlu bir makineyi kuran yüklenici bu kapsama girebilir.
 
-m. 21/4'teki rücu, işverene rücudan iki noktada ayrılır. Birincisi, rücuya konu tutar ödemeler ile ilk peşin sermaye değerinin yarısıdır. İkincisi, üçüncü kişiyi çalıştıranlar ancak kendi kusurları varsa sorumlu tutulur. "Yarısı" kuralının eşitlik ilkesine aykırı olduğu iddiası Anayasa Mahkemesi'nin 15.3.2012 tarihli, E. 2011/128, K. 2012/40 sayılı kararıyla reddedilmiştir.
+m. 21/4'teki rücu, işverene rücudan iki noktada ayrılır. Birincisi, rücuya konu tutar ödemeler ile ilk peşin sermaye değerinin yarısıdır. İkincisi, üçüncü kişiyi çalıştıranlar ancak kendi kusurları varsa sorumlu tutulur. Dördüncü fıkraya, kusur oranı gözetilmeksizin "yarısı" kuralı öngörüldüğü gerekçesiyle yapılan itiraz, Anayasa Mahkemesi'nin 15.3.2012 tarihli, E. 2011/128, K. 2012/40 sayılı kararıyla reddedilmiştir (RG 26.06.2012).
 
 İşverenin ve üçüncü kişinin birlikte kusurlu olduğu kazalarda her birinin rücu tutarı ayrı hesaplanır: işveren yönünden m. 21/1, üçüncü kişi yönünden m. 21/4 uygulanır. Kusur raporunun bütün ilgilileri ve oranlarını ayrı ayrı göstermesi bu yüzden zorunludur.
 
 ## Usul
 
-Görevli mahkeme iş mahkemesidir. 5510 sayılı Kanun'da aksine hüküm bulunmayan hâllerde, Kanun hükümlerinin uygulanmasıyla ilgili ortaya çıkan uyuşmazlıklar iş mahkemelerinde görülür (m. 101). 7036 m. 5 de diğer kanunlarda iş mahkemelerinin görevli olduğu belirtilen uyuşmazlıkları iş mahkemesinin görevine bırakır. İş mahkemesi kurulmamış yerlerde dava, 7036 sayılı Kanun uyarınca asliye hukuk mahkemesinde iş mahkemesi sıfatıyla görülür. Üçüncü kişiye karşı açılan rücu davası da Kurumun 5510 m. 21/4'e dayanan talebi olduğundan aynı görev kuralına tabidir.
+Görevli mahkeme iş mahkemesidir. 5510 sayılı Kanun'da aksine hüküm bulunmayan hâllerde, Kanun hükümlerinin uygulanmasıyla ilgili ortaya çıkan uyuşmazlıklar iş mahkemelerinde görülür (m. 101). 7036 m. 5/1 de Sosyal Güvenlik Kurumunun taraf olduğu iş ve sosyal güvenlik mevzuatından doğan uyuşmazlıkları (b bendi) ve diğer kanunlarda iş mahkemelerinin görevli olduğu belirtilen uyuşmazlıkları (c bendi) iş mahkemesinin görevine bırakır. İş mahkemesi kurulmamış yerlerde bu dava ve işlere, 7036 m. 2/3 uyarınca asliye hukuk mahkemesince bu Kanundaki usul ve esaslara göre bakılır. Üçüncü kişiye karşı açılan rücu davası da Kurumun 5510 m. 21/4'e dayanan talebi olduğundan aynı görev kuralına tabidir.
 
 Arabuluculuk dava şartı değildir. 7036 m. 3/3, iş kazası veya meslek hastalığından kaynaklanan tespit, itiraz ve rücu davalarını birinci fıkradaki dava şartının dışında bırakır.
 

@@ -16,7 +16,7 @@ dayanak:
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 151"
     not: "Müdafiin görevini yapmaması ve müdafilikten yasaklanma"
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 152"
-    not: "Birden fazla şüpheli veya sanığın aynı müdafi tarafından savunulması"
+    not: "Şüpheli veya sanığın birden fazla olması hâlinde savunma"
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 153"
     not: "Müdafiin dosyayı inceleme yetkisi"
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 154"
@@ -58,7 +58,7 @@ Görevlendirme talebini baroya ileten merci evreye göre değişir (m. 156/1):
 - Soruşturma evresinde ifadeyi alan merci veya sorguyu yapan hâkim,
 - Kovuşturma evresinde mahkeme.
 
-Müdafi, soruşturmanın veya kovuşturmanın yapıldığı yer barosunca görevlendirilir (m. 156/2). Birden fazla baro bulunan illerde görevlendirmenin Avukatlık Kanunu m. 177 uyarınca kurulan bürodan isteneceği, Ceza Muhakemesi Kanunu Gereğince Müdafi ve Vekillerin Görevlendirilmeleri ile Yapılacak Ödemelerin Usul ve Esaslarına İlişkin Yönetmelik'te düzenlenmiştir. Zorunlu müdafiliğe ilişkin diğer hususların Türkiye Barolar Birliğinin görüşü alınarak çıkarılacak yönetmelikle düzenleneceğini m. 150/4 öngörür.
+Müdafi, soruşturmanın veya kovuşturmanın yapıldığı yer barosunca görevlendirilir (m. 156/2). Görevlendirmenin ayrıntıları Ceza Muhakemesi Kanunu Gereğince Müdafi ve Vekillerin Görevlendirilmeleri ile Yapılacak Ödemelerin Usul ve Esaslarına İlişkin Yönetmelik'te düzenlenmiştir. Zorunlu müdafiliğe ilişkin diğer hususların Türkiye Barolar Birliğinin görüşü alınarak çıkarılacak yönetmelikle düzenleneceğini m. 150/4 öngörür.
 
 ## Zorunlu müdafilik hâlleri
 
@@ -77,7 +77,7 @@ Zorunlu müdafiliğin uygulama alanını genişleten başka hükümler de vardı
 
 Görevlendirilen müdafi, seçilmiş müdafiin bütün yetkilerine sahiptir. Soruşturma evresinde dosya içeriğini inceleyebilir ve istediği belgelerin örneğini harçsız alabilir (m. 153/1). Bu yetki, soruşturmanın amacını tehlikeye düşürebilecekse ve kanunda sayılan suçlardan biri söz konusuysa Cumhuriyet savcısının istemi üzerine hâkim kararıyla kısıtlanabilir. Ancak yakalanan kişinin veya şüphelinin ifadesini içeren tutanaklar, bilirkişi raporları ve ilgililerin hazır bulunmaya yetkili olduğu diğer adli işlemlere ilişkin tutanaklar kısıtlamanın dışındadır (m. 153/2-3). Şüpheli veya sanık, vekâletname aranmaksızın müdafii ile her zaman ve konuşulanları başkalarının duyamayacağı bir ortamda görüşebilir (m. 154/1).
 
-Birden fazla şüpheli veya sanığın savunması, yararları birbirine uygunsa aynı müdafiye verilebilir; yararlar çatışıyorsa savunmaların farklı avukatlarca yapılması gerekir (m. 152). Baro görevlendirmelerinde menfaat çatışmasını müdafiin kendisi bildirmelidir. Biri diğerini suçlayan sanıklar için tek müdafi görevlendirilmesi, sonradan savunma hakkının kısıtlandığı itirazına konu olur.
+m. 152'ye göre yararları birbirine uygun olan birden fazla şüpheli veya sanığın savunması aynı müdafiye verilebilir. Hükmün karşıt anlamı, yararları çatışan şüpheli veya sanıkların savunmalarının farklı avukatlarca yapılmasını gerektirir. Baro görevlendirmelerinde menfaat çatışmasını müdafiin kendisi bildirmelidir. Biri diğerini suçlayan sanıklar için tek müdafi görevlendirilmesi, sonradan savunma hakkının kısıtlandığı itirazına konu olur.
 
 Görevin sona ermesi bakımından kanunda tek açık hüküm m. 156/3'tür: şüpheli veya sanığın sonradan kendi müdafiini seçmesi hâlinde baronun görevlendirdiği avukatın görevi sona erer. Yönetmelik ise sona erme sebeplerini ayrıntılı sayar: kovuşturmaya yer olmadığı kararının kesinleşmesi, yetkisizlik veya görevsizlik kararı, iddianamenin kabulü, esasa ilişkin hükmün kesinleşmesi, davanın nakli, ölüm ve kişinin kendisine müdafi seçmesi. Aynı yönetmelik resmî görevlendirmeyle atanan müdafiin azledilemeyeceğini de düzenler.
 
@@ -98,7 +98,7 @@ Duruşma, hükme katılacak hâkimlerin, Cumhuriyet savcısının ve zabıt kât
 
 Müdafisiz yapılan işlemlerin sonuçları işlemin türüne göre ayrılır:
 
-- Kanunun müdafiin hazır bulunmasını zorunlu kıldığı hâllerde müdafi olmaksızın duruşma yapılması, temyizde hukuka kesin aykırılık hâlidir (m. 289/1-e). Kesin aykırılık hükme etkisi ayrıca araştırılmadan bozma sebebi oluşturur.
+- m. 289/1-e, Cumhuriyet savcısı veya duruşmada kanunen mutlaka hazır bulunması gereken diğer kişilerin yokluğunda duruşma yapılmasını temyizde hukuka kesin aykırılık hâli sayar; m. 188/1 uyarınca zorunlu müdafilik hâllerinde müdafi de bu kişilerdendir. Madde gerekçesine göre bu hâllerde aykırılığın hükme etkili olduğu kabul edilir.
 - Müdafi bulunmaksızın kolluk tarafından alınan ifade, hâkim veya mahkeme huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alınamaz (m. 148/4).
 - Tutuklama talebinde müdafi yardımı sağlanmadan verilen tutuklama kararı, m. 101/3'e aykırılık nedeniyle itiraz konusu yapılır. Tutuklama kararlarına karşı itiraz süresi ve mercii için CMK'nın itiraza ilişkin genel hükümleri uygulanır.
 
