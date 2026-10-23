@@ -6,6 +6,7 @@ kisaca:
   - "Şirket 15 gün içinde yazılı cevap vermezse ya da cevap talebi karşılamazsa dava veya tahkim yolu seçilebilir."
   - "Sigorta Tahkim Komisyonuna gitmek için şirketin talebi reddettiği ya da on beş iş günü içinde cevap vermediği belgelenmelidir."
   - "Maddi zarar talepleri, zararın ve yükümlünün öğrenilmesinden itibaren iki yıl, her hâlde kazadan itibaren on yıl içinde zamanaşımına uğrar."
+guncelleme: 2026-10-23
 tarih: 2026-10-17
 alan: tazminat-hukuku
 dayanak:
@@ -73,4 +74,4 @@ Belirli bir tutarın altındaki uyuşmazlıklarda hakem kararı kesindir. Bu tut
 
 İtiraz için de başvuru ücreti yatırılması şarttır. İtiraz edilince hakem kararının icrası durur. İtirazı, Komisyonun bu iş için oluşturduğu hakem heyetleri, işin heyete gelmesinden itibaren iki ay içinde karara bağlar. Daha yüksek tutarlı uyuşmazlıklarda itiraz üzerine verilen karara karşı temyiz yoluna gidilebilir. Kararın tahkim süresi dolduktan sonra verilmesi, talep edilmemiş bir şey hakkında karar verilmesi, hakemlerin yetkileri dışındaki konularda karar vermesi ya da tarafların iddiaları hakkında karar vermemesi hâllerinde ise tutar ne olursa olsun temyiz yolu açıktır.
 
-Kanundaki bu parasal sınırlar sabit değildir. Kanun, maddedeki maktu tutarların Üretici Fiyatları Endeksi artış oranını aşmamak üzere artırılabileceğini öngörür. Bu nedenle başvuru sırasında güncel sınırlara bakmak gerekir.
+Kanundaki bu parasal sınırlar sabit değildir. Sınırlar Kurumca çıkarılan tebliğle belirlenir; tebliğin 2025'te değiştirilen metnine göre tutarlar, aksine bir düzenleme yapılmadıkça her takvim yılı başında Yİ-ÜFE değişim oranında kendiliğinden artar. 2026'daki değişiklikten sonra kesinlik ve temyiz sınırı bakımından başvurunun yapıldığı tarihteki tutar esas alınır. Bu nedenle başvuru sırasında güncel sınırlara bakmak gerekir; ayrıntı için [Sigorta Tahkim Komisyonunda yargılama](/yazilar/sigorta-tahkim-komisyonu-yargilamasi/) yazısına bakılabilir.
