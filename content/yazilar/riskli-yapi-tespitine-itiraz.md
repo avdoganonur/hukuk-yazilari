@@ -39,7 +39,7 @@ Kentsel dönüşüm sürecinde bir binanın tek başına dönüşüme girmesi ç
 
 Kanun riskli yapıyı, riskli alan içinde veya dışında olup ekonomik ömrünü tamamlamış olan ya da yıkılma veya ağır hasar görme riski taşıdığı bilimsel ve teknik verilere dayanılarak tespit edilen yapı olarak tanımlar (m. 2). Tanım iki ayrı olguya dayanır: ekonomik ömrün tamamlanması ve yıkılma ya da ağır hasar riski. Hangi olguya dayanıldığı, itirazın içeriğini doğrudan belirler.
 
-9 Kasım 2023'te yürürlüğe giren 7471 sayılı Kanunla yeniden yazılan 3. maddenin birinci fıkrasına göre tespit süreci şöyle işler:
+9 Kasım 2023'te yürürlüğe giren 7471 sayılı Kanunla değiştirilen 3. maddeye göre tespit süreci şöyle işler:
 
 - Riskli yapılar öncelikle maliklerce, masrafları kendilerine ait olmak üzere, Kentsel Dönüşüm Başkanlığınca lisanslandırılan kurum ve kuruluşlara tespit ettirilir.
 - Başkanlık veya İdare tespiti resen yapabilir ya da maliklerden süre vererek tespitin yaptırılmasını isteyebilir. Süre içinde tespit yaptırılmazsa tespiti Başkanlık veya İdare yapar.
@@ -55,7 +55,7 @@ Kanun tebliğ anını açıkça belirler: riskli yapı tespit işlemi, muhtarlı
 
 ## İtiraz ve teknik heyet
 
-Riskli yapı tespitlerine karşı maliklerce veya kanuni temsilcilerince on beş gün içinde itiraz edilebilir (m. 3/1). İtirazlar, Başkanlığın talebi üzerine üniversitelerce görevlendirilen dört öğretim üyesi ile Bakanlıkta veya Başkanlıkta görevli üç kişiden oluşan teknik heyetler tarafından incelenip karara bağlanır.
+Riskli yapı tespitlerine karşı maliklerce veya kanuni temsilcilerince on beş gün içinde itiraz edilebilir (m. 3). İtirazlar, Başkanlığın talebi üzerine üniversitelerce görevlendirilen dört öğretim üyesi ile Bakanlıkta veya Başkanlıkta görevli üç kişiden oluşan teknik heyetler tarafından incelenip karara bağlanır.
 
 Kanun itirazın şekline ve dilekçenin içeriğine ilişkin ayrıntı içermez. Başvurunun usulü Kanunun Uygulama Yönetmeliğinde düzenlenmiştir ve yönetmelik yürürlüğe girdiğinden bu yana birçok kez değiştirilmiştir. İtiraz dilekçesi hazırlanırken yönetmeliğin resmî ve güncel metni esas alınmalı, dilekçenin hangi makama verileceği bu metinden doğrulanmalıdır.
 
@@ -90,8 +90,8 @@ Teknik heyet itirazı reddeder ve karar malike tebliğ edilirse, otuz günlük d
 - Süreler: İtiraz için on beş gün; Kanun uyarınca tesis edilen idari işlemlere karşı dava için tebliğ tarihinden itibaren otuz gün (m. 5). Otuz günlük süre, İYUK'taki altmış günlük genel süreye göre özel ve kısa bir süredir.
 - Harç: İdari yargıda maktu harç ödenir.
 - İspat ve deliller: Uyuşmazlık teknik nitelikte olduğundan bilirkişi incelemesi davanın merkezindedir. Tespit raporu, raporun eki deney sonuçları, teknik heyet kararı ve tutanaklar idareden istenmelidir.
-- Yürütmenin durdurulması: Kanunun ilk metninde bu davalarda yürütmenin durdurulmasına karar verilemeyeceği öngörülmüştü; bu hüküm Anayasa Mahkemesinin 27.2.2014 tarihli, E. 2012/87, K. 2014/41 sayılı kararıyla (RG 26.7.2014, 29072) iptal edilmiştir. Yürütmenin durdurulması İYUK m. 27'deki şartlarla istenir; yıktırma için verilen sürenin işlemesi, telafisi güç zarar unsurunun gösterilmesinde somut bir dayanaktır.
-- Kanun yolu: İstinaf ve temyiz İYUK'un güncel hükümlerine göre belirlenir; Temmuz 2026'da 7589 sayılı Kanunla İYUK'un kanun yollarına ilişkin maddeleri değiştirildiğinden başvuru öncesinde güncel metin kontrol edilmelidir.
+- Yürütmenin durdurulması: İYUK m. 27'deki şartlarla istenir; yıktırma için verilen sürenin işlemesi, telafisi güç zarar unsurunun gösterilmesinde somut bir dayanaktır.
+- Kanun yolu: İstinaf ve temyiz İYUK'un güncel hükümlerine ve parasal sınırlarına göre belirlenir; başvuru öncesinde güncel metin kontrol edilmelidir.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
