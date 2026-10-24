@@ -57,7 +57,7 @@ Bu yazıda 7201 sayılı Tebligat Kanunu m. 7/a ile 6 Aralık 2018 tarihli ve 30
 
 Tebligat Kanunu m. 7/a, 6099 sayılı Kanunla eklenmiş, 7101 sayılı Kanunun 48. maddesiyle değiştirilmiştir. Değişik metin 1 Ocak 2019'da yürürlüğe girmiştir. Maddenin birinci fıkrasında elektronik yolla tebligat yapılması zorunlu olanlar sayılmıştır. Başlıcaları şunlardır:
 
-- 5018 sayılı Kanun kapsamındaki kamu idareleri ve bunlara bağlı döner sermayeli kuruluşlar ile mahalli idareler,
+- 5018 sayılı Kanuna ekli (I), (II), (III) ve (IV) sayılı cetvellerde yer alan kamu idareleri ve bunlara bağlı döner sermayeli kuruluşlar ile mahallî idareler,
 - Özel kanunla kurulmuş diğer kamu kurum ve kuruluşları, kanunla kurulan fonlar ve kefalet sandıkları,
 - Kamu iktisadi teşebbüsleri, bağlı ortaklıkları, müessese ve işletmeleri ile sermayesinin yarısından fazlası kamuya ait diğer ortaklıklar,
 - Kamu kurumu niteliğindeki meslek kuruluşları ve üst kuruluşları,
@@ -122,7 +122,7 @@ Talep sonucu örnekleri:
 
 Sık yapılan hatalar şunlardır:
 
-- Sürenin elektronik adrese ulaşma tarihinden başlatılması ya da tersine, açılma tarihinin beşinci günden önce olduğu durumlarda yalnızca beşinci güne güvenilerek son güne kalınması,
+- Açılma tarihinin beşinci günden önce olduğu durumlarda yalnızca beşinci güne güvenilerek son güne kalınması,
 - Vekil varken asile yapılan tebligatın vekil tarafından öğrenilme tarihinin dilekçede belirtilmemesi,
 - UETS kayıtlarının dosyaya getirtilmesinin istenmemesi ve iddianın yalnızca beyana dayandırılması,
 - SMS veya e-posta bildiriminin gelmemesinin tek başına usulsüzlük sebebi olarak ileri sürülmesi,

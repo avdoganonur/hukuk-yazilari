@@ -64,7 +64,7 @@ TTK m. 122/1 istemi sözleşme ilişkisinin sona ermesinden sonraki duruma bağl
 
 ## Tutarın belirlenmesi ve tavan
 
-Kanun denkleştirme için bir hesap formülü öngörmez; "uygun bir tazminat" ile yetinir ve yalnızca üst sınır koyar. TTK m. 122/2'ye göre "Tazminat, acentenin son beş yıllık faaliyeti sonucu aldığı yıllık komisyon veya diğer ödemelerin ortalamasını aşamaz." Sözleşme ilişkisi daha kısa süreden beri devam ediyorsa, faaliyet süresince ödenmiş komisyonun ortalaması esas alınır.
+Kanun denkleştirme için bir hesap formülü öngörmez; "uygun bir tazminat" ile yetinir ve yalnızca üst sınır koyar. TTK m. 122/2'ye göre "Tazminat, acentenin son beş yıllık faaliyeti sonucu aldığı yıllık komisyon veya diğer ödemelerin ortalamasını aşamaz." Sözleşme ilişkisi daha kısa bir süre devam etmişse, faaliyetin devamı sırasındaki ortalama esas alınır.
 
 Bu yapı iki aşamalı bir inceleme gerektirir:
 
@@ -88,7 +88,7 @@ Müvekkil, istemi düşürmek için çoğu zaman feshi acentenin kusuruna dayana
 
 TTK m. 122/4'ün ilk cümlesi kesindir: "Denkleştirme isteminden önceden vazgeçilemez." Sözleşmeye konan feragat, istemi düşüren ya da tavanın altında götürü bir tutar öngören hükümler bu yasağa takılır. Yasak "önceden" yapılan vazgeçmeye ilişkindir. İlişki sona erip istem doğduktan sonra yapılan ibra, sulh ya da tarafların anlaşarak ilişkiyi bitirdiği sözleşmedeki hükümler, önceden vazgeçme sayılmaz; bunların geçerliliği irade sakatlığı ve aşırı yararlanma gibi genel hükümlerle denetlenir.
 
-Aynı fıkranın ikinci cümlesine göre istem, sözleşme ilişkisinin sona ermesinden itibaren bir yıl içinde ileri sürülmelidir. Bu süre hak düşürücü niteliktedir ve hâkim tarafından kendiliğinden gözetilir. Kanun "dava açılmalıdır" değil "ileri sürülmelidir" ifadesini kullandığından süre içinde müvekkile yöneltilen yazılı talebin süreyi koruyup korumadığı tartışılabilir. Tartışmaya yer bırakmamak için bir yıllık süre içinde hem tutarı gösteren yazılı talepte bulunmak hem de arabuluculuk başvurusunu yapmak güvenli yoldur.
+Aynı fıkranın ikinci cümlesine göre istem, sözleşme ilişkisinin sona ermesinden itibaren bir yıl içinde ileri sürülmelidir. Öğretide, kanun gerekçesine dayanılarak bu sürenin hak düşürücü nitelikte olduğu kabul edilmektedir; hak düşürücü süre hâkim tarafından kendiliğinden gözetilir. Kanun "dava açılmalıdır" değil "ileri sürülmelidir" ifadesini kullandığından süre içinde müvekkile yöneltilen yazılı talebin süreyi koruyup korumadığı tartışılabilir. Tartışmaya yer bırakmamak için bir yıllık süre içinde hem tutarı gösteren yazılı talepte bulunmak hem de arabuluculuk başvurusunu yapmak güvenli yoldur.
 
 Sözleşme sonrası rekabet yasağı ayrı bir kurumdur. TTK m. 123 bu yasağın yazılı yapılmasını, süresinin iki yılı aşmamasını, acenteye bırakılan bölge veya müşteri çevresi ile sınırlı olmasını ve acenteye uygun bir tazminat ödenmesini öngörür. Rekabet yasağı karşılığı ödenen tazminat, denkleştirmenin hakkaniyet değerlendirmesinde dikkate alınabilir ama denkleştirmenin yerine geçmez.
 
@@ -112,7 +112,7 @@ Kanun yolu: İlk derece mahkemesinin nihai kararına karşı istinaf, bölge adl
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
-Talep sonucu, denkleştirmeyi diğer alacak kalemlerinden ayırarak kurulmalıdır. Örneğin: "TTK m. 122 uyarınca denkleştirme alacağı olarak şimdilik ... TL'nin, ödenmemiş komisyon alacağı olarak ... TL'nin, temerrüt tarihinden itibaren işleyecek ticari faiziyle birlikte davalıdan tahsiline." Faiz başlangıcı için sözleşmenin sona ermesinden sonra gönderilen ihtarnamenin tebliğ tarihi gösterilmeli, ihtarname yoksa dava veya arabuluculuk başvuru tarihi esas alınmalıdır.
+Talep sonucu, denkleştirmeyi diğer alacak kalemlerinden ayırarak kurulmalıdır. Örneğin: "TTK m. 122 uyarınca denkleştirme alacağı olarak şimdilik ... TL'nin, ödenmemiş komisyon alacağı olarak ... TL'nin, temerrüt tarihinden itibaren işleyecek ticari faiziyle birlikte davalıdan tahsiline." Faiz başlangıcı için sözleşmenin sona ermesinden sonra gönderilen ihtarnamenin tebliğ tarihi gösterilmeli, ihtarname yoksa temerrüdün hangi tarihte gerçekleştiği ayrıca değerlendirilmelidir.
 
 Sık yapılan hatalar şunlardır:
 
