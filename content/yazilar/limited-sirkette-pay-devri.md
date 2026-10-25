@@ -15,7 +15,7 @@ dayanak:
   - ad: "6102 sayılı Türk Ticaret Kanunu m. 596"
     not: "Miras, eşler arasındaki mal rejimi ve cebrî icra yoluyla geçiş"
   - ad: "6102 sayılı Türk Ticaret Kanunu m. 598"
-    not: "Pay defterine kayıt ve ticaret siciline tescil"
+    not: "Devrin ticaret siciline tescili için müdürlerin başvurusu"
   - ad: "6102 sayılı Türk Ticaret Kanunu m. 622"
     not: "Anonim şirket genel kurul kararlarının iptali ve butlanına ilişkin hükümlerin kıyasen uygulanması"
   - ad: "6102 sayılı Türk Ticaret Kanunu m. 638"
@@ -63,7 +63,7 @@ Bu kayıtların eksikliğinin yaptırımı tartışmalıdır. Öğretide, madde 
 
 Şirket sözleşmesinde aksi öngörülmedikçe esas sermaye payının devri için ortaklar genel kurulunun onayı şarttır ve devir bu onayla geçerlilik kazanır (m. 595/2). Onay alınıncaya kadar devir sözleşmesi askıdadır. Taraflar arasında borç ilişkisi kurulmuş olsa da devralan, onaydan önce şirkete karşı ortaklık haklarını kullanamaz. Öğretide aktarıldığına göre Yargıtay da devrin şirkete karşı genel kurul onay tarihinden itibaren geçerli olduğunu kabul etmektedir.
 
-Şirket sözleşmesi onay şartını kaldırabilir ya da ağırlaştırabilir. Bu nedenle somut uyuşmazlıkta ilk bakılacak belge şirket sözleşmesinin pay devrine ilişkin maddesidir. Sözleşme onayı kaldırmışsa devir, şekle uygun sözleşmeyle tamamlanır; sözleşme ek şartlar öngörmüşse bu şartların gerçekleşip gerçekleşmediği ayrıca incelenir.
+Şirket sözleşmesi onay şartını kaldırabilir, ret sebeplerini sınırlayabilir ya da devri tamamen yasaklayabilir. Bu nedenle somut uyuşmazlıkta ilk bakılacak belge şirket sözleşmesinin pay devrine ilişkin maddesidir. Sözleşme onayı kaldırmışsa devir, şekle uygun sözleşmeyle tamamlanır; sözleşme ek şartlar öngörmüşse bu şartların gerçekleşip gerçekleşmediği ayrıca incelenir.
 
 Onaydan kaçınma iki yolla sınırlanmıştır. Birincisi m. 595/7'deki süredir: genel kurul, onay istemini istemin kendisine sunulmasından itibaren üç ay içinde reddetmediği takdirde onay vermiş sayılır. Süre, devrin şirkete bildirilmesiyle başlar. Bu nedenle devralan ya da devreden, onay istemini ispatı kolay bir yolla, tercihen noter aracılığıyla şirkete iletmelidir. Öğretide aktarıldığına göre Yargıtay, iki ortaklı şirkette devir dışında kalan ortağın ret kararı alınmasını sağlayamadığı durumda üç aylık sürenin dolmasıyla örtülü onayın doğabileceğini kabul etmiştir.
 
@@ -73,7 +73,7 @@ Onaydan kaçınma iki yolla sınırlanmıştır. Birincisi m. 595/7'deki süredi
 
 TTK m. 595/3'e göre şirket sözleşmesinde aksi öngörülmedikçe genel kurul, onay vermeyi sebep göstermeksizin reddedebilir. Kanun bu konuda geniş bir takdir alanı tanımıştır. Şirket sözleşmesi ret sebeplerini sınırlayabilir; bu durumda sözleşmede sayılmayan bir gerekçeyle verilen ret kararı, sözleşmeye aykırılık nedeniyle iptal davasına konu olabilir.
 
-Kanun ayrıca özel bir ret sebebi öngörür. Şirket sözleşmesinde ek ödeme veya yan edim yükümlülükleri bulunuyorsa ve devralanın ödeme gücü şüpheli olup şirketin istediği teminat verilmemişse, genel kurul onayı reddedebilir (m. 595/6). Bu hüküm, şirket sözleşmesi ret sebeplerini sınırlamış olsa bile şirketin alacak güvencesini korumaya yöneliktir; sözleşmede ek ödeme veya yan edim yükümlülüğü yoksa uygulanmaz.
+Kanun ayrıca özel bir ret sebebi öngörür. Şirket sözleşmesinde ek ödeme veya yan edim yükümlülükleri bulunuyorsa ve devralanın ödeme gücü şüpheli olup şirketin istediği teminat verilmemişse, genel kurul onayı reddedebilir (m. 595/6). Bu hüküm şirketin alacak güvencesini korumaya yöneliktir; şirket sözleşmesinde ek ödeme veya yan edim yükümlülüğü yoksa uygulanmaz.
 
 Ret kararının sonucu, payın devredende kalmasıdır. Taraflar arasındaki taahhüt işlemi ifa edilemez hâle gelir. Öğretide aktarıldığına göre Yargıtay, gerçekleşmeyen devir için ödenen bedelin iadesinde sebepsiz zenginleşme hükümlerini uygulamaktadır. Devreden, onayın reddinde kusurluysa ayrıca sözleşmeye aykırılıktan doğan sorumluluğu gündeme gelebilir.
 
@@ -83,7 +83,7 @@ Esas sermaye payının miras, eşler arasındaki mal rejimi ya da cebrî icra yo
 
 ## Pay defteri, tescil ve devrin şirkete karşı etkisi
 
-TTK m. 598/1 uyarınca devrin pay defterine kaydı ve ticaret siciline tescili müdürlerin görevidir. Pay defterine kayıt ve tescil devrin geçerlilik şartı değildir; devir, şekle uygun sözleşme ve gerekli ise genel kurul onayıyla gerçekleşir. Buna karşılık şirketin ve üçüncü kişilerin ortaklık durumunu öğrenmesi bakımından kayıt ve tescil önem taşır. Müdürlerin kayıttan kaçınması hâlinde devralan, ortaklık sıfatının tespiti ve pay defterine kayıt talebiyle şirkete karşı dava açabilir.
+Devir şirketin pay defterine işlenir; TTK m. 598 uyarınca devrin ticaret siciline tescili için başvuru müdürlerce yapılır. Pay defterine kayıt ve tescil devrin geçerlilik şartı değildir; devir, şekle uygun sözleşme ve gerekli ise genel kurul onayıyla gerçekleşir. Buna karşılık şirketin ve üçüncü kişilerin ortaklık durumunu öğrenmesi bakımından kayıt ve tescil önem taşır. Müdürlerin kayıttan kaçınması hâlinde devralan, ortaklık sıfatının tespiti ve pay defterine kayıt talebiyle şirkete karşı dava açabilir.
 
 Ticaret sicili uygulamasında tescil başvurusuna genellikle şu belgeler eklenir:
 
@@ -92,7 +92,7 @@ Ticaret sicili uygulamasında tescil başvurusuna genellikle şu belgeler ekleni
 - Hazır bulunanlar listesi,
 - Devreden ve devralan ortaklara ait pay defteri sayfaları.
 
-Sicil müdürlükleri ayrıca devir sözleşmesinin genel kurul tarihiyle aynı gün ya da ondan önce düzenlenmiş olmasını aramaktadır. Belgeler müdürlükten müdürlüğe farklılık gösterebildiğinden başvurudan önce ilgili müdürlüğün güncel listesi kontrol edilmelidir.
+Bazı sicil müdürlükleri ayrıca devir sözleşmesinin genel kurul tarihiyle aynı gün ya da ondan önce düzenlenmiş olmasını aramaktadır. Belgeler müdürlükten müdürlüğe farklılık gösterebildiğinden başvurudan önce ilgili müdürlüğün güncel listesi kontrol edilmelidir.
 
 ## Usul
 
@@ -107,11 +107,11 @@ Dava türleri ve taraflar:
 - Onay ya da ret kararının iptali: TTK m. 622 yollamasıyla anonim şirket genel kurul kararlarının iptali ve butlanına ilişkin hükümler kıyasen uygulanır. İptal davası karar tarihinden itibaren üç ay içinde açılır; iptal davasının ayrıntıları için [anonim şirket genel kurul kararlarının iptali yazımıza](/yazilar/anonim-sirket-genel-kurul-kararinin-iptali/) bakılabilir.
 - Ödenen bedelin iadesi: devralan tarafından devredene karşı sebepsiz zenginleşme hükümlerine göre açılır.
 
-Arabuluculuk: TTK m. 5/A uyarınca konusu bir miktar paranın ödenmesi olan ticari alacak talepleri için arabuluculuk dava şartıdır. Bedel iadesi ve tazminat talepleri bu kapsamdadır. Tespit ve iptal talepleri ise para alacağı niteliğinde değildir.
+Arabuluculuk: TTK m. 5/A uyarınca konusu bir miktar paranın ödenmesi olan ticari alacak talepleri için arabuluculuk dava şartıdır. Bedel iadesi ve tazminat talepleri bu kapsamda değerlendirilmelidir. Tespit ve iptal talepleri ise para alacağı niteliğinde değildir.
 
 Süreler: Sebepsiz zenginleşmeden doğan iade talebi, hak sahibinin geri isteme hakkını öğrendiği tarihten başlayarak iki yılda ve her hâlde zenginleşmenin gerçekleştiği tarihten başlayarak on yılda zamanaşımına uğrar (TBK m. 82). Onay istemine ilişkin üç aylık süre bir dava süresi değildir; bu süre dolduğunda onay verilmiş sayılır.
 
-Harç: Bedel iadesi ve tazminat talepleri nispi harca tabidir. Payın aidiyetine ilişkin tespit taleplerinde dava değerinin payın değeri üzerinden belirlenmesi ihtimali, harcın da buna göre hesaplanması bakımından dava açılırken değerlendirilmelidir.
+Harç: Bedel iadesi ve tazminat talepleri konusu para olan talepler olduğundan nispi harç uygulanması beklenir. Payın aidiyetine ilişkin tespit taleplerinde de dava değerinin payın değeri üzerinden belirlenmesi ihtimali bulunduğundan, harcın türü dava açılırken ayrıca değerlendirilmelidir.
 
 İspat: Devrin varlığını iddia eden taraf, noterce onanmış sözleşmeyi ve genel kurul onayını ya da onay isteminin şirkete bildirildiği tarihi ispatla yükümlüdür. Noter onaylı sözleşmenin şekil şartı olması nedeniyle tanıkla ispat mümkün değildir.
 
@@ -129,7 +129,7 @@ Sık yapılan hatalar:
 
 - Devir sözleşmesinin yalnızca imza beyannamesiyle ya da adi yazılı olarak yapılması,
 - Şirket sözleşmesindeki ek ödeme, yan edim, rekabet yasağı ve önalım hükümlerinin devir sözleşmesine aktarılmaması,
-- Şirket sözleşmesinin onay şartını kaldırıp kaldırmadığının ya da ağırlaştırıp ağırlaştırmadığının incelenmemesi,
+- Şirket sözleşmesinin onay şartını kaldırıp kaldırmadığının ya da ret sebeplerini sınırlayıp sınırlamadığının incelenmemesi,
 - Onay isteminin şirkete ispatlanabilir bir yolla bildirilmemesi; bu durumda üç aylık sürenin başladığı ispat edilemez,
 - Ortaklık sıfatının tespiti davasının şirket merkezi dışındaki bir mahkemede açılması,
 - Bedel iadesi talebinde arabuluculuk başvurusunun yapılmaması.

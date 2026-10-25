@@ -33,9 +33,9 @@ dayanak:
     not: "İstinaf süresi"
 sss:
   - soru: "HAGB kararı verilen dosyada müsadereye de hükmedilebilir mi?"
-    cevap: "Evet. CMK m. 231, hükmün açıklanmasının geri bırakılmasını müsadere dışında kurulan hükmün sanık hakkında hukuki sonuç doğurmaması olarak tanımlar. Bu nedenle mahkeme HAGB kararıyla birlikte müsadereye de karar verebilir ve müsadere hükmü uygulanır. Müsadere kısmına yönelik itirazlar bu kararla birlikte değerlendirilmelidir."
+    cevap: "Evet. CMK m. 231, hükmün açıklanmasının geri bırakılmasını müsadere dışında kurulan hükmün sanık hakkında hukuki sonuç doğurmaması olarak tanımlar. Bu nedenle mahkeme HAGB kararıyla birlikte müsadereye de karar verebilir ve müsadere hükmü uygulanır."
   - soru: "Sanık beraat etti ya da dava düştü; eşya kendiliğinden iade edilir mi?"
-    cevap: "Kendiliğinden sonuç doğmaz. Esas hakkındaki kararla birlikte eşyanın iadesine ya da müsaderesine karar verilmesi gerekir. Kararda eşya hakkında hüküm kurulmamışsa CMK m. 256 uyarınca Cumhuriyet savcısı veya katılan müsadere için mahkemeye başvurabilir; kamu davası açılmış ancak iadesi gereken eşya hakkında karar verilmemişse mahkeme kendiliğinden veya ilgilinin talebiyle iadeye karar verir. Üretimi, bulundurulması ya da alım satımı suç oluşturan eşya ise beraat hâlinde de müsadere edilebilir (TCK m. 54/4)."
+    cevap: "Kendiliğinden sonuç doğmaz. Esas hakkındaki kararla birlikte eşyanın iadesine ya da müsaderesine karar verilmesi gerekir. Kararda eşya hakkında hüküm kurulmamışsa CMK m. 256 uyarınca Cumhuriyet savcısı veya katılan müsadere için mahkemeye başvurabilir; kamu davası açılmış ancak iadesi gereken eşya hakkında karar verilmemişse mahkeme re'sen veya ilgililerin istemi üzerine iadeye karar verir. Üretimi, bulundurulması ya da alım satımı suç oluşturan eşya ise mahkûmiyet hükmü kurulmasa da müsadere edilebilir (TCK m. 54/4)."
   - soru: "Suçta kullanılan araç üçüncü kişiye aitse mülkiyet ve iyiniyet iddiası hangi aşamada ileri sürülmelidir?"
     cevap: "Mümkün olan en erken aşamada. Soruşturmada CMK m. 131 uyarınca iade talep edilir ve red kararına itiraz edilir. Kovuşturmada mahkemeye dilekçe verilerek mülkiyet ve iyiniyet iddiası delilleriyle bildirilmeli, ayrı müsadere yargılamasında ise CMK m. 257/2 uyarınca duruşmaya çağrılma ve sanığın haklarını kullanma imkânı değerlendirilmelidir. Ruhsat, satış senedi, kira veya kredi sözleşmesi ve aracın sanığa hangi ilişkiyle verildiğini gösteren belgeler dosyaya sunulmalıdır."
   - soru: "Müsadere kararına karşı hangi kanun yoluna gidilir?"
@@ -81,11 +81,11 @@ Uygulamadaki uyuşmazlıkların önemli kısmı, sanığa ait olmayan eşyanın 
 
 Hakkaniyet sınırı (m. 54/3) ise eşya sanığa ait olsa bile uygulanır. Suçun ağırlığı ile eşyanın değeri ve sanık açısından önemi karşılaştırılır. Örneğin geçimini sağladığı aracı basit bir suçta kullanan sanık bakımından müsadere, işlenen suça göre çok daha ağır bir sonuç doğurabilir. Hüküm "hükmedilmeyebilir" ifadesiyle mahkemeye takdir yetkisi tanır; bu takdirin gerekçede gösterilmesi gerekir.
 
-Mülkiyet hakkı yönünden Anayasa Mahkemesi de müsadere kararlarını ölçülülük açısından denetlemektedir. Mahkeme, yurt dışından sahte belgelerle getirildiği anlaşılan ve kaçak eşya olarak müsadere edilen bir aracın sonraki alıcısının başvurusunda, müdahalenin kanuni dayanağı, meşru amacı ve ölçülülüğü bulunduğunu kabul etmiş; değerlendirmesinde başvurucunun satıcıya karşı sözleşmeye dayalı dava ve idareye karşı tam yargı davası açma imkânlarına da yer vermiştir. Bu yaklaşım, m. 54/4 kapsamındaki eşyada malikin zararını müsadere yargılaması dışındaki yollarla gidermesi gerektiğini gösterir.
+Mülkiyet hakkı yönünden Anayasa Mahkemesi de müsadere kararlarını ölçülülük açısından denetlemektedir. Mahkeme, yurt dışından sahte belgelerle getirildiği anlaşılan ve kaçak eşya olarak müsadere edilen bir aracın sonraki alıcısının başvurusunda, müdahalenin kanuni dayanağı, meşru amacı ve ölçülülüğü bulunduğunu kabul etmiş; değerlendirmesinde başvurucunun satıcıya karşı sözleşmeye dayalı dava ve idareye karşı tam yargı davası açma imkânlarına da yer vermiştir. Bu yaklaşım, m. 54/4 kapsamındaki eşyada malikin zararını müsadere yargılaması dışındaki yollarla giderme imkânının ölçülülük değerlendirmesinde dikkate alındığını gösterir.
 
 ## Ayrı müsadere usulü: CMK m. 256–258
 
-Müsadere kural olarak esas hakkındaki hükümle birlikte verilir. CMK m. 256/1, müsadere kararı verilmesi gereken hâllerde kamu davası açılmamışsa ya da açılmış olan kamu davası sonunda esas hakkındaki kararla birlikte bu konuda bir karar verilmemişse, Cumhuriyet savcısının veya katılanın müsadere kararı verilmesi için davaya bakmaya yetkili mahkemeye başvurabileceğini düzenler. Kamu davası açılmış ancak iadesi gereken eşya veya malvarlığı değerleri hakkında esasla birlikte karar verilmemişse, mahkeme kendiliğinden veya ilgililerin istemi üzerine bunların iadesine karar verir (m. 256/2).
+Müsadere kural olarak esas hakkındaki hükümle birlikte verilir. CMK m. 256/1, müsadere kararı verilmesi gereken hâllerde kamu davası açılmamışsa ya da açılmış olan kamu davası sonunda esas hakkındaki kararla birlikte bu konuda bir karar verilmemişse, Cumhuriyet savcısının veya katılanın müsadere kararı verilmesi için davayı görmeye yetkili mahkemeye başvurabileceğini düzenler. Kamu davası açılmış ancak iadesi gereken eşya veya malvarlığı değerleri hakkında esasla birlikte karar verilmemişse, mahkeme re'sen veya ilgililerin istemi üzerine bunların iadesine karar verir (m. 256/2).
 
 Bu usul özellikle şu durumlarda işler:
 
@@ -93,11 +93,11 @@ Bu usul özellikle şu durumlarda işler:
 - Hükümde eşya hakkında karar kurulmasının unutulması,
 - Failin bulunamaması ya da ölümü nedeniyle esas hakkında mahkûmiyet kurulamaması.
 
-CMK m. 257'ye göre m. 256 uyarınca verilecek kararlar duruşmalı olarak verilir. Müsadere veya iade olunacak eşya ya da diğer malvarlığı değerleri üzerinde hakkı olan kimseler de duruşmaya çağrılır ve bu kişiler sanığın haklarını kullanabilir. Çağrıya uymamaları işlemin yapılmasını ve hükmün verilmesini engellemez. Evrak üzerinden verilen müsadere kararı bu hükme aykırıdır ve kanun yolunda ileri sürülmesi gereken bir usul eksikliğidir. CMK m. 258 uyarınca bu kararlara karşı istinaf yolu açıktır.
+CMK m. 257'ye göre m. 256 uyarınca verilecek kararlar duruşmalı olarak verilir. Müsadere veya iade olunacak eşya ya da diğer malvarlığı değerleri üzerinde hakkı olan kimseler de duruşmaya çağrılır ve bu kişiler sanığın haklarını kullanabilir. Çağrıya uymamaları işlemin ertelenmesine neden olmaz ve hükmün verilmesini engellemez (m. 257/3). Evrak üzerinden verilen müsadere kararı bu hükme aykırıdır ve kanun yolunda ileri sürülmesi gereken bir usul eksikliğidir. CMK m. 258 uyarınca bu kararlara karşı istinaf yolu açıktır.
 
 ## Usul
 
-Görevli ve yetkili mahkeme: Müsadere esas hükümle birlikte, davaya bakan ceza mahkemesince verilir. Ayrı müsadere usulünde başvuru, davaya bakmaya yetkili mahkemeye yapılır (CMK m. 256/1).
+Görevli ve yetkili mahkeme: Müsadere esas hükümle birlikte, davaya bakan ceza mahkemesince verilir. Ayrı müsadere usulünde başvuru, davayı görmeye yetkili mahkemeye yapılır (CMK m. 256/1).
 
 Başvuru hakkı: Ayrı müsadere istemi Cumhuriyet savcısına ve katılana aittir. Eşya üzerinde hakkı olan üçüncü kişi, m. 257/2 uyarınca duruşmaya çağrılır ve sanığın haklarını kullanır; iadesi gereken eşya bakımından m. 256/2 uyarınca istemde bulunabilir.
 
@@ -109,7 +109,7 @@ Süreler ve kanun yolu: Hükümle birlikte verilen müsadereye karşı istinaf s
 
 İspat: Müsadere, eşyanın suçla bağlantısının somut delillerle ortaya konmasını gerektirir. Kazanç müsaderesinde ele geçirilen paranın suçtan elde edildiği gerekçede delilleriyle gösterilmelidir. İyiniyet iddiasında bulunan üçüncü kişi, mülkiyetini ve eşyanın sanığa veriliş biçimini belgelerle ortaya koymalıdır.
 
-Ceza yargılaması dışındaki yollar: Müsadere edilen eşyanın sonraki alıcısı, satıcıya karşı sözleşmeden doğan haklarını hukuk mahkemesinde ileri sürebilir; bu davalar konusu para olan talepler olduğundan nispi harca tabidir. İdarenin kusurundan doğan zararlar için idari yargıda tam yargı davası gündeme gelebilir.
+Ceza yargılaması dışındaki yollar: Müsadere edilen eşyanın sonraki alıcısı, satıcıya karşı sözleşmeden doğan haklarını hukuk mahkemesinde ileri sürebilir. İdarenin kusurundan doğan zararlar için idari yargıda tam yargı davası gündeme gelebilir.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
