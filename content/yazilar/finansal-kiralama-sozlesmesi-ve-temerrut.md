@@ -49,7 +49,7 @@ sss:
   - soru: "Kiracı ihtarnamedeki otuz günlük süre içinde ödeme yaparsa fesih yine de mümkün müdür?"
     cevap: "6361 m. 31/1'in birinci cümlesine göre fesih, verilen süre içinde de bedelin ödenmemesine bağlıdır; süre içinde yapılan tam ödeme bu cümleye dayalı feshi önler. Ancak aynı fıkranın ikinci cümlesi ayrı bir fesih sebebidir: bir yıl içinde üç kira bedelini veya üst üste ikisini zamanında ödemediği için ihtara muhatap olan kiracı bakımından kiralayan, şartları oluşmuşsa feshi bu sebebe dayandırabilir."
   - soru: "Fesihten sonra malı teslim etmeyen kiracıya karşı doğrudan ilamsız takip yapılabilir mi?"
-    cevap: "İİK'da bir taşınırın teslimi için ilamsız takip yolu düzenlenmemiştir; taşınır teslimi İİK m. 24 uyarınca ilamla istenir. Bu nedenle malın iadesi için dava açılır, beklenen süre içinde malın elden çıkarılması veya yıpranması riski varsa 6361 m. 31/3 ve HMK hükümleri çerçevesinde ihtiyati tedbir talep edilir. Vadesi gelmiş kira bedelleri gibi para alacakları için ise genel hükümlere göre ilamsız takip mümkündür."
+    cevap: "İİK, taşınır teslimini ilamların icrasına ilişkin m. 24'te düzenler; bu nedenle uygulamada malın iadesi için kural olarak dava açılır ve elde edilen ilam m. 24'e göre icraya konur. Dava sürerken malın elden çıkarılması veya yıpranması riski varsa 6361 m. 31/3 ve HMK hükümleri çerçevesinde ihtiyati tedbir talep edilir. Vadesi gelmiş kira bedelleri gibi para alacakları için ise genel hükümlere göre ilamsız takip mümkündür."
   - soru: "Fark alacağı davasında arabuluculuk dava şartı mıdır?"
     cevap: "Uyuşmazlık TTK m. 4 anlamında ticari dava ise ve konusu bir miktar paranın ödenmesiyse, TTK m. 5/A uyarınca dava açılmadan önce arabulucuya başvurulması dava şartıdır. Malın iadesi talebi para alacağı olmadığından bu kapsamda değildir; iki talep birlikte ileri sürülecekse para alacağı yönünden arabuluculuk son tutanağı dosyaya eklenmelidir."
   - soru: "Kiracı ayıp nedeniyle kira bedellerini ödemeyi durdurabilir mi?"
@@ -71,19 +71,19 @@ Tescil rejimi malın türüne göre ayrılır:
 - Özel siciline kayıtlı taşınırlarda sözleşme o sicile tescil ve şerh edilir; kiralayan ayrıca Finansal Kurumlar Birliğine bildirimde bulunur.
 - Özel sicili olmayan taşınırlarda sözleşme Birliğin tuttuğu özel sicile tescil edilir.
 
-Sicil herkese açıktır ve hiç kimse sicildeki bir kaydı bilmediğini ileri süremez. Tescil veya şerhten sonra üçüncü kişilerin kiralama konusu mal üzerinde kazandıkları haklar kiralayana karşı ileri sürülemez (m. 22/5). Kiracının malı elden çıkardığı dosyalarda kiralayanın üçüncü kişiye karşı dayanağı bu hükümdür; tescil yapılmamışsa iyiniyetli üçüncü kişinin kazanımı ayrıca tartışılır.
+Sicil herkese açıktır ve hiç kimse sicildeki bir kaydı bilmediğini ileri süremez. Tescil veya şerhten sonra üçüncü kişilerin kiralama konusu mal üzerindeki ayni hak iktisapları kiralayana karşı ileri sürülemez (m. 22/5). Kiracının malı elden çıkardığı dosyalarda kiralayanın üçüncü kişiye karşı dayanağı bu hükümdür; tescil yapılmamışsa iyiniyetli üçüncü kişinin kazanımı ayrıca tartışılır.
 
 Mal, sözleşmede aksi belirtilmedikçe sözleşme tarihinden itibaren iki yıl içinde kiracıya teslim edilmelidir (m. 20). Malın kiralayanın satıcıyla zamanında sözleşme yapmaması, ödemeyi zamanında yapmaması ya da kusuru veya ihmali gibi sebeplerle teslim edilmemesi hâlinde TBK m. 123, 125 ve 126 uygulanır (m. 25). Kiracı bu durumda kiralayana süre verir ve seçimlik haklarından birini kullanır; sözleşme sürekli edimli olduğundan ifaya başlanmışsa dönme yerine fesih gündeme gelir.
 
 ## Kiracının temerrüdü ve fesih şartları
 
-Temel hüküm 6361 m. 31/1'dir. Kiralayan, finansal kiralama bedelini ödemede temerrüde düşen kiracıya verdiği otuz günlük süre içinde de bu bedelin ödenmemesi hâlinde sözleşmeyi feshedebilir. Süre sonunda mülkiyetin kiracıya geçeceğinin sözleşmede kararlaştırıldığı hâllerde bu süre altmış günden az olamaz. Satın alma hakkı içeren sözleşmelerde otuz gün verilerek yapılan fesih, bu nedenle sakat bir fesihtir.
+Temel hüküm 6361 m. 31/1'dir. Kiralayan, finansal kiralama bedelini ödemede temerrüde düşen kiracıya verdiği otuz günlük süre içinde de bu bedelin ödenmemesi hâlinde sözleşmeyi feshedebilir. Süre sonunda mülkiyetin kiracıya geçeceğinin sözleşmede kararlaştırıldığı hâllerde bu süre altmış günden az olamaz. Mülkiyetin kiracıya geçeceği kararlaştırılan sözleşmelerde otuz gün verilerek yapılan fesih, bu nedenle sakat bir fesihtir.
 
 Aynı fıkra ikinci bir fesih sebebi öngörür: bir yıl içinde üç kira bedelini veya üst üste ikisini zamanında ödemediği için ihtara muhatap olan kiracı bakımından da kiralayan sözleşmeyi feshedebilir. Bu sebepte Kanun, kiracının söz konusu gecikmeler nedeniyle ihtara muhatap olmuş olmasını arar; ihtar yapılmadan geçiştirilmiş gecikmelere dayanan fesih, bu şart yönünden itiraza açıktır.
 
 m. 31/2 ise genel bir haklı sebep hükmüdür. Taraflardan birinin sözleşmeye aykırı davranışı nedeniyle diğer taraftan sözleşmeyi devam ettirmesinin beklenemeyeceği durumlarda sözleşme feshedilebilir. Kiracının malı özensiz kullanması (m. 24/2) ya da sigorta yükümlülüğüne aykırılık (m. 24/4) bu kapsamda değerlendirilebilecek ihlallerdir. Hüküm iki taraflıdır; kiralayanın ağır ihlali de kiracıya fesih hakkı verir.
 
-Fesih ihtarnamesi noter aracılığıyla gönderilmelidir. m. 33/4, kiracının Kanunda belirtilen sürelerde borcunu ödememesi üzerine kiralayanın noter aracılığıyla gönderdiği fesih ihtarnameleri hakkında İİK m. 68/b'nin uygulanacağını öngörür. İhtarnamede şu unsurların bulunduğundan emin olunmalıdır:
+Fesih ihtarnamesinin noter aracılığıyla gönderilmesi ayrıca önem taşır: m. 33/4, kiracının Kanunda belirtilen sürelerde borcunu ödememesi üzerine kiralayanın noter aracılığıyla gönderdiği fesih ihtarnameleri hakkında İİK m. 68/b'nin uygulanacağını öngörür. İhtarnamede şu unsurların bulunduğundan emin olunmalıdır:
 
 - Muaccel ve ödenmemiş bedellerin vade ve tutar olarak tek tek gösterilmesi,
 - Sözleşmenin niteliğine uygun sürenin (otuz veya en az altmış gün) açıkça verilmesi,
@@ -106,7 +106,7 @@ Sözleşmeden doğan borçlar için alınmış ipoteklerin paraya çevrilmesinde
 
 ## Malın geri alınması: İİK m. 24 ve ihtiyati tedbir
 
-İİK'da bir taşınırın teslimini sağlayan ilamsız takip yolu yoktur. Kiracı malı rızasıyla teslim etmezse kiralayan iade davası açar ve elde ettiği ilamı İİK m. 24'e göre icraya koyar. Bu maddeye göre icra memuru, icra emri tebliğiyle borçluya yedi gün içinde o şeyin teslimini emreder. Borçlu emre uymazsa ve mal elinde bulunursa mal zorla alınıp alacaklıya verilir. Mal bulunamazsa ilamda yazılı değeri alınır; değer ilamda yazılı değilse veya ihtilaflıysa icra memuru haczin yapıldığı tarihteki rayiç bedele göre değer biçer. Bu nedenle iade davasında, malın aynen teslim edilememesi ihtimaline karşı değerinin de hüküm altına alınmasının istenmesi icra aşamasında ek tartışmayı önler.
+İİK, taşınır teslimini ilamların icrasına ilişkin m. 24'te düzenler. Kiracı malı rızasıyla teslim etmezse kiralayan kural olarak iade davası açar ve elde ettiği ilamı İİK m. 24'e göre icraya koyar. Bu maddeye göre icra memuru, icra emri tebliğiyle borçluya yedi gün içinde o şeyin teslimini emreder. Borçlu emre uymazsa ve mal elinde bulunursa mal zorla alınıp alacaklıya verilir. Mal bulunamazsa ilamda yazılı değeri alınır; değer ilamda yazılı değilse veya ihtilaflıysa icra memuru haczin yapıldığı tarihteki rayiç bedele göre değer biçer. Bu nedenle iade davasında, malın aynen teslim edilememesi ihtimaline karşı değerinin de hüküm altına alınmasının istenmesi icra aşamasında ek tartışmayı önler.
 
 Kiralanan taşınmazlarda İİK m. 269 vd. ilamsız tahliye yolu düzenlenmiştir; ancak 6361 bu yola atıf yapmaz ve kendi fesih rejimini kurar. Taşınmaz konulu finansal kiralamada ilamsız tahliye yoluna başvurulacaksa, takibin hangi hükme dayandırıldığı ve fesih şartlarının 6361 m. 31'e göre oluşup oluşmadığı itiraz aşamasında tartışılacaktır. Kira ilişkisindeki ilamsız tahliye usulü için [kiralanan taşınmazın icra yoluyla tahliyesi](/yazilar/kiralanan-tasinmazin-icra-yoluyla-tahliyesi/) yazımıza bakılabilir.
 
@@ -137,9 +137,9 @@ Kiralayan vekili olarak talep sonucunda feshin tespiti, malın iadesi ve iadenin
 
 Sık yapılan hatalar şunlardır:
 
-- Satın alma hakkı içeren sözleşmede altmış gün yerine otuz gün süre verilmesi,
+- Mülkiyetin kiracıya geçeceği kararlaştırılan sözleşmede altmış gün yerine otuz gün süre verilmesi,
 - Üç ödeme veya üst üste iki ödeme sebebine dayanılırken önceki gecikmeler için ihtar yapılmamış olması,
-- İhtarnamenin noter dışı bir yolla gönderilmesi ya da kefillere tebliğ edilmemesi,
+- İİK m. 68/b'den yararlanılması amaçlanırken ihtarnamenin noter dışı bir yolla gönderilmesi ya da kefillere tebliğ edilmemesi,
 - Para alacağı yönünden arabuluculuk son tutanağı olmadan dava açılması,
 - Tedbir kararı alınmış malın teminat yatırılmadan satılması.
 

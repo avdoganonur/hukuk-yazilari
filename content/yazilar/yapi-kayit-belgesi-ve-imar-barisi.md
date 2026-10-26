@@ -66,7 +66,7 @@ Hükmün sınırları dikkatle okunmalıdır:
 - Etki, belgeye kayıtlı yapı ve aykırılıkla sınırlıdır. Belge tarihinden sonra yapılan ilave kat, genişletme veya kullanım değişikliği belgenin kapsamında değildir ve 3194 m. 32 ile m. 42 kapsamında yeni bir işleme konu olabilir.
 - Başka kanunlara dayanan yıkım ve koruma işlemleri bu hükümle ortadan kalkmaz.
 
-Son noktada Danıştay'ın aykırılığı giderme kararı yol göstericidir. Danıştay İdari Dava Daireleri Kurulu, 07.03.2023 tarihli, E. 2023/7, K. 2023/8 sayılı kararında, III. derece arkeolojik sit alanında koruma bölge kurulu izni alınmadan yapılan yapılar bakımından şu sonuca ulaşmıştır: "Korunan yerler açısından, KVKBK'dan izin alınmadan inşa edilen yapılar hakkında yapı kayıt belgesi düzenlenemeyeceği" ve düzenlenmiş olsa bile belgenin ilgililere hak sağlamayacağı ve 2863 sayılı Kanun uyarınca tesis edilen işlemleri hukuka aykırı kılmayacağı. Anayasa Mahkemesi de E. 2019/109, K. 2019/91 sayılı ve 04.12.2019 tarihli kararının gerekçesinde, kuralın kıyılar ile kültür ve tabiat varlıklarına ilişkin 3621 ve 2863 sayılı Kanunların uygulanmasına engel olmadığını belirtmiştir.
+Son noktada Danıştay'ın aykırılığı giderme kararı yol göstericidir. Danıştay İdari Dava Daireleri Kurulu, 07.03.2023 tarihli, E. 2023/7, K. 2023/8 sayılı kararında, III. derece arkeolojik sit alanında koruma bölge kurulu izni alınmadan yapılan yapılar bakımından şu sonuca ulaşmıştır: "Korunan yerler açısından, KVKBK'dan izin alınmadan inşa edilen yapılar hakkında yapı kayıt belgesi düzenlenemeyeceği" ve düzenlenmiş olsa bile belgenin ilgililere hak sağlamayacağı ve 2863 sayılı Kanun uyarınca tesis edilen işlemleri hukuka aykırı kılmayacağı. Anayasa Mahkemesi de E. 2019/109, K. 2019/91 sayılı ve 04.12.2019 tarihli kararında itiraz başvurusunu yetkisizlik nedeniyle reddederken, gerekçede kuralın kıyılar ile kültür ve tabiat varlıklarına ilişkin 3621 ve 2863 sayılı Kanunların bakılan davada uygulanmasına engel olmadığını belirtmiştir.
 
 İmar para cezasının ve yıkım kararının genel usulü, belge kapsamı dışında kalan aykırılıklar bakımından aynen uygulanır. Bu işlemlere karşı dava yolu için [imar para cezası ve yıkım kararına itiraz](/yazilar/imar-para-cezasi-ve-yikim-kararina-itiraz/) yazımıza bakılabilir. 7579 sayılı Kanun (RG 22.05.2026) m. 42'de yangın güvenliği ve hazır beton arzına ilişkin değişiklikler yapmış, fakat geçici m. 16'yı değiştirmemiştir; bu nedenle belge kapsamındaki yapılar bakımından iptal hükmü aynı şekilde uygulanmaya devam eder.
 
@@ -80,19 +80,19 @@ Belgenin kendisi bir mülkiyet hakkı kurmaz. Hazine taşınmazı üzerindeki ya
 
 ## Kat mülkiyetine ve cins değişikliğine geçiş
 
-Geçici m. 16'ya göre yapı ruhsatı alıp da yapı kullanma izin belgesi almamış veya yapı ruhsatı bulunmayan yapılarda, yapı kayıt belgesi ile maliklerin tamamının muvafakatinin bulunması ve imar planlarında umumi hizmet alanlarına denk gelen alanların terk edilmesi hâlinde, yapı kullanma izin belgesi aranmaksızın cins değişikliği ve kat mülkiyeti tesis edilebilir. Bu durumda, Kanunun ifadesiyle kayıt bedeline ilişkin fıkrada belirtilen bedelin iki katı ödenir; Usul ve Esaslar bu ödemeyi, daha önce belge için ödenen meblağ kadar bir bedelin ayrıca yatırılması olarak düzenlemiştir. Bu yolla kat mülkiyetine geçilmiş olması, 6306 sayılı Kanunun ek 1. maddesinin uygulanmasına engel değildir.
+Geçici m. 16'ya göre yapı ruhsatı alıp da yapı kullanma izin belgesi almamış veya yapı ruhsatı bulunmayan yapılarda, yapı kayıt belgesi ile maliklerin tamamının muvafakatinin bulunması ve imar planlarında umumi hizmet alanlarına denk gelen alanların terk edilmesi hâlinde, yapı kullanma izin belgesi aranmaksızın cins değişikliği ve kat mülkiyeti tesis edilebilir. Bu durumda, Kanunun ifadesiyle kayıt bedeline ilişkin fıkrada belirtilen bedelin iki katı ödenir. Bu yolla kat mülkiyetine geçilmiş olması, 6306 sayılı Kanunun ek 1. maddesinin uygulanmasına engel değildir.
 
 Uygulamada sorun çıkaran şartlar şunlardır:
 
 - Muvafakat: Kanun maliklerin tamamının muvafakatini arar. Tek bir paydaşın muvafakat vermemesi bu yolu kapatır; geçici m. 16'da muvafakatin mahkeme kararıyla tamamlanmasına dair bir hüküm yoktur.
-- Umumi hizmet alanlarının terki: Parselin imar planında okul, park, yol gibi umumi hizmet alanına denk gelen kısmının terk edildiğinin ilgili idarece belgelenmesi gerekir.
+- Umumi hizmet alanlarının terki: Parselin imar planında okul, park, yol gibi umumi hizmet alanına denk gelen kısmının terk edilmiş olması gerekir; terkin gerçekleştiği dosyada belgelenmelidir.
 - Belge kapsamı: Kat mülkiyeti, belgeye kayıtlı bağımsız bölümler ve alanlar üzerinden kurulabilir. Belgeden sonra eklenen kat veya bölüm için belge yeterli olmaz.
 
 Kat irtifakı ile kat mülkiyetinin farkı ve kat mülkiyetine geçişin genel şartları için [kat irtifakı ve kat mülkiyeti farkı](/yazilar/kat-irtifaki-ve-kat-mulkiyeti-farki/) yazımıza bakılabilir.
 
 ## Belgenin iptali
 
-Geçici m. 16, belgenin hangi hâllerde iptal edileceğini düzenlemez. İptal Usul ve Esaslar'da düzenlenmiştir: m. 8/2, belge düzenlenemeyecek yapılar için belge verildiğinin tespiti hâlinde belgenin iptal edileceğini ve sağladığı hakların geri alınacağını öngörür; m. 10/3 ise gerçeğe aykırı beyan nedeniyle eksik alınan bedelin ödenmemesi hâlinde belgenin iptalini düzenler. İptalin kanunda değil, düzenleyici işlemde yer alması öğretide kanunilik ilkesi açısından eleştirilmektedir; bu eleştiri, iptal davasında Usul ve Esaslar'ın ilgili hükmünün hukuka uygunluğunu tartışmak için kullanılabilir.
+Geçici m. 16, belgenin hangi hâllerde iptal edileceğini düzenlemez. İptal Usul ve Esaslar'da düzenlenmiştir: m. 8/2, belge düzenlenemeyecek yapılar için belge verildiğinin tespiti hâlinde belgenin iptal edileceğini ve sağladığı hakların geri alınacağını öngörür; m. 10 ise gerçeğe aykırı beyan nedeniyle eksik alınan bedelin ödenmemesi hâlinde belgenin iptalini düzenler. İptalin kanunda değil, düzenleyici işlemde yer alması öğretide kanunilik ilkesi açısından eleştirilmektedir; bu eleştiri, iptal davasında Usul ve Esaslar'ın ilgili hükmünün hukuka uygunluğunu tartışmak için kullanılabilir.
 
 İptal işlemine karşı açılacak davada idarenin şu noktaları somut olarak ortaya koyup koymadığı incelenmelidir:
 
@@ -103,7 +103,7 @@ Geçici m. 16, belgenin hangi hâllerde iptal edileceğini düzenlemez. İptal U
 
 ## Ceza davalarına etkisi
 
-Geçici m. 16, imar kirliliğine neden olma suçu (TCK m. 184) bakımından açık bir hüküm içermez. TCK m. 184/5, kişinin kendi fiiliyle neden olduğu imar kirliliğini imar planına ve ruhsatına uygun hâle getirmesi durumunda birinci, ikinci ve dördüncü fıkralar gereğince kamu davası açılmayacağını, açılmış davanın düşeceğini ve mahkûmiyet hâlinde cezanın bütün sonuçlarıyla ortadan kalkacağını öngörür. Yapı kayıt belgesinin bu anlamda "imar planına ve ruhsatına uygun hâle getirme" sayılıp sayılmayacağı ve imar barışının lehe kanun niteliği öğretide tartışılmaktadır. Savunmada belge ve kapsamı dosyaya sunulmalı, ancak belgenin ruhsat yerine geçmediği gözetilerek tek başına sonuç doğuracağı varsayılmamalıdır.
+Geçici m. 16, imar kirliliğine neden olma suçu (TCK m. 184) bakımından açık bir hüküm içermez. TCK m. 184/5, kişinin ruhsatsız ya da ruhsata aykırı olarak yaptığı veya yaptırdığı binayı imar planına ve ruhsatına uygun hâle getirmesi durumunda kamu davası açılmayacağını, açılmış davanın düşeceğini ve mahkûmiyet hâlinde cezanın bütün sonuçlarıyla ortadan kalkacağını öngörür. Yapı kayıt belgesinin bu anlamda "imar planına ve ruhsatına uygun hâle getirme" sayılıp sayılmayacağı ve imar barışının lehe kanun niteliği öğretide tartışılmaktadır. Savunmada belge ve kapsamı dosyaya sunulmalı, ancak belgenin ruhsat yerine geçmediği gözetilerek tek başına sonuç doğuracağı varsayılmamalıdır.
 
 ## Usul
 
