@@ -22,7 +22,7 @@ dayanak:
   - ad: "5395 sayılı Çocuk Koruma Kanunu m. 41/F"
     not: "Teslim emrine aykırılıkta disiplin hapsi"
   - ad: "5395 sayılı Çocuk Koruma Kanunu m. 41/G"
-    not: "Teslim görüntülerinin internetten kaldırılması"
+    not: "Teslim görüntülerinin internetten kaldırılması (atıf yapılan 5651 m. 9, AYM kararıyla iptal edildi)"
   - ad: "5395 sayılı Çocuk Koruma Kanunu m. 41/H"
     not: "Harç istisnası ve giderler"
   - ad: "5395 sayılı Çocuk Koruma Kanunu geçici m. 2"
@@ -85,4 +85,4 @@ Teslim emrine aykırı davranan ya da emrin yerine getirilmesini engelleyen kiş
 
 Müdürlüğün işlem ve kararlarına karşı, öğrenme ya da tebliğ tarihinden itibaren bir hafta içinde müdürlüğün bulunduğu yer aile mahkemesine şikâyette bulunulabilir (m. 41/E). Mahkeme işlemi durdurabilir ve ivedilikle karar verir. Bu karara karşı tebliğden itibaren iki hafta içinde itiraz edilebilir. İtiraz süresi 2024 yılında 7499 sayılı Kanunla bir haftadan iki haftaya çıkarıldı. İtiraz merciinin kararı kesindir.
 
-Taraflardan biri hakkında 6284 sayılı Kanun uyarınca gizlilik kararı ya da başka bir koruyucu tedbir varsa, teslim işlemleri bu kararlar dikkate alınarak yapılır (m. 41/C). Teslim sırasında kayda alınan görüntülerin internette yayımlanması hâlinde ilgililer içeriğin çıkarılmasını ya da erişimin engellenmesini isteyebilir (m. 41/G).
+Taraflardan biri hakkında 6284 sayılı Kanun uyarınca gizlilik kararı ya da başka bir koruyucu tedbir varsa, teslim işlemleri bu kararlar dikkate alınarak yapılır (m. 41/C). Teslim sırasında kayda alınan görüntülerin internette yayımlanması hâlinde m. 41/G, ilgililerin 5651 sayılı Kanun'un 9. maddesi uyarınca içeriğin çıkarılmasını ya da erişimin engellenmesini isteyebileceğini söyler. Ancak bu 9. madde Anayasa Mahkemesince iptal edilmiş, iptal 10.10.2024'te yürürlüğe girmiştir; bu nedenle bugün bu yola başvurulamaz. Görüntüler için izlenebilecek yollar [internet yayınlarında kişilik hakkı ihlali](/yazilar/internet-iceriginin-kaldirilmasi-ve-erisimin-engellenmesi/) yazısında anlatılmıştır.
