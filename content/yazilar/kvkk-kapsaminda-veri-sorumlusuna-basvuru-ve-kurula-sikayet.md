@@ -90,7 +90,7 @@ Başvuruda ad, soyad ve yazılı başvuruda imza, T.C. kimlik numarası (yabanc�
 
 Veri sorumlusu başvuruda yer alan talepleri talebin niteliğine göre en kısa sürede ve en geç otuz gün içinde ücretsiz olarak sonuçlandırır. İşlemin ayrıca bir maliyeti gerektirmesi hâlinde Kurulca belirlenen tarifedeki ücret alınabilir. Veri sorumlusu talebi kabul eder veya gerekçesini açıklayarak reddeder ve cevabını ilgili kişiye yazılı olarak veya elektronik ortamda bildirir. Talep kabul edilirse gereği yerine getirilir; başvuru veri sorumlusunun hatasından kaynaklanmışsa alınan ücret iade edilir.
 
-Kurum 2026 yılında yayımladığı bir kamuoyu duyurusunda, başvurulara yalnızca telefonla ya da yüz yüze görüşmeyle cevap verilmesinin bu yükümlülüğü karşılamadığını, sözlü iletişimin ancak destekleyici nitelikte olabileceğini açıklamıştır. İlgili kişi vekili açısından bunun pratik sonucu şudur: sözlü bir görüşme yapılmış olsa bile yazılı veya elektronik cevap gelmemişse süresinde cevap verilmemiş sayılarak şikâyet süresi buna göre hesaplanmalıdır.
+Kurum 1 Ekim 2026 tarihli kamuoyu duyurusunda, başvurulara yalnızca telefonla ya da yüz yüze görüşmeyle cevap verilmesinin bu yükümlülüğü karşılamadığını, sözlü iletişimin ancak destekleyici nitelikte olabileceğini ve nihai cevabın yazılı veya elektronik ortamda bildirilmesi gerektiğini açıklamıştır. İlgili kişi vekili açısından bunun pratik sonucu şudur: sözlü bir görüşme yapılmış olsa bile yazılı veya elektronik cevap gelmemişse, şikâyet süresini başvuruya hiç cevap verilmemiş gibi başvuru tarihinden itibaren altmış gün üzerinden hesaplamak en güvenli yoldur.
 
 ## Kurula şikâyet ve Kurulun incelemesi
 
@@ -131,7 +131,7 @@ Kurul kararının bulunması da dava şartı değildir. Kurulun ihlal tespiti, h
 - Görevli mahkeme idare mahkemesidir. m. 18'de ayrı bir dava açma süresi öngörülmediğinden İYUK m. 7'deki genel süre uygulanır: kararın yazılı bildirimini izleyen günden itibaren altmış gün.
 - Dava açılması kural olarak işlemin yürütülmesini durdurmaz; yürütmenin durdurulması, İYUK m. 27'deki iki şartın (açıkça hukuka aykırılık ve telafisi güç veya imkânsız zarar) birlikte gösterilmesiyle istenir.
 - Kabahatler Kanunu'nun genel hükümleri, özel hüküm bulunmadıkça idari para cezalarına uygulanır. Kanununda ödeme süresi gösterilmeyen cezalarda tebliğden itibaren bir ay içinde ödeme yapılırsa dörtte bir oranında indirim uygulanır ve bu ödeme kanun yoluna başvurma hakkını etkilemez (5326 m. 17/6).
-- İptal davası maktu harca tabidir. İstinaf ve temyiz imkânı, 7589 sayılı Kanunla değiştirilen İYUK m. 45 ve 46'nın güncel metnine göre belirlenir.
+- İptal davası maktu harca tabidir. İdare mahkemesi kararına karşı tebliğden itibaren otuz gün içinde bölge idare mahkemesine istinaf yoluna başvurulabilir; İYUK m. 45/1'deki parasal sınırın altında kalan kararlar kesindir. İstinaf incelemesinin sonuçları ve Danıştayda temyiz imkânı, 7589 sayılı Kanunla değiştirilen İYUK m. 45 ve 46'nın güncel metnine göre belirlenir.
 
 Adli yargı yolu (tazminat):
 
