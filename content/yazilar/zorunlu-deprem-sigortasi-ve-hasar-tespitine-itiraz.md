@@ -95,7 +95,7 @@ Hesapta iki sınırlama daha vardır. Genel şartlar A.6'ya göre her hasarda si
 
 Genel şartlar, hasar tespit sonucuna karşı Kurum içinde ayrı bir itiraz mercii, itiraz süresi ya da hakem-bilirkişi usulü öngörmez. B.2'deki yapı bir anlaşma modelidir: DASK'ın belirlemesi sigortalıca kabul edilmezse tazminat miktarı üzerinde anlaşma kurulmamış olur ve uyuşmazlık genel şartlar C.6'daki yollara taşınır. Bu yüzden uygulamada Kuruma yöneltilen yazılı itiraz, hak arama yolunun ön aşaması olarak kullanılmalı; itirazda hangi hasarın atlandığı, hangi kalemin eksik hesaplandığı ve yeniden yapım maliyetinin hangi veriye göre farklı olduğu somut olarak gösterilmelidir.
 
-Deprem sonrasında binaların hızla yıkılması ya da onarılması delil kaybı riskini artırır. Henüz dava açılmamışsa delil tespiti, esas hakkındaki davaya bakacak mahkemeden veya üzerinde keşif ya da bilirkişi incelemesi yapılacak şeyin bulunduğu yer sulh hukuk mahkemesinden istenebilir (HMK m. 401/1). Esas davada delil tespitini yapan mahkemenin görevsiz ve yetkisiz olduğu ileri sürülemez (m. 401/3). Delil tespitinin kapsamı ve koşulları [delil tespiti yazısında](/yazilar/delil-tespiti-ve-kaybolabilecek-deliller/) ayrıca ele alınmıştır.
+Deprem sonrasında binaların hızla yıkılması ya da onarılması delil kaybı riskini artırır. Henüz dava açılmamışsa delil tespiti, esas hakkındaki davaya bakacak mahkemeden veya üzerinde keşif ya da bilirkişi incelemesi yapılacak şeyin bulunduğu yer sulh mahkemesinden istenebilir (HMK m. 401/1). Esas davada delil tespitini yapan mahkemenin görevsiz ve yetkisiz olduğu ileri sürülemez (m. 401/3). Delil tespitinin kapsamı ve koşulları [delil tespiti yazısında](/yazilar/delil-tespiti-ve-kaybolabilecek-deliller/) ayrıca ele alınmıştır.
 
 DASK'ın hasar tespiti yalnızca sigorta tazminatına yöneliktir. 6306 sayılı Kanun kapsamındaki riskli yapı tespiti farklı bir idari işlemdir ve itiraz usulü de ayrıdır; bu konu [riskli yapı tespitine itiraz yazısında](/yazilar/riskli-yapi-tespitine-itiraz/) anlatılmıştır. Bir tespitte toplanan teknik veriler, diğer uyuşmazlıkta delil olarak sunulabilir.
 
@@ -112,7 +112,7 @@ Bina sigortasızsa veya poliçe riziko tarihinde yürürlükte değilse DASK'a k
 - Tapu müdürlükleri, sigortaya tabi bağımsız bölüm ve binalarla ilgili tescil işlemlerini, zorunlu deprem sigortasının yaptırıldığı ve işlem tarihi itibarıyla geçerli olduğu belgelenmedikçe yapamaz (m. 11/2). Taşınmazın kayda tabi olmayan bir taşınmaza dönüşmesi hâli dışındaki terkin işlemleri de aynı kurala tabidir.
 - Sigorta kapsamındaki bina ve bağımsız bölümler için yapılan su ve elektrik abonelik işlemlerinde sigortanın varlığı ilgili kuruluşça kontrol edilir (m. 11/3).
 
-Genel şartların C.4 hükmü 21.08.2026 tarihli Resmî Gazete'de yayımlanan değişiklikle yeniden düzenlenmiştir. Değişiklik, satış ve benzeri devirlerde mevcut sözleşmenin akıbetini ve tapuda yeni malik adına geçerli poliçe aranmasını düzenlediğinden, malik değişikliğinden sonra gerçekleşen depremlerde poliçenin kimin adına ve hangi tarihte düzenlendiği değişiklik metniyle birlikte incelenmelidir.
+Genel şartların C.4 hükmü 21.08.2026 tarihli Resmî Gazete'de yayımlanan değişiklikle yeniden düzenlenmiştir. Değişik C.4'e göre menfaat sahibi satış veya benzeri bir işlemle değişirse sözleşme tapudaki tescil tarihi itibarıyla sona erer. Bu nedenle malik değişikliğinden sonra gerçekleşen depremlerde, yeni malik adına geçerli bir poliçenin hangi tarihte düzenlendiği değişiklik metniyle birlikte incelenmelidir.
 
 ## Usul
 
