@@ -22,7 +22,7 @@ dayanak:
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 142"
     not: "Tazminat istem süresi ve başvuru yeri"
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 144"
-    not: "Tutukluluk süresi başka mahkûmiyetten indirilenlerin tazminat isteyememesi"
+    not: "Tazminat isteyemeyecek kişiler; süresi başka hükümlülükten indirilenlere ilişkin (a) bendi 6459 sayılı Kanunla mülga"
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 268"
     not: "İtiraz usulü ve süresi"
   - ad: "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun m. 98"
@@ -34,11 +34,11 @@ sss:
   - soru: "Hükümde mahsuba karar verilmemişse mahsup hakkı kaybedilir mi?"
     cevap: "Hayır. TCK m. 63 emredici olarak sürenin indirileceğini öngörür. Mahsup infaz hukukuna ilişkin bir işlem olduğundan öğretide infaz aşamasında da yapılabileceği kabul edilmektedir. Müddetnamede süre dikkate alınmamışsa çektirilecek cezanın hesabında duraksama bulunduğu ileri sürülerek 5275 sayılı Kanun m. 98/1-b uyarınca infaz hâkimliğinden karar istenir."
   - soru: "Beraatle sonuçlanan dosyadaki tutukluluk başka bir mahkûmiyetten indirilebilir mi?"
-    cevap: "Şartları varsa evet. TCK m. 63 süreyi belli bir dosyaya bağlamaz. Öğretide aktarıldığına göre Yargıtay Ceza Genel Kurulu, mahsup istenen mahkûmiyete konu suçun, tutukluluğun geçtiği dosyadaki hükmün kesinleşmesinden önce işlenmiş olmasını aramaktadır. Mahsup yapılırsa aynı süre için CMK m. 144 uyarınca tazminat istenemez."
+    cevap: "Şartları varsa evet. TCK m. 63 süreyi belli bir dosyaya bağlamaz. Öğretide aktarıldığına göre Yargıtay Ceza Genel Kurulu, mahsup istenen mahkûmiyete konu suçun, tutukluluğun geçtiği dosyadaki hükmün kesinleşmesinden önce işlenmiş olmasını aramaktadır."
   - soru: "Konutu terk etmeme adli kontrolü cezadan nasıl düşülür?"
     cevap: "CMK m. 109/6'ya göre adli kontrol altında geçen süre kural olarak mahsup edilmez; ancak bu kural konutu terk etmeme ve bağımlılıktan arınmak için tedavi ya da muayene tedbirlerinde uygulanmaz. 7331 sayılı Kanunla eklenen cümle uyarınca konutu terk etmeme yükümlülüğü altında geçen her iki gün, cezadan mahsupta bir gün sayılır."
   - soru: "Gözaltı ve tutukluluk süresi verilen cezadan fazlaysa ne yapılır?"
-    cevap: "Fazla kalan süre için CMK m. 141/1 uyarınca Devletten maddi ve manevi tazminat istenebilir. İstem, kararın kesinleştiğinin tebliğinden itibaren üç ay ve her hâlde kesinleşmeyi izleyen bir yıl içinde yapılmalıdır (CMK m. 142/1). Sürenin başka bir mahkûmiyetten indirilmesi mümkünse mahsup ile tazminat arasında tercih yapılması gerektiği unutulmamalıdır."
+    cevap: "Fazla kalan süre için CMK m. 141/1 uyarınca Devletten maddi ve manevi tazminat istenebilir. İstem, kararın kesinleştiğinin tebliğinden itibaren üç ay ve her hâlde kesinleşmeyi izleyen bir yıl içinde yapılmalıdır (CMK m. 142/1)."
 ---
 Hüküm kesinleşmeden önce kişinin özgürlüğünü kısıtlayan her tedbir, sonradan verilen cezanın bir kısmının fiilen çektirilmesi gibi sonuç doğurur. Türk Ceza Kanunu (TCK) m. 63 bu nedenle bu sürelerin cezadan indirilmesini, yani mahsubunu emreder. Mahsup bir takdir yetkisi değildir; şartları varsa mahkeme ve infaz mercii bu süreyi düşmek zorundadır.
 
@@ -105,15 +105,15 @@ Müddetnamede mahsubun hiç yapılmaması, eksik yapılması ya da başka dosyad
 
 Karar usulü ve itiraz: İnfaz sırasında 5275 sayılı Kanun m. 98 uyarınca verilen kararlara karşı m. 101/3 gereğince itiraz yoluna gidilebilir. İtiraz, CMK m. 268 uyarınca kararın öğrenildiği tarihten itibaren iki hafta içinde, kararı veren merciye dilekçe verilerek veya zabıt kâtibine beyanda bulunularak yapılır. Süre 7499 sayılı Kanunla iki haftaya çıkarılmıştır. Kararı veren merci itirazı yerinde görmezse en geç üç gün içinde itiraz merciine gönderir.
 
-Başvuru hakkı ve deliller: Talep hükümlü, müdafii veya Cumhuriyet başsavcılığınca ileri sürülebilir. Başvuruya müddetname, tutukluluk ve tahliye tarihlerini gösteren UYAP kaydı veya infaz kurumu yazısı, gerekiyorsa diğer dosyanın kesinleşmiş karar örneği eklenir. Sürelerin ispatı resmî kayıtlarla yapılır; tarih ve saatlerin tutanaklarla gösterilmesi, hesaplama farkının kaynağını ortaya koyar.
+Deliller: Başvuruya müddetname, tutukluluk ve tahliye tarihlerini gösteren UYAP kaydı veya infaz kurumu yazısı, gerekiyorsa diğer dosyanın kesinleşmiş karar örneği eklenir. Sürelerin ispatı resmî kayıtlarla yapılır; tarih ve saatlerin tutanaklarla gösterilmesi, hesaplama farkının kaynağını ortaya koyar.
 
 ## Haksız tutuklama tazminatıyla ilişkisi
 
-Mahsup ve tazminat aynı sürenin iki farklı telafi yoludur ve birbirini dışlar. CMK m. 144'e göre kanuna uygun olarak yakalanan, adli kontrol altına alınan veya tutuklananlardan, gözaltı veya tutuklulukta geçen süreleri başka bir suçtan mahkûmiyetlerinden indirilenler tazminat isteyemez. Süre başka bir cezadan düşülmüşse aynı süre için Devletten tazminat istenmesi mümkün değildir.
+Mahsup ve tazminat, hüküm kesinleşmeden önceki özgürlük kısıtlamasının iki ayrı telafi yoludur. CMK m. 144/1'in, gözaltı veya tutuklulukta geçen süreleri başka bir hükümlülükten indirilenlerin tazminat isteyemeyeceğini öngören (a) bendi 6459 sayılı Kanunla 2013'te yürürlükten kaldırılmıştır. Bu nedenle m. 144'te, sürenin başka bir mahkûmiyetten mahsup edilmiş olmasını tazminat istemine açıkça engel sayan bir hüküm artık bulunmamaktadır.
 
 Gözaltı ve tutuklulukta geçen süre hükümlülük süresinden fazlaysa ya da suç için kanunda yalnızca para cezası öngörüldüğünden sadece para cezasına mahkûmiyet kurulmuşsa CMK m. 141/1 uyarınca tazminat istenebilir. Mahsuptan sonra artan süre için de bu yol açıktır. İstem, kararın kesinleştiğinin tebliğinden itibaren üç ay ve her hâlde kesinleşmeyi izleyen bir yıl içinde yapılır (CMK m. 142/1). 7499 sayılı Kanunla beraat, kovuşturmaya yer olmadığı ve fazla tutulma hâllerindeki istemlerin Tazminat Komisyonunca incelenmesi öngörülmüştür; ayrıntılar [haksız tutuklama tazminatı yazımızda](/yazilar/haksiz-tutuklama-tazminati/) yer alır.
 
-Bu nedenle beraat eden müvekkilin başka bir dosyada mahkûmiyet riski varsa tercih bilinçli yapılmalıdır. Tazminat istem süresi kısadır ve kaçırılırsa geri gelmez. Öte yandan mahsup, cezaevinde fiilen geçirilecek süreyi doğrudan azaltır.
+Beraat eden kişinin başka bir dosyada mahkûmiyet riski varsa iki yol birlikte izlenmelidir. Tazminat istem süresi kısadır ve diğer dosyanın sonucu beklenirken kaçırılabilir. Öte yandan mahsup, cezaevinde fiilen geçirilecek süreyi doğrudan azaltır.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
@@ -125,6 +125,6 @@ Sık yapılan hatalar:
 - Başka dosyadan mahsupta suç tarihi ile tutukluluk dosyasının kesinleşme tarihinin karşılaştırılmaması,
 - Konutu terk etmeme süresinin tam gün olarak ya da imza yükümlülüğü gibi kapsam dışı tedbirlerin mahsup talebine dâhil edilmesi,
 - Hükmün yorumuna ilişkin bir talebin infaz hâkimliğine, cezanın hesabına ilişkin bir talebin hükmü veren mahkemeye götürülmesi,
-- Aynı sürenin hem mahsup hem de tazminat konusu yapılması.
+- Mahsup talebi sonuçlanana kadar beklenip CMK m. 142/1'deki tazminat istem süresinin kaçırılması.
 
 Cumhuriyet başsavcılığının muhtemel karşı görüşleri de önceden düşünülmelidir. Savcılık genellikle sürenin daha önce başka bir mahkûmiyetten indirildiğini, mahsup istenen suçun tutukluluk dosyasının kesinleşmesinden sonra işlendiğini, kısıtlamanın şahsi hürriyeti sınırlama niteliği taşımadığını ya da yurt dışındaki tutukluluğun aynı suçtan olmadığını ileri sürer. Bu itirazlara karşı tarihleri gösteren resmî kayıtların ve karar örneklerinin dilekçeye eklenmesi, ek yazışma ihtiyacını ortadan kaldırır.

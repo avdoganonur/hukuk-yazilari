@@ -122,7 +122,7 @@ Kanun, aykırılıkların bir kısmına doğrudan özel hukuk sonucu bağlamış
 İdari yaptırımlar ayrıca öngörülmüştür:
 
 - İK m. 7'ye aykırılık İK m. 99 uyarınca her işçi için idari para cezasını gerektirir; ikinci fıkranın (f) bendine aykırılıkta ceza dört kat artırılarak uygulanır. Ceza tutarları zaman içinde değiştiğinden somut dosyada yürürlükteki tutar kontrol edilmelidir.
-- Yazılı sözleşme yapma şartına uyulmaması, 4904 sayılı Kanun m. 18 uyarınca büronun geçici iş ilişkisi yetkisinin iptali nedenleri arasındadır.
+- Yazılı sözleşme yapma şartına uyulmaması, 4904 sayılı Kanun m. 18'de büronun geçici iş ilişkisi kurma yetkisinin iptal nedenleri arasında sayılmıştır; bu bentte iptal, aykırılığın kanunda öngörülen sayıda tekrarlanmasına bağlıdır.
 
 Kanunda sayılmayan bir hâlde, yetkisiz bir büro aracılığıyla ya da m. 7/4'teki yasak alanlarda kurulan ilişkiler için m. 7'de ayrı bir özel hukuk sonucu yazılı değildir. Bu dosyalarda ilişkinin gerçek niteliği olgulara göre belirlenir: talimatın kimden alındığı, işçinin hangi işverenin organizasyonuna katıldığı ve büronun fiilen bir işveren gibi davranıp davranmadığı. Büro ya da alt işveren görünümünün yalnızca kayıtta kaldığı iddiası muvazaa iddiası olarak ileri sürülür ve bunun ispatı iddia edene düşer.
 
@@ -130,7 +130,7 @@ Kanunda sayılmayan bir hâlde, yetkisiz bir büro aracılığıyla ya da m. 7/4
 
 Görevli mahkeme: İşçi ile işveren arasındaki iş ilişkisinden doğan uyuşmazlıklarda iş mahkemesi görevlidir (7036 sayılı Kanun m. 5/1-a). İş mahkemesi bulunmayan yerlerde davalar asliye hukuk mahkemesinde, iş mahkemesi sıfatıyla ve 7036 sayılı Kanun usulüyle görülür.
 
-Yetkili mahkeme: Davalının davanın açıldığı tarihteki yerleşim yeri mahkemesi yetkilidir; işçinin açacağı davalarda işin veya işlemin yapıldığı yer mahkemesi de yetkilidir (7036 sayılı Kanun m. 6). Geçici işçi için "işin yapıldığı yer" çalıştıran işverenin işyeridir; büronun merkezi başka ilde olsa bile bu yer mahkemesinde dava açılabilir.
+Yetkili mahkeme: Davalı gerçek veya tüzel kişinin davanın açıldığı tarihteki yerleşim yeri mahkemesi ile işin veya işlemin yapıldığı yer mahkemesi yetkilidir (7036 sayılı Kanun m. 6/1). Geçici işçi için "işin yapıldığı yer" çalıştıran işverenin işyeridir; büronun merkezi başka ilde olsa bile bu yer mahkemesinde dava açılabilir.
 
 Dava şartı: Kanuna, bireysel veya toplu iş sözleşmesine dayanan işçi alacağı ve tazminatı davalarında arabulucuya başvurulmuş olması dava şartıdır (7036 sayılı Kanun m. 3). Ayrıntılar [işçilik alacaklarında zorunlu arabuluculuk yazımızda](/yazilar/iscilik-alacaklarinda-zorunlu-arabuluculuk/) yer alır. Birlikte sorumluluk ileri sürülecekse büro ile çalıştıran işveren, holding içi devirde ise devreden ve devralan işveren arabuluculuk başvurusunda birlikte gösterilmelidir.
 
