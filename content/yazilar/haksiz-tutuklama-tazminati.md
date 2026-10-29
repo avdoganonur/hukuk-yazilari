@@ -6,6 +6,7 @@ kisaca:
   - "İstem, kararın kesinleştiğinin tebliğinden itibaren üç ay ve her hâlde kesinleşmeden itibaren bir yıl içinde yapılmalıdır."
   - "Beraat, kovuşturmaya yer olmadığı kararı ve fazla tutulma hâllerinde istemi Tazminat Komisyonu inceler."
   - "Af, şikâyetten vazgeçme ya da uzlaşma nedeniyle dosyası kapanan kişi tazminat isteyemez."
+guncelleme: 2026-10-29
 tarih: 2026-10-18
 alan: tazminat-hukuku
 dayanak:
@@ -23,7 +24,7 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6384&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Tutuklandım ama sonra mahkûm oldum; yine de tazminat isteyebilir miyim?"
-    cevap: "Bazı durumlarda evet. Gözaltında ve tutuklulukta geçen süre, sonunda verilen hükümlülük süresinden fazlaysa ya da işlenen suç için kanunda yalnızca para cezası öngörüldüğü için sonuçta para cezası verilmişse tazminat istenebilir. Ancak tutuklulukta geçen süre başka bir mahkûmiyetten indirilmişse kanun tazminat istenmesine izin vermez."
+    cevap: "Bazı durumlarda evet. Gözaltında ve tutuklulukta geçen süre, sonunda verilen hükümlülük süresinden fazlaysa ya da işlenen suç için kanunda yalnızca para cezası öngörüldüğü için sonuçta para cezası verilmişse tazminat istenebilir. Süresi başka bir mahkûmiyetten indirilenlerin tazminat isteyemeyeceğine ilişkin eski hüküm (CMK m. 144/1-a) 2013'te kaldırılmıştır; ayrıntı için [gözaltı ve tutuklulukta geçen sürenin mahsubu](/yazilar/tutuklulukta-gecen-surenin-mahsubu/) yazısına bakılabilir."
   - soru: "Tazminatı hâkime ya da savcıya karşı dava açarak isteyebilir miyim?"
     cevap: "Hayır. Soruşturma ve kovuşturma sırasında hâkim ve Cumhuriyet savcılarının kararları veya işlemleri nedeniyle açılacak tazminat davaları, kişisel kusur ya da haksız fiil iddiası olsa bile ancak Devlet aleyhine açılabilir. Devlet, ödediği tazminat nedeniyle görevinin gereklerine aykırı hareket ederek görevini kötüye kullanan hâkim ve savcılara bir yıl içinde rücu eder."
   - soru: "Tazminat kararına karşı hangi yola gidilir?"
@@ -71,9 +72,8 @@ Mahkeme dilekçeyi ve belgeleri Hazine temsilcisine tebliğ eder ve beyan ve iti
 
 ## Kimler tazminat isteyemez?
 
-CMK 144. madde, kanuna uygun olarak yakalanan, adli kontrol altına alınan veya tutuklanan kişilerden bazılarının tazminat isteyemeyeceğini söyler:
+CMK 144. madde, kanuna uygun olarak yakalanan, adli kontrol altına alınan veya tutuklanan kişilerden bazılarının tazminat isteyemeyeceğini söyler (süresi başka mahkûmiyetten indirilenlere ilişkin bent 2013'te kaldırılmıştır):
 
-- Gözaltı ve tutukluluk süresi başka bir mahkûmiyetinden indirilenler,
 - Sonradan yürürlüğe giren lehe bir kanun nedeniyle tazminat isteyebilecek duruma gelenler,
 - Af, şikâyetten vazgeçme veya uzlaşma gibi nedenlerle kovuşturmaya yer olmadığına, davanın düşmesine ya da kamu davasının ertelenmesine karar verilenler,
 - Kusur yeteneği bulunmadığı için ceza verilmesine yer olmadığına karar verilenler,
