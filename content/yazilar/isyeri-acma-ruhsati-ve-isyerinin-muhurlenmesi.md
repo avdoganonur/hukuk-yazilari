@@ -26,7 +26,7 @@ dayanak:
   - ad: "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik m. 23"
     not: "İkinci ve üçüncü sınıf gayrisıhhi müesseselerin kontrolü ve ruhsat iptali"
   - ad: "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik m. 39"
-    not: "Umuma açık istirahat ve eğlence yerlerinde mülki amirce faaliyetten men"
+    not: "Umuma açık istirahat ve eğlence yerlerinde mülki amirce geçici faaliyetten men"
   - ad: "1608 sayılı Umuru Belediyeye Müteallik Ahkamı Cezaiye Hakkında 16 Nisan 1340 Tarih ve 486 Numaralı Kanunun Bazı Maddelerini Muaddil Kanun m. 1"
     not: "Encümence idari para cezası ve yasaklanan faaliyetin meni"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1608&MevzuatTur=1&MevzuatTertip=3"
@@ -45,9 +45,9 @@ dayanak:
     not: "Yürütmenin durdurulması"
 sss:
   - soru: "Ruhsatsız işyerini kapatmadan önce işletmeciye süre verilmesi zorunlu mudur?"
-    cevap: "Yönetmeliğin 6. maddesi ruhsatsız açılan işyerinin kapatılmasını öngörür ve bunun için ayrıca süre verilmesini şart koşmaz. Bir defaya mahsus on beş günlük süre, 13. ve 23. maddelerde ruhsat verilmiş işyerinin sonradan yapılan denetiminde tespit edilen aykırılıklar için düzenlenmiştir. 1608 sayılı Kanun m. 1'e göre ise encümen kararında ilgiliye süre verilebilir; bu bir zorunluluk değil, imkândır."
+    cevap: "Yönetmeliğin 6. maddesi ruhsatsız açılan işyerinin kapatılmasını öngörür ve bunun için ayrıca süre verilmesini şart koşmaz. Bir defaya mahsus on beş günlük süre, 13. ve 23. maddelerde ruhsat verilmiş işyerinin kontrolünde tespit edilen noksanlık ve aykırılıklar için düzenlenmiştir. 1608 sayılı Kanun m. 1'e göre ise encümen kararında ilgiliye süre verilebilir; bu bir zorunluluk değil, imkândır."
   - soru: "Encümenin para cezasına sulh ceza hâkimliğine mi, idare mahkemesine mi itiraz edilir?"
-    cevap: "Yalnızca idari para cezası verilmişse Kabahatler Kanunu m. 27 uyarınca on beş gün içinde sulh ceza hâkimliğine başvurulur. Para cezası ile birlikte idari yargının görev alanına giren faaliyetten men veya kapatma kararı da aynı işlemle verilmişse, m. 27/8 uyarınca para cezasına ilişkin iddialar da iptal davasıyla birlikte idare mahkemesinde ileri sürülür."
+    cevap: "Yalnızca idari para cezası verilmişse Kabahatler Kanunu m. 27 uyarınca on beş gün içinde sulh ceza hâkimliğine başvurulur. Para cezası ile birlikte aynı kişi hakkında idari yargının görev alanına giren faaliyetten men veya kapatma kararı da verilmişse, m. 27/8 uyarınca para cezasına ilişkin iddialar da iptal davasıyla birlikte idare mahkemesinde ileri sürülür."
   - soru: "İptal davası açmak mühürlerin açılmasını sağlar mı?"
     cevap: "Hayır. Dava açılması işlemin uygulanmasını kendiliğinden durdurmaz. Yürütmenin durdurulması kararı alınıncaya kadar mühür yerinde kalır; bu dönemde mührün kendiliğinden kaldırılması TCK m. 203 kapsamında suç oluşturabilir."
   - soru: "Mühürleme hukuka aykırıysa mühür bozma suçu yine oluşur mu?"
@@ -55,7 +55,7 @@ sss:
 ---
 Ruhsatsız çalıştığı veya ruhsatına aykırı faaliyet gösterdiği gerekçesiyle kapatılan bir işyerinde aynı olay çoğu zaman üç ayrı hukuki sürece dönüşür: kapatma ve mühürleme işlemine karşı idari dava, belediye encümeninin verdiği idari para cezası ve mühür kaldırılırsa TCK m. 203'e göre ceza soruşturması. Bu süreçler farklı yargı yerlerinde ve farklı sürelere bağlı olarak yürür. Hangi işleme hangi yolla, hangi sürede karşı çıkılacağının baştan doğru belirlenmesi, dosyanın sonucunu çoğu zaman esastan daha fazla etkiler.
 
-Konunun dayanakları 3572 sayılı İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun, bu Kanuna dayanılarak çıkarılan İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik, 1608 sayılı Kanun m. 1, 5326 sayılı Kabahatler Kanunu ve 5237 sayılı Türk Ceza Kanunu m. 203'tür. Yönetmelikte 11.12.2025 tarihinde yapılan değişiklik ağırlıklı olarak tanımları, konaklama yerlerini ve Bakanlıkça ruhsat verilmesini düzenlemiş; aşağıda ele alınan 6, 13, 23 ve 39. maddelere dokunmamıştır.
+Konunun dayanakları 3572 sayılı İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun, bu Kanuna dayanılarak çıkarılan İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik, 1608 sayılı Kanun m. 1, 5326 sayılı Kabahatler Kanunu ve 5237 sayılı Türk Ceza Kanunu m. 203'tür. Yönetmelikte 11.12.2025 tarihli Resmî Gazete'de yayımlanan değişiklik ağırlıklı olarak tanımları, konaklama yerlerini ve Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca ruhsat düzenlenmesini (m. 45/A) konu almıştır; aşağıda anılan hükümlerin dosya tarihindeki metni yine de ayrıca kontrol edilmelidir.
 
 ## Yetkili idare ve ruhsatın hukuki niteliği
 
@@ -78,7 +78,7 @@ Bu nedenle ruhsatsız kapatmaya karşı açılan davada savunmanın ağırlığ�
 - İşlemi kuran idarenin yetkili idare olup olmadığı,
 - Kapatma işleminin kime ve hangi işyerine yönelik olduğu, tespit tutanağının içeriği.
 
-Umuma açık istirahat ve eğlence yerleri için ayrı bir rejim vardır. Yönetmelik m. 39'a göre bu yerlerin ruhsatsız işletildiğinin tespiti hâlinde mahallin en büyük mülki amiri faaliyetten men kararı verir ve bu men ruhsat alınıncaya kadar süresizdir. Bu durumda işlemi kuran makam belediye değil valilik veya kaymakamlık olduğundan davalı idare de buna göre belirlenmelidir.
+Umuma açık istirahat ve eğlence yerleri için ayrı bir rejim vardır. Yönetmelik m. 39, 2559 sayılı Kanun m. 8'de sayılan hâllerde bu yerlerin mahallin en büyük mülki amirince geçici olarak faaliyetten men edilmesini düzenler; karar yetkili idarece işyeri mühürlenerek uygulanır. Bu durumda işlemi kuran makam belediye değil valilik veya kaymakamlık olduğundan davalı idare de buna göre belirlenmelidir.
 
 ## Ruhsatlı işyerinde denetim ve ruhsat iptali
 
@@ -86,7 +86,7 @@ Umuma açık istirahat ve eğlence yerleri için ayrı bir rejim vardır. Yönet
 
 Yönetmelik bu kuralı işyeri sınıflarına göre ayrıntılandırır. Sıhhi işyerleri için 13. maddeye göre ruhsat verilen işyerleri ruhsatın verildiği tarihten itibaren en geç bir ay içinde kontrol edilir; bu süre içinde kontrol edilmeyen işyerinin ruhsatı kesinleşir. Kontrolde noksanlık ve aykırılık tespit edilirse işyerine bu noksanlık ve hataları gidermesi için bir defaya mahsus olmak üzere on beş günlük süre verilir. Verilen süre içinde giderilmezse ruhsat iptal edilerek işyeri kapatılır. 23. madde, ikinci ve üçüncü sınıf gayrisıhhi müesseseler için bir aylık kontrolü ve sonuçta ruhsatın yetkili idarece iptal edilerek işyerinin kapatılmasını benzer şekilde düzenler.
 
-Çevre, Şehircilik ve İklim Değişikliği Bakanlığının 13.05.2024 tarihli görüş yazısı da ruhsat sonrası denetimde aykırılık tespit edilirse bir defaya mahsus on beş gün süre verileceğini, eksikler giderilmezse ruhsatın iptal edilip işyerinin kapatılacağını aynı şekilde açıklamıştır.
+Bakanlığın (Yerel Yönetimler Genel Müdürlüğü) 08.03.2022 tarihli görüş yazısında ise 13. ve 23. maddelerdeki kontrolün ruhsat kesinleşmeden önce yapılan kontrol olduğu belirtilmiştir. Aynı yazıya göre kesinleşmiş ruhsatlı işyerinde sonradan yapılan denetimlerde Yönetmeliğin Ek-3'ündeki kademeli rejim (bir defaya mahsus süre, 1608 sayılı Kanuna göre idari para cezası ve geçici faaliyetten men) uygulanır ve tesis edilmiş bir ruhsatın bu yolla iptaline ilişkin bir hüküm bulunmamaktadır. Bu nedenle ruhsat iptalinde denetimin ruhsatın kesinleşmesinden önce mi sonra mı yapıldığı ayrıca sorgulanmalıdır.
 
 Uygulamada en sık rastlanan hukuka aykırılık, on beş günlük sürenin hiç verilmeden veya süre bitmeden ruhsatın iptal edilmesidir. İkinci sık görülen sorun, denetim tutanağında hangi noksanlığın hangi kritere aykırı olduğunun gösterilmemesidir. İptal davasında idarenin işlem dosyası istenerek bu iki husus ilk elden kontrol edilmelidir.
 
@@ -94,12 +94,12 @@ Uygulamada en sık rastlanan hukuka aykırılık, on beş günlük sürenin hiç
 
 Kapatmanın yanında belediye encümeni ayrıca para cezası verebilir. 1608 sayılı Kanun m. 1'e göre belediye meclis ve encümenlerinin kanun, nizam ve talimatnamelerin verdiği görev ve yetki çerçevesinde aldıkları kararlara aykırı hareket edenlere ve belediye mevzuatının yasakladığı veya emrettiği fiilleri işleyen veya yapmayanlara belediye encümenince Kabahatler Kanunu'nun 32. maddesine göre idari para cezası ve yasaklanan faaliyetin menine karar verilir. Bu kararda ilgiliye bir süre de verilebilir. Encümen belirli bir fiilin muayyen bir süre içinde yapılmasını da emredebilir; yapılmazsa iş belediyece yapılır ve masraf yüzde yirmi zammıyla tahsil edilir. Madde, ilgili kanunda ayrıca hüküm bulunmayan hâllerde uygulanır.
 
-Tutar, Kabahatler Kanunu m. 32'ye bağlıdır ve her yıl yeniden değerleme oranında güncellenir; dosyada fiil tarihinde geçerli tutar kontrol edilmelidir. Sayıştay denetim bulgularında, ruhsatsız işyerlerine yalnızca faaliyetten men kararı verilmesinin yeterli olmadığı, 1608 sayılı Kanun m. 1 uyarınca idari para cezasının da uygulanması gerektiği belirtilmiştir.
+Tutar, Kabahatler Kanunu m. 32'ye bağlıdır ve her yıl yeniden değerleme oranında güncellenir; dosyada fiil tarihinde geçerli tutar kontrol edilmelidir.
 
 Yargı yolu bakımından ayrım şudur:
 
 - Yalnızca idari para cezası verilmişse Kabahatler Kanunu m. 27 uyarınca kararın tebliğ veya tefhiminden itibaren on beş gün içinde sulh ceza hâkimliğine başvurulur. Ayrıntılar [idari para cezasına itiraz](/yazilar/idari-para-cezasina-itiraz/) yazısındadır.
-- Para cezası ile birlikte idari yargının görev alanına giren bir karar (faaliyetten men, kapatma) aynı işlemle verilmişse, m. 27/8 uyarınca idari yaptırım kararına ilişkin hukuka aykırılık iddiaları da bu işlemin iptali istemiyle birlikte idari yargı merciinde görülür. Uyuşmazlık Mahkemesi de aynı işlemle verilen para cezası ve başka bir idari yaptırım bakımından bu kuralı uygulayarak idari yargıyı görevli bulmaktadır.
+- Para cezası ile birlikte aynı kişi hakkında idari yargının görev alanına giren bir karar (faaliyetten men, kapatma) da verilmişse, m. 27/8 uyarınca idari yaptırım kararına ilişkin hukuka aykırılık iddiaları da bu işlemin iptali istemiyle birlikte idari yargı merciinde görülür. Uyuşmazlık Mahkemesi de encümenin para cezası ile birlikte verilen başka bir kararının dava konusu yapıldığı uyuşmazlıklarda bu kuralı uygulayarak idari yargıyı görevli bulmaktadır.
 
 Encümen kararı tek belgede hem para cezası hem faaliyetten men içeriyorsa, para cezasını sulh ceza hâkimliğine, meni idare mahkemesine taşımak görev itirazı riskini doğurur. İki yaptırımın aynı işlemle mi, ayrı işlemlerle mi verildiği karar metninden tespit edilmelidir.
 
@@ -125,7 +125,7 @@ Anayasa Mahkemesi, maddedeki "veya yetkili makamların emri uyarınca" ibaresini
 - Harç: İdari yargıda maktu harç ödenir.
 - İspat: Ruhsatsızlığın veya aykırılığın tespiti idarenin yükündedir; zabıta tutanağı, denetim raporu ve on beş günlük sürenin verildiğini gösteren tebliğ belgesi işlem dosyasında bulunmalıdır.
 - Yürütmenin durdurulması: İYUK m. 27'deki şartlarla istenir; telafisi güç veya imkânsız zarar ile işlemin açıkça hukuka aykırılığı birlikte gösterilmelidir. Kapalı kalan işyerinde zarar unsuru genellikle kolay ortaya konur; asıl tartışma açık hukuka aykırılık üzerindedir. Ayrıntılar [yürütmenin durdurulması](/yazilar/idari-yargida-yurutmenin-durdurulmasi/) yazısındadır.
-- Kanun yolu: İstinaf ve temyiz İYUK'un genel düzenine tabidir; İYUK m. 45 ve 46, 7589 sayılı Kanunla (RG 31.07.2026) değiştirildiğinden başvuru güncel metne göre yapılmalıdır.
+- Kanun yolu: İstinaf ve temyiz İYUK'un genel düzenine tabidir; İYUK'un istinaf ve temyize ilişkin hükümlerinde 7589 sayılı Kanunla (RG 31.07.2026) değişiklik yapıldığından başvuru güncel metne göre yapılmalıdır.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
