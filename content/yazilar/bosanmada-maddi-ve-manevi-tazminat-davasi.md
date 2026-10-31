@@ -39,6 +39,8 @@ dayanak:
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 26"
     not: "Hâkimin taleple bağlılığı"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
+  - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 109"
+    not: "Kısmi davada talep konusunun bir defaya mahsus artırılması (7589 sayılı Kanunla eklenen dördüncü fıkra)"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 176"
     not: "Islah"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 307"
@@ -60,7 +62,7 @@ sss:
   - soru: "Davalı eş tazminatı nasıl talep etmelidir?"
     cevap: "Hâkim taleple bağlı olduğundan (HMK m. 26) davalının tazminat talebini cevap dilekçesinde açıkça, miktarını göstererek ve harcını yatırarak ileri sürmesi gerekir. Talebin yalnızca savunma içinde dolaylı biçimde anılması yeterli değildir; talep sonucu ayrıca yazılmalıdır."
   - soru: "Tazminat miktarı yargılama sırasında artırılabilir mi?"
-    cevap: "Talep sonucu, tahkikat sona erinceye kadar bir defaya mahsus ıslahla artırılabilir (HMK m. 176-177). Belirsiz alacak davasını düzenleyen HMK m. 107, 7589 sayılı Kanunla yürürlükten kaldırıldığından bu yolun yerine, miktarın baştan özenle belirlenmesi ve gerekirse ıslah imkânının saklı tutulması gerekir."
+    cevap: "Belirsiz alacak davasını düzenleyen HMK m. 107, 7589 sayılı Kanunla yürürlükten kaldırılmıştır. Alacağın yalnızca bir kısmı dava edilmişse talep konusu, aynı davada bir defaya mahsus olmak üzere iddianın genişletilmesi yasağına tabi olmaksızın tahkikatın sona ermesine kadar artırılabilir; artırılan kısım bakımından da zamanaşımı dava tarihinden itibaren kesilmiş sayılır (HMK m. 109/4). Bunun dışında talep sonucu, tahkikat sona erinceye kadar bir defaya mahsus ıslahla artırılabilir (HMK m. 176-177)."
   - soru: "Anlaşmalı boşanmada tazminattan feragat edilmesi geçerli midir?"
     cevap: "Maddi ve manevi tazminat talepleri tarafların serbestçe tasarruf edebileceği haklardır; protokolde feragat ya da belirli bir miktar üzerinde uzlaşma mümkündür. Ancak boşanmanın fer'î sonuçlarına ilişkin anlaşmalar hâkim tarafından onaylanmadıkça geçerli olmaz (TMK m. 184/5). Onaylanan protokol hükmün parçası olur."
 ---
@@ -108,10 +110,10 @@ Manevi tazminatın lafzı, maddi tazminattan farklı olarak isteyen eşin "kusur
 
 ## Kusur karşılaştırması ve miktarın belirlenmesi
 
-Tazminat taleplerinin sonucu, mahkemenin gerekçede her iki eşe yüklediği kusurlu davranışları somut olarak tespit edip karşılaştırmasına bağlıdır. Uygulamada en sık bozma ve kaldırma sebepleri bu aşamada doğar. Dikkat edilmesi gereken noktalar:
+Tazminat taleplerinin sonucu, mahkemenin gerekçede her iki eşe yüklediği kusurlu davranışları somut olarak tespit edip karşılaştırmasına bağlıdır. Dikkat edilmesi gereken noktalar:
 
 - Kusur, yalnızca ispatlanmış vakıalara dayandırılabilir. TMK m. 184/1 uyarınca hâkim, olguların varlığına vicdanen kanaat getirmedikçe bunları ispatlanmış sayamaz; tarafların ikrarı hâkimi bağlamaz (m. 184/3).
-- Taraflardan birinin ileri sürmediği bir vakıa onun lehine kusur olarak değerlendirilemez. Vakıaların dilekçeler aşamasında eksiksiz bildirilmesi bu nedenle önemlidir; dilekçelerin karşılıklı verilmesinden sonra iddia ve savunma ancak ıslah ya da açık muvafakatle genişletilebilir (HMK m. 141).
+- Kusur, tarafların ileri sürdüğü vakıalar üzerinden belirleneceğinden vakıaların dilekçeler aşamasında eksiksiz bildirilmesi önemlidir; dilekçelerin karşılıklı verilmesinden sonra iddia ve savunma ancak ıslah ya da açık muvafakatle genişletilebilir (HMK m. 141).
 - Kusur oranı tazminatın varlığını olduğu kadar miktarını da etkiler. TBK m. 51, tazminatın belirlenmesinde özellikle kusurun ağırlığının gözetileceğini öngörür.
 
 Kanun "uygun" bir tazminattan söz eder; miktarın belirlenmesinde hâkim TMK m. 4 uyarınca hukuka ve hakkaniyete göre karar verir. Tarafların sosyal ve ekonomik durumları, evlilik süresi, kusurun ağırlığı, saldırının niteliği ve etkisi bu takdirde göz önüne alınır. Manevi tazminat zenginleşme aracı değildir; ancak saldırının ağırlığıyla orantısız düşük bir miktar da takdirin hatalı kullanıldığı anlamına gelir. Her iki yön istinaf incelemesinde ayrıca denetlenebilir.
@@ -132,7 +134,7 @@ Tazminat talepleri, boşanma talebinden farklı olarak tarafların serbestçe ta
 ## Usul
 
 - Görevli mahkeme: aile mahkemesidir (4787 sayılı Kanun m. 4); aile mahkemesi kurulamayan yerlerde Hâkimler ve Savcılar Yüksek Kurulunca belirlenen asliye hukuk mahkemesi bakar (m. 2).
-- Yetkili mahkeme: tazminat boşanma davasıyla birlikte istenirse TMK m. 168'deki yetki kuralı uygulanır (eşlerden birinin yerleşim yeri veya davadan önce son altı aydan beri birlikte oturdukları yer). Boşanmadan sonra açılacak ayrı tazminat davası için TMK m. 177'deki özel yetki kuralı yalnızca nafaka davalarına ilişkindir; ayrı tazminat davasında yetki genel hükümlere göre belirlenir.
+- Yetkili mahkeme: tazminat boşanma davasıyla birlikte istenirse TMK m. 168'deki yetki kuralı uygulanır (eşlerden birinin yerleşim yeri veya davadan önce son defa altı aydan beri birlikte oturdukları yer). Boşanmadan sonra açılacak davalar bakımından TMK m. 177'deki özel yetki kuralı yalnızca nafaka davalarına ilişkindir; TMK'da boşanmadan sonra ayrıca açılan tazminat davası için özel bir yetki kuralı öngörülmemiştir.
 - Dava şartı: TMK ve 4787 sayılı Kanun, boşanmaya bağlı tazminat talepleri için dava şartı olarak arabuluculuk öngörmez. 6325 sayılı Kanun m. 1/2 ayrıca aile içi şiddet iddiası içeren uyuşmazlıkları arabuluculuğa elverişli saymaz.
 - Süre: TMK m. 178 uyarınca boşanmadan doğan dava hakları, boşanma hükmünün kesinleşmesinin üzerinden bir yıl geçmekle zamanaşımına uğrar. Süre hak düşürücü değil zamanaşımı niteliğinde olduğundan hâkim tarafından kendiliğinden göz önüne alınamaz (TBK m. 161); davalının def'i olarak ileri sürmesi gerekir.
 - Harç: tazminat talepleri konusu belli bir değerle ilgili talepler olduğundan (1) sayılı tarifenin karar ve ilam harcına ilişkin III-1-a bendine göre nispi harca tabidir; nispi harcın dörtte biri peşin alınır (492 sayılı Kanun m. 28/a). Boşanma talebi bakımından ise maktu harç uygulanır. Harçlar Kanunu m. 16 uyarınca değer tayini mümkün olan hâllerde dilekçede değer gösterilmesi zorunludur. Harç tutarları her yıl yeniden belirlendiği için güncel tarife ayrıca kontrol edilmelidir.

@@ -3,7 +3,7 @@ baslik: "Evlilik Birliğinin Temelinden Sarsılması Nedeniyle Boşanma"
 aciklama: "TMK m. 166 kapsamında genel boşanma sebebi: unsurlar, ispat, davalının itirazı ve hakkın kötüye kullanılması, anlaşmalı boşanma ve fiili ayrılık."
 kisaca:
   - "TMK m. 166/1, ortak hayatın sürdürülmesinin beklenemeyeceği derecede temelinden sarsılmayı genel boşanma sebebi olarak düzenler."
-  - "Davacının kusuru daha ağırsa davalının itiraz hakkı vardır; itiraz hakkın kötüye kullanılmasıysa boşanmaya karar verilebilir."
+  - "Davacının kusuru daha ağırsa davalı itiraz edebilir; itiraz kötüye kullanılıyor ve korunmaya değer yarar kalmamışsa boşanmaya karar verilebilir."
   - "Hâkim olguların varlığına vicdanen kanaat getirmelidir; tarafların ikrarı bağlamaz ve yemin delili kullanılamaz."
   - "Evlilik en az bir yıl sürmüşse davanın kabulü ya da birlikte başvuru hâlinde birlik temelinden sarsılmış sayılır."
 tarih: 2026-10-31
@@ -74,9 +74,9 @@ Hükmün lafzından şu sonuçlar çıkar:
 
 Fıkra iki unsuru birlikte arar.
 
-Birincisi, birliğin temelinden sarsılmasıdır. Geçici ve olağan anlaşmazlıklar bu eşiği aşmaz. Sarsılmaya yol açan olayların niteliği, sıklığı, süresi ve eşler üzerindeki etkisi birlikte değerlendirilir. Dilekçelerde sıkça ileri sürülen olgulara örnek olarak ekonomik şiddet, ilgisizlik, aile bireylerinin evliliğe müdahalesine sessiz kalma, ortak konutta ayrı yaşama, güven sarsıcı davranışlar, sadakat yükümlülüğüne aykırı ancak zina eşiğine ulaşmayan davranışlar sayılabilir. Bu örnekler kendiliğinden sonuç doğurmaz; her birinin vakıa olarak somutlaştırılması ve ispatı gerekir.
+Birincisi, birliğin temelinden sarsılmasıdır. Geçici ve olağan anlaşmazlıklar bu eşiği aşmaz. Sarsılmaya yol açan olayların niteliği, sıklığı, süresi ve eşler üzerindeki etkisi birlikte değerlendirilir. Kanun bu olayları saymadığından ileri sürülen her olgu kendiliğinden sonuç doğurmaz; her birinin vakıa olarak somutlaştırılması ve ispatı gerekir.
 
-İkincisi, ortak hayatın sürdürülmesinin eşlerden beklenemez hâle gelmesidir. Bu unsur nesnel bir ölçüdür: aynı durumdaki makul bir eşten birlikte yaşamaya devam etmesinin beklenip beklenemeyeceği sorulur. Eşlerin sosyal çevresi, evlilik süresi, çocukların varlığı gibi kişisel unsurlar bu değerlendirmede hâkimin TMK m. 4'teki takdir yetkisinin konusu olur.
+İkincisi, ortak hayatın sürdürülmesinin eşlerden beklenemez hâle gelmesidir. Kanun bu beklenemezliği "kendilerinden", yani somut dosyadaki eşler bakımından arar. Eşlerin sosyal çevresi, evlilik süresi, çocukların varlığı gibi kişisel unsurlar bu değerlendirmede hâkimin TMK m. 4'teki takdir yetkisinin konusu olur.
 
 Kusur, m. 166/1'in kurucu unsuru değildir; ancak kusurun belirlenmesi üç bakımdan zorunludur: davalının m. 166/2'deki itiraz hakkı, TMK m. 174'e dayalı tazminat talepleri ve TMK m. 175'teki yoksulluk nafakası. Bu nedenle mahkemenin gerekçede her iki eşe yüklenen kusurlu davranışları ayrı ayrı göstermesi gerekir. Tazminat bakımından ayrıntı için [boşanmada maddi ve manevi tazminat talebinin şartları ve usulü](/yazilar/bosanmada-maddi-ve-manevi-tazminat-davasi/) yazısına bakılabilir.
 
@@ -87,11 +87,11 @@ Kusur, m. 166/1'in kurucu unsuru değildir; ancak kusurun belirlenmesi üç bak�
 Hükmün yapısı şu şekilde çözümlenebilir:
 
 - İtiraz hakkının doğması için davacının kusurunun davalınınkinden daha ağır olması gerekir. Eşit kusurda ya da davalının daha ağır kusurlu olduğu hâlde itiraz hakkı doğmaz.
-- İtiraz, davalının boşanmaya karşı çıkmasıdır; açık bir irade beyanı gerektirir. Davalının yalnızca vakıaları inkâr etmesi ile davacının ağır kusuruna dayanarak boşanmaya itiraz etmesi birbirinden ayrı tutulmalıdır.
+- İtiraz, davalının boşanmaya karşı çıkmasıdır.
 - İtiraz kural olarak davanın reddi sonucunu doğurur.
 - İstisna için iki şart birlikte aranır: itirazın hakkın kötüye kullanılması niteliğinde olması (TMK m. 2/2) ve evlilik birliğinin devamında davalı ve çocuklar bakımından korunmaya değer bir yarar kalmamış olması. Fıkradaki "ve" bağlacı karşısında yalnızca birinin varlığı yetmez.
 
-Hakkın kötüye kullanılması, itirazın evliliği sürdürme amacından çok davacıyı cezalandırma, onu yeni bir hayat kurmaktan alıkoyma ya da ekonomik baskı aracı olarak kullanılması hâlinde gündeme gelebilir. Ortak hayatın uzun süredir fiilen sona ermiş olması, davalının barışma yönünde hiçbir somut adım atmaması gibi olgular bu değerlendirmede dikkate alınabilir. İspat yükü, itirazın kötüye kullanıldığını ileri süren davacıdadır (TMK m. 6).
+İtirazın hakkın kötüye kullanılması niteliğinde olup olmadığı somut olayın bütün koşulları değerlendirilerek belirlenir; TMK m. 2/2 yalnızca hakkın açıkça kötüye kullanılmasını korumaz. İspat yükü, itirazın kötüye kullanıldığını ileri süren davacıdadır (TMK m. 6).
 
 Davacı vekili açısından önemli bir usul notu: itiraz hakkı ancak davacının kusurunun daha ağır olduğu tespit edildiğinde işlev görür. Bu nedenle davacının kusur durumuna ilişkin delillerin toplanması, itirazın dinlenip dinlenmeyeceğini doğrudan belirler.
 
@@ -105,13 +105,13 @@ Davacı vekili açısından önemli bir usul notu: itiraz hakkı ancak davacın�
 
 gerekir. Bu hâlde tarafların ikrarlarının hâkimi bağlamayacağı hükmü uygulanmaz.
 
-Uygulamada en sık karşılaşılan durum, çekişmeli olarak açılan davanın yargılama sırasında davalının kabulüyle anlaşmalı boşanmaya dönüşmesidir. Kabul beyanının, protokolün ve tarafların bizzat dinlenmesinin aynı duruşmada tamamlanması, sonradan irade sakatlığı iddialarının önünü keser. Evlilik bir yıldan kısa sürmüşse kabul beyanı m. 166/3 sonucunu doğurmaz; TMK m. 184/3 gereği ikrar hâkimi bağlamadığından sebebin ispatı gerekir. Protokolün içeriği için [anlaşmalı boşanmanın şartları ve protokol](/yazilar/anlasmali-bosanma-sartlari-ve-protokol/) yazısına bakılabilir.
+Çekişmeli olarak açılan dava, yargılama sırasında davalının kabulüyle de bu fıkra kapsamında sonuçlanabilir. Bu durumda da hâkimin tarafları bizzat dinlemesi ve malî sonuçlar ile çocukların durumuna ilişkin düzenlemeyi uygun bulması gerekir. Evlilik bir yıldan kısa sürmüşse kabul beyanı m. 166/3 sonucunu doğurmaz; TMK m. 184/3 gereği ikrar hâkimi bağlamadığından sebebin ispatı gerekir. Protokolün içeriği için [anlaşmalı boşanmanın şartları ve protokol](/yazilar/anlasmali-bosanma-sartlari-ve-protokol/) yazısına bakılabilir.
 
 ## Fiili ayrılık nedeniyle boşanma (m. 166/4)
 
 7532 sayılı Kanunla değişik dördüncü fıkraya göre, boşanma sebeplerinden herhangi biriyle açılmış davanın reddine karar verilmesi ve bu kararın kesinleştiği tarihten başlayarak bir yıl geçmesi hâlinde, her ne sebeple olursa olsun ortak hayat yeniden kurulamamışsa evlilik birliği temelden sarsılmış sayılır ve eşlerden birinin istemi üzerine boşanmaya karar verilir. Bu fıkrada kusur araştırması boşanma kararı için gerekli değildir; aranan şartlar önceki davanın reddi, ret kararının kesinleşmesi, bir yıllık sürenin dolması ve ortak hayatın bu sürede yeniden kurulamamasıdır. Ayrıntılar için [fiili ayrılık nedeniyle boşanma](/yazilar/fiili-ayrilik-nedeniyle-bosanma/) yazısına bakılabilir.
 
-Bu fıkra, m. 166/2'deki itirazla reddedilen davalar bakımından önemli bir sonuç doğurur: daha ağır kusurlu eşin davası itiraz üzerine reddedilmiş olsa bile, ret kararının kesinleşmesinden itibaren bir yıl içinde ortak hayat yeniden kurulamamışsa bu eş m. 166/4'e dayanarak yeniden dava açabilir.
+Bu fıkra, m. 166/2'deki itirazla reddedilen davalar bakımından önemli bir sonuç doğurur: daha ağır kusurlu eşin davası itiraz üzerine reddedilmiş olsa bile, ret kararının kesinleşmesinden başlayarak bir yıl geçmiş ve bu sürede ortak hayat yeniden kurulamamışsa bu eş m. 166/4'e dayanarak yeniden dava açabilir.
 
 ## Özel boşanma sebepleriyle ilişkisi
 
@@ -148,6 +148,6 @@ Sık yapılan hatalar:
 - Dilekçeler aşamasından sonra yeni kusur vakıası ileri sürülmesi. HMK m. 141 uyarınca bu ancak ıslah ya da karşı tarafın açık muvafakatiyle mümkündür.
 - Davalı vekilinin karşı kusur iddialarını cevap dilekçesinde ileri sürmemesi. Davalının kusur iddiası, ileride m. 166/2'deki itiraz hakkının ve fer'î taleplerin dayanağıdır.
 - Hukuka aykırı yollarla elde edilen kayıtların tek delil olarak sunulması (HMK m. 189/2).
-- Davalının, itiraz hakkını kullanacaksa bunu açıkça beyan etmemesi; yalnızca inkâr, itiraz hakkının kullanıldığı anlamına gelmez.
+- Davalının, itiraz hakkını kullanacaksa boşanmaya karşı çıktığını cevap dilekçesinde açıkça yazmaması.
 
 Karşı tarafın muhtemel savunmaları: ileri sürülen olayların birliği temelinden sarsacak ağırlıkta olmadığı, olayların affedildiği ya da hoş görüldüğü, davacının daha ağır kusurlu olduğu ve m. 166/2 uyarınca boşanmaya itiraz edildiği, tanık beyanlarının duyuma dayandığı, delillerin hukuka aykırı elde edildiği. Davacı vekili, itiraz ihtimaline karşı itirazın hakkın kötüye kullanılması niteliğinde olduğunu ve birliğin devamında davalı ile çocuklar bakımından korunmaya değer yarar kalmadığını gösteren olguları da baştan somutlaştırmalıdır. Davanın itiraz üzerine reddi hâlinde m. 166/4 yolunun açık olduğu müvekkile ayrıca anlatılmalıdır.
