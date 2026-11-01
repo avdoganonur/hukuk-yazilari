@@ -11,7 +11,7 @@ alan: vergi-hukuku
 dayanak:
   - ad: "492 sayılı Harçlar Kanunu m. 31"
     not: "Peşin alınan karar ve ilam harcının fazlasının istek üzerine geri verilmesi"
-    baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=492&MevzuatTur=1&MevzuatTertip=4"
+    baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=492&MevzuatTur=1&MevzuatTertip=5"
   - ad: "492 sayılı Harçlar Kanunu m. 32"
     not: "Yargı harcı ödenmeden sonraki işlemlerin yapılmaması"
   - ad: "213 sayılı Vergi Usul Kanunu m. 1"
@@ -117,7 +117,7 @@ Süreler:
 
 Sürenin hesabı, tatil ve adli ara verme etkisi için [vergi mahkemesinde dava açma süresi](/yazilar/vergi-mahkemesinde-dava-acma-suresi/) yazısına bakılabilir.
 
-Harç: Vergi mahkemesinde açılan davada başvurma harcı maktudur; karar harcı ve diğer yargı harçları Harçlar Kanunu'na bağlı (1) sayılı tarifeye göre alınır. Tutarlar her yıl yeniden belirlendiğinden dava açılırken güncel tarifeye bakılmalıdır.
+Harç: Vergi mahkemesinde alınan harçlar, Harçlar Kanunu'na bağlı (3) sayılı tarifedeki vergi yargısı harçlarıdır (m. 54). Başvurma harcı maktudur ve dava dilekçesi verilirken ödenir. Tarhiyata ve ceza kesme işlemlerine karşı açılan davalarda vergi mahkemesinin nihai kararı üzerinden uyuşmazlık konusu tutara göre nispi, nispi harca tabi olmayan işlemlerde maktu karar harcı alınır. Tutarlar her yıl yeniden belirlendiğinden dava açılırken güncel tarifeye bakılmalıdır.
 
 İspat ve deliller: Hatanın varlığını ileri süren mükelleftir ve iddia belgeyle somutlaştırılmalıdır. Tapu harcında tahsilat makbuzu ya da banka dekontu, harç tahakkuk belgesi, resmî senet veya işlem belgesi, istisnaya dayanılıyorsa istisna şartlarını gösteren belgeler (riskli yapı tespiti, kira sözleşmesi, ilk satış olduğunu gösteren kayıtlar) dosyaya konulur. Mükerrer ödemede iki ödeme belgesinin aynı işlem, aynı taşınmaz ve aynı matraha ait olduğu gösterilmelidir.
 
@@ -143,7 +143,7 @@ Sık yapılan hatalar şunlardır:
 
 - Tahsilattan itibaren işleyen otuz günlük dava süresinin, düzeltme başvurusu sonucu beklenerek kaçırılması,
 - Yorum gerektiren bir istisna uyuşmazlığının, dava süresi geçtikten sonra yalnızca düzeltme ve şikâyet yoluna bırakılması,
-- Tapu müdürlüğünün davalı gösterilmesi; harcı tahakkuk ettiren vergi dairesinin tespit edilmemesi,
+- Davalı idarenin ve yetkili mahkemenin, harcı tarh ve tahakkuk ettiren daire esas alınarak belirlenmemesi,
 - Düzeltme kabul edildikten sonra düzeltme fişinin tebliğinden itibaren bir yıllık iade başvuru süresinin takip edilmemesi,
 - Faiz talebinin hiç yapılmaması ya da faiz başlangıcının belgelendirilmemesi,
 - Peşin karar ve ilam harcındaki fazlalık için m. 31'deki özel hükmün gözden kaçırılması.

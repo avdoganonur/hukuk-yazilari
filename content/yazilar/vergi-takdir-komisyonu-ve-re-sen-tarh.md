@@ -57,7 +57,7 @@ Re'sen tarh, vergi idaresinin mükellefin beyanını ve kayıtlarını bir kenar
 
 ## Sorun ve kısa cevap
 
-VUK m. 30'a göre re'sen vergi tarhı, vergi matrahının kısmen veya tamamen defter, kayıt ve belgelere veya kanuni ölçülere dayanılarak tespitine imkân bulunmayan hâllerde, takdir komisyonlarınca takdir edilen ya da vergi incelemesi yapmaya yetkili olanlarca düzenlenen vergi inceleme raporlarında belirtilen matrah veya matrah farkı üzerinden yapılan tarhtır.
+VUK m. 30'a göre re'sen vergi tarhı, vergi matrahının kısmen veya tamamen defter, kayıt ve belgelere veya kanuni ölçülere dayanılarak tespitine imkân bulunmayan hâllerde, takdir komisyonlarınca takdir edilen ya da vergi incelemesi yapmaya yetkili olanlarca düzenlenen vergi inceleme raporlarında belirtilen matrah veya matrah kısmı üzerinden yapılan tarhtır. İnceleme raporunda bu maddeye göre belirlenen matrah veya matrah farkı re'sen takdir olunmuş sayılır.
 
 Tanımdan iki sonuç çıkar. Birincisi, re'sen tarh istisnai bir yoldur; matrah kayıtlara göre tespit edilebiliyorsa ikmalen tarh ya da beyana dayalı tarh esastır. İkincisi, re'sen tarhın iki dayanağı vardır: takdir komisyonu kararı ve vergi inceleme raporu. Hangi dayanakla tarhiyat yapıldığı, davada denetlenecek belgeyi ve ileri sürülecek itirazları belirler.
 
@@ -76,7 +76,7 @@ VUK m. 30, aşağıdaki hâllerden birinin varlığında matrahın kayıtlara g�
 - Beyannamenin verilmiş olmasına rağmen matrahın tespitine ilişkin bilgilerin beyannamede yer almaması,
 - Kanunen tutulması zorunlu defterlerin tutulmamış, tasdik ettirilmemiş veya incelemeye yetkili olanlara ibraz edilmemiş olması,
 - Defter kayıtlarının, vergi matrahının doğru ve kesin olarak tespitine imkân vermeyecek derecede noksan, usulsüz veya karışık olması,
-- Defter, kayıt ve belgeler ile beyannamelerin gerçek durumu yansıtmadığına dair delil bulunması,
+- Tutulması zorunlu defterlerin veya verilen beyannamelerin gerçek durumu yansıtmadığına dair delil bulunması,
 - Kanunda öngörülen hâllerde meslek mensubu imzası veya yeminli mali müşavir tasdik raporuna ilişkin yükümlülüğün süresinde yerine getirilmemesi.
 
 İkinci bentteki durumda, yani beyannamede matrah bilgilerinin yer almaması hâlinde, mükellef takdir komisyonunca on beş günden az olmamak üzere bir süre verilerek matraha ilişkin bilgileri vermeye ve defterlerini ibraz etmeye davet edilir. Davete uyulup kayıtlar matrahın tespitine elverişli bulunursa takdir edilecek matrah, defter kayıtlarına göre tespit edilecek tutarı aşamaz. Bu davetin yapılıp yapılmadığı ve süresi, dosyada ilk kontrol edilecek noktalardan biridir.
@@ -89,7 +89,7 @@ Re'sen tarhı gerektiren bir durumla birlikte ikmalen tarhı gerektiren bir duru
 
 VUK m. 72'ye göre takdir komisyonu, başkan dışında ilgili vergi dairesinin yetkili iki memuru ile seçilmiş iki üyeden kurulur. Komisyonların kurulacağı yerler ile çalışma usul ve esaslarını belirleme yetkisi Bakanlığa bırakılmıştır. m. 73 seçilmiş üyelerin belirlenmesini düzenler: üyeler tüccarlar için ticaret odasınca, diğer sanat ve meslek erbabı için mensup oldukları mesleki teşekküllerce seçilir; seçim yükümlülüğünü yerine getirmeyen teşekküller yönünden üyeleri mahallin en büyük mülki amiri belirler.
 
-Komisyonun görevleri m. 74'te sayılır. Re'sen tarh bakımından önemli olan (a) bendidir: yetkili makamlar tarafından istenilen matrah ve servet takdirlerini yapmak ve vergi kanunlarında yazılı fiyat, ücret veya diğer matrah ve kıymetleri takdir etmek. Aynı maddenin diğer bentleri arsa ve arazi asgari birim değerlerinin tespitine ilişkindir; bu görev re'sen tarhtan ayrı bir uyuşmazlık alanıdır.
+Komisyonun görevleri m. 74'te sayılır. Re'sen tarh bakımından önemli olan (a) bendidir: yetkili makamlar tarafından istenilen matrah ve servet takdirlerini yapmak ve vergi kanunlarında yazılı fiyat, ücret veya diğer matrah ve kıymetleri takdir etmek. m. 74/a ayrıca komisyonun bu görevleri yaparken takdir sebeplerinin bulunup bulunmadığını incelemeyeceğini, yalnızca hatalı gördüğü muamelelerde ilgili vergi dairesini yazıyla uyarmakla yükümlü olduğunu öngörür; re'sen takdir sebebinin varlığı bu nedenle asıl olarak davada denetlenir. Aynı maddenin diğer bentleri arsa ve arazi asgari birim değerlerinin tespitine ilişkindir; bu görev re'sen tarhtan ayrı bir uyuşmazlık alanıdır.
 
 m. 75 komisyona görevleri dolayısıyla Kanunda yazılı inceleme yetkisini tanır. Komisyon servet, sınai haklar, telif hakları, imtiyazlar, madenler ve mücevherat gibi değerlerin tespitinde bilirkişiye başvurabilir. Bu yetki, komisyonun takdiri yalnızca sevk yazısındaki bilgilere dayanmak zorunda olmadığını, gerektiğinde kendi incelemesini yapabileceğini gösterir.
 
@@ -103,12 +103,12 @@ Komisyon kararı tek başına bir vergi borcu doğurmaz. Vergi dairesi kararda t
 
 Re'sen tarhın mali sonuçları vergi aslıyla sınırlı değildir:
 
-- Gecikme faizi: VUK m. 112/3 uyarınca re'sen tarh edilen vergilerde, dava açılmadan kesinleşen vergiler için normal vade tarihinden tahakkuk tarihine kadar, dava konusu edilip ödenmeyen kısım için normal vade tarihinden yargı kararının tebliğ tarihine kadar gecikme faizi uygulanır.
+- Gecikme faizi: VUK m. 112/3 uyarınca re'sen tarh edilen vergilerde, dava konusu yapılmaksızın kesinleşen vergiler için normal vade tarihinden son yapılan tarhiyatın tahakkuk tarihine kadar, dava konusu edilip ödenmeyen kısım için normal vade tarihinden yargı organı kararının tebliğ tarihine kadar, 6183 sayılı Kanuna göre belirlenen gecikme zammı oranında gecikme faizi uygulanır.
 - Vergi ziyaı cezası: m. 344 uyarınca kural olarak ziyaa uğratılan verginin bir katıdır. Süresinden sonra verilen beyannamelere uygulanan yüzde ellilik oran, takdir komisyonuna sevk edildikten sonra verilen beyannameler için uygulanmaz.
 
 ## Uygulamada tartışmalı noktalar
 
-İlk tartışma, re'sen takdir nedeninin gerçekten bulunup bulunmadığıdır. m. 30'daki sebepler sınırlı olarak sayılmıştır ve her biri somut bir olguya bağlıdır. Defterlerin "güvenilir olmadığı" yönündeki genel bir ifade, kayıtların hangi yönden noksan, usulsüz veya karışık olduğu gösterilmeden re'sen takdirin dayanağı olamaz. Adalet Bakanlığınca yayımlanan bir bölge idare mahkemesi istinaf kararında, takdire sevkin zamanaşımını durdurması için gerçek bir re'sen takdir nedeninin saptanmış olmasının arandığı, komisyonun kendi inceleme yetkisini kullanmadan başka bir mükellef nezdindeki tespiti esas alması üzerine sevkin zamanaşımını durdurmadığı sonucuna varıldığı görülmektedir.
+İlk tartışma, re'sen takdir nedeninin gerçekten bulunup bulunmadığıdır. m. 30'daki sebepler sınırlı olarak sayılmıştır ve her biri somut bir olguya bağlıdır. Defterlerin "güvenilir olmadığı" yönündeki genel bir ifade, kayıtların hangi yönden noksan, usulsüz veya karışık olduğu gösterilmeden re'sen takdirin dayanağı olamaz.
 
 İkinci tartışma, takdirin dayanağıdır. Takdir keyfî bir tahmin değildir; komisyonun hangi emsal, veri, sektör bilgisi veya karşıt tespit üzerinden matrahı belirlediği kararda görülebilmelidir. Dayanağı gösterilmeyen ya da yalnızca sevk yazısındaki rakamı tekrarlayan bir karar, davada en çok eleştirilen kararlardır. Komisyonun m. 75'teki inceleme yetkisini hiç kullanmamış olması da bu bağlamda ileri sürülebilir.
 
@@ -118,7 +118,7 @@ Dördüncü tartışma, ispat yüküdür. VUK m. 3/B'ye göre vergilendirmede ve
 
 ## Usul
 
-Uzlaşma: Vergi incelemesine dayanan tarhiyatlarda tarhiyattan önce tarhiyat öncesi uzlaşma (ek m. 11), tarhiyattan sonra tarhiyat sonrası uzlaşma (ek m. 1) imkânı vardır; mükellef bunlardan yalnızca birini kullanabilir. 7524 sayılı Kanunla yapılan ve 2.8.2024'te yürürlüğe giren değişiklikten sonra tarhiyat sonrası uzlaşmanın konusu vergi ziyaı cezaları ile belirli tutarı aşan usulsüzlük ve özel usulsüzlük cezalarıdır; vergi aslı uzlaşma dışındadır. m. 359'daki fiillerle vergi ziyaına sebep olunması hâlinde kesilen cezalar da uzlaşma kapsamı dışındadır. Talep, ihbarnamenin tebliğini izleyen günden itibaren otuz gün içinde yapılır.
+Uzlaşma: Vergi incelemesine dayanan tarhiyatlarda tarhiyattan önce tarhiyat öncesi uzlaşma (ek m. 11), tarhiyattan sonra tarhiyat sonrası uzlaşma (ek m. 1) imkânı vardır; mükellef bunlardan yalnızca birini kullanabilir. 7524 sayılı Kanunla yapılan değişiklikten sonra her iki uzlaşmanın konusu da cezalardır: tarhiyat sonrası uzlaşmanın konusu vergi ziyaı cezaları ile belirli tutarı aşan usulsüzlük ve özel usulsüzlük cezalarıdır; vergi aslı uzlaşma dışındadır. m. 359'daki fiillerle vergi ziyaına sebep olunması hâlinde kesilen cezalar da uzlaşma kapsamı dışındadır. Tarhiyat sonrası uzlaşma talebi, ihbarnamenin tebliğ tarihinden itibaren otuz gün içinde yapılır.
 
 Görevli ve yetkili mahkeme: Tarhiyata ve cezaya karşı dava vergi mahkemesinde açılır. İYUK m. 37 uyarınca yetkili mahkeme, kural olarak uyuşmazlık konusu vergiyi tarh ve tahakkuk ettiren, cezayı kesen dairenin bulunduğu yerdeki vergi mahkemesidir.
 
@@ -132,7 +132,7 @@ Süreler:
 
 Sürenin hesabı için [vergi mahkemesinde dava açma süresi](/yazilar/vergi-mahkemesinde-dava-acma-suresi/) yazısına bakılabilir.
 
-Harç: Vergi mahkemesinde başvurma harcı maktudur; karar harcı ve diğer yargı harçları Harçlar Kanunu'na bağlı (1) sayılı tarifeye göre alınır. Tutarlar her yıl yeniden belirlenir.
+Harç: Vergi mahkemesinde alınan harçlar, Harçlar Kanunu'na bağlı (3) sayılı tarifedeki vergi yargısı harçlarıdır (m. 54). Başvurma harcı maktudur; tarhiyata ve ceza kesme işlemlerine karşı açılan davalarda vergi mahkemesinin nihai kararı üzerinden uyuşmazlık konusu vergi ve cezaların toplamına göre nispi karar harcı alınır. Tutarlar her yıl yeniden belirlenir.
 
 Tahsilin durması: İYUK m. 27/4 uyarınca vergi uyuşmazlığında dava açılması, tarh edilen vergi ile zam ve cezaların dava konusu edilen kısmının tahsilini durdurur. Ayrıca yürütmenin durdurulması istemeye kural olarak gerek yoktur; ancak kısmi dava açılıyorsa dava dışında kalan kısım için tahsil devam eder.
 
