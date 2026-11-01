@@ -7,6 +7,7 @@ kisaca:
   - "Bugün temel yol, TMK m. 24-25'e dayanan önleme ve durdurma davası ile HMK m. 389 vd. uyarınca ihtiyati tedbir talebidir."
   - "Özel hayatın gizliliğini ihlal eden içerikler için m. 9/A'daki başvuru ve sulh ceza hâkiminin onayı yolu ayrıca mevcuttur."
 tarih: 2026-10-27
+guncelleme: 2026-11-01
 alan: ceza-hukuku
 dayanak:
   - ad: "5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun m. 9"
@@ -15,7 +16,7 @@ dayanak:
   - ad: "5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun m. 9/A"
     not: "Özel hayatın gizliliği ihlalinde erişimin engellenmesi (7590 sayılı Kanunla kurum atıfları değişik)"
   - ad: "5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun m. ek 4"
-    not: "Sosyal ağ sağlayıcının başvurulara cevap ve sorumluluk yükümlülükleri (7253 ile eklendi, 7418 ile değişik)"
+    not: "Sosyal ağ sağlayıcının başvurulara cevap ve sorumluluk yükümlülükleri (7253 ile eklendi, 7418 ve 7578 ile değişik; 7578 değişiklikleri 01.11.2026'dan itibaren yürürlükte)"
   - ad: "2709 sayılı Türkiye Cumhuriyeti Anayasası m. 153"
     not: "İptal kararlarının yürürlüğü ve geriye yürümezliği"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709&MevzuatTur=1&MevzuatTertip=5"
@@ -67,7 +68,7 @@ Eski düzende birkaç gün içinde alınabilen erişim engeli kararının yerini
 
 ## Mülga 9. madde düzeni ve 7253, 7418 değişiklikleri
 
-İptal edilen hüküm, iptal öncesinde verilmiş kararların değerlendirilmesi ve ek m. 4 gibi hâlen yürürlükte olan hükümlerin m. 9'a yaptığı atıfların anlaşılması bakımından bilinmelidir. Anayasa Mahkemesi kararında aktarılan metne göre mülga m. 9'un yapısı şöyleydi:
+İptal edilen hüküm, iptal öncesinde verilmiş kararların değerlendirilmesi ve ek m. 4'ün 01.11.2026'ya kadar m. 9'a yaptığı atfın anlaşılması bakımından bilinmelidir. Anayasa Mahkemesi kararında aktarılan metne göre mülga m. 9'un yapısı şöyleydi:
 
 - Kişilik haklarının ihlal edildiğini iddia eden kişi, içerik sağlayıcıya, ona ulaşılamazsa yer sağlayıcıya uyarı yöntemiyle başvurabilir ya da doğrudan sulh ceza hâkimine giderek içeriğin çıkarılmasını ve/veya erişimin engellenmesini isteyebilirdi.
 - İçerik ve/veya yer sağlayıcıya yapılan talep en geç yirmi dört saat içinde cevaplandırılırdı.
@@ -80,7 +81,7 @@ Eski düzende birkaç gün içinde alınabilen erişim engeli kararının yerini
 
 Aynı Kanun ek m. 4 ile sosyal ağ sağlayıcılara yükümlülükler getirdi. 7253 ile getirilen metne göre Türkiye'den günlük erişimi bir milyondan fazla olan sosyal ağ sağlayıcı, m. 9 ve m. 9/A kapsamındaki içeriklere ilişkin başvurulara en geç kırk sekiz saat içinde olumlu ya da olumsuz cevap vermek, olumsuz cevabı gerekçeli vermekle yükümlü kılındı. Hukuka aykırılığı mahkeme veya hâkim kararıyla tespit edilen içeriği bildirime rağmen yirmi dört saat içinde kaldırmayan sosyal ağ sağlayıcının doğan zararlardan sorumlu olacağı da düzenlendi; bu sorumluluk için içerik sağlayıcıya dava açılmış olması şartı aranmaz.
 
-7418 sayılı Kanun (RG 18.10.2022) m. 9'a, aynı içeriğin başka adreslerde yayımlanması üzerine Birliğe yapılan müracaatın kabulüne karşı itirazın kararı veren hâkimliğe yapılacağını ekledi; bu hüküm sitenin tamamına yönelik engelleme kararlarında uygulanmıyordu. Aynı Kanun ek m. 4'ü de kapsamlı biçimde değiştirerek temsilci, raporlama ve yaptırım rejimini genişletti. Ek m. 4'te 7578 sayılı Kanunla (RG 01.05.2026) yapılan ve 01.11.2026'da yürürlüğe girecek değişiklikler de bulunduğundan, sosyal ağ sağlayıcıya yöneltilecek başvurularda maddenin o tarihteki metni kontrol edilmelidir.
+7418 sayılı Kanun (RG 18.10.2022) m. 9'a, aynı içeriğin başka adreslerde yayımlanması üzerine Birliğe yapılan müracaatın kabulüne karşı itirazın kararı veren hâkimliğe yapılacağını ekledi; bu hüküm sitenin tamamına yönelik engelleme kararlarında uygulanmıyordu. Aynı Kanun ek m. 4'ü de kapsamlı biçimde değiştirerek temsilci, raporlama ve yaptırım rejimini genişletti. 7578 sayılı Kanunun (RG 01.05.2026, 33240) 22. maddesiyle ek m. 4'te yapılan değişiklikler ise 01.11.2026'da yürürlüğe girmiştir. Bu değişiklikle ek m. 4'ün üçüncü fıkrasındaki "9 uncu ve 9/A maddeleri kapsamındaki içeriklere yönelik olarak" ibaresi çıkarılmıştır; sosyal ağ sağlayıcının kırk sekiz saat içinde olumlu ya da olumsuz, olumsuz ise gerekçeli cevap verme yükümlülüğü artık bu iki maddeyle sınırlı olmaksızın kişilerin başvurularını kapsar. Aynı değişiklikle on beş yaşını doldurmamış çocuklara hizmet sunulmaması ve yaş doğrulama ile ebeveyn kontrol araçlarına ilişkin yeni yükümlülükler getirilmiş, aynı Kanunun 23. maddesiyle oyun platformlarına ilişkin ek m. 5 eklenmiştir. Bu yükümlülükler yazının konusu dışındadır.
 
 ## Anayasa Mahkemesinin iptal kararı ve yürürlük durumu
 
@@ -88,7 +89,7 @@ Anayasa Mahkemesi 11.10.2023 tarihli, E. 2020/76, K. 2023/172 sayılı kararıyl
 
 Öğretide karar, iptal edilen düzenlemenin ifade özgürlüğü ile basın özgürlüğünü kısıtladığı tespitine dayanan bir karar olarak incelenmektedir. Dokuz aylık süre 10.10.2024'te doldu. Bu tarihten itibaren m. 9'a dayalı yeni bir başvuru yapılması mümkün değildir.
 
-Anayasa m. 153 uyarınca iptal kararları geriye yürümez. Bu nedenle iptalden önce verilmiş ve uygulanmış kararlar, iptal kararının kendisiyle hükümsüz hâle gelmez. Ancak iptalden sonra m. 9'a dayanılarak yeni karar verilemeyeceği gibi, m. 9'a atıf yapan hükümlerin (özellikle ek m. 4'teki kırk sekiz saatlik cevap yükümlülüğünün kişilik hakkı içerikleri bakımından) bugün hangi kapsamda uygulanacağı da tartışmaya açıktır.
+Anayasa m. 153 uyarınca iptal kararları geriye yürümez. Bu nedenle iptalden önce verilmiş ve uygulanmış kararlar, iptal kararının kendisiyle hükümsüz hâle gelmez. Ancak iptalden sonra m. 9'a dayanılarak yeni karar verilemez. Ek m. 4'teki kırk sekiz saatlik cevap yükümlülüğünün kişilik hakkı içerikleri bakımından uygulanıp uygulanmayacağı, maddenin m. 9'a atıf yaptığı dönemde tartışmalıydı; 01.11.2026'dan itibaren bu atıf kaldırıldığından, kişilik hakkı ihlali iddiasıyla sosyal ağ sağlayıcıya yapılan başvurular da bu yükümlülüğün kapsamındadır. Sağlayıcıya yapılan başvuru ve verilen cevap, sonraki dava ve tedbir talebinde delil olarak da kullanılabilir.
 
 7590 sayılı Kanun (RG 31.07.2026, 33326) 5651 sayılı Kanun'daki kurum atıflarının önemli bir kısmını değiştirmiş, Bilgi Teknolojileri ve İletişim Kurumunun bu Kanun kapsamındaki yetkilerinin büyük bölümü Siber Güvenlik Başkanlığına geçmiştir. Bu değişiklikler m. 9'u yeniden düzenlememiştir; mevzuat.gov.tr'deki güncel metinde m. 9 yalnızca iptal notuyla yer almaktadır.
 
