@@ -4,8 +4,8 @@ aciklama: "İpotek takibinde icra emri ve ödeme emrine karşı yollar: yedi gü
 kisaca:
   - "İcra emrine itiraz edilmez; borçlu ve malik yedi gün içinde icra mahkemesinden icranın geri bırakılmasını ister."
   - "Ödeme emrine yedi gün içinde itiraz edilir, ancak rehin hakkının kendisi bu itirazla tartışılamaz."
-  - "Kredi ipoteğinde hesap kat ihtarına sekiz gün içinde noter aracılığıyla itiraz edilmemişse icra mahkemesine şikâyet yolu kapanır."
-  - "Satış bedeli alacağı karşılamazsa verilen rehin açığı belgesiyle bir yıl içinde haciz yoluyla takibe geçilebilir."
+  - "Kredi ipoteğinde hesap kat ihtarına sekiz gün içinde noter aracılığıyla itiraz edilmemişse m. 150/ı şikâyeti yapılamaz."
+  - "Rehin açığı belgesiyle bir yıl içinde haciz yoluyla takip istenirse yeniden icra veya ödeme emri tebliğine gerek yoktur."
 tarih: 2026-11-02
 alan: icra-hukuku
 dayanak:
@@ -47,7 +47,7 @@ sss:
   - soru: "İpoteğin geçersizliği ödeme emrine itirazla ileri sürülebilir mi?"
     cevap: "Hayır. İİK m. 150 uyarınca rehin hakkı itiraz konusu yapılamaz. İpoteğin geçersizliği ancak ipoteğin iptali davasıyla ileri sürülür ve bu davada menfi tespit davasına ilişkin m. 72 kıyasen uygulanır. Takibin durması için davada m. 72 çerçevesinde tedbir istenmesi gerekir."
   - soru: "İcranın geri bırakılması talebi reddedilince satış durur mu?"
-    cevap: "Ret kararına karşı istinafa başvurmak tek başına satışı durdurmaz. Satışın durması için takip konusu alacağın yüzde on beşi, konut finansmanı alacakları ile Toplu Konut İdaresinin rehinle güvenceye alınmış alacaklarında yüzde otuzu oranında teminat gösterilmelidir (m. 149/a). Başvuru reddedilirse teminat alacaklıya tazminat olarak ödenir."
+    cevap: "Ret kararına karşı istinafa başvurmak tek başına satışı durdurmaz. Satışın durması için takip konusu alacağın yüzde on beşi, konut finansmanı alacakları ile Toplu Konut İdaresinin rehinle güvenceye alınmış alacaklarında yüzde otuzu oranında teminat gösterilmelidir (m. 149/a). Başvuru reddedilirse yüzde on beşlik teminat alacaklıya tazminat olarak ödenir; yüzde otuzluk teminatta ise yarısı tazminat olarak ödenir, kalanı rehin açığını karşılamak için kullanılır ve artarsa yatırana iade edilir."
   - soru: "Rehin açığı belgesi ipotek veren üçüncü kişiye karşı kullanılabilir mi?"
     cevap: "Rehin açığı belgesi, alacağın rehinle karşılanamayan kısmı için borçlu aleyhine haciz veya iflas yoluna gitmeye yarar (m. 152). Borçtan şahsen sorumlu olmayan ipotek verenin sorumluluğu ipotekli taşınmazla sınırlıdır; belge bu kişinin diğer malvarlığına başvurma imkânı vermez."
 ---
@@ -69,21 +69,21 @@ Yanlış yol seçilmişse, örneğin m. 150/ı'daki noter tebliği belgelenmeden
 
 TMK m. 851'e göre taşınmaz rehni, miktarı Türk parasıyla gösterilen belli bir alacak için kurulabilir; alacağın miktarı belli değilse "alacaklının bütün istemlerini karşılayacak şekilde" taşınmazın güvence altına alacağı üst sınır belirtilir. Uygulamada birincisine anapara ipoteği, ikincisine üst sınır ya da limit ipoteği denir. Ayrım üç noktada sonuç doğurur.
 
-Takip yolu: Anapara ipoteğinde akit tablosu çoğu zaman belirli bir borcun ikrarını da içerdiğinden muacceliyet gerçekleşmişse m. 149'a göre icra emri gönderilebilir. Üst sınır ipoteği ise doğası gereği henüz miktarı belli olmayan bir alacağı güvenceye alır; akit tablosu tek başına belirli bir borcun ikrarını içermez. Bu nedenle üst sınır ipoteğinde icra emri ancak m. 150/ı şartlarıyla mümkündür, bu şartlar yoksa ödeme emri gönderilmelidir.
+Takip yolu: Anapara ipoteğinde akit tablosu çoğu zaman belirli bir borcun ikrarını da içerdiğinden muacceliyet gerçekleşmişse m. 149'a göre icra emri gönderilebilir. Üst sınır ipoteği ise doğası gereği henüz miktarı belli olmayan bir alacağı güvenceye alır; akit tablosu kural olarak tek başına belirli bir borcun ikrarını içermez. Bu nedenle üst sınır ipoteğinde icra emri ancak m. 150/ı şartlarıyla mümkündür, bu şartlar yoksa ödeme emri gönderilmelidir.
 
 İspat: Üst sınır ipoteği alacağın varlığını ve miktarını göstermez, yalnızca güvencenin azami sınırını gösterir. Ödeme emrine itiraz edildiğinde alacaklı alacağını kredi sözleşmesi, hesap özetleri ve kat ihtarıyla ispat etmek zorundadır. Kanun da m. 150/a'da cari hesap veya işleyen kredi gibi bir sözleşmenin güvencesi olan ipoteklerde bu sözleşmenin ve ilgili belgelerin m. 68 esaslarına göre incelenmesini öngörür.
 
-Güvencenin kapsamı: TMK m. 875'e göre taşınmaz rehninin güvencesi ana parayı, takip giderleri ve gecikme faizini, iflasın açıldığı veya rehnin paraya çevrilmesinin istendiği tarihe kadar muaccel olmuş üç yıllık faiz ile son vadeden başlayarak işleyen faizi kapsar. Üst sınır ipoteğinde ise m. 851'deki "bütün istemlerini karşılayacak şekilde" ifadesi, faiz ve giderlerin de üst sınırın içinde kaldığını gösterir. Takip talebinde ipotek limitini aşan bir tutar istenmişse, aşan kısım için rehin takibi yapılamayacağı itiraz ve şikâyette ileri sürülmelidir. Borçtan şahsen sorumlu olmayan ipotek veren için bu sınır, sorumluluğun da sınırıdır.
+Güvencenin kapsamı: TMK m. 875'e göre taşınmaz rehninin güvencesi ana parayı, takip giderleri ve gecikme faizini, iflasın açıldığı veya rehnin paraya çevrilmesinin istendiği tarihe kadar muaccel olmuş üç yıllık faiz ile son vadeden başlayarak işleyen faizi kapsar. Üst sınır ipoteğinde ise m. 851'deki "bütün istemlerini karşılayacak şekilde" ifadesinden, faiz ve giderlerin de üst sınırın içinde kalması gerektiği sonucuna varılabilir. Takip talebinde ipotek limitini aşan bir tutar istenmişse, aşan kısım için rehin takibi yapılamayacağı itiraz ve şikâyette ileri sürülmelidir. Borçtan şahsen sorumlu olmayan ipotek veren için bu sınır, sorumluluğun da sınırıdır.
 
 ## İcra emrine karşı: icranın geri bırakılması
 
 İcra emrine karşı itiraz yolu yoktur. Borçlu ya da üçüncü kişi malik, m. 149/a uyarınca icra mahkemesinden icranın geri bırakılmasını ister; kanun bu konuda m. 33 hükümlerine gönderme yapar.
 
 - Süre ve sebepler: İcra emrinin tebliğinden itibaren yedi gün içinde borcun itfa veya imhal edildiği ya da zamanaşımına uğradığı ileri sürülür.
-- İspat vasıtası: İtfa ve imhal, yetkili mercilerce resen yapılmış veya usulüne göre onaylanmış bir belgeyle ya da imzası ikrar edilmiş bir senetle kanıtlanmalıdır. Tanık ya da imzası inkâr edilen adi yazı yeterli değildir.
+- İspat vasıtası: İtfa ve imhal, yetkili mercilerce resen yapılmış veya usulüne göre onaylanmış bir senetle ya da icra dairesinde, icra mahkemesinde veya mahkeme önünde ikrar olunmuş bir senetle kanıtlanmalıdır. Tanık ya da imzası inkâr edilen adi yazı yeterli değildir.
 - Tebliğden sonra doğan sebepler: İcra emrinin tebliğinden sonra doğan itfa, imhal veya zamanaşımına dayanan istek her zaman yapılabilir; ancak itfa ve imhal iddiası mutlaka noterlikçe resen yapılmış veya onaylanmış belgelere ya da icra tutanağına dayanmalıdır.
 
-Ret kararına karşı istinafa başvurulabilir; fakat satışın durması için takip konusu alacağın yüzde on beşi oranında teminat yatırılmalıdır. Konut finansmanından doğan alacaklar ile Toplu Konut İdaresinin rehinle güvenceye alınmış alacaklarında oran yüzde otuzdur. Bölge adliye mahkemesi başvuruyu reddederse teminat, ayrıca hüküm gerekmeksizin alacaklıya tazminat olarak ödenir. Müvekkile istinaf kararı verdirilmeden önce bu teminat riskinin anlatılması gerekir.
+Ret kararına karşı istinafa başvurulabilir; fakat satışın durması için takip konusu alacağın yüzde on beşi oranında teminat yatırılmalıdır. Bölge adliye mahkemesi başvuruyu reddederse teminat, ayrıca hüküm gerekmeksizin alacaklıya tazminat olarak ödenir. Konut finansmanından doğan alacaklar ile Toplu Konut İdaresinin rehinle güvenceye alınmış alacaklarında oran yüzde otuzdur; istinaf talebi reddedilirse bu teminatın yarısı alacaklıya tazminat olarak ödenir, kalan kısım kesinleşen kıymete göre rehnin karşılamadığı tutar için kullanılır ve artan kısım yatırana iade edilir. Müvekkile istinaf kararı verdirilmeden önce bu teminat riskinin anlatılması gerekir.
 
 ## Kredi ipoteklerinde hesap kat ihtarı ve sekiz günlük noter itirazı
 
@@ -98,7 +98,7 @@ Bu düzenlemeden pratikte şu sonuçlar çıkar:
 
 M. 68/b, takip öncesindeki dönemsel hesap özetleri bakımından ayrıca önemlidir. Süresinde gönderilen hesap özetine alındığı tarihten itibaren bir ay içinde noter aracılığıyla itiraz edilmezse özetin içeriği kesinleşir ve krediyi kullanan, gerçeğe aykırılığını ancak borcunu ödedikten sonra dava edebilir. Kat ihtarına itiraz edilmiş olması, daha önce tebliğ edilip kesinleşmiş dönem özetlerine itiraz edilmemiş olmasının sonuçlarını ortadan kaldırmaz.
 
-İpotek veren üçüncü kişi bakımından TMK m. 887'ye dikkat edilmelidir: ipotekli taşınmazın maliki borçtan şahsen sorumlu değilse, alacaklının ödeme isteminin ona karşı etkili olması, istemin hem borçluya hem kendisine yapılmış olmasına bağlıdır. Kat ihtarının malike de noter aracılığıyla tebliğ edilip edilmediği bu nedenle dosyada ayrıca denetlenmelidir.
+İpotek veren üçüncü kişi bakımından TMK m. 887'ye dikkat edilmelidir: ipotekli taşınmazın maliki borçtan şahsen sorumlu değilse, alacaklının ödeme isteminin ona karşı etkili olması, istemin hem borçluya hem kendisine yapılmış olmasına bağlıdır. M. 150/ı'ye göre hesap özetinin, tazmin talebinin veya ihtarın ipotekli taşınmazın maliki üçüncü kişiye tebliğ edilmesi ya da tebliğ edilmiş sayılması bu ödeme istemi yerine geçer. Kat ihtarının malike de noter aracılığıyla tebliğ edilip edilmediği bu nedenle dosyada ayrıca denetlenmelidir.
 
 ## Ödeme emrine itiraz ve itirazın incelenmesi
 
@@ -114,7 +114,7 @@ Kanunun koyduğu sınır şudur: rehin hakkı itiraz konusu yapılamaz. İpoteğ
 
 Tek takip ilkesi: Öğretide aktarıldığına göre Yargıtay, aynı ipotekle güvence altına alınmış alacakların tamamının aynı takip dosyasında istenmesi gerektiğini kabul etmekte, aynı ipoteğe dayanan ikinci takibi iptal etmekte ve bu ilkeye aykırılığın süresiz şikâyetle ileri sürülebileceğini kabul etmektedir. Bu yaklaşım öğretide eleştirilmektedir (Erişir/Yüce, Marmara Üniversitesi Hukuk Fakültesi Hukuk Araştırmaları Dergisi, C. 29, S. 1, 2023, s. 441 vd.). Savunma tarafında, alacaklının aynı ipoteğe dayanarak daha önce takip yapıp yapmadığı UYAP üzerinden mutlaka sorgulanmalıdır.
 
-Önce rehne başvurma: Rehinle güvence altına alınmış alacak için alacaklının önce rehnin paraya çevrilmesi yoluna gitmesi gerekir (m. 45). Aynı alacak için ipotek takibiyle eş zamanlı ya da ondan önce genel haciz yoluyla takip yapılıp yapılmadığı, bu kural bakımından ayrıca incelenmelidir.
+Önce rehne başvurma: Rehinle güvence altına alınmış alacak için alacaklı, borçlu iflasa tabi olsa bile yalnız rehnin paraya çevrilmesi yoluyla takip yapabilir (m. 45). Konut finansmanından doğan rehinli alacaklar ile Toplu Konut İdaresinin rehinli alacakları bu kuralın istisnasıdır; bunlarda haciz yoluna da başvurulabilir. Aynı alacak için ipotek takibiyle eş zamanlı ya da ondan önce genel haciz yoluyla takip yapılıp yapılmadığı, bu kural bakımından ayrıca incelenmelidir.
 
 İhalenin feshi ve 7571 sayılı Kanun: Satış aşamasındaki itirazlar bu yazının konusu dışındadır; ancak 7571 sayılı Kanunla (RG 25.12.2025) İİK m. 134'e eklenen cümleler savunma planını etkiler. Kanunda sayılan kişiler dışında kalanların ihalenin feshi talebi dosya üzerinden ve kesin olarak reddedilir. Teminat veya harç eksik yatırılmışsa mahkeme iki haftalık kesin süre verir; süresinde tamamlanmazsa talep reddedilir. Ayrıntı için [ihalenin feshi](/yazilar/ihalenin-feshi-davasi/) yazısına bakılabilir.
 
@@ -142,7 +142,7 @@ Süreler:
 
 Harç: İcra mahkemesine yapılan şikâyet ve icranın geri bırakılması başvuruları maktu harca tabidir; tutarlar her yıl yeniden belirlenir. İtirazın iptali ve menfi tespit davalarında nispi harç alınır.
 
-İspat: Geri bırakmada ispat yükü ve delil sınırı borçludadır; m. 33'teki belge şartı aranır. Ödeme emrine itiraz edilmişse alacağın varlığını ve miktarını alacaklı ispat eder. Kredi ipoteklerinde m. 68/b gereği itiraz edilmemiş hesap özetlerindeki imzalar kabul edilmiş sayılır.
+İspat: Geri bırakmada ispat yükü ve delil sınırı borçludadır; m. 33'teki belge şartı aranır. Ödeme emrine itiraz edilmişse alacağın varlığını ve miktarını alacaklı ispat eder. Kredi ipoteklerinde m. 68/b gereği krediyi kullanan, itiraz etmediği hesap özetinin dayandığı belgelerde kendisine atfedilen imzayı kabul etmiş sayılır.
 
 Kanun yolu: İcra mahkemesi kararlarına karşı m. 363'teki parasal sınır ve diğer şartlar gerçekleşmişse istinafa başvurulur; parasal sınır İİK ek m. 1 uyarınca her yıl güncellenir. İstinaf kural olarak satışı durdurmaz; satışın durması için m. 149/a'daki teminat gösterilmelidir.
 

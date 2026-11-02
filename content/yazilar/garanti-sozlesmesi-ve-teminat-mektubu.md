@@ -67,7 +67,7 @@ sss:
   - soru: "Haksız yere nakde çevrilen bedelin iadesi davası arabuluculuğa tabi midir?"
     cevap: "Uyuşmazlık ticari dava niteliğindeyse evet. 7445 sayılı Kanunla değişik TTK m. 5/A, konusu bir miktar para olan alacak ve tazminat davalarının yanında menfi tespit ve istirdat davalarında da dava açılmadan önce arabulucuya başvurulmasını dava şartı yapmıştır."
   - soru: "Kamu ihalesinde kesin teminat mektubunun gelir kaydı tedbirle durdurulabilir mi?"
-    cevap: "4734 sayılı Kanun m. 34'ün son fıkrasına göre idarece alınan teminatlar haczedilemez ve üzerine ihtiyati tedbir konulamaz. Anayasa Mahkemesi bu kurala yönelik itirazı reddetmiştir. Bu nedenle gelir kaydına karşı itirazlar idari aşamada süresinde yapılmalı, haksızlık sonradan açılacak davada ileri sürülmelidir."
+    cevap: "4734 sayılı Kanun m. 34'ün son fıkrasına göre idarece alınan teminatlar haczedilemez ve üzerine ihtiyati tedbir konulamaz. Anayasa Mahkemesi bu kurala yönelik itirazı reddetmiştir. Bu nedenle yüklenici itirazlarını gelir kaydından önce idareye yazılı olarak bildirmeli, haksızlığı ise sonradan açılacak davada ileri sürmelidir."
 ---
 Banka teminat mektubu ticari hayatta en yaygın kişisel güvencedir; ama uyuşmazlık genellikle mektubun nakde çevrileceği gün başlar. Mektubu yaptıran lehtar, temel sözleşmeyi ifa ettiğini ya da muhatabın alacağı bulunmadığını düşünür; muhatap ise bankaya tek bir yazı göndererek bedeli tahsil etmek ister. Bu noktada üç soru öne çıkar: taahhüt garanti mi kefalet mi, banka ödemeyi reddedebilir mi ve haksız tahsil tedbirle nasıl durdurulur, gerçekleşmişse nasıl geri alınır.
 
@@ -75,7 +75,7 @@ Terimler bu yazıda uygulamadaki anlamıyla kullanılmaktadır. Lehtar, bankaya 
 
 ## Hukuki dayanak: TBK m. 128 ve garanti sözleşmesi
 
-Garanti sözleşmesi kanunda ayrı bir sözleşme tipi olarak düzenlenmemiştir. Dayanak olarak gösterilen TBK m. 128/1'e göre "Üçüncü bir kişinin fiilini başkasına karşı üstlenen, bu fiilin gerçekleşmemesinden doğan zararı gidermekle yükümlüdür." Hüküm 818 sayılı Borçlar Kanunu m. 110'un karşılığıdır. Öğretide maddenin garanti sözleşmesini eksik biçimde düzenlediği, sözleşmenin içeriğinin büyük ölçüde tarafların iradesiyle ve ticari teamülle belirlendiği vurgulanmaktadır (Çınar, Ankara Üniversitesi Hukuk Fakültesi Dergisi, 69(2), 2020, s. 421-422).
+Garanti sözleşmesi kanunda ayrı bir sözleşme tipi olarak düzenlenmemiştir. Dayanak olarak gösterilen TBK m. 128/1'e göre "Üçüncü bir kişinin fiilini başkasına karşı üstlenen, bu fiilin gerçekleşmemesinden doğan zararı gidermekle yükümlüdür." Hüküm 818 sayılı Borçlar Kanunu m. 110'un karşılığıdır. Öğretide maddenin garanti sözleşmesinin yalnızca bir türünü eksik biçimde düzenlediği vurgulanmaktadır (Çınar, Ankara Üniversitesi Hukuk Fakültesi Dergisi, 69(2), 2020, s. 421-422).
 
 Banka teminat mektubunda üç ayrı ilişki vardır:
 
@@ -115,7 +115,7 @@ HMK m. 389'a göre mevcut durumda meydana gelebilecek bir değişme nedeniyle ha
 - Bunun yorum veya bilirkişi incelemesi gerektirmeyen, kesin ve likit delillerle gösterilmesi; öğretide yalnızca lehtarın sunduğu belgelerin ve şüphenin yeterli olmadığı vurgulanmaktadır (Yasan, s. 48-49),
 - Tedbir kararının ödeme yapılmadan önce bankaya ulaştırılması.
 
-Likit delile örnek olarak muhatap idarenin imzaladığı kesin kabul tutanağı, muhatabın borcun tamamen ödendiğini gösteren ibranamesi, temel sözleşmenin karşılıklı ikale ile sona erdiğine ilişkin belge veya mektubun süresinin dolduğunu gösteren yazışmalar sayılabilir. Ayıplı ifa, gecikme cezası veya hakediş farkı gibi esası yargılama gerektiren uyuşmazlıklarda tedbir talebinin reddedilme ihtimali yüksektir. Öğretide bu durumlar için "önce öde, sonra dava et" ilkesi savunulmaktadır (Yasan, s. 46-47).
+Likit delile örnek olarak muhatap idarenin imzaladığı kesin kabul tutanağı, muhatabın borcun tamamen ödendiğini gösteren ibranamesi, temel sözleşmenin karşılıklı ikale ile sona erdiğine ilişkin belge veya mektubun süresinin dolduğunu gösteren yazışmalar sayılabilir. Ayıplı ifa, gecikme cezası veya hakediş farkı gibi esası yargılama gerektiren uyuşmazlıklarda tedbir talebinin reddedilme ihtimali yüksektir. Öğretide bu durumlarda "önce öde, sonra dava et" ilkesinin uygulanacağı belirtilmektedir (Yasan, s. 46-47).
 
 Mahkeme tedbir kararı verirken m. 392 uyarınca teminat ister. Teminat mektubu tutarı yüksek olduğundan teminat miktarı tedbirin pratik değerini doğrudan etkiler; talep dilekçesinde teminattan muafiyet ya da düşük teminat için gerekçe gösterilmelidir. Haksız çıkan tedbir nedeniyle muhatabın uğradığı zarardan tedbir isteyen sorumludur (m. 399). Tedbirin genel usulü için [ihtiyati tedbir](/yazilar/ihtiyati-tedbir/) yazısına bakılabilir.
 
@@ -146,9 +146,9 @@ Görevli mahkeme: Lehtar ile muhatap tacir ise ve uyuşmazlık her iki tarafın 
 
 Yetki: Genel yetki kuralı olarak davalının yerleşim yeri veya merkezi, sözleşmeden doğan davalarda ayrıca ifa yeri mahkemesi yetkilidir. Temel sözleşmedeki yetki ve tahkim şartı tedbir talebinden önce kontrol edilmelidir.
 
-Dava şartı arabuluculuk: Uyuşmazlık ticari dava ise TTK m. 5/A uyarınca konusu bir miktar para olan alacak, tazminat, itirazın iptali, menfi tespit ve istirdat davalarında dava açılmadan önce arabulucuya başvurulması dava şartıdır. İhtiyati tedbir için arabuluculuk gerekmez; ancak dava açılmadan alınan tedbirde HMK m. 397'deki iki haftalık dava açma süresi ile arabuluculuk sürecinin ilişkisi 6325 sayılı Kanun m. 18/A çerçevesinde ayrıca kontrol edilmelidir.
+Dava şartı arabuluculuk: Uyuşmazlık ticari dava ise TTK m. 5/A uyarınca konusu bir miktar para olan alacak, tazminat, itirazın iptali, menfi tespit ve istirdat davalarında dava açılmadan önce arabulucuya başvurulması dava şartıdır. İhtiyati tedbir için arabuluculuk gerekmez. Dava açılmadan tedbir kararı verilmişse HMK m. 397/1'deki dava açma süresi, 6325 sayılı Kanun m. 18/A/16 uyarınca arabuluculuk bürosuna başvurulmasından son tutanağın düzenlendiği tarihe kadar işlemez.
 
-Süreler: Dava açılmadan alınan tedbirde, uygulamanın istendiği tarihten itibaren iki hafta içinde esas dava açılmalıdır; aksi hâlde tedbir kendiliğinden kalkar. Kendisi dinlenmeden tedbir kararı verilen taraf bir hafta içinde itiraz edebilir. İade talebinde zamanaşımı dayanağa göre TBK m. 82 veya m. 146'ya tabidir.
+Süreler: Dava açılmadan alınan tedbirde, uygulamanın istendiği tarihten itibaren iki hafta içinde esas dava açılmalıdır (arabuluculukta geçen süre hariç); aksi hâlde tedbir kendiliğinden kalkar. Kendisi dinlenmeden tedbir kararı verilen taraf, uygulama sırasında hazırsa uygulamadan, değilse uygulama tutanağının tebliğinden itibaren bir hafta içinde itiraz edebilir (HMK m. 394). İade talebinde zamanaşımı dayanağa göre TBK m. 82 veya m. 146'ya tabidir.
 
 Harç: Menfi tespit ve iade davalarında nispi harç alınır; tutarlar her yıl yeniden belirlenir.
 
@@ -167,6 +167,6 @@ Sık yapılan hatalar şunlardır:
 - Tedbir kararının bankaya ödeme gününden sonra ulaştırılması,
 - Gerçek kişinin verdiği garanti taahhüdünde TBK m. 603 ve m. 583'ün hiç ileri sürülmemesi,
 - Ticari nitelikteki menfi tespit veya istirdat davasında arabuluculuğa başvurulmadan dava açılması,
-- Kamu ihalesinde m. 34'teki yasağa rağmen tedbir talebiyle yetinilip idari itirazların kaçırılması.
+- Kamu ihalesinde m. 34'teki yasağa rağmen tedbir talebiyle yetinilip idareye yazılı itirazda bulunulmaması.
 
 Muhatap genellikle mektubun ilk talepte ödeme kayıtlı ve bağımsız olduğunu, temel ilişkideki uyuşmazlığın garanti ilişkisini etkilemeyeceğini, gecikme cezası ve zarar alacaklarının bulunduğunu ve tedbirin garanti kurumunun işlevini ortadan kaldıracağını savunur. Banka ise şekli inceleme yükümlülüğünü yerine getirdiğini ve tedbir kararının kendisine ödemeden sonra ulaştığını ileri sürer. Bu savunmalar karşısında dilekçe, riskin neden hiç doğmadığını tek bir belgeyle gösterebilecek biçimde kurulmalı, mektubun metni ise kayıtların tam ifadeleriyle birlikte dosyaya konulmalıdır.
