@@ -13,7 +13,7 @@ dayanak:
     not: "Ödeme aracı ve ödeme hizmeti kullanıcısı tanımları"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6493&MevzuatTur=1&MevzuatTertip=5"
   - ad: "6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun m. 12"
-    not: "Ödeme hizmetleri; tarafların hak ve yükümlülüklerinin yönetmelikle belirlenmesi"
+    not: "Ödeme hizmetleri; tarafların hak ve yükümlülüklerine ilişkin usul ve esasların Merkez Bankasınca belirlenmesi"
   - ad: "6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun m. 13"
     not: "Ödeme hizmeti sağlayıcıları; bankalar"
   - ad: "5464 sayılı Banka Kartları ve Kredi Kartları Kanunu m. 11"
@@ -82,7 +82,7 @@ Kart veya hesaptan müşterinin onayı olmadan yapılan ödeme işlemleri, uygul
 
 Bankanın ödeme hizmeti sunarken tabi olduğu temel çerçeve 6493 sayılı Kanun'dur. Kanunun 13. maddesi, 5411 sayılı Bankacılık Kanunu'na tabi bankaları ödeme hizmeti sağlayıcıları arasında sayar. Ödeme hesabının işletilmesi, kartlı ödeme ve para transferi gibi işlemler m. 12'de ödeme hizmeti olarak tanımlanmıştır. Kanunun 3. maddesine göre ödeme aracı, ödeme hizmeti sağlayıcı ile kullanıcısı arasında belirlenen ve kullanıcının ödeme emri vermek için kullandığı kart, cep telefonu, şifre gibi kişiye özel araçtır.
 
-6493 sayılı Kanun, onaylanmamış işlemde tarafların sorumluluğunu kendi metninde ayrıntılı olarak düzenlemez. Kanunun 12. maddesinin üçüncü fıkrası, ödeme hizmetleri kapsamında tarafların hak ve yükümlülüklerine ilişkin usul ve esasların Türkiye Cumhuriyet Merkez Bankasınca çıkarılacak yönetmelikle belirleneceğini öngörür. Bu yetkiye dayanan düzenleme, 1 Aralık 2021 tarihli Resmî Gazete'de yayımlanan Ödeme Hizmetleri ve Elektronik Para İhracı ile Ödeme Hizmeti Sağlayıcıları Hakkında Yönetmelik'tir. Yönetmelik yayımından sonra değişikliklere uğradığından, somut uyuşmazlıkta işlem tarihinde yürürlükte olan metin ayrıca incelenmelidir.
+6493 sayılı Kanun, onaylanmamış işlemde tarafların sorumluluğunu kendi metninde ayrıntılı olarak düzenlemez. Kanunun 12. maddesinin üçüncü fıkrası, ödeme hizmetleri kapsamında tarafların hak ve yükümlülüklerine ilişkin usul ve esasların Türkiye Cumhuriyet Merkez Bankasınca belirleneceğini öngörür. Bu yetkiye dayanan düzenleme, 1 Aralık 2021 tarihli Resmî Gazete'de yayımlanan Ödeme Hizmetleri ve Elektronik Para İhracı ile Ödeme Hizmeti Sağlayıcıları Hakkında Yönetmelik'tir. Yönetmelik yayımından sonra değişikliklere uğradığından, somut uyuşmazlıkta işlem tarihinde yürürlükte olan metin ayrıca incelenmelidir.
 
 Banka kartı ve kredi kartı bakımından ise 5464 sayılı Banka Kartları ve Kredi Kartları Kanunu özel hüküm içerir. Elektronik bankacılık kanallarında kimlik doğrulama ve işlem güvenliği konusunda Bankacılık Düzenleme ve Denetleme Kurumu düzenlemeleri, bu arada 15 Mart 2020 tarihli Resmî Gazete'de yayımlanan Bankaların Bilgi Sistemleri ve Elektronik Bankacılık Hizmetleri Hakkında Yönetmelik de dikkate alınır. Bu idari düzenlemeler doğrudan tazminat hükmü koymasa da, bankanın özen yükümlülüğünün içeriğini belirlemede ölçü olarak kullanılır.
 
@@ -129,7 +129,7 @@ SIM kart değişikliğiyle yapılan işlemlerde olay örgüsü farklıdır. Fail
 
 Operatörün kusuru bankanın sorumluluğunu kendiliğinden ortadan kaldırmaz. Müşteri her iki kuruluşa karşı ayrı sözleşmesel ilişkiye sahiptir. Sorumlulukların aynı olaydan doğması nedeniyle banka ve operatöre karşı birlikte dava açılması HMK m. 57'deki ihtiyari dava arkadaşlığı çerçevesinde değerlendirilebilir.
 
-Sahte internet sitesi veya mesajla şifrelerin ele geçirildiği olaylarda bankanın en güçlü savunması müşterinin kusurudur. TBK m. 52/1'e göre zarar gören, zararın doğmasında ya da artmasında etkili olmuşsa hâkim tazminatı indirebilir veya tamamen kaldırabilir. Bu nedenle bu dosyalarda sonuç çoğu kez tam kabul ya da tam ret değil, kusur oranına göre indirimdir. İşlemin müşterinin olağan profilinden belirgin biçimde sapması, bankanın izleme ve uyarı mekanizmasının işleyip işlemediği tartışmasını güçlendirir.
+Sahte internet sitesi veya mesajla şifrelerin ele geçirildiği olaylarda bankanın en güçlü savunması müşterinin kusurudur. TBK m. 52/1'e göre zarar gören, zararın doğmasında ya da artmasında etkili olmuşsa hâkim tazminatı indirebilir veya tamamen kaldırabilir. Bu nedenle bu dosyalarda tam kabul ya da tam ret yerine kusur oranına göre indirim gündeme gelebilir. İşlemin müşterinin olağan profilinden belirgin biçimde sapması, bankanın izleme ve uyarı mekanizmasının işleyip işlemediği tartışmasını güçlendirir.
 
 ## Ceza boyutu ve hukuk davasıyla ilişkisi
 
