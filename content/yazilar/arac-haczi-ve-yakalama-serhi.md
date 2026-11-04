@@ -97,7 +97,7 @@ Haczin kapsamı m. 85 ile sınırlıdır. Alacaklının ana para, faiz ve masraf
 
 ## Yakalama şerhi ve aracın fiilen muhafazası
 
-Uygulamada "yakalama şerhi" denen işlem, icra müdürlüğünün aracın yakalanarak muhafaza altına alınması için kolluğa ve trafik kaydına yönelttiği taleptir. Kanun bu ifadeyi kullanmaz; dayanağı muhafazaya ilişkin m. 88 ile kolluğun icra memuruna yardım yükümlülüğünü düzenleyen m. 81'dir. M. 88'in son fıkrasına göre icra müdürlüklerinin talebi üzerine kolluk kuvvetlerince yakalanan araçlar en geç üç iş günü içinde en yakın icra müdürlüğüne teslim edilir. Aracı teslim alan icra müdürlüğü, yakalanmasını isteyen icra müdürlüğüne bildirimde bulunur.
+Uygulamada "yakalama şerhi" denen işlem, icra müdürlüğünün aracın yakalanarak muhafaza altına alınması için kolluğa ve trafik kaydına yönelttiği taleptir. Kanun bu ifadeyi kullanmaz; dayanak olarak muhafazaya ilişkin m. 88 ile kolluğun icra memuruna yardım yükümlülüğünü düzenleyen m. 81 gösterilebilir. M. 88'in son fıkrasına göre icra müdürlüklerinin talebi üzerine kolluk kuvvetlerince yakalanan araçlar en geç üç iş günü içinde en yakın icra müdürlüğüne teslim edilir. Aracı teslim alan icra müdürlüğü, yakalanmasını isteyen icra müdürlüğüne bildirimde bulunur.
 
 Muhafaza bakımından m. 88 şu kuralları koyar:
 
@@ -132,15 +132,15 @@ M. 106, 7343 sayılı Kanunla başlığıyla birlikte değiştirilmiştir. Bugü
 - Giderler satış talebiyle birlikte peşin yatırılmazsa satış talebi vaki olmamış sayılır.
 - Peşin yatırılan miktar satış sırasında yetersiz kalırsa icra müdürü satış isteyene on beş günlük süre verir; eksik tamamlanmazsa talep yine vaki olmamış sayılır.
 
-Gider kalemleri Adalet Bakanlığınca her yıl yürürlüğe konulan tarifede belirlenir; tutarlar her dönem değiştiği için güncel tarifeden kontrol edilmelidir. Araçta haciz trafik kaydına işletilerek yapıldığından bir yıllık sürenin hesabında şerhin kayda işlendiği tarih dosyadan tespit edilmelidir.
+Gider kalemleri Adalet Bakanlığınca her yıl yürürlüğe konulan tarifede belirlenir; tutarlar her dönem değiştiği için güncel tarifeden kontrol edilmelidir. Kanun "hacizden itibaren" dediğinden, kayda işletilerek yapılan araç haczinde sürenin şerhin işlendiği tarihten başladığı kabul edilebilir; bu tarihi dosyadan tespit etmek ihtiyatlı olur.
 
 M. 110'a göre malın satışı kanuni süre içinde istenmez veya talep geri alınıp süresi içinde yenilenmezse o mal üzerindeki haciz kalkar. Satış talebi yalnız bir defa geri alınabilir. Resmî sicile kayıtlı malda haczin kalktığı icra dairesiyle yazışma sonucu tespit edilirse şerh sicili tutan idarece terkin edilir. Haczin kalkmasına sebep olan alacaklı, o mala yönelik haciz ve muhafaza gibi tüm giderlerden sorumlu olur.
 
 Süreyi etkileyen başka hükümler de vardır. İstihkak davası sırasında m. 106'daki süreler işlemez (m. 97). İcra dairesinde yapılan taksit sözleşmeleri süresince de m. 106 süreleri işlemez; sözleşmelerin toplam süresi on yılı aşarsa süreler aştığı tarihten itibaren kaldığı yerden işler (m. 111). Satış isteme süresi satış talebiyle durur ve ihalenin yapılamadığına veya iptal edildiğine ilişkin tutanak tarihinden itibaren kaldığı yerden işlemeye başlar (m. 115). Haczin düşmesi ile takibin düşmesi farklıdır; takibin işlemsizlik nedeniyle düşmesi ve yenilenmesi [icra dosyasının düşmesi ve yenilenmesi](/yazilar/icra-dosyasinin-dusmesi-ve-yenilenmesi/) yazısında ele alınmıştır.
 
-## Kıymet takdiri ve elektronik satış
+## Kıymet takdiri, elektronik satış ve ihalenin feshi
 
-Sicile kayıtlı malın kıymet takdiri, m. 87 uyarınca bilirkişilik bölge kurulu listesinde kayıtlı ve bu konuda Adalet Bakanlığınca izin verilen bilirkişilere, bunlar yoksa listedeki diğer bilirkişilere yaptırılır; icra memuru aracın değerini kendisi takdir edemez. Kıymet takdirine karşı şikâyet, süreler, masraf yükümlülüğü ve taşınırlar bakımından tartışma [kıymet takdirine itiraz](/yazilar/kiymet-takdirine-itiraz/) yazısında ayrıntılı anlatılmıştır. Hangi yol izlenirse izlensin, rapor tebliğinden ya da öğrenmeden itibaren yedi günü aşmamak gerekir.
+Sicile kayıtlı malın kıymet takdiri, m. 87 uyarınca bilirkişilik bölge kurulu listesinde kayıtlı ve bu konuda Adalet Bakanlığınca izin verilen bilirkişilere, bunlar yoksa listedeki diğer bilirkişilere yaptırılır; icra memuru aracın değerini kendisi takdir edemez. Kıymet takdirine karşı şikâyet, süreler, masraf yükümlülüğü ve taşınırlar bakımından tartışma [kıymet takdirine itiraz](/yazilar/kiymet-takdirine-itiraz/) yazısında ayrıntılı anlatılmıştır. Her durumda rapor tebliğinden ya da öğrenmeden itibaren yedi günü aşmamak gerekir.
 
 Borçlu, kıymet takdirinin tebliğinden itibaren yedi gün içinde aracın rızaen satışı için kendisine yetki verilmesini isteyebilir (m. 111/a). İcra müdürü, kıymet takdiri kesinleştikten sonra cebrî satışı durdurarak borçluya on beş gün süre verir. Rızai satışta bedel, muhammen kıymetin yüzde doksanı ile o malla güvence altına alınan ve satış isteyenin alacağına rüçhanı olan alacakların toplamından hangisi fazlaysa bu miktar ile bu aşamaya kadar yapılan takip masrafları toplamından az olamaz. Satışı icra mahkemesi onaylar.
 
@@ -155,15 +155,15 @@ M. 114, 31 Temmuz 2026 tarihli Resmî Gazete'de yayımlanan 7589 sayılı Kanunl
 
 Satılan araç, ihale kesinleşmeden alıcıya teslim edilmez ve sicilde alıcı adına tescil edilmez (m. 118). İcra müdürlüklerince satılan araçların satış tutanağının bir örneği, aracın kayıtlı olduğu trafik tescil kuruluşuna üç iş günü içinde gönderilir (KTK m. 20).
 
-## İhalenin feshi
-
-M. 118, taşınır satışında da ihalenin feshinin istenebileceğini öngörür; feshi isteyebilecek kişiler, süre ve yaptırımlar m. 134'te düzenlenmiştir. İhalenin feshini satış isteyen alacaklı, borçlu, mahcuzun resmî sicilinde kayıtlı ilgililer, sınırlı ayni hak sahipleri ve pey sürerek ihaleye katılanlar, yurt içinde bir adres göstermek koşuluyla ihale tarihinden itibaren yedi gün içinde icra mahkemesinden şikâyet yoluyla isteyebilir. Satış ilanı tebliğ edilmemişse veya esaslı vasıflardaki hata ya da ihalede fesat sonradan öğrenilmişse süre öğrenmeden başlar; ancak ihalenin yapıldığına ilişkin kararın elektronik satış portalında ilan edildiği tarihten itibaren bir yılı geçemez.
+Kanun taşınır ihalesinin feshi için ayrı madde öngörmez; m. 118 feshin istenebileceğini varsayar. Feshi isteyebilecekler, süre ve yaptırımlar taşınmaz ihalesine ilişkin m. 134'te düzenlenmiştir; bu hükmün taşınır ihalesinde niteliğine uygun düştüğü ölçüde esas alınması savunulabilir. İhalenin feshini satış isteyen alacaklı, borçlu, mahcuzun resmî sicilinde kayıtlı ilgililer, sınırlı ayni hak sahipleri ve pey sürerek ihaleye katılanlar, yurt içinde bir adres göstermek koşuluyla ihale tarihinden itibaren yedi gün içinde icra mahkemesinden şikâyet yoluyla isteyebilir. Satış ilanı tebliğ edilmemişse veya esaslı vasıflardaki hata ya da ihalede fesat sonradan öğrenilmişse süre öğrenmeden başlar; ancak ihalenin yapıldığına ilişkin kararın elektronik satış portalında ilan edildiği tarihten itibaren bir yılı geçemez.
 
 7571 sayılı Kanunla m. 134'e eklenen cümlelere göre bu kişiler dışındakilerin talebi dosya üzerinden ve kesin olarak reddedilir. Satış isteyen alacaklı, borçlu, sicilde kayıtlı ilgililer ve sınırlı ayni hak sahipleri dışında kalanların talebi ihale bedeli üzerinden nispi harca ve ihale bedelinin yüzde beşi oranında teminata tabidir. Teminat veya harç eksik yatırılmışsa mahkeme iki haftalık kesin süre verir; süresinde tamamlanmazsa talep reddedilir. Esasa girilerek reddedilen talepte feshi isteyen, ihale bedelinin yüzde onuna kadar para cezasına mahkûm edilir. Fesih sebepleri ve yargılama [ihalenin feshi davası](/yazilar/ihalenin-feshi-davasi/) yazısında ayrıca ele alınmıştır.
 
-## Üçüncü kişinin istihkak iddiası, rehin ve finansal kiralama
+## Üçüncü kişiye devir, istihkak, rehin ve finansal kiralama
 
-Araç sicilde borçlu adına kayıtlıyken aracı satın aldığını ileri süren üçüncü kişiyle sık karşılaşılır. KTK m. 20/d uyarınca tescil edilmiş araçların her çeşit satış ve devri noterlerce yapılır ve noterler tarafından yapılmayan satış ve devirler geçersizdir. Bu nedenle noter senedine dayanmayan "harici satış" iddiası, aracın mülkiyetinin üçüncü kişiye geçtiğini göstermeye yetmez.
+Araç sicilde borçlu adına kayıtlıyken aracı satın aldığını ileri süren üçüncü kişiyle sık karşılaşılır. KTK m. 20/d uyarınca tescil edilmiş araçların her çeşit satış ve devri, taşıt üzerinde satış veya devri kısıtlayıcı bir tedbir ya da kayıt bulunmaması hâlinde noterlerce yapılır ve noterler tarafından yapılmayan satış ve devirler geçersizdir. Bu nedenle noter senedine dayanmayan "harici satış" iddiası, aracın mülkiyetinin üçüncü kişiye geçtiğini göstermeye yetmez.
+
+Haciz şerhi işlendikten sonraki devirlerde KTK m. 20/d ile birlikte İİK m. 86 da değerlendirilmelidir. M. 86, hacizli taşınır üzerinde üçüncü kişinin zilyetlik hükümlerine dayanarak iyi niyetle kazandığı hakları saklı tutar, iyi niyet kurallarına aykırı kazanımları ise haczin alacaklıya sağladığı hakları ihlal ettiği ölçüde batıl sayar. Devir hacizden önce yapılmışsa alacaklının yolu tasarrufun iptali davasıdır; şartları [tasarrufun iptali davası](/yazilar/tasarrufun-iptali-davasi/) yazısında anlatılmıştır. Ceza hukuku bakımından m. 331, haciz yolu ile takip talebinden sonra veya bu talepten önceki iki yıl içinde alacaklısını zarara sokmak amacıyla mallarını gerçekten ya da muvazaalı olarak elden çıkaran borçluyu, aleyhine aciz belgesi alındığı veya alacaklının alacağını alamadığı ispat edilirse altı aydan üç yıla kadar hapis ve bin güne kadar adlî para cezasıyla cezalandırır. Suç alacaklının şikâyetine bağlıdır.
 
 İstihkak iddiasında süreler kısadır:
 
@@ -172,17 +172,11 @@ Araç sicilde borçlu adına kayıtlıyken aracı satın aldığını ileri sür
 - İtiraz edilirse icra mahkemesi takibin devamına veya ertelenmesine karar verir; takibin devamı kararı kesindir ve üçüncü kişi, kararın tefhim veya tebliğinden itibaren yedi gün içinde istihkak davası açmak zorundadır (m. 97).
 - Araç borçlunun elinde değil de üzerinde mülkiyet veya başka bir ayni hak iddia eden üçüncü kişinin elinde yakalanırsa, icra müdürü alacaklıya istihkak davası açması için yedi gün süre verir; dava açılmazsa üçüncü kişinin iddiası kabul edilmiş sayılır (m. 99).
 
-Taşınırı elinde bulunduran malik sayılır; borçlu ile üçüncü kişinin malı birlikte bulundurması hâlinde mal borçlunun elinde sayılır (m. 97/a). Araçta sicil kaydı ile fiilî zilyetlik çoğu zaman birbirinden ayrıldığından, iddianın hangi maddeye göre inceleneceği ve ispat yükünün kimde olduğu ilk değerlendirilecek noktadır. Davanın reddinde ve kötü niyetli itirazda m. 97'deki tazminat oranları uygulanır.
+Taşınırı elinde bulunduran malik sayılır; borçlu ile üçüncü kişinin malı birlikte bulundurması hâlinde mal borçlunun elinde sayılır (m. 97/a). Araçta sicil kaydı ile fiilî zilyetlik çoğu zaman birbirinden ayrıldığından, iddianın hangi maddeye göre inceleneceği ve ispat yükünün kimde olduğu ilk değerlendirilecek noktadır. Takibin ertelenmesinden sonra davanın reddinde ve kötü niyetli itirazda m. 97'deki tazminat oranları uygulanır.
 
 Araç üzerinde sicile şerh edilmiş bir rehin varsa rehinli alacaklı, m. 45 uyarınca kural olarak yalnız rehnin paraya çevrilmesi yoluyla takip yapabilir; rehin borcu karşılamazsa kalan alacağı için haciz veya iflas yoluna gidebilir. Bu takip [rehnin paraya çevrilmesi yoluyla takip](/yazilar/rehnin-paraya-cevrilmesi-yoluyla-takip/) yazısında anlatılmıştır. Rehinli aracı haczettiren adi alacaklı açısından ise o malla güvence altına alınan ve satış isteyenin alacağına rüçhanı olan alacak, artırmada asgari ihale bedelinin hesabına katılır (m. 115).
 
 Finansal kiralama konusu araçta mülkiyet kiralayana aittir (6361 sayılı Kanun m. 23). Sicile kayıtlı taşınırlarda sözleşme o sicile tescil ve şerh edilir ve şerhten sonra üçüncü kişilerin mal üzerindeki ayni hak kazanımları kiralayana karşı ileri sürülemez (m. 22). Kiracının alacaklısı bu aracı kiracının malı gibi haczedemez. Kiracının temerrüdü ve sözleşmenin feshi [finansal kiralama sözleşmesi ve temerrüt](/yazilar/finansal-kiralama-sozlesmesi-ve-temerrut/) yazısındadır.
-
-## Borçlunun aracı devretmesi ve mal kaçırma
-
-Haciz şerhi işlendikten sonra yapılan devirlerde iki hüküm birlikte değerlendirilir. KTK m. 20/d, noter satışını taşıt üzerinde satış veya devri kısıtlayıcı bir tedbir ya da kayıt bulunmaması şartına bağlar. İİK m. 86 ise hacizli taşınır üzerinde üçüncü kişinin zilyetlik hükümlerine dayanarak iyi niyetle kazandığı hakları saklı tutar, iyi niyet kurallarına aykırı kazanımları da haczin alacaklıya sağladığı hakları ihlal ettiği ölçüde batıl sayar.
-
-Devir hacizden önce yapılmışsa alacaklının yolu tasarrufun iptali davasıdır; şartları [tasarrufun iptali davası](/yazilar/tasarrufun-iptali-davasi/) yazısında anlatılmıştır. Ceza hukuku bakımından m. 331, haciz yolu ile takip talebinden sonra veya bu talepten önceki iki yıl içinde alacaklısını zarara sokmak amacıyla mallarını gerçekten ya da muvazaalı olarak elden çıkaran borçluyu, aleyhine aciz belgesi alındığı veya alacaklının alacağını alamadığı ispat edilirse altı aydan üç yıla kadar hapis ve bin güne kadar adlî para cezasıyla cezalandırır. Suç alacaklının şikâyetine bağlıdır.
 
 ## Usul
 
@@ -194,7 +188,7 @@ Araç haczine ilişkin uyuşmazlıkların çoğu icra mahkemesinin görevindedir
 - İhalenin feshi ihale tarihinden itibaren yedi gün içinde, icra mahkemesinde şikâyet yoluyla istenir (m. 134).
 - İcra mahkemesi kararlarına karşı istinaf süresi tebliğden itibaren iki haftadır. M. 85'in uygulanma biçimi, yediemin ücreti ve değiştirilmesi, hacizli taşınırların muhafaza şekli, kıymet takdirine ilişkin şikâyet, ihaleye katılmak için teminat, satışın durdurulması, satış ilanının iptali ve süresinde satış istenmemesi nedeniyle satışın düşürülmesine ilişkin kararlar istinafa tabi değildir; istinaf ayrıca kanundaki parasal sınıra bağlıdır (m. 363).
 
-İspat bakımından araçta belirleyici belgeler trafik kaydı, noter satış senedi, varsa finansal kiralama veya rehin şerhi ve haciz tutanağıdır. İstihkak davasında takibin ertelenmesi istenirse mahkeme m. 36'daki teminatı alır.
+İspat bakımından araçta belirleyici belgeler trafik kaydı, noter satış senedi, varsa finansal kiralama veya rehin şerhi ve haciz tutanağıdır. İstihkak davasında takibin ertelenmesine karar verilirse davacıdan m. 36'daki teminat alınır.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
