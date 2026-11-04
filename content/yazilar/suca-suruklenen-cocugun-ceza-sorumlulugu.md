@@ -79,7 +79,7 @@ sss:
   - soru: "Çocuğun ifadesi sosyal çalışma görevlisi olmadan alınırsa ifade geçersiz olur mu?"
     cevap: "5395 m. 15/2 sosyal çalışma görevlisinin ifade sırasında bulundurulabileceğini söyler; hüküm emredici kaleme alınmamıştır. Zorunlu olan, CMK m. 150/2 uyarınca müdafiin görevlendirilmesidir. Müdafi bulunmaksızın alınan kolluk ifadesinin değeri ayrıca tartışılmalı, sosyal çalışma görevlisinin yokluğu ise somut olayda çocuğun yararı bakımından itiraz konusu yapılmalıdır."
   - soru: "On iki yaşından küçük çocuk hakkında savcılık hangi kararı verir?"
-    cevap: "Bu çocuklar hakkında ceza kovuşturması yapılamaz. Cumhuriyet savcısı kovuşturma yoluna gidemez ve gerekli görürse çocuk hâkiminden koruyucu ve destekleyici tedbir ya da yönlendirme tedbiri istenmesini sağlar. Tedbir kararları kural olarak duruşmasız verilir ve itiraz yoluna tabidir."
+    cevap: "Bu çocuklar hakkında ceza kovuşturması yapılamaz. Cumhuriyet savcısı kovuşturma yoluna gidemez; gerekli gördüğünde çocuk hakkında koruyucu ve destekleyici tedbirlerin uygulanmasını çocuk hâkiminden isteyebilir (5395 m. 15/3). Tedbir kararları kural olarak duruşmasız verilir ve itiraz yoluna tabidir."
 ---
 Bu yazı suç işlediği iddia edilen çocuğun ceza sorumluluğunu ve ona uygulanan özel yargılama kurallarını, 18.08.2026 tarihinde yürürlüğe giren 7593 sayılı Kanunla yapılan değişikliklerle birlikte ele alıyor. Değişiklik iki yönlüdür. TCK m. 31'deki ceza aralıkları ve üst sınırlar ağırlaştırılmış, maddeye yeni bir dördüncü fıkra eklenmiştir. 5395 sayılı Çocuk Koruma Kanununda ise hem kavram hem de usul değişmiştir.
 
@@ -107,7 +107,7 @@ Sağır ve dilsizler için TCK m. 33 bu yaş sınırlarını kaydırır. On beş
 
 ## 7593 sayılı Kanunla eklenen dördüncü fıkra
 
-Yeni m. 31/4, mahkemeye iki ayrı takdir yetkisi verir. Mahkeme bu yetkiyi kullanırken somut olayda şu ölçütlerden birini ya da birkaçını gözetir:
+Yeni m. 31/4, mahkemeye iki ayrı takdir yetkisi verir. Fıkranın birinci cümlesi, somut olayda şu ölçütlerden birinin ya da birkaçının göz önünde bulundurulmasını arar:
 
 - Kasta dayalı kusurun ağırlığı,
 - Güdülen amaç ve saik,
