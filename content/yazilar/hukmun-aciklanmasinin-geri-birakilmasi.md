@@ -7,6 +7,7 @@ kisaca:
   - "Beş yıllık denetim süresi kasten yeni suç işlemeden ve yükümlülüklere uyularak geçerse dava düşer."
   - "Denetim süresinde kasten suç işlenir ya da yükümlülüklere aykırı davranılırsa mahkeme hükmü açıklar."
 tarih: 2026-10-17
+guncelleme: 2026-11-04
 alan: ceza-hukuku
 dayanak:
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 231"
@@ -53,7 +54,7 @@ HAGB bazı suçlarda hiç uygulanmaz. İşkence ve eziyet suçları ile kamu gö
 
 ## Beş yıllık denetim süresi
 
-HAGB kararı verilen sanık beş yıl süreyle denetim altında tutulur. Mahkeme bu süre içinde, en fazla bir yıl boyunca uygulanmak üzere denetimli serbestlik tedbirlerine karar verebilir. Denetimli serbestlik, kişinin cezaevine girmeden belirli yükümlülüklere uymasının izlenmesidir. Kanunun saydığı tedbirler şunlardır:
+HAGB kararı verilen sanık beş yıl süreyle denetim altında tutulur. Fiili on sekiz yaşından önce işleyen sanıklar için 5395 sayılı Çocuk Koruma Kanunu m. 23 özel hüküm getirir: denetim süresi üç yıldır, zarar az ise zararın giderilmesi şartı aranmayabilir ve yönlendirme tedbirleri denetimli serbestlik tedbiri olarak uygulanabilir. Ayrıntı için [suça sürüklenen çocuğun ceza sorumluluğu](/yazilar/suca-suruklenen-cocugun-ceza-sorumlulugu/) yazısına bakılabilir. Mahkeme bu süre içinde, en fazla bir yıl boyunca uygulanmak üzere denetimli serbestlik tedbirlerine karar verebilir. Denetimli serbestlik, kişinin cezaevine girmeden belirli yükümlülüklere uymasının izlenmesidir. Kanunun saydığı tedbirler şunlardır:
 
 - Bir meslek veya sanat sahibi olmayan sanığın, meslek edinmesi için bir eğitim programına devam etmesi.
 - Meslek sahibi sanığın, bir kamu kurumunda ya da aynı mesleği yapan birinin gözetiminde ücret karşılığında çalıştırılması.

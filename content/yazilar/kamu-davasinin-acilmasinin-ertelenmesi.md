@@ -7,6 +7,7 @@ kisaca:
   - "Suçtan zarar gören ve şüpheli, karara CMK m. 173 uyarınca tebliğden itibaren iki hafta içinde itiraz edebilir."
   - "Erteleme süresinde kasıtlı suç işlenmezse kovuşturmaya yer olmadığına karar verilir; süre boyunca zamanaşımı işlemez."
 tarih: 2026-10-23
+guncelleme: 2026-11-04
 alan: ceza-hukuku
 dayanak:
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 171"
@@ -40,6 +41,8 @@ Kurum, aynı amaca hizmet eden diğer kurumlarla, özellikle hükmün açıklanm
 ## Kapsam: hangi suçlarda erteleme verilebilir
 
 CMK m. 171/2'ye göre uzlaştırma ve önödeme kapsamındaki suçlar hariç olmak üzere, üst sınırı üç yıl veya daha az hapis cezasını gerektiren suçlarda, kamu davasını açmak için yeterli şüphe bulunsa bile Cumhuriyet savcısı kamu davasının açılmasının beş yıl süreyle ertelenmesine karar verebilir.
+
+Şüpheli fiili on sekiz yaşından önce işlemişse 5395 sayılı Çocuk Koruma Kanunu m. 19 uygulanır: erteleme süresi üç yıldır ve on beş yaşını doldurmamış çocuklar bakımından üç yıllık üst sınır beş yıl olarak uygulanır. Ayrıntı için [suça sürüklenen çocuğun ceza sorumluluğu](/yazilar/suca-suruklenen-cocugun-ceza-sorumlulugu/) yazısına bakılabilir.
 
 Bu hükümden üç sonuç çıkar:
 
