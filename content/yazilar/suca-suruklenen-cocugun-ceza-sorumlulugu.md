@@ -116,7 +116,7 @@ Yeni m. 31/4, mahkemeye iki ayrı takdir yetkisi verir. Fıkranın birinci cüml
 
 Birinci yetki, kasten öldürme (TCK m. 81, 82) ve neticesi sebebiyle ağırlaşmış yaralama (m. 87/2 ve 4) suçlarını işleyen on beş-on sekiz yaş grubundaki kişiler hakkında üçüncü fıkranın uygulanmamasıdır. Bu durumda ceza indirimi yapılmaz ve suçun yetişkin için öngörülen cezası esas alınır. İkinci yetki, fiili işlediği sırada on iki-on beş yaş grubunda olup ceza sorumluluğu bulunanlar hakkında ikinci fıkra yerine üçüncü fıkranın uygulanabilmesidir.
 
-İkinci cümle suç tipini ayrıca saymaz. Kapsamının birinci cümledeki suçlarla sınırlı olup olmadığı lafız itibarıyla tartışmaya açıktır. Fıkranın bir bütün olarak aynı ölçütlere ve aynı suçlara bağlanmış olması dar yorumu destekler; savunma bu yorumu açıkça ileri sürmelidir. Hüküm "uygulanmayabilir" ve "uygulanabilir" biçiminde kaleme alındığından, takdirin hangi ölçüte dayandığının gerekçede somut olarak gösterilmesi gerekir.
+İkinci cümle suç tipini ve ölçütleri ayrıca saymaz. Kapsamının birinci cümledeki suçlarla ve ölçütlerle sınırlı olup olmadığı lafız itibarıyla tartışmaya açıktır. Kanaatimizce ikinci cümlenin "ise" bağlacıyla birinci cümleye bağlanması dar yorumu destekleyen bir argümandır; ancak yeni bir hüküm olduğundan bu soruda yerleşmiş bir yorumdan söz edilemez ve savunma dar yorumu açıkça ileri sürmelidir. Hüküm "uygulanmayabilir" ve "uygulanabilir" biçiminde kaleme alındığından, takdirin hangi ölçüte dayandığının gerekçede somut olarak gösterilmesi gerekir.
 
 ## Eski ve yeni metnin karşılaştırılması ve lehe kanun
 
@@ -126,11 +126,11 @@ Değişiklikten önceki metinde on iki-on beş yaş grubu için aralıklar on ik
 
 Yeni aralıklar ve üst sınırlar her iki yaş grubunda daha ağırdır. Dördüncü fıkra da indirimin hiç yapılmamasına veya daha ağır fıkranın uygulanmasına imkân verdiğinden faile aleyhtir. Bu nedenle 18.08.2026 öncesinde işlenen fiillere eski metin uygulanır; dördüncü fıkra bu fiillerde gündeme gelemez. Derdest dosyalarda ve istinaf-temyiz aşamasındaki hükümlerde suç tarihinin bu açıdan ayrıca kontrol edilmesi gerekir.
 
-Lehe değişiklikler de vardır. 5395 m. 23/3'e göre suçla mağdurun veya kamunun uğradığı zarar azsa, adli süreçteki çocuk hakkında HAGB kararı için zararın giderilmesi şartı aranmayabilir. Bu hükmün değişiklikten önceki fiillere uygulanması TCK m. 7/2 çerçevesinde talep edilebilir.
+Lehe değişiklikler de vardır. 5395 m. 23/3'e göre suçla mağdurun veya kamunun uğradığı zarar azsa, adli süreçteki çocuk hakkında HAGB kararı için zararın giderilmesi şartı aranmayabilir. Kanaatimizce bu hükmün değişiklikten önceki fiillere uygulanması da TCK m. 7/2 çerçevesinde talep edilebilir.
 
 ## Algılama ve yönlendirme yeteneğinin tespiti, sosyal inceleme
 
-On iki-on beş yaş grubunda sorumluluğun varlığı, çocuğun fiilin hukuki anlam ve sonuçlarını algılama ve davranışlarını yönlendirme yeteneğine bağlıdır. TCK m. 31 bu tespiti yapacak merciyi belirlemez. Yeteneğin varlığı uzmanlık gerektiren bir konu olduğundan bilirkişi incelemesiyle, yetkili sağlık kurulu veya adli tıp raporu alınarak belirlenir. Rapor tek başına bağlayıcı değildir; takdir mahkemeye aittir.
+On iki-on beş yaş grubunda sorumluluğun varlığı, çocuğun fiilin hukuki anlam ve sonuçlarını algılama ve davranışlarını yönlendirme yeteneğine bağlıdır. TCK m. 31 bu tespiti yapacak merciyi belirlemez. Yeteneğin varlığı uzmanlık gerektiren bir konu olduğundan bilirkişi incelemesiyle, örneğin yetkili sağlık kurulu veya adli tıp raporu alınarak belirlenmelidir. Rapor tek başına bağlayıcı değildir; takdir mahkemeye aittir.
 
 Sosyal inceleme raporu bu takdirde ayrıca göz önünde bulundurulur (5395 m. 35/1). Rapor çocuğun bireysel özelliklerini ve sosyal çevresini gösterir. 7593 sayılı Kanunla değişik m. 35/3'e göre on beş yaşını doldurmamış çocuk hakkında sosyal inceleme yaptırılması zorunludur. On beş yaşını doldurmuş çocuk hakkında inceleme yaptırılmazsa bunun gerekçesi iddianamede veya kararda gösterilir.
 
@@ -146,11 +146,11 @@ Bu zorunluluğa usul yaptırımı da bağlanmıştır. CMK m. 174/1'e eklenen (e
 - Dijital risklerden korunma tedbiri (üç aydan az, iki yıldan fazla olmamak üzere cihaz takibi ve bazı platformlara erişimin engellenmesi),
 - Kitap ve kütüphane tedbiri (yirmi saatten üç yüz saate kadar),
 - Çevreye saygı ve çevre temizliği tedbiri (yirmi saatten üç yüz saate kadar),
-- Tütün, alkol, kumar, uyuşturucu ve davranışsal bağımlılık tedbiri.
+- Tütün, nikotin, alkol, kumar, uyuşturucu ve uyarıcı madde ile davranışsal bağımlılık tedbiri.
 
 Tedbir kararını çocuk hâkimi verir. Ceza sorumluluğu olmayan çocuklar hakkında tedbir kararı kural olarak duruşma yapılmaksızın verilir; hâkim zaruret görürse duruşma yapabilir (m. 13/1). Kararın verilmesinden önce yeterli idrak gücüne sahip çocuğun görüşü alınır (m. 13/2). Tedbirin uygulanması on sekiz yaşın doldurulmasıyla kendiliğinden sona erer; eğitimine devam edebilmesi için çocuğun rızasıyla belli bir süre uzatılabilir (m. 7/6).
 
-Tedbir kararlarının uygulanması en geç üçer aylık sürelerle incelettirilir (m. 8/2). Yine 7593 sayılı Kanunla eklenen m. 45/5 uyarınca tedbirin gereklerine aykırı hareket eden ana, baba, vasi veya bakım ve gözetimden sorumlu kişi, çocuk hâkimi kararıyla üç günden on güne kadar tazyik hapsiyle cezalandırılır.
+Tedbir kararlarının uygulanması en geç üçer aylık sürelerle incelettirilir (m. 8/2). Yine 7593 sayılı Kanunla eklenen m. 45/5 uyarınca koruyucu ve destekleyici tedbir kararlarının gereklerine aykırı hareket eden ana, baba, vasi veya bakım ve gözetimden sorumlu kişi, çocuk hâkimi kararıyla üç günden on güne kadar tazyik hapsiyle cezalandırılır. Bu karara karşı m. 14 uyarınca itiraz edilebilir.
 
 ## Soruşturma evresi: çocuk bürosu, müdafi, gözaltı ve tutuklama
 
@@ -190,16 +190,16 @@ Kanun yolları bakımından, çocuk hâkiminin tedbir kararlarına karşı CMK'n
 
 İlk iş, suç tarihindeki yaşın nüfus kaydıyla kesin olarak tespit edilmesidir. Suç tarihinin 18.08.2026 öncesine veya sonrasına düşmesi TCK m. 31'in hangi metninin uygulanacağını belirler. Zincirleme suçlarda ve kesintisiz suçlarda fiilin hangi tarihe sarktığı ayrıca kontrol edilmelidir.
 
-On iki-on beş yaş grubunda algılama ve yönlendirme yeteneğine ilişkin rapor alınmadan hüküm kurulmasına itiraz edilmelidir. Sosyal inceleme raporu yoksa ya da çocuğun bireysel ve sosyal durumunu yansıtmıyorsa, CMK m. 174/1-e kapsamında iddianamenin iadesi gerektiği tensip aşamasında hatırlatılmalıdır. Rapor ile adli tıp görüşü çelişiyorsa çelişkinin giderilmesi talep edilmelidir.
+On iki-on beş yaş grubunda algılama ve yönlendirme yeteneğine ilişkin rapor alınmadan hüküm kurulmasına itiraz edilmelidir. On beş yaşını doldurmamış çocuk hakkında sosyal inceleme yaptırılmamışsa, CMK m. 174/1-e kapsamında iddianamenin iadesi gerektiği on beş günlük inceleme süresi içinde hatırlatılmalıdır. Rapor var ama çocuğun bireysel ve sosyal durumunu yansıtmıyorsa bu husus iade sebebi olarak değil, delil değerlendirmesinde ileri sürülmelidir. Rapor ile adli tıp görüşü çelişiyorsa çelişkinin giderilmesi talep edilmelidir.
 
 Savunmada sık rastlanan hatalar şunlardır:
 
 - 18.08.2026 öncesi fiilde yeni ve daha ağır aralıkların uygulanmasına itiraz edilmemesi,
 - m. 31/4 uygulandığında takdirin hangi ölçüte dayandığının gerekçede gösterilmediği hususunun kanun yolu dilekçesinde ileri sürülmemesi,
-- Çocuk hakkında HAGB veya erteleme kararında CMK'daki beş yıllık sürenin, 5395'teki üç yıllık süre yerine uygulanması,
+- Çocuk hakkında HAGB veya kamu davasının açılmasının ertelenmesi kararında CMK'daki beş yıllık sürenin, 5395'teki üç yıllık süre yerine uygulanması,
 - On beş yaşından küçük çocuk için m. 21'deki tutuklama yasağının ve m. 19/2'deki beş yıllık sınırın göz ardı edilmesi,
 - Yetişkinle birleştirilen davada kapalı duruşma ve sosyal çalışma görevlisi taleplerinin yapılmaması.
 
 Talep sonucu kurulurken, fiil tarihine göre uygulanacak m. 31 metni açıkça belirtilmeli; ceza sorumluluğu yoksa güvenlik tedbirine, varsa uygun indirime, koşulları varsa HAGB veya seçenek yaptırıma hükmedilmesi kademeli olarak istenmelidir. Lehe kanun karşılaştırmasının hükümde somut olarak yapılması da ayrıca talep edilmelidir.
 
-Karşı tarafın, yani iddia makamının veya katılan vekilinin muhtemel itirazları da öngörülmelidir. Kasten öldürme ve m. 87/2-4 kapsamındaki suçlarda katılan vekili m. 31/4 uyarınca indirim yapılmamasını isteyecektir. Savunma, bu talebe karşı fıkradaki ölçütlerin somut olayda bulunmadığını, sosyal inceleme raporunun ve çocuğun gelişim durumunun aksini gösterdiğini delillendirmelidir. Önceki mahkûmiyet ölçütüne dayanılıyorsa önceki kaydın niteliği ve 5352 m. 10/3'e uygun biçimde istenip istenmediği incelenmelidir.
+Karşı tarafın, yani iddia makamının veya katılan vekilinin muhtemel itirazları da öngörülmelidir. Kasten öldürme ve m. 87/2-4 kapsamındaki suçlarda katılan vekili m. 31/4 uyarınca indirim yapılmamasını isteyebilir. Savunma, bu talebe karşı fıkradaki ölçütlerin somut olayda bulunmadığını, sosyal inceleme raporunun ve çocuğun gelişim durumunun aksini gösterdiğini delillendirmelidir. Önceki mahkûmiyet ölçütüne dayanılıyorsa önceki kaydın niteliği ve 5352 m. 10/3'e uygun biçimde istenip istenmediği incelenmelidir.
