@@ -4,7 +4,7 @@ aciklama: "Sözlü kira sözleşmesinin geçerliliği, senetle ispat ve delil ba
 kisaca:
   - "Kira sözleşmesi kanunda bir şekle bağlanmadığından sözlü olarak da geçerli biçimde kurulur."
   - "Sorun ispattadır; senetle ispat sınırını aşan kira ilişkisi kural olarak tanıkla kanıtlanamaz."
-  - "Kiracının itirazında sözleşmeyi inkâr etmesi hâlinde ilamsız takipte icra mahkemesi yolu kapanır, genel mahkemeye gidilir."
+  - "Noterce düzenlenmiş ya da onaylanmış sözleşme yoksa, kiracının itirazında sözleşmeyi inkâr etmesiyle icra mahkemesi yolu kapanır, genel mahkemeye gidilir."
   - "Kira davalarında görevli mahkeme sulh hukuk mahkemesidir ve ilamsız tahliye dışında arabuluculuk dava şartıdır."
 tarih: 2026-11-06
 alan: tasinmaz-ve-kira
@@ -46,6 +46,8 @@ dayanak:
     not: "Genel yetki"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 10"
     not: "Sözleşmenin ifa yeri mahkemesi"
+  - ad: "7589 sayılı Kanun geçici m. 1/10"
+    not: "Yürürlükten kaldırılan HMK m. 107'nin önceden açılmış davalarda uygulanmaya devamı"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 109"
     not: "Kısmi dava; dördüncü fıkrada talebin bir defaya mahsus artırılması"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 190"
@@ -88,7 +90,7 @@ sss:
   - soru: "Sözlü kirada kiracı itirazında sözleşmeyi inkâr ederse ne olur?"
     cevap: "Takip durur ve icra mahkemesinden itirazın kaldırılması istenemez; bu yol noterce düzenlenmiş ya da imzası onaylanmış sözleşmeye bağlıdır (İİK m. 269/b). Alacaklı genel mahkemede itirazın iptali veya alacak ve tahliye davası açar; tahliye ihtarlı ödeme emri bu davada temerrüt ihtarı yerine geçer."
   - soru: "Ödenmeyen kiranın tutarı tam bilinmiyorsa belirsiz alacak davası açılabilir mi?"
-    cevap: "Hayır. Belirsiz alacak davasını düzenleyen HMK m. 107, 7589 sayılı Kanunla yürürlükten kaldırıldı. Kısmi dava açılabilir; alacağın bir kısmı dava edildiğinde talep, aynı davada bir defaya mahsus olmak üzere tahkikat sona erene kadar artırılabilir (HMK m. 109/4)."
+    cevap: "Hayır. Belirsiz alacak davasını düzenleyen HMK m. 107, 7589 sayılı Kanunla yürürlükten kaldırıldı; madde yalnız bu tarihten önce açılmış davalarda uygulanmaya devam eder (7589 s.K. geçici m. 1/10). Kısmi dava açılabilir; alacağın bir kısmı dava edildiğinde talep, aynı davada bir defaya mahsus olmak üzere tahkikat sona erene kadar artırılabilir (HMK m. 109/4)."
 ---
 Uygulamada kira ilişkilerinin önemli bir bölümü yazılı bir sözleşme olmadan kurulur. Akraba ya da tanıdık arasında yapılan kiralar, uzun yıllardır süren eski ilişkiler ve elden ödenen kiralar bunun tipik örnekleridir. Uyuşmazlık çıktığında sorun sözleşmenin geçerliliğinde değil, varlığının, bedelinin, başlangıç tarihinin ve ödemelerin ispatında ortaya çıkar. Bu yazı, yazılı sözleşme bulunmayan kira ilişkilerinde maddi hukuk, ispat ve takip yollarını birlikte ele alır.
 
@@ -120,7 +122,7 @@ Aile içinde yapılan kiralarda birinci bent doğrudan uygulanır. Teamül istis
 
 Senetle ispat gereken hâllerde delil başlangıcı bulunursa tanık dinlenebilir (m. 202/1). Delil başlangıcı, iddia konusu hukuki işlemi tamamen ispata yetmese de muhtemel gösteren ve kendisine karşı ileri sürülen kimse ya da temsilcisi tarafından verilmiş veya gönderilmiş belgedir (m. 202/2). Belge kavramı geniştir; yazılı metinlerin yanında elektronik ortamdaki veriler de HMK m. 199 kapsamındadır. Sözlü kira dosyalarında başlıca yazılı izler şunlardır:
 
-- Banka ve havale kayıtları: Kiracının kendi hesabından "kira" ya da ay belirten açıklamayla düzenli ödeme yapması, kiracıdan sadır olduğu ölçüde delil başlangıcı olarak değerlendirilmeye elverişlidir. Ödemelerin düzenliliği, tutarı ve dönemi aynı zamanda bedelin ve başlangıç tarihinin tespitinde kullanılır.
+- Banka ve havale kayıtları: Kiracının kendi hesabından "kira" ya da ay belirten açıklamayla düzenli ödeme yapması, kiracıdan sadır olduğu ölçüde m. 202/2'deki tanıma göre delil başlangıcı olarak değerlendirilebilir; bunun kabulü, kaydın içeriğine ve hâkimin takdirine bağlıdır. Ödemelerin düzenliliği, tutarı ve dönemi aynı zamanda bedelin ve başlangıç tarihinin tespitinde kullanılır.
 - WhatsApp ve e-posta yazışmaları: Güvenli elektronik imza taşımayan veri senet hükmünde değildir (m. 205/2). Karşı tarafın gönderdiği ve kira ilişkisini, bedeli ya da gecikmeyi kabul eden mesajlar ise delil başlangıcı niteliği taşıyabilir. Ayrıntı için [WhatsApp yazışmalarının delil değeri](/yazilar/whatsapp-yazismalari-delil-olur-mu/) yazısına bakılabilir.
 - Abonelik ve adres kayıtları: Elektrik, su, doğalgaz aboneliği ve yerleşim yeri kaydı, kiracının taşınmazı fiilen kullandığını ve kullanımın başlangıcını gösterir.
 
@@ -128,7 +130,7 @@ Kiralananın teslimi ve fiilî kullanım birer vakıadır. Bunlar tanık, keşif
 
 ## Kira bedeli ve ödemenin ispatı
 
-Kanunda aksine hüküm bulunmadıkça taraflardan her biri hakkını dayandırdığı olguları ispatla yükümlüdür (TMK m. 6; HMK m. 190). Kira ilişkisinin ve kararlaştırılan bedelin ispat yükü, bundan hak çıkaran kiraya verendedir. Kira ilişkisi sabit olduktan sonra ödemenin ispat yükü ise kiracıdadır. Ödeme borcu sona erdiren bir hukuki işlem olduğundan, ödemenin ispatında da HMK m. 200'deki senetle ispat kuralı uygulanır.
+Kanunda aksine hüküm bulunmadıkça taraflardan her biri hakkını dayandırdığı olguları ispatla yükümlüdür (TMK m. 6; HMK m. 190). Kira ilişkisinin ve kararlaştırılan bedelin ispat yükü, bundan hak çıkaran kiraya verendedir. Kira ilişkisi sabit olduktan sonra ödemenin ispat yükü ise kiracıdadır. HMK m. 200/1 bir hakkın itfası amacıyla yapılan hukuki işlemleri de saydığından, borcu sona erdiren ödemenin ispatında da senetle ispat kuralının uygulanacağı sonucuna varılır.
 
 Ödeme zamanı kararlaştırılmamışsa ve yerel âdet de yoksa kira, her ayın sonunda ve en geç kira süresinin bitiminde ödenir (TBK m. 314). Sözlü kiralarda bu hüküm, ödemenin hangi tarihte muaccel olduğunun ve temerrüdün başlangıcının belirlenmesinde işe yarar. Elden ödenen kiralarda kiracı imzalı makbuz almamışsa ödemeyi kanıtlamakta ciddi güçlük çeker.
 
@@ -152,7 +154,7 @@ Kira alacağı için ilamsız takip yazılı sözleşme olmadan da başlatılabi
 
 Yazılı sözleşmenin yokluğu en çok inkâr hâlinde hissedilir. Kiracı sözleşmeyi reddederse alacaklı, ancak noterce düzenlenmiş ya da imzası onaylanmış bir sözleşmeye dayanıyorsa icra mahkemesinden itirazın kaldırılmasını ve tahliyeyi isteyebilir (m. 269/b). Sözlü kirada bu imkân yoktur ve alacaklı genel hükümlere göre dava açmak zorunda kalır. Bu durumda tahliye ihtarlı ödeme emri, Borçlar Kanunundaki temerrüt ihtarı yerine geçer. İcra yolunun işleyişi [kiralanan taşınmazın icra yoluyla tahliyesi](/yazilar/kiralanan-tasinmazin-icra-yoluyla-tahliyesi/) yazısında ayrıntılı anlatılmıştır.
 
-Kiracı sözleşmeyi inkâr etmeyip kiranın ödendiğini veya takas ileri sürerse, bunu noterce düzenlenmiş ya da onaylanmış, alacaklı tarafından ikrar edilmiş bir belge yahut resmî makbuz ile ispat etmek zorundadır (m. 269/c). Bu kural kiracı bakımından banka yoluyla ödemenin önemini gösterir. İİK m. 272'deki süre bitimine dayalı tahliye yolu ise kanun lafzı gereği sözleşmenin (mukavelename) icra dairesine ibrazını gerektirdiğinden sözlü kiralarda kullanılamaz.
+Kiracı sözleşmeyi inkâr etmeyip kiranın ödendiğini veya takas ileri sürerse, icra mahkemesindeki itirazın kaldırılması incelemesinde bunu noterce düzenlenmiş ya da imzası onaylanmış, alacaklı tarafından ikrar edilmiş bir belge yahut resmî dairelerin veya yetkili makamların usulüne göre verdiği bir makbuz ya da vesika ile ispat etmek zorundadır (m. 269/c). Bu kural kiracı bakımından ödemenin belgelendirilmesinin önemini gösterir. İİK m. 272'deki süre bitimine dayalı tahliye yolu ise lafzı itibarıyla mukavelename ile kiralanan taşınmazı ve mukavelenin icra dairesine ibrazını öngördüğünden, sözlü kiralarda bu yola başvurulması mümkün görünmemektedir.
 
 ## Usul
 
@@ -160,11 +162,11 @@ Görevli mahkeme: Sulh hukuk mahkemesi, dava konusunun değerine bakılmaksızı
 
 Yetki: Genel yetkili mahkeme davalının yerleşim yeri mahkemesidir (m. 6). Sözleşmeden doğan davalar sözleşmenin ifa edileceği yer mahkemesinde de açılabilir (m. 10).
 
-Dava şartı arabuluculuk: Kira ilişkisinden kaynaklanan uyuşmazlıklarda dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır (6325 sayılı Kanun m. 18/B-1-a). İstisna, kiralanan taşınmazların İİK'ya göre ilamsız icra yoluyla tahliyesine ilişkin hükümlerle sınırlıdır. Genel mahkemede açılacak itirazın iptali, alacak, tahliye ve tespit davaları bu istisnanın dışındadır. Süreç [kira uyuşmazlıklarında zorunlu arabuluculuk](/yazilar/kira-uyusmazliklarinda-zorunlu-arabuluculuk/) yazısında anlatılmıştır.
+Dava şartı arabuluculuk: Kira ilişkisinden kaynaklanan uyuşmazlıklarda dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır (6325 sayılı Kanun m. 18/B-1-a). Kanun metnindeki istisna, kiralanan taşınmazların İİK'ya göre ilamsız icra yoluyla tahliyesine ilişkin hükümlerle sınırlıdır. Bu lafız karşısında genel mahkemede açılacak itirazın iptali, alacak, tahliye ve tespit davalarının istisnaya girmediği ve dava şartı kapsamında kaldığı sonucuna varılır. Süreç [kira uyuşmazlıklarında zorunlu arabuluculuk](/yazilar/kira-uyusmazliklarinda-zorunlu-arabuluculuk/) yazısında anlatılmıştır.
 
 Süreler: İtirazın iptali davası itirazın tebliğinden itibaren bir yıl içinde açılır (İİK m. 67/1). Bu süreyi geçiren alacaklının genel hükümlere göre alacak davası açma hakkı saklıdır. Borçlunun itirazının haksızlığına karar verilirse, talep üzerine hükmolunan miktarın yüzde yirmisinden az olmamak üzere icra inkâr tazminatına hükmedilir. Davanın ayrıntıları [itirazın iptali davası](/yazilar/itirazin-iptali-davasi/) yazısındadır.
 
-Talep ve harç: Belirsiz alacak davası (HMK m. 107) 7589 sayılı Kanunla yürürlükten kaldırılmıştır. Bedeli tam belirlenemeyen alacaklarda kısmi dava açılabilir; talep aynı davada bir defaya mahsus, tahkikatın sona ermesine kadar artırılabilir ve zamanaşımı artırılan kısım için de dava tarihinden kesilmiş sayılır (m. 109/4). Para alacağına ilişkin talepler nispi harca tabidir.
+Talep ve harç: Belirsiz alacak davası (HMK m. 107) 7589 sayılı Kanunla yürürlükten kaldırılmıştır; aynı Kanunun geçici 1. maddesinin onuncu fıkrası uyarınca m. 107, yürürlükten kaldırılma tarihinden önce açılmış davalarda uygulanmaya devam eder. Bedeli tam belirlenemeyen alacaklarda kısmi dava açılabilir; talep aynı davada bir defaya mahsus, tahkikatın sona ermesine kadar artırılabilir ve zamanaşımı artırılan kısım için de dava tarihinden kesilmiş sayılır (m. 109/4). Para alacağına ilişkin talepler nispi harca tabidir.
 
 Kanun yolu: Nihai kararlara karşı istinaf yoluna başvurulabilir. Miktar veya değeri kanundaki parasal sınırı geçmeyen malvarlığı davalarında karar kesindir (m. 341/2). Bu sınır da HMK Ek m. 1 uyarınca her yıl güncellenir ve davanın açıldığı tarihteki miktar esas alınır.
 
