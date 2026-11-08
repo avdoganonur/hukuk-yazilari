@@ -54,7 +54,7 @@ sss:
   - soru: "Görevi kötüye kullanma suçunda uzlaştırma yapılır mı?"
     cevap: "Hayır. Suç şikâyete bağlı değildir ve CMK m. 253'te uzlaştırmaya tabi olarak sayılan suçlar arasında yer almaz. Adli süreçteki çocuklar için öngörülen ve üst sınırı üç yılı geçmeyen suçları kapsayan genişletilmiş kural ise yalnızca mağdurun gerçek kişi ya da özel hukuk tüzel kişisi olduğu hâllerde ve şüpheli çocuksa gündeme gelir."
   - soru: "İzin merciinin ön incelemeyi otuz günde bitirmemesi izin verilmiş sayılmasını sağlar mı?"
-    cevap: "4483 sayılı Kanun m. 7 kararın ön inceleme dâhil suçun öğrenilmesinden itibaren en geç otuz gün içinde verilmesini, zorunlu hâllerde bir kez ve en çok on beş gün uzatılmasını öngörür. Kanun bu sürenin geçmesine izin verilmiş sayılma sonucu bağlamaz. Süre aşımı, karar verildikten sonra itiraz dilekçesinde ve gerekirse idarenin sorumluluğu bakımından ileri sürülebilir."
+    cevap: "4483 sayılı Kanun m. 7 kararın ön inceleme dâhil suçun öğrenilmesinden itibaren en geç otuz gün içinde verilmesini, zorunlu hâllerde bir kez ve en çok on beş gün uzatılmasını öngörür. Kanunda bu sürenin geçmesine izin verilmiş sayılma gibi bir sonuç bağlanmamıştır."
   - soru: "Soruşturma izni verilmemesine itiraz reddedilirse başka bir yol var mı?"
     cevap: "İtiraz üzerine bölge idare mahkemesinin ya da Danıştay'ın verdiği karar kesindir. Daha önce ön incelemesi yapılıp sonuçlandırılmış konuda yeni başvuru, ancak yeni bir belge sunulursa işleme konulur. Zarar bakımından ise ceza soruşturmasından bağımsız olarak idareye karşı tam yargı davası açılabilir."
   - soru: "Şikâyetçi ceza davasına katılabilir mi?"
@@ -68,10 +68,10 @@ Bu yazı suçun unsurlarını, soruşturma izni sistemini ve dosyada sık karş�
 
 TCK m. 257 yürürlükteki hâliyle iki fıkradan oluşur:
 
-- Birinci fıkra: kanunda ayrıca suç olarak tanımlanan hâller dışında, görevinin gereklerine aykırı hareket etmek suretiyle kişilerin mağduriyetine veya kamunun zararına neden olan ya da kişilere haksız bir kazanç sağlayan kamu görevlisi altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
+- Birinci fıkra: kanunda ayrıca suç olarak tanımlanan hâller dışında, görevinin gereklerine aykırı hareket etmek suretiyle kişilerin mağduriyetine veya kamunun zararına neden olan ya da kişilere haksız bir menfaat sağlayan kamu görevlisi altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
 - İkinci fıkra: aynı sonuçları görevinin gereklerini yapmakta ihmal veya gecikme göstererek doğuran kamu görevlisi üç aydan bir yıla kadar hapis cezası ile cezalandırılır.
 
-Maddenin üçüncü fıkrası, kamu görevlisinin bir işin gördürülmesi için kendisine veya başkasına yarar sağlamasını cezalandırıyordu. Bu fıkra 6352 sayılı Kanunla 2012 yılında yürürlükten kaldırılmıştır. Aynı değişiklikle iki fıkradaki ceza sınırları bugünkü hâline indirilmiştir. Eski tarihli kaynaklarda farklı ceza aralıkları ya da üçüncü fıkraya yapılan atıflar görülebilir; suç tarihi 2012 öncesine uzanan dosyalarda lehe kanun karşılaştırması ayrıca yapılmalıdır.
+Maddenin üçüncü fıkrası, kamu görevlisinin bir işin gördürülmesi için kendisine veya başkasına yarar sağlamasını cezalandırıyordu. Bu fıkra 6352 sayılı Kanun'un 105. maddesiyle 2012 yılında yürürlükten kaldırılmıştır. Eski tarihli kaynaklarda üçüncü fıkraya yapılan atıflar bu nedenle güncel değildir.
 
 Fail yalnızca kamu görevlisi olabilir; suç özgü suçtur. TCK m. 6/1-c kamu görevlisini, kamusal faaliyetin yürütülmesine atama veya seçilme yoluyla ya da herhangi bir surette sürekli, süreli veya geçici olarak katılan kişi olarak tanımlar. Ölçüt, kişinin statüsü değil yürüttüğü faaliyetin kamusal niteliğidir. Bu nedenle ceza hukukundaki kamu görevlisi kavramı, 657 sayılı Kanun'daki memur kavramından geniştir. Bu fark, aşağıda görüleceği gibi, 4483 sayılı Kanun'un uygulanıp uygulanmayacağı sorusunda önem kazanır.
 
@@ -79,17 +79,17 @@ Fail yalnızca kamu görevlisi olabilir; suç özgü suçtur. TCK m. 6/1-c kamu 
 
 Hareket, birinci fıkrada görevin gereklerine aykırı davranmaktır. Görevin gerekleri, görevliyi bağlayan kanun, yönetmelik, genelge ve hizmet içi talimatlarla belirlenir. Dosyada bu yüzden ihlal edildiği ileri sürülen düzenlemenin açıkça gösterilmesi gerekir. Takdir yetkisinin hukuka uygun kullanıldığı bir işlem, sonucu ilgilisi aleyhine olsa bile bu unsuru karşılamaz.
 
-İkinci fıkrada hareket, görevin gereklerini yapmakta ihmal veya gecikme göstermektir. Burada kastedilen, yapılması gereken işin yapılmaması ya da makul süreyi aşacak biçimde geciktirilmesidir. Öğretide ağırlıklı görüş, ikinci fıkranın taksirli bir suç değil, ihmali hareketle işlenen kasıtlı bir suç düzenlediği yönündedir. Kanunda bu suçun taksirli hâli öngörülmediğinden, özensizlikten kaynaklanan ve kast içermeyen aksaklıklar disiplin hukukunun konusudur.
+İkinci fıkrada hareket, görevin gereklerini yapmakta ihmal veya gecikme göstermektir. Burada kastedilen, yapılması gereken işin yapılmaması ya da makul süreyi aşacak biçimde geciktirilmesidir. Öğretide savunulan bir görüşe göre ikinci fıkra taksirli bir suç değil, ihmali hareketle işlenen kasıtlı bir suç düzenler. Bu görüşe göre, kanunda bu suçun taksirli hâli ayrıca öngörülmediğinden özensizlikten kaynaklanan ve kast içermeyen aksaklıklar disiplin hukukunun konusudur.
 
 Netice unsuru üç seçenekli olarak düzenlenmiştir:
 
 1. Kişilerin mağduriyetine neden olmak,
 2. Kamunun zararına neden olmak,
-3. Kişilere haksız bir kazanç sağlamak.
+3. Kişilere haksız bir menfaat sağlamak.
 
 Bu seçeneklerden en az biri gerçekleşmedikçe suç oluşmaz. Görevin gereklerine aykırı her davranış, bu sonuçlardan birini doğurmadıkça yalnızca disiplin sorumluluğu doğurur. Uygulamada en çok tartışılan nokta mağduriyetin somutlaştırılmasıdır. Soyut bir hak kaybı iddiası yerine, fiil nedeniyle kişinin hukuki durumunda ne değiştiği, hangi başvurusunun sonuçsuz kaldığı, hangi süreyi kaçırdığı ya da hangi masrafa katlandığı ortaya konmalıdır.
 
-Manevi unsur kasttır. Failin, görevin gereklerine aykırı davrandığını ve bunun bir mağduriyet, kamu zararı ya da haksız kazanç doğuracağını bilmesi ve istemesi gerekir. Saik aranmaz; failin kişisel bir çıkar gözetmiş olması şart değildir.
+Manevi unsur kasttır. Failin, görevin gereklerine aykırı davrandığını ve bunun bir mağduriyet, kamu zararı ya da haksız menfaat doğuracağını bilmesi ve istemesi gerekir. Saik aranmaz; failin kişisel bir çıkar gözetmiş olması şart değildir.
 
 ## Tali norm niteliği ve diğer suçlarla ilişkisi
 
@@ -99,7 +99,7 @@ Kamu idaresinin güvenilirliğine ve işleyişine karşı suçlar bölümünde z
 
 Bu ilişkinin pratik önemi büyüktür. Suç duyurusunda olayın yalnızca "görevi kötüye kullanma" diye nitelendirilmesi, daha ağır cezalı ve farklı usule tabi bir suçun gözden kaçmasına yol açabilir. Tersine, mahkeme bir özel suçun unsurlarının oluşmadığı sonucuna varırsa, fiilin 257. madde kapsamında kalıp kalmadığını ayrıca değerlendirmek zorundadır. Fiilin aynı zamanda disiplin suçu oluşturması ceza sorumluluğunu ortadan kaldırmaz; iki süreç birbirinden bağımsız yürür.
 
-Mahkûmiyet hâlinde ayrıca TCK m. 53/5'e dikkat edilmelidir. Bu fıkra, kamu görevine ilişkin hak ve yetkinin kötüye kullanılması suretiyle işlenen kasıtlı suçtan mahkûmiyette, hükmolunan cezanın yarısından bir katına kadar bu hak ve yetkinin kullanılmasının yasaklanmasını öngörür.
+Mahkûmiyet hâlinde ayrıca TCK m. 53/5'e dikkat edilmelidir. Bu fıkra, birinci fıkrada sayılan ve kamu görevini üstlenmeyi de kapsayan hak ve yetkilerden birinin kötüye kullanılması suretiyle işlenen suçtan mahkûmiyette, hükmolunan cezanın yarısından bir katına kadar bu hak ve yetkinin kullanılmasının yasaklanmasını öngörür.
 
 ## Soruşturma izni sistemi
 
@@ -117,21 +117,21 @@ Akış özetle şöyledir:
 
 İzin verilmezse ve karar kesinleşirse soruşturma şartı gerçekleşmemiş olur. Savcılık bu durumda kovuşturma olanağı bulunmadığı gerekçesiyle kovuşturmaya yer olmadığına karar verir (CMK m. 172/1). Bu karara karşı CMK m. 173'e göre iki hafta içinde sulh ceza hâkimliğine itiraz yolu açık olsa da, izin kararının yerindeliği bu itirazda yeniden tartışılamaz; asıl mücadele 4483 sayılı Kanun'daki itiraz aşamasında verilir.
 
-Savcılık, suç duyurusunu izin merciine göndermeden CMK m. 158/6'ya göre soruşturma yapılmasına yer olmadığına da karar verebilir. Bu karar, ihbar veya şikâyet konusu fiilin suç oluşturmadığının herhangi bir araştırma yapılmaksızın anlaşıldığı ya da şikâyetin soyut ve genel nitelikte olduğu hâller içindir ve CMK m. 173 hükümlerine göre itiraza tabidir.
+Savcılık, suç duyurusunu izin merciine göndermeden CMK m. 158/6'ya göre soruşturma yapılmasına yer olmadığına da karar verebilir. Bu karar, ihbar veya şikâyet konusu fiilin suç oluşturmadığının herhangi bir araştırma yapılmasını gerektirmeksizin açıkça anlaşıldığı ya da şikâyetin soyut ve genel nitelikte olduğu hâller içindir ve CMK m. 173 hükümlerine göre itiraza tabidir.
 
 ## İzin aranmayan hâller ve özel usuller
 
 4483 sayılı Kanun her dosyada uygulanmaz. Başlıca istisnalar şunlardır:
 
-- Ağır cezayı gerektiren suçüstü hâlleri genel hükümlere tabidir (4483 m. 2). Görevi kötüye kullanma asliye ceza mahkemesinin görev alanındaki bir suç olduğundan bu istisna, ancak fiil ağır cezalık bir suçla birlikte işlendiğinde gündeme gelir.
+- Ağır cezayı gerektiren suçüstü hâlleri genel hükümlere tabidir (4483 m. 2).
 - Kendi kanunlarında özel soruşturma usulü bulunan görevliler bakımından o usul uygulanır (4483 m. 2).
 - CMK m. 161/5'e göre, kanunun verdiği ya da kanun gereği kendilerinden istenen adliyeye ilişkin görevleri kötüye kullanan veya bu görevlerde ihmali bulunan kamu görevlileri ile Cumhuriyet savcısının talep ve emirlerini yerine getirmekte görevini kötüye kullanan veya ihmal eden kolluk amir ve memurları hakkında Cumhuriyet savcılarınca doğrudan soruşturma yapılır. Aynı fıkra vali ve kaymakamlar bakımından 4483 sayılı Kanun hükümlerini saklı tutar.
 
-Hâkim ve savcılar için 2802 sayılı Hâkimler ve Savcılar Kanunu'nun 82 ila 92. maddeleri görevden doğan veya görev sırasında işlenen suçlar için ayrı bir sistem kurar. Soruşturma izni Hâkimler ve Savcılar Kurulu tarafından verilir ve soruşturma ile yargılama makamları kanunda ayrıca gösterilir. Bu usule uyulmadan yapılan işlemler sonucu etkileyecek düzeyde hukuka aykırıdır. Avukatlar ve öğretim elemanları gibi başka meslek grupları için de kendi kanunlarında ayrı soruşturma kuralları bulunduğundan, şikâyet hazırlanmadan önce görevlinin hangi usule tabi olduğu tespit edilmelidir.
+Hâkim ve savcılar için 2802 sayılı Hâkimler ve Savcılar Kanunu'nun 82 ila 92. maddeleri görevden doğan veya görev sırasında işlenen suçlar için ayrı bir sistem kurar; izin mercii, soruşturmayı yapacak makam ve yargılama yeri bu Kanunda ayrıca gösterilir. Avukatlar ve öğretim elemanları gibi başka meslek grupları için de kendi kanunlarında ayrı soruşturma kuralları bulunduğundan, şikâyet hazırlanmadan önce görevlinin hangi usule tabi olduğu tespit edilmelidir.
 
 ## Usul
 
-Görevli mahkeme asliye ceza mahkemesidir; her iki fıkranın üst sınırı da ağır ceza mahkemesinin görev alanının altında kalır. Yetkili mahkeme, CMK'nın genel kuralı uyarınca suçun işlendiği yer mahkemesidir. 4483 sayılı Kanun m. 12 ve 13, kaymakam ve valiler gibi bazı üst düzey görevliler için soruşturmayı yapacak makamı ve yetkili mahkemeyi ayrıca belirler.
+Ceza sınırları dikkate alındığında görevli mahkeme kural olarak asliye ceza mahkemesidir. Yetkili mahkeme, CMK'nın genel kuralı uyarınca suçun işlendiği yer mahkemesidir. 4483 sayılı Kanun m. 12 ve 13, kaymakam ve valiler gibi bazı üst düzey görevliler için soruşturmayı yapacak makamı ve yetkili mahkemeyi ayrıca belirler.
 
 Suç şikâyete bağlı değildir. Bu nedenle şikâyet süresi yoktur ve şikâyetten vazgeçme kamu davasını düşürmez. Soruşturma kendiliğinden yürür; şikâyetçinin rolü delil sunmak, izin aşamasında itiraz etmek ve kamu davasına katılmaktır.
 
@@ -161,7 +161,7 @@ Suç duyurusu dilekçesinde 4483 sayılı Kanun m. 4'teki şartlar ilk elemeyi b
 
 - Görevlinin adı ya da en azından görev yeri ve unvanı, fiilin tarihi ve yeri,
 - İhlal edildiği ileri sürülen kanun, yönetmelik ya da talimat hükmü,
-- Mağduriyetin, kamu zararının ya da haksız kazancın ne olduğu ve fiille nedensellik bağı,
+- Mağduriyetin, kamu zararının ya da haksız menfaatin ne olduğu ve fiille nedensellik bağı,
 - İddiayı destekleyen belgeler (başvuru dilekçeleri, cevap yazıları, evrak kayıt numaraları, iptal kararı varsa örneği),
 - Şikâyetçinin adı, soyadı, imzası ve iş ya da ikametgâh adresi.
 
