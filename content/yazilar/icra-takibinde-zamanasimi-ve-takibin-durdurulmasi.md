@@ -31,7 +31,7 @@ dayanak:
   - ad: "2004 sayılı İcra ve İflas Kanunu m. 169/a"
     not: "Borca ve zamanaşımına itirazın incelenmesi, geçici durdurma, tazminat"
   - ad: "2004 sayılı İcra ve İflas Kanunu m. 170/b"
-    not: "Kambiyo takibinde kesinleşmeden sonra 71. maddenin uygulanması"
+    not: "Genel haciz yoluna ilişkin 62 ilâ 72. maddelerin kambiyo takibinde uygulanması"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 154"
     not: "Zamanaşımını kesen sebepler; icra takibi"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5"
@@ -50,7 +50,7 @@ dayanak:
     not: "Çekte zamanaşımı"
 sss:
   - soru: "Ödeme emrine süresinde zamanaşımı itirazı yapılmadıysa borçlunun elinde hangi yol kalır?"
-    cevap: "Takip kesinleşmeden önce dolmuş bir zamanaşımı, itiraz süresi kaçırıldıktan sonra icra mahkemesinde 71. madde yoluyla ileri sürülemez; bu madde yalnız kesinleşmeden sonra dolan zamanaşımı içindir. Borçlu için genel mahkemede menfi tespit davası açmak ya da ödemek zorunda kaldığı parayı istirdat davasıyla geri istemek kalır."
+    cevap: "71. maddenin ikinci fıkrası takibin kesinleşmesinden sonraki dönemde ileri sürülen zamanaşımını düzenler. Kanun metninden çıkan sonuç olarak, takip kesinleşmeden önce dolmuş bir zamanaşımı itiraz süresi kaçırıldıktan sonra bu yolla ileri sürülemez. Borçlu için genel mahkemede menfi tespit davası açmak ya da ödemek zorunda kaldığı parayı istirdat davasıyla geri istemek kalır."
   - soru: "Dosyanın işlemden kaldırılması zamanaşımının dolduğu anlamına gelir mi?"
     cevap: "Hayır. İşlemden kaldırma, ödeme emrinin tebliğinden itibaren bir yıl içinde haciz istenmemesinin sonucudur ve alacağı sona erdirmez. Zamanaşımı ise takibe ilişkin son işlemden itibaren alacağın kendi süresinin dolmasıyla gerçekleşir. İşlemden kaldırılmış bir dosyada zamanaşımı henüz dolmamış olabilir."
   - soru: "İcra mahkemesi zamanaşımını kendiliğinden inceleyebilir mi?"
@@ -64,7 +64,7 @@ Bu yazıda takipten önce ve takip sırasında zamanaşımı, ilamlar ile aciz b
 
 ## Zamanaşımının icra takibindeki yeri
 
-Zamanaşımı alacağı ortadan kaldırmaz; borçluya ifadan kaçınma imkânı veren bir def'idir. Türk Borçlar Kanunu m. 161 uyarınca hâkim zamanaşımını kendiliğinden göz önüne alamaz. Bu kural icra takibinde de geçerlidir. Zamanaşımına uğramış bir alacak için takip talebinde bulunulması kendi başına hukuka aykırı değildir ve icra müdürü takip talebini zamanaşımı gerekçesiyle reddedemez. Kambiyo takibinde icra müdürünün incelemesi de senedin kambiyo senedi niteliği ve vadesiyle sınırlıdır (İİK m. 168).
+Zamanaşımı alacağı ortadan kaldırmaz; borçluya ifadan kaçınma imkânı veren bir def'idir. Türk Borçlar Kanunu m. 161 uyarınca hâkim zamanaşımını kendiliğinden göz önüne alamaz. Bu kural icra takibinde de geçerlidir. İcra ve İflas Kanunu, zamanaşımının ileri sürülmesini borçlunun itirazına ve icra mahkemesine başvurusuna bağlamıştır. Kanaatimizce bundan çıkan sonuç, zamanaşımına uğramış bir alacak için takip talebinde bulunulmasının kendi başına hukuka aykırı olmadığı ve icra müdürünün takip talebini zamanaşımı gerekçesiyle reddedemeyeceğidir. Kambiyo takibinde icra müdürünün incelemesi de senedin kambiyo senedi niteliğine ve vadesine yöneliktir (İİK m. 168); zamanaşımı bu inceleme arasında sayılmamıştır.
 
 Zamanaşımının sonuç doğurup doğurmayacağı bu yüzden borçlunun tutumuna bağlıdır. Borçlu def'iyi kanunun gösterdiği merciye ve süre içinde bildirmezse takip, zamanaşımına uğramış bir alacak için de kesinleşir.
 
@@ -74,7 +74,7 @@ Takip başladığında alacağın zamanaşımı süresi dolmuşsa uygulanacak s�
 
 Def'inin ileri sürülme yolu takip türüne göre değişir:
 
-- Genel haciz yoluyla ilamsız takipte borçlu, ödeme emrinin tebliğinden itibaren yedi gün içinde icra dairesine itiraz eder (İİK m. 62). İtiraz takibi durdurur. Zamanaşımı savunması, alacaklının açacağı itirazın iptali davasında ya da itirazın kaldırılması yargılamasında incelenir. Ayrıntı için [ödeme emrine itiraz](/yazilar/ilamsiz-icra-takibinde-odeme-emrine-itiraz/) yazısına bakılabilir.
+- Genel haciz yoluyla ilamsız takipte borçlu, ödeme emrinin tebliğinden itibaren yedi gün içinde icra dairesine itiraz eder (İİK m. 62). İtiraz takibi durdurur; alacaklı takibe devam edebilmek için itirazın iptali davası açmak ya da itirazın kaldırılmasını istemek zorunda kalır. Ayrıntı için [ödeme emrine itiraz](/yazilar/ilamsiz-icra-takibinde-odeme-emrine-itiraz/) yazısına bakılabilir.
 - Kambiyo senetlerine özgü haciz yolunda borçlu, alacağın zamanaşımına uğradığını sebepleriyle birlikte ödeme emrinin tebliğinden itibaren beş gün içinde dilekçeyle icra mahkemesine bildirir (İİK m. 168, beşinci bent). Burada itiraz merci icra dairesi değil icra mahkemesidir.
 - İlamlı takipte borçlu, icra emrinin tebliğinden itibaren yedi gün içinde icra mahkemesine başvurarak borcun zamanaşımına uğradığını ileri sürer (İİK m. 33).
 
@@ -86,7 +86,7 @@ Kambiyo takibinde zamanaşımı itirazı İİK m. 169/a'ya göre incelenir. İcr
 
 İspat yükünün yönü dikkat çekicidir. Borçlu senedin vadesine ve takip tarihine dayanmakla yetinir; kesilme ya da durma iddiası alacaklıya düşer ve bu iddia ancak belirtilen nitelikteki belgelerle kanıtlanabilir. Tanık beyanı ya da imzasız yazışma bu aşamada sonuç doğurmaz; alacaklının bu tür delilleri genel mahkemede açacağı davada ileri sürme hakkı saklıdır.
 
-Borçlunun dilekçesine eklediği belgelerden senedin zamanaşımına uğradığı anlaşılıyorsa hâkim, esas hakkında karar verinceye kadar takibin geçici olarak durdurulmasına karar verebilir (İİK m. 169/a). Bu kararın sonuçları ağırdır:
+Senedin zamanaşımına uğradığı, borçlunun itiraz dilekçesine eklediği belgelerden ya da senedin metninden anlaşılıyorsa hâkim, esas hakkında karar verinceye kadar takibin geçici olarak durdurulmasına karar verebilir (İİK m. 169/a). Bu kararın sonuçları ağırdır:
 
 - İtiraz kabul edilirse takip durur; alacaklının genel hükümlere göre dava açma hakkı saklıdır.
 - Kötü niyetli veya ağır kusurlu alacaklı, itiraz esasa ilişkin nedenlerle kabul edilirse alacağın yüzde yirmisinden aşağı olmamak üzere tazminata mahkûm edilir.
@@ -109,13 +109,13 @@ Her ikisi de takibin askıya alınmasıyla ilgili usul sonuçlarıdır; zamanaş
 
 ## İlamların ve aciz belgelerinin zamanaşımı
 
-İlama dayanan takip, son işlemden itibaren on yıl geçmekle zamanaşımına uğrar (İİK m. 39). Süre kararın kesinleşmesinden değil, takipteki son işlemden hesaplanır. Noter senedine dayanan takip ise senedin niteliğine göre Borçlar Kanunu veya Ticaret Kanunu'ndaki sürelere tabidir; noter senedinin ilam niteliğinde belge sayılması on yıllık süreyi beraberinde getirmez. İlamlı takibin genel işleyişi [ilamlı icra takibi](/yazilar/ilamli-icra-takibi/) yazısındadır.
+İlama dayanan takip, son işlemden itibaren on yıl geçmekle zamanaşımına uğrar (İİK m. 39). Takip başladıktan sonra bu süre kararın kesinleşmesinden değil, takipteki son işlemden hesaplanır. Noter senedine dayanan takip ise senedin niteliğine göre Borçlar Kanunu veya Ticaret Kanunu'ndaki sürelere tabidir; noter senedinin ilam niteliğinde belge sayılması on yıllık süreyi beraberinde getirmez. İlamlı takibin genel işleyişi [ilamlı icra takibi](/yazilar/ilamli-icra-takibi/) yazısındadır.
 
 Aciz vesikasına bağlanan borç bakımından İİK m. 143 özel bir süre öngörür. Borç, borçluya karşı aciz vesikasının düzenlenmesinden itibaren yirmi yıl geçmekle zamanaşımına uğrar. Borçlunun mirasçıları için ise ayrı bir kural vardır: alacaklı mirasın açılmasından itibaren bir yıl içinde hakkını aramamışsa mirasçılar zamanaşımını ileri sürebilir. Aciz vesikasında yazılı alacak için faiz istenemez. Vesikanın alınmasından itibaren bir yıl içinde takibe girişilirse yeniden ödeme emri tebliğine gerek olmaması ise ayrı bir kuraldır ve zamanaşımı süresiyle karıştırılmamalıdır; ayrıntılar [aciz belgesi](/yazilar/haciz-yoluyla-takipte-aciz-belgesi/) yazısında yer alır.
 
 ## İcra mahkemesinden takibin durdurulması
 
-Takip kesinleştikten sonra dolan zamanaşımı için kanun özel bir yol öngörür. İlamsız takipte takip kesinleştikten sonra borcun zamanaşımına uğradığı iddiası hâlinde İİK m. 33/a kıyasen uygulanır (İİK m. 71). Kambiyo senetlerine dayalı takipte de kesinleşmeden sonraki dönem için 71. madde hükmü uygulanır (İİK m. 170/b). İlamlı takipte icra emrinin tebliğinden sonra gerçekleşen zamanaşımına dayanan geri bırakma istemi her zaman yapılabilir (İİK m. 33).
+Takip kesinleştikten sonra dolan zamanaşımı için kanun özel bir yol öngörür. İlamsız takipte takip kesinleştikten sonra borcun zamanaşımına uğradığı iddiası hâlinde İİK m. 33/a kıyasen uygulanır (İİK m. 71). Kambiyo senetlerine dayalı takipte de genel haciz yoluna ilişkin 62 ilâ 72. maddeler bu fasla aykırı olmadıkça uygulandığından (İİK m. 170/b), kesinleşmeden sonra dolan zamanaşımı için 71. madde yoluna başvurulabilir. İlamlı takipte icra emrinin tebliğinden sonra gerçekleşen zamanaşımına dayanan geri bırakma istemi her zaman yapılabilir (İİK m. 33).
 
 33/a maddesinin işleyişi şöyledir:
 
@@ -123,7 +123,7 @@ Takip kesinleştikten sonra dolan zamanaşımı için kanun özel bir yol öngö
 - Geri bırakma kararı kesinleşip alacaklıya tebliğ edildikten sonra alacaklı, zamanaşımının gerçekleşmediğini ispat için yedi gün içinde genel mahkemede dava açabilir. Dava açılmazsa ilamın zamanaşımına uğradığı kesin hüküm niteliği kazanır.
 - İcranın devamına karar verilirse borçlunun, borçlu olmadığı hâlde ödemek zorunda kaldığı parayı İİK m. 72 uyarınca istirdat davasıyla geri isteme hakkı saklıdır.
 
-71. madde yolu yalnız takip kesinleştikten sonra dolan zamanaşımı içindir. Zamanaşımı takipten önce dolmuş, borçlu ise süresinde itiraz etmemişse, bu yolla süreyi telafi etmek mümkün değildir. Bu durumda borçlu genel mahkemede menfi tespit davası açabilir; öğretide kambiyo senedi borçlusunun menfi tespit davasında senedin zamanaşımına uğradığını ileri sürebileceği belirtilmektedir. Menfi tespit davasının takibe etkisi, teminat ve istirdat süresi [menfi tespit ve istirdat davası](/yazilar/menfi-tespit-ve-istirdat-davasi/) yazısında anlatılmıştır.
+71. maddenin ikinci fıkrası, borçlunun takibin kesinleşmesinden sonraki dönemde zamanaşımını ileri sürmesini düzenler. Kanun metninden çıkan sonuç olarak bu yol, takip kesinleştikten sonra dolan zamanaşımı içindir; zamanaşımı takipten önce dolmuş, borçlu ise süresinde itiraz etmemişse kaçırılan süre bu yolla telafi edilemez. Bu durumda borçlu genel mahkemede menfi tespit davası açabilir; öğretide kambiyo senedi borçlusunun menfi tespit davasında senedin zamanaşımına uğradığını ileri sürebileceği belirtilmektedir. Menfi tespit davasının takibe etkisi, teminat ve istirdat süresi [menfi tespit ve istirdat davası](/yazilar/menfi-tespit-ve-istirdat-davasi/) yazısında anlatılmıştır.
 
 Zamanaşımı itirazı, icra müdürlüğü işlemine yönelik şikâyetten de ayrılmalıdır. Şikâyet, müdürlüğün kanuna aykırı işlemine karşı yedi günlük süreye bağlı bir yoldur (bkz. [icra müdürlüğüne şikâyet](/yazilar/icra-mudurlugune-sikayet/)); zamanaşımı ise alacağa ilişkin bir def'idir ve 33, 33/a, 71 ile 169/a maddelerinde düzenlenen yollarla ileri sürülür.
 
@@ -131,11 +131,11 @@ Zamanaşımı itirazı, icra müdürlüğü işlemine yönelik şikâyetten de a
 
 - Görevli ve yetkili merci: İlamlı takipte geri bırakma istemi, kambiyo takibinde zamanaşımı itirazı ve takip kesinleştikten sonraki zamanaşımı iddiası takibin yapıldığı icra dairesinin bağlı olduğu icra mahkemesine yapılır. İlamsız genel haciz yolunda ödeme emrine itiraz ise icra dairesine bildirilir.
 - Yargılama usulü: İcra mahkemesinde basit yargılama usulü uygulanır (İİK m. 18).
-- Süreler ve başlangıcı: İlamsız takipte itiraz için ödeme emrinin tebliğinden itibaren yedi gün; kambiyo takibinde ödeme emrinin tebliğinden itibaren beş gün; ilamlı takipte icra emrinin tebliğinden itibaren yedi gün. Kesinleşmeden sonra dolan zamanaşımı her zaman ileri sürülebilir. Geri bırakma kararından sonra alacaklının dava süresi, kararın kesinleşip kendisine tebliğinden itibaren yedi gündür.
-- İspat: Kesilme ve durma iddiaları icra mahkemesinde resmî ya da imzası ikrar edilmiş belgelerle ispatlanır. Tanık ve diğer serbest deliller genel mahkemede açılacak davaya kalır.
+- Süreler ve başlangıcı: İlamsız takipte itiraz için ödeme emrinin tebliğinden itibaren yedi gün; kambiyo takibinde ödeme emrinin tebliğinden itibaren beş gün; ilamlı takipte icra emrinin tebliğinden itibaren yedi gün. Kesinleşmeden sonra dolan zamanaşımı için 71. maddede ayrı bir başvuru süresi öngörülmemiştir; ilamlı takipte icra emrinin tebliğinden sonra gerçekleşen zamanaşımına dayanan istem her zaman yapılabilir (İİK m. 33). Geri bırakma kararından sonra alacaklının dava süresi, kararın kesinleşip kendisine tebliğinden itibaren yedi gündür.
+- İspat: Kesilme ve durma iddiaları icra mahkemesinde 33/a yolunda resmî belgelerle, kambiyo takibinde ise resmî veya imzası ikrar edilmiş belgelerle ispatlanır (İİK m. 169/a). Tanık ve diğer serbest deliller genel mahkemede açılacak davaya kalır.
 - Dava şartı: Menfi tespit davası ticari bir uyuşmazlığa ilişkinse ve TTK m. 5/A kapsamına giriyorsa dava şartı arabuluculuk aranır.
 - Harç: İcra mahkemesine başvuruda Harçlar Kanunu tarifesindeki harçlar alınır; menfi tespit ve istirdat davaları nispi harca tabidir. Tutarlar her yıl yeniden belirlendiğinden burada rakam verilmemiştir.
-- Tedbir ve durdurma: Kambiyo takibinde belgelerden zamanaşımı anlaşılıyorsa geçici durdurma kararı istenebilir (İİK m. 169/a). Menfi tespit davasında takibin durdurulması teminat karşılığı ihtiyati tedbirle mümkündür ve takipten sonra açılan davada takip durdurulamaz (İİK m. 72).
+- Tedbir ve durdurma: Kambiyo takibinde dilekçeye ekli belgelerden ya da senedin metninden zamanaşımı anlaşılıyorsa geçici durdurma kararı istenebilir (İİK m. 169/a). Menfi tespit davası takipten önce açılmışsa teminat karşılığı ihtiyati tedbirle takibin durdurulması istenebilir; takipten sonra açılan davada takip durdurulamaz, teminatla yalnızca paranın alacaklıya ödenmemesi istenebilir (İİK m. 72).
 - Kanun yolu: İcra mahkemesi kararlarına karşı istinaf süresi kararın tebliğinden itibaren iki haftadır (İİK m. 363). Kanunda sayılan bazı kararlar ve parasal sınırın altındaki kararlar kesindir. Kambiyo takibinde itirazın reddine karşı istinafa başvurmak icrayı durdurmaz; durdurma için 33. maddenin üçüncü fıkrasına göre teminat gösterilmesi gerekir (İİK m. 169/a).
 
 ## Dilekçede ve dosyada dikkat edilecekler
@@ -146,7 +146,7 @@ Dosyada en çok yapılan hatalar şunlardır:
 
 - Kambiyo takibinde zamanaşımı itirazının icra dairesine yapılması. Bu itirazın merci icra mahkemesidir ve süre beş gündür.
 - Takipten önce dolmuş zamanaşımının, itiraz süresi kaçırıldıktan sonra 71. madde yoluyla ileri sürülmeye çalışılması.
-- Zamanaşımı süresinin kararın kesinleşme tarihinden ya da takip tarihinden hesaplanması. İlamlı takipte ve takip sırasında kesilen zamanaşımında esas olan son takip işlemidir.
+- Başlamış bir takipte zamanaşımı süresinin kararın kesinleşme tarihinden ya da takip tarihinden hesaplanması. İlamlı takipte ve takip sırasında kesilen zamanaşımında esas olan son takip işlemidir.
 - İşlemden kaldırılmış dosyanın zamanaşımına uğradığının varsayılması ya da tersine, işlemden kaldırılmadığı için zamanaşımının işlemediğinin düşünülmesi.
 - Kambiyo takibinde birden fazla senet borçlusu varken kesilmenin tüm borçlulara yayıldığının kabul edilmesi. TTK m. 751 gereği kesme yalnız hakkında işlem yapılan kişiye karşı hüküm ifade eder.
 
