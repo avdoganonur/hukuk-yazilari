@@ -36,10 +36,14 @@ dayanak:
     not: "Bekletici sorun"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 188"
     not: "İkrar ve ikrardan dönme"
+  - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 141"
+    not: "İddia ve savunmanın genişletilmesi veya değiştirilmesi"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 201"
     not: "Senede karşı tanıkla ispat yasağı"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 281"
     not: "Bilirkişi raporuna itiraz"
+  - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 324"
+    not: "Delil ikamesi için avans"
   - ad: "5237 sayılı Türk Ceza Kanunu m. 207"
     not: "Özel belgede sahtecilik"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5237&MevzuatTur=1&MevzuatTertip=5"
@@ -71,7 +75,7 @@ HMK m. 204/1'e göre ilamlar ile düzenleme şeklindeki noter senetleri, sahteli
 
 Adi senette durum farklıdır. HMK m. 205/1'e göre mahkeme huzurunda ikrar olunan veya mahkemece inkâr edenden sadır olduğu kabul edilen adi senetler, aksi ispat edilmedikçe kesin delil sayılır. Lafız, adi senedin kesin delil gücünü iki koşuldan birine bağlar: ya imza ikrar edilmiştir ya da inkâra rağmen mahkeme senedin inkâr edenden çıktığını kabul etmiştir. Usulüne göre güvenli elektronik imza ile oluşturulan elektronik veriler senet hükmündedir ve hâkim, sunulan elektronik imzalı belgenin güvenli elektronik imzayla oluşturulup oluşturulmadığını resen inceler (m. 205/2-3).
 
-İmza inkâr edildiğinde senedin inkâr edenden sadır olduğunu, o senede dayanan taraf ispat etmelidir. Bu sonuç hem m. 205/1'in kurgusundan hem de iddia ettiği olguya hak çıkaran tarafa ispat yükünü yükleyen genel kuraldan (TMK m. 6, HMK m. 190/1) çıkar. Senedin içeriğine itirazda ise yük yer değiştirir: imzayı kabul eden taraf, kesin delil niteliği kazanmış senede karşı iddiasını kendisi ispat eder.
+İmza inkâr edildiğinde senedin inkâr edenden sadır olduğunu, o senede dayanan taraf ispat etmelidir. Bu sonuç, kanaatimizce, hem m. 205/1'in kurgusundan hem de iddia ettiği olguya hak çıkaran tarafa ispat yükünü yükleyen genel kuraldan (TMK m. 6, HMK m. 190/1) çıkar. Senedin içeriğine itirazda ise yük yer değiştirir: imzayı kabul eden taraf, kesin delil niteliği kazanmış senede karşı iddiasını kendisi ispat eder.
 
 Senetteki çıkıntı, kazıntı veya silinti ayrıca onanmamışsa inkâr hâlinde göz önünde tutulmaz; bunlar senedin geçerliliğine ve anlamına etkili nitelikte görülürse senet kısmen veya tamamen hükümsüz sayılabilir (m. 207). Tutar, vade veya tarih hanesindeki onaysız düzeltmeler bu yüzden ayrı bir itiraz konusu yapılmalıdır.
 
@@ -79,7 +83,7 @@ Senetteki çıkıntı, kazıntı veya silinti ayrıca onanmamışsa inkâr hâli
 
 HMK m. 208/1 uyarınca taraf, kendisi tarafından düzenlendiği iddia edilen belgedeki yazı veya imzayı inkâr etmek istiyorsa sahtelik iddiasında bulunmalıdır; aksi hâlde belge onun aleyhine delil olarak kullanılır. Madde gerekçesi, yazı veya imza inkârında bulunan tarafın bunu açık bir sahtelik iddiası ile ileri sürmesi gerektiğini ve sahtelik ileri sürülmedikçe belgenin doğruluğunun kural olarak kendiliğinden araştırılmayacağını belirtir. "Belgeyi kabul etmiyoruz", "borcumuz yoktur" gibi genel ifadeler bu şartı karşılamayabilir.
 
-İnkârın yeri, kural olarak cevap dilekçesidir. HMK m. 129/1-d ve e, savunmanın dayanağı olan bütün vakıaların sıra numarası altında açık özetlerini ve her vakıanın hangi delille ispat edileceğini cevap dilekçesinde göstermeyi zorunlu tutar. Süresinde cevap dilekçesi vermeyen davalı, dava dilekçesindeki vakıaların tamamını inkâr etmiş sayılır (m. 128). Ancak bu genel inkâr karinesinin m. 208/1'in aradığı açık sahtelik iddiası yerine geçip geçmeyeceği tartışmalıdır. Belge davaya sonradan sunulmuşsa inkâr, belgenin tebliğinden sonraki ilk beyanda ve en geç ön incelemede yapılmalıdır; geciken iddia, savunmanın genişletilmesi yasağıyla karşılaşabilir.
+İnkârın yeri, kural olarak cevap dilekçesidir. HMK m. 129/1-d ve e, savunmanın dayanağı olan bütün vakıaların sıra numarası altında açık özetlerini ve her vakıanın hangi delille ispat edileceğini cevap dilekçesinde göstermeyi zorunlu tutar. Süresinde cevap dilekçesi vermeyen davalı, dava dilekçesindeki vakıaların tamamını inkâr etmiş sayılır (m. 128). Ancak bu genel inkâr karinesinin m. 208/1'in aradığı açık sahtelik iddiası yerine geçip geçmeyeceği tartışmaya açıktır. Belge davaya sonradan sunulmuşsa inkârın belgenin tebliğinden sonraki ilk beyanda yapılması güvenli yoldur. Dilekçelerin karşılıklı verilmesinden sonra savunma, ıslah ve karşı tarafın açık muvafakati dışında genişletilemeyeceğinden (m. 141), uygulamada geciken inkâra bu yasak karşı savunma olarak ileri sürülebilir.
 
 İkrar, inkârın karşıtıdır. HMK m. 188/1'e göre tarafların veya vekillerinin mahkeme önünde ikrar ettikleri vakıalar çekişmeli olmaktan çıkar ve ispatı gerekmez. Maddi bir hatadan kaynaklanmadıkça ikrardan dönülemez (m. 188/2); sulh görüşmeleri sırasında yapılan ikrar ise tarafları bağlamaz (m. 188/3). Uygulamada sık görülen bir durum, imzayı kabul eden ama "metni ben yazmadım" diyen beyandır. Bu beyan imzanın ikrarıdır ve itirazı açığa imza iddiasına dönüştürür.
 
@@ -94,7 +98,7 @@ HMK m. 211, sahtelik iddiasının karşı tarafın açıklamaları da dikkate al
 1. Hâkim yazı veya imzayı inkâr eden tarafı isticvap eder. Kanaat edinemezse huzurda bu kişiye yazı yazdırıp imza attırır ve elde ettiği belgeyi diğer delillerle birlikte değerlendirir. Başka incelemeye gerek görmezse gerekçesini açıkça belirterek senedin sahteliği hakkında karar verir (m. 211/1-a).
 2. Bu yola rağmen hâkimde kesin kanaat oluşmamışsa bilirkişi incelemesine karar verilir. İncelemeden önce, mevcutsa, o tarafa ait karşılaştırma yapmaya elverişli yazı ve imzalar ilgili yerlerden getirtilir. Bilirkişi o mahkemede elde edilen yazı ve imzaları esas alır; gerekli görürse kendi huzurunda tarafın yeniden yazı yazmasını veya imza atmasını mahkemeden isteyebilir (m. 211/1-b).
 
-Sıranın atlanması, özellikle dosyanın isticvap ve huzurda imza alınmadan doğrudan bilirkişiye gönderilmesi, istinafta ileri sürülebilecek bir usul eksikliğidir. Karşılaştırma belgelerinin seçimi incelemenin sonucunu doğrudan etkiler. Uyuşmazlık konusu senede yakın tarihli, inkâr edenin baskı altında olmadan attığı imzaları taşıyan banka, noter, tapu veya resmî kurum kayıtları istenmelidir. Taraflarca hazırlanmış ve aidiyeti de tartışmalı olan belgeler mukayese için elverişli değildir.
+Sıranın atlanması, özellikle dosyanın isticvap ve huzurda imza alınmadan doğrudan bilirkişiye gönderilmesi, kanaatimizce istinafta usul eksikliği olarak ileri sürülebilir. Karşılaştırma belgelerinin seçimi incelemenin sonucunu doğrudan etkiler. Uygulamada uyuşmazlık konusu senede yakın tarihli, inkâr edenin özenle ve baskı altında olmadan attığı imzaları taşıyan banka, noter, tapu veya resmî kurum kayıtları tercih edilir. Taraflarca hazırlanmış ve aidiyeti de tartışmalı olan belgeler, kanaatimizce mukayese için elverişli değildir.
 
 Güvenli elektronik imzayla oluşturulmuş verinin inkârında hâkim, veriyi inkâr eden tarafı dinledikten sonra kanaate varamazsa bilirkişi incelemesine başvurulur (m. 210). Bu incelemede konu el yazısı değil, imzanın ve sertifikanın teknik doğrulamasıdır.
 
@@ -120,7 +124,7 @@ Senedin imza atıldıktan sonra değiştirildiği, örneğin tutara rakam eklend
 
 Senedin sahte olduğuna dair karar kesinleştikten sonra senedin altına sahte olduğu yazılarak senet iptal edilir; resmî senetlerde ilgili dairedeki aslı da bu yolla iptal olunur (m. 212).
 
-İmzanın sahte çıkması ceza yargılamasını da gündeme getirir. Özel belgeyi sahte olarak düzenleyen veya gerçek bir özel belgeyi başkalarını aldatacak şekilde değiştiren ve kullanan kişi bir yıldan üç yıla kadar hapis cezası ile cezalandırılır; sahte özel belgeyi bu özelliğini bilerek kullanan da aynı cezayı alır (TCK m. 207). Emre veya hamile yazılı kambiyo senetlerinde resmî belgede sahtecilik hükümleri uygulanır (TCK m. 210/1). Açığa atılmış imzanın kötüye kullanılması ise TCK m. 209'da ayrı bir suç olarak düzenlenmiştir. Ayrıntılar için [özel belgede sahtecilik](/yazilar/ozel-belgede-sahtecilik/) ve [resmî belgede sahtecilik](/yazilar/resmi-belgede-sahtecilik/) yazılarına bakılabilir.
+İmzanın sahte çıkması ceza yargılamasını da gündeme getirir. Özel belgeyi sahte olarak düzenleyen veya gerçek bir özel belgeyi başkalarını aldatacak şekilde değiştiren ve kullanan kişi bir yıldan üç yıla kadar hapis cezası ile cezalandırılır; sahte özel belgeyi bu özelliğini bilerek kullanan da aynı cezayı alır (TCK m. 207). Emre veya hamile yazılı kambiyo senetlerinde resmî belgede sahtecilik hükümleri uygulanır (TCK m. 210/1). Açığa atılmış imzanın kötüye kullanılması ise TCK m. 209'da ayrı bir suç olarak düzenlenmiştir; kendisine teslim edilen imzalı boş kâğıdı verilme amacından farklı dolduranın kovuşturulması şikâyete bağlıdır, kâğıt hukuka aykırı olarak ele geçirilmişse belgede sahtecilik hükümleri uygulanır. Ayrıntılar için [özel belgede sahtecilik](/yazilar/ozel-belgede-sahtecilik/) ve [resmî belgede sahtecilik](/yazilar/resmi-belgede-sahtecilik/) yazılarına bakılabilir.
 
 Ceza soruşturması hukuk davasını kendiliğinden durdurmaz. HMK m. 165/1 uyarınca hüküm başka bir davanın sonucuna kısmen veya tamamen bağlıysa mahkeme o davanın sonuçlanmasına kadar yargılamayı bekletebilir. Öğretide, savcılığa başvurunun tek başına yeterli olmadığı, bekletici sorun için en azından kamu davasının açılmış olması gerektiği görüşü savunulmaktadır. Hukuk hâkimi sahtelik iddiasını m. 211 uyarınca kendisi de inceleyebileceğinden, bekletme talebinin neden gerekli olduğu somut olarak açıklanmalıdır. Kurumun genel çerçevesi [ön sorun ve bekletici sorun](/yazilar/hukuk-davasinda-on-sorun-ve-bekletici-sorun/) yazısında ele alınmıştır.
 
@@ -132,15 +136,15 @@ Görevli ve yetkili mahkeme: Adi senette sahtelik, uyuşmazlığın görüldüğ
 
 Süreler: İnkâr cevap dilekçesinde, sonradan sunulan belgede ise belgenin tebliğinden sonraki ilk beyanda yapılmalıdır. Resmî senet için hâkimin verdiği iki haftalık süre kesindir. Bilirkişi raporuna itiraz süresi tebliğden itibaren iki haftadır (m. 281/1).
 
-Harç ve gider: Ayrı açılan sahtelik veya menfi tespit davasında harç, davanın konusuna ve değerine göre belirlenir. İmza incelemesi için bilirkişi ücreti ve mukayese belgelerinin getirtilmesi giderleri, incelemeyi isteyen veya ispat yükü kendisinde olan taraftan gider avansı olarak istenir; avansın kesin süre içinde yatırılmaması delilden vazgeçme sonucunu doğurabilir.
+Harç ve gider: Ayrı açılan sahtelik veya menfi tespit davasında harç, davanın konusuna ve değerine göre belirlenir. İmza incelemesi için bilirkişi ücreti ve mukayese belgelerinin getirtilmesi giderleri, incelemeyi isteyen veya ispat yükü kendisinde olan taraftan gider avansı olarak istenir; avans kesin süre içinde yatırılmaz ve karşı taraf da yatırmazsa o delilin ikamesinden vazgeçilmiş sayılır (m. 324).
 
 İspat: İmza inkârında senede dayanan taraf, imzanın inkâr edenden sadır olduğunu ispat eder. Açığa imza ve içerik itirazında ispat yükü itiraz edendedir ve m. 201 nedeniyle tanık kural olarak dinlenmez.
 
 Tedbir: Adi senet, inkâr hâlinde karar verilinceye kadar hiçbir işleme esas alınamaz (m. 209/1). Senede dayanılarak verilmiş ihtiyati tedbir ise etkilenmez (m. 209/3). Asıl belgenin kaybolması veya değiştirilmesi tehlikesine karşı belgenin mahkemede saklanması (m. 208/2) ve gerektiğinde [delil tespiti](/yazilar/delil-tespiti-ve-kaybolabilecek-deliller/) istenebilir.
 
-Kanun yolu: Ön sorun olarak verilen sahtelik kararı nihai hükümle birlikte istinaf ve koşulları varsa temyiz incelemesine konu olur. Senedin iptali için kararın kesinleşmesi gerekir (m. 212).
+Kanun yolu: Kanaatimizce ön sorun olarak verilen sahtelik kararı, ayrıca değil, nihai hükümle birlikte istinaf ve koşulları varsa temyiz incelemesine konu olur. Senedin iptali için kararın kesinleşmesi gerekir (m. 212).
 
-Kambiyo takibiyle farkı: Kambiyo senetlerine mahsus haciz yoluyla takipte imza itirazı, ödeme emrinin tebliğinden itibaren beş gün içinde dilekçeyle icra mahkemesine yapılır; aksi hâlde imza takip bakımından borçludan sadır sayılır (İİK m. 168/4). İcra mahkemesi m. 170 uyarınca inceler; imza borçluya ait çıkarsa inkâr tazminatı ve para cezası gündeme gelir, alacaklının genel hükümlere göre dava hakkı saklıdır. Bu usul [kambiyo takibinde imzaya itiraz](/yazilar/kambiyo-takibinde-imzaya-itiraz/) yazısında anlatılmıştır.
+Kambiyo takibiyle farkı: Kambiyo senetlerine mahsus haciz yoluyla takipte imza itirazı, ödeme emrinin tebliğinden itibaren beş gün içinde dilekçeyle icra mahkemesine yapılır; aksi hâlde imza takip bakımından borçludan sadır sayılır (İİK m. 168/4). İcra mahkemesi m. 170 uyarınca inceler; takip durdurulmuşken imza borçluya ait çıkarsa inkâr tazminatı ve para cezası gündeme gelir, alacaklının genel hükümlere göre dava hakkı saklıdır. Bu usul [kambiyo takibinde imzaya itiraz](/yazilar/kambiyo-takibinde-imzaya-itiraz/) yazısında anlatılmıştır.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
