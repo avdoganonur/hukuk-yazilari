@@ -46,8 +46,8 @@ dayanak:
   - ad: "4708 sayılı Yapı Denetimi Hakkında Kanun m. 3"
     not: "Yapı denetim kuruluşunun sorumluluğu ve süresi"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4708&MevzuatTur=1&MevzuatTertip=5"
-  - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 400"
-    not: "Delil tespiti"
+  - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 400–401"
+    not: "Delil tespiti; görevli ve yetkili mahkeme"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 389"
     not: "İhtiyati tedbir"
@@ -100,7 +100,7 @@ Konut dosyalarında öne çıkan ayıp türleri şunlardır:
 
 Yüzölçümü eksikliği için adi satışta özel hüküm vardır. TBK m. 244/1'e göre satılan taşınmaz sözleşmede yazılı yüzölçümünü karşılamıyorsa satıcı, aksi kararlaştırılmadıkça eksiklik için alıcıya tazminat ödemekle yükümlüdür. Resmî ölçüme dayanılarak tapu kütüğüne yazılmış yüzölçümünün gerçekleşmemesinde ise satıcı, bunu özellikle üstlenmiş olmadıkça tazminatla yükümlü değildir (m. 244/2). Tüketici işleminde eksik alan, m. 8 anlamında sözleşmeye aykırılık olarak seçimlik hakların konusudur; broşür ve satış sözleşmesindeki brüt ve net alan ifadeleri bu nedenle bilirkişiye ayrıca sorulmalıdır.
 
-Her iki rejimde de alıcının sözleşme kurulurken bildiği ayıp sorumluluk doğurmaz (6502 m. 10, TBK m. 222). İskânsız olduğu bilinerek düşük bedelle alınan dairede satıcının sorumluluğu bu nedenle ancak ayrı bir taahhüt varsa gündeme gelir.
+Her iki rejimde de sözleşme kurulurken bilinen ayıp sorumluluk doğurmaz: tüketici işleminde tüketicinin o tarihte haberdar olduğu veya haberdar olmasının beklendiği ayıp (6502 m. 10/2), adi satışta alıcının bildiği ayıp (TBK m. 222) bu kapsamdadır. İskânsız olduğu bilinerek düşük bedelle alınan dairede satıcının sorumluluğu bu nedenle ancak ayrı bir taahhüt varsa gündeme gelir.
 
 ## Tüketici işleminde satıcının sorumluluğu ve seçimlik haklar
 
@@ -123,15 +123,15 @@ Zamanaşımı 6502 m. 12'de düzenlenir. Kanunda veya sözleşmede daha uzun bir
 
 ## Adi satışta TBK hükümleri: gözden geçirme, bildirim, ağır kusur
 
-Satıcı tüketici mevzuatı anlamında satıcı değilse taşınır satışına ilişkin ayıp hükümleri, TBK m. 246 uyarınca taşınmaz satışına da uygulanır; m. 244 ise yüzölçümü ve zamanaşımı bakımından özel hükümdür.
+Satıcı tüketici mevzuatı anlamında satıcı değilse taşınır satışına ilişkin ayıp hükümleri, TBK m. 246 uyarınca kıyas yoluyla taşınmaz satışına da uygulanır; m. 244 ise yüzölçümü ve zamanaşımı bakımından özel hükümdür.
 
 Alıcı, konutu devraldıktan sonra işlerin olağan akışına göre imkân bulur bulmaz gözden geçirmek ve satıcının sorumlu olduğu bir ayıp görürse bunu uygun bir süre içinde bildirmekle yükümlüdür (m. 223/1). İhmal hâlinde konut kabul edilmiş sayılır. Olağan bir gözden geçirmeyle ortaya çıkarılamayacak gizli ayıp sonradan anlaşılırsa hemen bildirilmelidir; bildirilmezse konut bu ayıpla birlikte kabul edilmiş sayılır (m. 223/2). Öğretide taşınmazlarda gözden geçirmenin taşınırlara göre daha kapsamlı yapılmasının beklenebileceği ileri sürülmektedir (Tat, s. 113 vd.). Bu nedenle tadilat, boya veya mobilya ile örtülmüş ayıplarda ayıbın ne zaman ve nasıl anlaşıldığı dilekçede somut olarak anlatılmalıdır.
 
-Satıcının ağır kusuru iki noktada sonuç doğurur. Satıcı konutu ayıplı olarak devretmekte ağır kusurluysa ayıbın süresinde bildirilmediğini ileri sürerek sorumluluktan kurtulamaz (m. 225). Sorumluluğu kaldıran veya sınırlayan anlaşmalar da bu hâlde kesin olarak hükümsüzdür (m. 221); resmî senede yazılan "gördüm, beğendim" türü kayıtlar bilerek gizlenen ayıbı kapsamaz. Ayıbın kasten gizlendiği durumlarda aldatma nedeniyle sözleşmenin iptali de seçenekler arasındadır; şartları ve süresi [sözleşmede yanılma, aldatma ve korkutma](/yazilar/sozlesmede-yanilma-aldatma-korkutma/) yazısında ele alınmıştır.
+Satıcının ağır kusuru iki noktada sonuç doğurur. Satıcı konutu ayıplı olarak devretmekte ağır kusurluysa ayıbın süresinde bildirilmediğini ileri sürerek sorumluluktan kurtulamaz (m. 225). Sorumluluğu kaldıran veya sınırlayan anlaşmalar da bu hâlde kesin olarak hükümsüzdür (m. 221); bu nedenle resmî senede yazılan "gördüm, beğendim" türü kayıtlar, bilerek gizlenen ayıp bakımından satıcıyı korumaz. Ayıbın kasten gizlendiği durumlarda aldatma nedeniyle sözleşmenin iptali de seçenekler arasındadır; şartları ve süresi [sözleşmede yanılma, aldatma ve korkutma](/yazilar/sozlesmede-yanilma-aldatma-korkutma/) yazısında ele alınmıştır.
 
-Alıcı m. 227'deki dört seçimlik haktan birini kullanır; seçimlik haklar 6502'deki haklarla aynı içeriktedir. Durum dönmeyi haklı göstermiyorsa hâkim, dönme yerine onarım veya bedel indirimine karar verebilir. Konut dosyalarında bu takdir yetkisi önemlidir: giderilebilir bir rutubet sorununa dayanılarak sözleşmeden dönülmesi talebi çoğu zaman indirim veya onarıma dönüşebilir.
+Alıcı m. 227'deki dört seçimlik haktan birini kullanır; seçimlik haklar 6502'deki haklarla aynı içeriktedir. Alıcı dönmeyi seçmiş, ancak durum bunu haklı göstermiyorsa hâkim, satılanın onarılmasına veya bedelin indirilmesine karar verebilir (m. 227/4). Konut dosyalarında bu takdir yetkisi önemlidir: giderilebilir bir rutubet sorununa dayanılarak sözleşmeden dönülmesi talebi çoğu zaman indirim veya onarıma dönüşebilir.
 
-Zamanaşımı TBK m. 231'deki iki yıllık süreye değil, m. 244/3'e tabidir: bir yapının ayıplı olmasından doğan davalar, mülkiyetin geçmesinden başlayarak beş yılın ve satıcının ağır kusuru varsa yirmi yılın geçmesiyle zamanaşımına uğrar. Başlangıç tapuda tescil tarihidir; fiilî teslimin tescilden önce yapıldığı dosyalarda bu fark, tüketici işlemindeki "teslim tarihi" ölçütüyle karıştırılmamalıdır.
+Zamanaşımı TBK m. 231'deki iki yıllık süreye değil, m. 244/3'e tabidir: bir yapının ayıplı olmasından doğan davalar, mülkiyetin geçmesinden başlayarak beş yılın ve satıcının ağır kusuru varsa yirmi yılın geçmesiyle zamanaşımına uğrar. Taşınmazda mülkiyet tescille geçtiğinden başlangıç kural olarak tapuda tescil tarihidir; öğretide teslimin tescilden sonra yapıldığı durumlarda sürenin teslimle başlatılması gerektiği de savunulmaktadır (Tat, s. 113 vd.). Fiilî teslimin tescilden önce yapıldığı dosyalarda bu fark, tüketici işlemindeki "teslim tarihi" ölçütüyle karıştırılmamalıdır.
 
 ## Yüklenici, arsa sahibi ve yapı denetim kuruluşu
 
@@ -154,13 +154,13 @@ Yetki: Genel yetki kuralı ve sözleşmeden doğan davalarda ifa yeri mahkemesi 
 
 Hakem heyeti: 6502 m. 68'deki parasal sınırın altındaki uyuşmazlıklarda tüketici hakem heyetine başvuru zorunludur. Sınır her yıl yeniden değerleme oranında artırılır; başvuru yılındaki sınıra bakılmalıdır. Konut bedeli çoğunlukla sınırı aşar, ancak yalnızca küçük bir onarım bedeli veya indirim istenen dosyalarda hakem heyeti görevli olabilir. Ayrıntı için [tüketici hakem heyetine başvuru](/yazilar/tuketici-hakem-heyetine-basvuru/) yazısına bakılabilir.
 
-Dava şartı arabuluculuk: Tüketici mahkemesinde görülecek davalarda arabulucuya başvuru dava şartıdır (m. 73/A). Tüketici işlemi niteliğinde olup taşınmazın aynından doğan uyuşmazlıklar istisnadır. Bedel iadesi, indirim, onarım ve tazminat talepleri ayni nitelik taşımadığından arabuluculuğa tabidir. Adi satışta 6325 sayılı Kanun m. 18/B'de sayılan kira, ortaklığın giderilmesi, kat mülkiyeti ve komşu hakkı uyuşmazlıkları arasında satış sözleşmesi yer almaz. Taraflar tacir ve dava ticari nitelikteyse TTK m. 5/A ayrıca değerlendirilmelidir. Süreç [tüketici mahkemesinde dava ve arabuluculuk](/yazilar/tuketici-mahkemesinde-dava-ve-arabuluculuk/) yazısında anlatılmıştır.
+Dava şartı arabuluculuk: Tüketici mahkemesinde görülecek davalarda arabulucuya başvuru dava şartıdır (m. 73/A). Tüketici hakem heyetinin görevine giren uyuşmazlıklar ile tüketici işlemi niteliğinde olup taşınmazın aynından doğan uyuşmazlıklar istisnalar arasındadır. Bedel iadesi, indirim, onarım ve tazminat talepleri taşınmazın aynına ilişkin olmadığından kural olarak arabuluculuğa tabi kabul edilmelidir. Adi satışta 6325 sayılı Kanun m. 18/B'de sayılan kira, ortaklığın giderilmesi, kat mülkiyeti ve komşu hakkı uyuşmazlıkları arasında satış sözleşmesi yer almaz. Taraflar tacir ve dava ticari nitelikteyse TTK m. 5/A ayrıca değerlendirilmelidir. Süreç [tüketici mahkemesinde dava ve arabuluculuk](/yazilar/tuketici-mahkemesinde-dava-ve-arabuluculuk/) yazısında anlatılmıştır.
 
 Süreler: Tüketici işleminde beş yıllık süre teslimden, adi satışta beş yıllık süre mülkiyetin geçmesinden başlar. Arabuluculuk bürosuna başvurudan son tutanağa kadar zamanaşımı durur (6325 m. 18/A).
 
 Harç: Tüketiciler tüketici mahkemesinde açtıkları davalarda harçtan muaftır (6502 m. 73/2). Adi satışta bedel iadesi, indirim ve tazminat talepleri nispi harca tabidir; tutarlar her yıl yeniden belirlenir.
 
-İspat ve delil: Ayıbın varlığını ve teslimde mevcut olduğunu kural olarak alıcı ispat eder; altı aylık karine yalnız tüketici işleminde ve teslimden sonraki altı ay için geçerlidir. Onarım veya tadilat başlamadan önce HMK m. 400 vd. uyarınca delil tespiti istenmelidir; tespit dava öncesinde esas hakkında görevli mahkemeden ya da konutun bulunduğu yer sulh hukuk mahkemesinden talep edilebilir. Ayrıntı için [delil tespiti](/yazilar/delil-tespiti-ve-kaybolabilecek-deliller/) yazısına bakılabilir. Bilirkişi heyetinde inşaat mühendisi ve gerekirse mimar ile değer tespiti için gayrimenkul değerleme uzmanı bulunmalıdır.
+İspat ve delil: Ayıbın varlığını ve teslimde mevcut olduğunu kural olarak alıcı ispat eder; altı aylık karine yalnız tüketici işleminde ve teslimden sonraki altı ay için geçerlidir. Onarım veya tadilat başlamadan önce HMK m. 400 vd. uyarınca delil tespiti istenmelidir; tespit dava öncesinde esas davaya bakacak mahkemeden ya da keşif ve bilirkişi incelemesi yapılacak konutun bulunduğu yer sulh mahkemesinden talep edilebilir (m. 401). Ayrıntı için [delil tespiti](/yazilar/delil-tespiti-ve-kaybolabilecek-deliller/) yazısına bakılabilir. Bilirkişi heyetinde inşaat mühendisi ve gerekirse mimar ile değer tespiti için gayrimenkul değerleme uzmanı bulunmalıdır.
 
 Tedbir: Dönme ve bedel iadesi talebi para alacağına dönüştüğünden satıcının mal kaçırma ihtimalinde [ihtiyati haciz](/yazilar/ihtiyati-haciz/) daha işlevlidir. Tapu henüz devredilmemişse veya talep tescile yönelikse HMK m. 389 uyarınca tapu kaydına devir ve temlik yasağı konulması istenebilir; şartlar için [ihtiyati tedbir](/yazilar/ihtiyati-tedbir/) yazısına bakılabilir.
 
