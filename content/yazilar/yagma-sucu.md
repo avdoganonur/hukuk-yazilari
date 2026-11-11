@@ -49,7 +49,7 @@ sss:
   - soru: "Basit yağmanın üst sınırı on yıl olduğu hâlde dava neden ağır ceza mahkemesinde görülür?"
     cevap: "5235 sayılı Kanunun 12. maddesi yağmayı (TCK m. 148) adıyla sayarak ağır ceza mahkemesinin görevine bırakmıştır. On yıldan fazla hapis ölçütü nitelikli yağmayı zaten kapsar; basit yağma ise bu özel sayım sayesinde ağır ceza mahkemesinde görülür."
   - soru: "Yağmada zarar kovuşturma aşamasında kısmen giderilirse etkin pişmanlık indirimi yapılabilir mi?"
-    cevap: "Yapılabilir, ancak kısmen geri verme veya tazmin hâlinde mağdurun rızası ayrıca aranır (TCK m. 168/4). Kovuşturma başladıktan sonra hükümden önce gösterilen pişmanlıkta yağma için indirim üçte birine kadardır; mağdurun rızasının duruşmada beyanla veya imzalı belgeyle tespit ettirilmesi gerekir."
+    cevap: "Yapılabilir, ancak kısmen geri verme veya tazmin hâlinde mağdurun rızası ayrıca aranır (TCK m. 168/4). Kovuşturma başladıktan sonra hükümden önce gösterilen pişmanlıkta yağma için indirim üçte birine kadardır; mağdurun rızasının duruşmada beyanla veya imzalı belgeyle tespit ettirilmesi yerinde olur."
   - soru: "Alacak tahsili savunmasında alacağın varlığını kim ispat eder?"
     cevap: "TCK m. 150/1, hukuki bir ilişkiye dayanan alacağı arar. Bu olgu sanık lehine bir hâl olduğundan savunma, alacağı doğuran ilişkiyi sözleşme, yazışma, banka kaydı veya tanıkla somutlaştırmalıdır. Mahkeme şüpheyi sanık lehine değerlendirmekle yükümlü olsa da dayanaksız bir alacak iddiası vasfı değiştirmeye yetmez."
 ---
@@ -97,9 +97,9 @@ Uygulamada şu noktalar belirleyicidir:
 
 - Alacak hukuki bir ilişkiye dayanmalıdır. Kumar borcu gibi hukuken korunmayan bir "alacak" kanaatimizce bu hükmün kapsamına girmez.
 - Amaç tahsil olmalıdır. Alacağı aşan miktarın alınması, aşan kısım yönünden yağma tartışmasını gündeme getirir.
-- Alacaklının kendisi veya onun adına hareket eden kişi fail olabilir; alacağın varlığı somut belgelerle ortaya konulmalıdır.
+- Alacağın varlığı somut belgelerle ortaya konulmalıdır.
 
-m. 150/2 ise yağmanın yağma olarak kaldığı, ancak suç konusu malın değerinin az olduğu durumu düzenler: verilecek ceza üçte birden yarıya kadar indirilebilir. Kanun "az değer" için rakam belirlemez. Hüküm m. 149'dan sonra geldiğinden ve "yağma suçunun konusunu oluşturan mal" ifadesini kullandığından nitelikli yağmada da uygulanması talep edilmelidir. Değer, mağdurdan alınan veya alınmak istenen malın suç tarihindeki değeriyle ölçülür.
+m. 150/2 ise yağmanın yağma olarak kaldığı, ancak suç konusu malın değerinin az olduğu durumu düzenler: verilecek ceza üçte birden yarıya kadar indirilebilir. Kanun "az değer" için rakam belirlemez. Hüküm m. 149'dan sonra geldiğinden ve "yağma suçunun konusunu oluşturan mal" ifadesini kullandığından kanaatimizce nitelikli yağmada da uygulanması talep edilmelidir. Değer, mağdurdan alınan veya alınmak istenen malın suç tarihindeki değeriyle ölçülür.
 
 ## Komşu suçlarla sınır
 
@@ -127,7 +127,7 @@ Bu oranlar, diğer malvarlığı suçları için m. 168/1-2'de öngörülen üç
 
 İndirim için fail, azmettiren veya yardım eden kişinin bizzat pişmanlık göstererek zararı aynen geri verme veya tazmin yoluyla gidermesi gerekir. Kısmen geri verme veya tazmin hâlinde ayrıca mağdurun rızası aranır (m. 168/4). Malın kolluk tarafından ele geçirilerek mağdura iade edilmesi failin pişmanlığına dayanmaz. Bu durumda indirim tartışmalıdır; iadenin failin bildirimiyle sağlanıp sağlanmadığı dosyada gösterilmelidir.
 
-Diğer indirim hâlleri de ayrı ayrı değerlendirilmelidir. Haksız bir fiilin yarattığı hiddet veya şiddetli elemin etkisinde işlenmişse TCK m. 29 gündeme gelir; ayrıntı için [haksız tahrik indirimi](/yazilar/haksiz-tahrik-indirimi/) yazısına bakılabilir. Teşebbüs (m. 35), değer azlığı (m. 150/2), etkin pişmanlık (m. 168/3) ve takdiri indirim (m. 62) birlikte uygulanabildiğinden, sonuç cezanın HAGB veya erteleme sınırına inip inmediği hesap edilmelidir.
+Diğer indirim hâlleri de ayrı ayrı değerlendirilmelidir. Haksız bir fiilin yarattığı hiddet veya şiddetli elemin etkisinde işlenmişse TCK m. 29 gündeme gelir; ayrıntı için [haksız tahrik indirimi](/yazilar/haksiz-tahrik-indirimi/) yazısına bakılabilir. Değer azlığı (m. 150/2), etkin pişmanlık (m. 168/3) ve takdiri indirim (m. 62) birlikte uygulanabildiğinden, sonuç cezanın HAGB veya erteleme sınırına inip inmediği hesap edilmelidir. Suç teşebbüste kalmışsa m. 35 ayrıca gündeme gelir; ancak m. 168/1 etkin pişmanlığı suçun tamamlanmasından sonraki pişmanlığa bağladığından teşebbüs ile etkin pişmanlık indirimi birlikte düşünülmemelidir.
 
 ## Usul
 
@@ -139,7 +139,7 @@ Soruşturma ve kovuşturma şartları:
 - Suç, CMK m. 253/1'deki uzlaştırma kapsamında değildir. Üst sınırı üç yılı aşan bir suç olduğundan, üç yıla kadar hapis cezasını gerektiren suçlara ilişkin bent de uygulanmaz.
 - Dava zamanaşımı, beş yıldan fazla ve yirmi yıldan az hapis cezasını gerektiren suçlar için öngörülen on beş yıldır (TCK m. 66/1-d). Fiili çocukken işleyenler için m. 66/2'deki kısalma ayrıca hesaplanmalıdır.
 
-Tutuklama: Hırsızlık (m. 141, 142) ve yağma (m. 148, 149), CMK m. 100/3'te sayılan katalog suçlar arasındadır. Kuvvetli suç şüphesinin varlığını gösteren somut deliller varsa kaçma veya delil karartma şüphesi kanunen var sayılabilir. Bu karine kuvvetli şüphe şartını ortadan kaldırmaz; ölçülülük ve adli kontrolün yetersizliği de ayrıca gerekçelendirilmelidir. Genel çerçeve için [tutuklama ve adli kontrol](/yazilar/tutuklama-ve-adli-kontrol/) yazısına bakılabilir.
+Tutuklama: Hırsızlık (m. 141, 142) ve yağma (m. 148, 149), CMK m. 100/3'te sayılan katalog suçlar arasındadır. Bu suçların işlendiği hususunda kuvvetli şüphe sebepleri varsa tutuklama nedeni var sayılabilir. Bu karine kuvvetli şüphe şartını ortadan kaldırmaz; ölçülülük ve adli kontrolün yetersizliği de ayrıca gerekçelendirilmelidir. Genel çerçeve için [tutuklama ve adli kontrol](/yazilar/tutuklama-ve-adli-kontrol/) yazısına bakılabilir.
 
 Çocuk fail: Dava, ağır ceza mahkemesinin görev alanındaki bir suç olduğu için çocuk ağır ceza mahkemesinde görülür. 7593 sayılı Kanunla değiştirilen TCK m. 31'e göre on beş-on sekiz yaş grubunda ceza üçte bir oranında indirilir ve her fiil için hapis cezası on beş yılı aşamaz. On iki-on beş yaş grubunda ise ceza sorumluluğu varsa yarı oranında indirim yapılır ve üst sınır dokuz yıldır. Bu üst sınırlar değişiklikten önce daha düşüktü. 18.08.2026 öncesi fiillerde lehe kanun karşılaştırması zorunludur. m. 31/4'ün birinci cümlesi kasten öldürme ve neticesi sebebiyle ağırlaşmış yaralama ile sınırlıdır, yağmayı kapsamaz. İkinci cümlenin kapsamı ise tartışmalıdır. On beş yaşından küçükler için 5395 m. 21'deki tutuklama yasağı, üst sınırı beş yılı aşmayan fiillerle sınırlı olduğundan yağmada uygulanmaz. Ayrıntı için [suça sürüklenen çocuğun ceza sorumluluğu](/yazilar/suca-suruklenen-cocugun-ceza-sorumlulugu/) yazısına bakılabilir.
 
