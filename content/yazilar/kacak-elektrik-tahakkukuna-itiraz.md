@@ -3,7 +3,7 @@ baslik: "Kaçak ve Usulsüz Elektrik Tahakkukuna Karşı Hukuki Yollar"
 aciklama: "Kaçak ve usulsüz elektrik tahakkuku: EPDK Yönetmeliği m. 42–49, tespit tutanağı, sayaç muayenesi, görevli mahkeme, arabuluculuk, tedbir ve TCK m. 163/3."
 kisaca:
   - "Kaçak tahakkuku, Elektrik Piyasası Tüketici Hizmetleri Yönetmeliği m. 42–47'deki tespit ve hesaplama kurallarına uygun yapılmalıdır."
-  - "Mesken aboneliğinde uyuşmazlık tüketici işlemidir; tüketici mahkemesinde dava açmadan önce arabulucuya başvuru dava şartıdır."
+  - "Mesken aboneliğine dayanan uyuşmazlık kural olarak tüketici işlemi olarak değerlendirilir; tüketici mahkemesinde dava açmadan önce arabulucuya başvuru dava şartıdır."
   - "Elektriğin kesilmesinin önlenmesi veya yeniden bağlanması için menfi tespit davasında HMK m. 389 uyarınca tedbir istenebilir."
   - "Ceza soruşturmasında zararın tamamen tazmini kamu davasını engelleyebilir; ödemenin hukuk davasına etkisi önceden değerlendirilmelidir."
 tarih: 2026-11-12
@@ -13,7 +13,7 @@ dayanak:
     not: "Tanımlar; Tüketici Hizmetleri Yönetmeliği'nin dayanağı olan Kanun"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6446&MevzuatTur=1&MevzuatTertip=5"
   - ad: "Elektrik Piyasası Tüketici Hizmetleri Yönetmeliği m. 37"
-    not: "Sayacın kontrolünün talep edilmesi"
+    not: "Sayacın doğru tüketim kaydetmemesi hâlinde tüketim miktarının tespiti; sayacın kontrolünün talep edilmesi"
   - ad: "Elektrik Piyasası Tüketici Hizmetleri Yönetmeliği m. 42"
     not: "Kaçak elektrik enerjisi tüketimi hâlleri"
   - ad: "Elektrik Piyasası Tüketici Hizmetleri Yönetmeliği m. 43"
@@ -83,7 +83,7 @@ sss:
   - soru: "Ceza soruşturmasında tahakkuk tutarını ödemek hukuk davasında aleyhe sonuç doğurur mu?"
     cevap: "TCK m. 168/5'e göre karşılıksız yararlanmada zarar soruşturma tamamlanmadan önce tamamen tazmin edilirse kamu davası açılmaz. Ancak bu ödeme, hukuk davasında borcun kabulü olarak yorumlanmaya elverişlidir. Ödeme yapılacaksa hukuki itirazların saklı tutulduğu yazılı olarak belirtilmeli ve tahakkukun hesaplama esasına yönelik itiraz ayrıca sürdürülmelidir."
   - soru: "Sayaç muayene raporu olmadan kaçak tahakkuku yapılabilir mi?"
-    cevap: "Yönetmelik m. 43, sayaca müdahale şüphesinde sayacın sökülerek incelemeye alınmasını ve müdahalenin laboratuvar raporuyla tespit edilmesi hâlinde kaçak tespit tutanağı düzenlenmesini öngörür. Sayaca müdahale iddiasına dayanan, ancak laboratuvar raporu bulunmayan tahakkuk bu nedenle usule aykırılık iddiasının merkezine konulmalıdır. Tüketici ayrıca il müdürlüğünden şikâyet muayenesi talep edebilir."
+    cevap: "Yönetmelik m. 43, sayaca müdahale şüphesinde sayacın sökülerek incelemeye alınmasını ve müdahalenin laboratuvar raporuyla tespit edilmesi hâlinde kaçak tespit tutanağı düzenlenmesini öngörür. Sayaca müdahale iddiasına dayanan, ancak laboratuvar raporu bulunmayan tahakkuk bu nedenle usule aykırılık iddiasının merkezine konulmalıdır. Tüketici ayrıca Sayaç Muayene Yönetmeliği uyarınca il müdürlüğünce yapılacak şikâyet muayenesi için başvurabilir."
 ---
 Dağıtım şirketinin "kaçak elektrik" ya da "usulsüz kullanım" gerekçesiyle düzenlediği tahakkuk, çoğu zaman elektriğin kesilmesi, yüksek tutarlı bir ödeme bildirimi ve savcılığa suç duyurusuyla birlikte gelir. Bu nedenle dosyada aynı anda üç ayrı soru cevaplanmalıdır: tahakkuk Yönetmelik'teki tespit ve hesaplama kurallarına uygun mu, uyuşmazlık hangi mahkemede ve hangi ön şartla görülecek, ceza süreci hukuki uyuşmazlığı nasıl etkiliyor?
 
@@ -117,9 +117,9 @@ Tutanak incelenirken şu noktalar kontrol edilmelidir:
 - Sayaca müdahale iddiasında laboratuvar raporunun varlığı ve tarihi,
 - Tutanağın kullanım yerinde bırakılıp bırakılmadığı veya tüketiciye nasıl ulaştırıldığı.
 
-Tutanak bir özel hukuk tüzel kişisinin personeli tarafından düzenlenir. Bu nedenle kural olarak resmî senet niteliği taşımaz ve aksi her türlü delille ispat edilebilir. Yönetmelik'in öngördüğü görüntü kaydı veya laboratuvar raporu yoksa, tutanağın tek başına tahakkuku taşıyıp taşımadığı bilirkişi incelemesinin ve tartışmanın merkezine konulmalıdır.
+Tutanak bir özel hukuk tüzel kişisinin personeli tarafından düzenlenir. Bu nedenle tutanağın resmî senet niteliği taşımadığı ve aksinin her türlü delille ispat edilebileceği savunulabilir. Yönetmelik'in öngördüğü görüntü kaydı veya laboratuvar raporu yoksa, tutanağın tek başına tahakkuku taşıyıp taşımadığı bilirkişi incelemesinin ve tartışmanın merkezine konulmalıdır.
 
-Sayaçtan şüphe eden tüketicinin elinde iki yol vardır. Yönetmelik m. 37, sayacın arızalandığından veya doğru ölçmediğinden şüphe edilmesi hâlinde tüketicinin ya da dağıtım şirketinin sayacın kontrolünü talep edebileceğini öngörür. Bunun yanında Sanayi ve Teknoloji Bakanlığınca çıkarılan Elektrik, Su ve Gaz Sayaçları Muayene Yönetmeliği m. 10, tüketicinin başvurusuyla il müdürlüğünce yapılan şikâyet muayenesini düzenler. Periyodik muayene süresi dolmuş sayaçlarda bu yola başvurulamaz; süresi dolmamış sayaçlarda başvuruda somut gerekçe gösterilmelidir. Sökülen sayacın muhafazası ve incelemesi gecikmeden istenmelidir. Dava öncesinde sayacın ve tesisatın durumunun belgelenmesi gerekiyorsa HMK m. 400 uyarınca delil tespiti istenebilir; usul için [delil tespiti](/yazilar/delil-tespiti-ve-kaybolabilecek-deliller/) yazısına bakılabilir.
+Sayaçtan şüphe eden tüketicinin elinde iki yol vardır. Yönetmelik m. 37, sayacın arızalandığından veya doğru ölçmediğinden şüphe edilmesi hâlinde tüketicinin ya da dağıtım şirketinin sayacın kontrolünü talep edebileceğini öngörür. Bunun yanında Sanayi ve Teknoloji Bakanlığınca çıkarılan Elektrik, Su ve Gaz Sayaçları Muayene Yönetmeliği m. 10, sayacın doğru çalışıp çalışmadığının tüketicinin veya kullanıcının (elektrikte dağıtım şirketinin) başvurusu üzerine il müdürlüğünce muayene edilmesini, yani şikâyet muayenesini düzenler. Tüketici başvurusunu, bulunduğu yerin il müdürlüğünü belirterek Bakanlığa veya dağıtım şirketine yapar. Periyodik muayene süresi dolmuş sayaçlarda şikâyet muayenesi talep edilememesi ve süresi dolmamış sayaçlarda somut gerekçe gösterilmesi şartı ise Yönetmelik'te dağıtım şirketinin talebi için öngörülmüştür. Sayaca müdahale edilmiş veya damgası bozulmuşsa muayene yapılmaz ve bu durum rapora yazılır. Sökülen sayacın muhafazası ve incelemesi gecikmeden istenmelidir. Dava öncesinde sayacın ve tesisatın durumunun belgelenmesi gerekiyorsa HMK m. 400 uyarınca delil tespiti istenebilir; usul için [delil tespiti](/yazilar/delil-tespiti-ve-kaybolabilecek-deliller/) yazısına bakılabilir.
 
 ## Tahakkukun hesaplanma yöntemi
 
@@ -127,18 +127,18 @@ Kaçak tahakkuku iki değişkene dayanır: tüketim miktarı ve bu miktarın hes
 
 Tüketim miktarı m. 44'e göre şu sırayla belirlenir:
 
-1. Tüketimi doğru kaydeden ölçüm verisi varsa o esas alınır.
+1. Tüketimi doğru kaydeden sayaç değeri varsa o, yoksa ihtilafsız aynı dönem tüketimi esas alınır.
 2. Yoksa projedeki ya da tespit edilen kurulu güç, Yönetmelik'te öngörülen kullanma faktörü ve abone grubuna göre belirlenen günlük çalışma saati üzerinden hesap yapılır. Görüntü kaydıyla belgelenen akım ölçümü daha yüksek bir güç gösteriyorsa bu ölçüm esas alınabilir.
 3. Ayrı hat çekilen durumlarda hat üzerindeki cihazların kurulu gücü ya da kablo kesitine göre belirlenen değerler kullanılır; bu durumda da görüntü kaydı aranır.
 4. Bunların hiçbiriyle hesap yapılamıyorsa benzer kullanım yerlerinin ortalama tüketimine başvurulur.
 
-Aynı dönem için daha önce faturalandırılmış tüketim hesaplanan miktardan düşülür. Bu indirim yapılmadan düzenlenen tahakkuk, aynı tüketimin iki kez faturalandırılması sonucunu doğurur.
+Kaçak döneminde daha önce faturalandırılmış tüketim, Yönetmelik'te sayılan bazı ayrı hat hâlleri dışında, hesaplanan miktardan düşülür. Bu indirim yapılmadan düzenlenen tahakkuk, aynı tüketimin iki kez faturalandırılması sonucunu doğurur.
 
-Süre m. 45'te düzenlenir. Kaçağın başlangıcını gösteren doğru bulgu ve belgeler varsa başlangıç ile tespit tarihi arasındaki süre, yoksa daha kısa bir varsayımsal süre esas alınır. Her iki süre de kaçak hâline göre ayrı azami sınırlara bağlanmıştır. Sayaca müdahalede başlangıç olarak dağıtım şirketinin sayaç mahallinde yaptığı son işlem tarihi alınır; okuma, mühürleme, kesme ya da sayaç değişimi bu niteliktedir. Günlük çalışma saati mesken, sanayi, tarımsal sulama ve diğer gruplar için ayrı ayrı belirlenmiştir. Mesken için öngörülen saat diğer gruplara göre düşüktür ve abone grubunun yanlış seçilmesi tutarı doğrudan etkiler.
+Süre m. 45'te düzenlenir ve kaçak hâline göre ayrı azami sınırlara bağlanmıştır. Dağıtım sistemine doğrudan müdahalede, kaçağın başlangıcını gösteren doğru bulgu ve belgeler bulunup bulunmamasına göre farklı azami süreler öngörülür. Sayaca müdahalede başlangıç olarak dağıtım şirketinin sayaç mahallinde yaptığı en son işlem tarihi alınır; kontrol, mühürleme, kesme-bağlama ya da sayaç değiştirme bu niteliktedir. Günlük çalışma saati mesken, sanayi, tarımsal sulama ve diğer gruplar için ayrı ayrı belirlenmiştir. Mesken için öngörülen saat diğer gruplara göre düşüktür ve abone grubunun yanlış seçilmesi tutarı doğrudan etkiler.
 
-Faturalandırma m. 46'ya göre yapılır. Hesaplanan tüketim, abone grubunun tarifesi üzerinden Yönetmelik'te öngörülen katsayıyla çarpılır; geçmiş dönemde tekrarlanan kaçakta daha yüksek katsayı uygulanır. Tüketiciye hesaplamanın ayrıntıları, gerekçesi ve itiraz süresi ile koşulları yazılı olarak veya kalıcı veri saklayıcısıyla bildirilmelidir. Somut tutar ve katsayılar burada verilmemiştir; dosyada tahakkuk tarihindeki metin ve tarife tablosu üzerinden yeniden hesap yaptırılmalıdır.
+Faturalandırma m. 46'ya göre yapılır. Hesaplanan tüketim, abone grubunun tarifesi üzerinden Yönetmelik'te öngörülen katsayıyla çarpılır; geçmiş dönemde tekrarlanan kaçakta daha yüksek katsayı uygulanır. Tüketiciye fatura ile birlikte hesaplamanın ayrıntıları, gerekçesi ve itiraz süresi ile koşulları yazılı olarak veya kalıcı veri saklayıcısıyla bildirilmelidir; son bir yıl içinde aynı tüketici adına kaçak tespiti yapılmışsa bu bildirim yükümlülüğü uygulanmaz. Somut tutar ve katsayılar burada verilmemiştir; dosyada tahakkuk tarihindeki metin ve tarife tablosu üzerinden yeniden hesap yaptırılmalıdır.
 
-Ödeme m. 47'de düzenlenir. Hukuki takibe geçilmeden önce tüketiciye yazılı ödeme bildirimi yapılması gerekir; bu bildirim yapılmadan başlatılan takip işlemleri sona erdirilir ve masrafları tüketiciye yüklenemez. Bildirim belgesinin varlığı ve tarihi, icra takibine karşı savunmada ayrıca kontrol edilmelidir.
+Ödeme m. 47'de düzenlenir. Hukuki takibe geçilmeden önce tüketiciye, borcun belirli bir süre içinde ödenmemesi hâlinde yasal yollara başvurulacağını bildiren yazılı ödeme bildirimi yapılması gerekir; bu bildirim yapılmadan başlatılan takip işlemleri sona erdirilir ve masrafları tüketiciye yüklenemez. Bildirim belgesinin varlığı ve tarihi, icra takibine karşı savunmada ayrıca kontrol edilmelidir.
 
 ## İdari itiraz yolları: dağıtım şirketi ve EPDK
 
@@ -148,7 +148,7 @@ Dağıtım şirketi nezdinde sonuç alınamazsa EPDK'ya şikâyet başvurusu yap
 
 ## Tüketici işlemi niteliği ve görevli mahkeme
 
-Görev, uyuşmazlığın taraflar arasındaki sözleşme ilişkisinden doğup doğmadığına ve abonenin sıfatına göre belirlenir. Tüketici, 6502 m. 3'e göre ticari veya mesleki olmayan amaçlarla hareket eden kişidir. Mesken aboneliğine dayanan ve sayaca müdahale gibi sözleşme ilişkisi içinde ortaya çıkan kaçak iddiasında uyuşmazlık tüketici işleminden doğar ve 6502 m. 73 uyarınca tüketici mahkemesinde görülür. Bu, tüketicinin menfi tespit veya istirdat davası için de, dağıtım şirketinin alacak davası için de geçerlidir.
+Görev, uyuşmazlığın taraflar arasındaki sözleşme ilişkisinden doğup doğmadığına ve abonenin sıfatına göre belirlenir. Tüketici, 6502 m. 3'e göre ticari veya mesleki olmayan amaçlarla hareket eden kişidir. Mesken aboneliğine dayanan ve sayaca müdahale gibi sözleşme ilişkisi içinde ortaya çıkan kaçak iddiasında uyuşmazlığın tüketici işleminden doğduğu ve 6502 m. 73 uyarınca tüketici mahkemesinde görüleceği kabul edilebilir; bu değerlendirme tüketicinin menfi tespit veya istirdat davası için de, dağıtım şirketinin alacak davası için de ileri sürülebilir. Ancak kaçak kullanım fiilinin hukuki niteliği ve buna bağlı görev sorunu öğretide tartışmalıdır; bu nedenle görev itirazına karşı hazırlıklı olunmalıdır.
 
 İşyeri aboneliğinde abone elektriği ticari veya mesleki amaçla kullanıyorsa tüketici sıfatı yoktur. Bu durumda genel mahkemeler görevlidir. Abone de tacirse ve uyuşmazlık ticari işletmesiyle ilgiliyse asliye ticaret mahkemesi görevli olur. Hiç perakende satış sözleşmesi bulunmayan kullanım yerinde, sözleşmesiz tüketimin hukuki niteliği ve buna bağlı görevli mahkeme öğretide ayrıca tartışılmaktadır. Tartışmanın odağı, ortada tüketici işlemi sayılabilecek bir hukuki işlem bulunup bulunmadığıdır (Atalı, Prof. Dr. Baki Kuru Anısına Armağan, 2025, s. 2335 vd.). Bu nedenle dilekçede abonelik ilişkisinin varlığı, abone grubu ve kullanım amacı somut belgelerle gösterilmelidir. Mesken ve işyerinin aynı tesisattan beslendiği karma kullanımlarda abonelik kaydındaki grup ile fiilî kullanım ayrıca ortaya konulmalıdır.
 
