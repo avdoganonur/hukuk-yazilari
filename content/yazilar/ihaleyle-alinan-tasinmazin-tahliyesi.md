@@ -5,7 +5,7 @@ kisaca:
   - "Taşınmaz kendisine ihale edilen alıcı, tapuda tescil beklenmeden taşınmazın mülkiyetini kazanır."
   - "Satılan taşınmaz ihale kesinleşmeden alıcıya teslim edilmez ve tapuda alıcı adına tescil edilmez."
   - "Tahliye emri tebliğ edilen borçlu veya işgalci on beş gün içinde çıkmazsa zorla çıkarılır ve taşınmaz alıcıya teslim edilir."
-  - "Hacizden önceki tarihli resmî bir belgeye dayanan kira ilişkisi bulunan kişi tahliye emriyle çıkarılamaz."
+  - "Hacizden önce yapıldığı resmî bir belgeyle belgelenmiş bir akde dayanarak oturan kişi tahliye emriyle çıkarılamaz."
 tarih: 2026-11-13
 alan: icra-hukuku
 dayanak:
@@ -41,7 +41,7 @@ sss:
   - soru: "İhalenin feshi talebi derdestken alıcı taşınmazın teslimini isteyebilir mi?"
     cevap: "Hayır. İİK m. 118 uyarınca satılan mal ihale kesinleşmeden teslim olunmaz ve sicilde alıcı adına tescil edilmez; tahliye emri de bu nedenle kesinleşmeden önce çıkarılamaz. Bu dönemde alıcı, icra dairesinden taşınmazda oturan kiracının kira bedelini, diğer kullanıcının ise bilirkişiyle belirlenen aylık kullanım bedelini dosyaya yatırmasının emredilmesini isteyebilir (m. 134/1)."
   - soru: "Adi yazılı kira sözleşmesi sunan kişi hakkında tahliye emri çıkarılabilir mi?"
-    cevap: "M. 135/2, hacizden önceki bir tarihte yapıldığı resmî bir belgeyle belgelenmiş akde dayanmayan işgali tahliye emrinin konusu yapar. Tarihi resmî belgeyle sabit olmayan adi sözleşme bu korumayı sağlamaz. Ancak alıcının kira ilişkisini baştan bilip kabul ettiği iddiası genel mahkemede ayrıca ileri sürülebilir; alıcının kira bedeli istemesi gibi davranışlar bu iddiayı güçlendirir."
+    cevap: "M. 135/2, hacizden önceki bir tarihte yapıldığı resmî bir belgeyle belgelenmiş akde dayanmayan işgali tahliye emrinin konusu yapar. Tarihi resmî belgeyle sabit olmayan adi sözleşme bu korumayı sağlamaz. Ancak alıcının kira ilişkisini baştan bilip kabul ettiği iddiası genel mahkemede ayrıca ileri sürülebilir."
   - soru: "Tahliye emrine karşı süre ne zaman başlar ve nereye başvurulur?"
     cevap: "Tahliye emri icra dairesinin işlemi olduğundan buna karşı icra mahkemesine şikâyet yoluna gidilir. Süre, emrin tebliğinden itibaren yedi gündür (m. 16). Şikâyet, on beş günlük tahliye süresini kendiliğinden durdurmaz; mahkemeden işlemin durdurulması ayrıca istenmelidir."
   - soru: "Taşınmazı ihale alıcısından satın alan kişi de tahliye emri isteyebilir mi?"
@@ -59,7 +59,7 @@ Bu yolun sınırı da kanunda çizilmiştir. Hacizden önceki bir tarihte yapıl
 
 - İhale alıcısı, ihalenin feshi talep edilmiş olsa dahi artırma sonuç tutanağının ilanından itibaren yedi gün içinde ihale bedelini öder (m. 118).
 - Satılan mal, ihale kesinleşmeden teslim olunmaz ve resmî sicilde alıcı adına tescil edilmez (m. 118).
-- İhale bedeli kesinleşmeye kadar alacaklılara ödenmez; ihalenin feshi talebi varsa karar kesinleşinceye kadar bankada nemalandırılır (m. 134).
+- İhale kesinleşmedikçe ve taşınmaz alıcıya teslim edilmedikçe ihale bedeli alacaklılara ödenmez; ihalenin feshi talebi varsa bedel karar kesinleşinceye kadar bankada nemalandırılır (m. 134).
 
 Mülkiyetin ihaleyle geçmesi, ihalenin feshi talebi sonuçlanmadan alıcının taşınmaza el koyabileceği anlamına gelmez. Fesih kabul edilirse ihale ortadan kalkar. Kanun koyucu bu belirsizlik dönemini m. 118'deki teslim ve tescil yasağıyla ve aşağıda anlatılan m. 134/1'deki ara düzenlemeyle çözmüştür. 7571 sayılı Kanunla (RG 25.12.2025) m. 134'te yapılan değişiklik de bu dönemi kısaltmaya yöneliktir: kanunda sayılanlar dışındaki kişilerin fesih talebi dosya üzerinden ve kesin olarak reddedilir. Teklif vererek ihaleye katılanlar için öngörülen teminat veya harç eksikse iki haftalık kesin süre verilir.
 
@@ -83,19 +83,19 @@ Hüküm, taşınmazın borçlu tarafından veya hacizden evvelki bir tarihte yap
 - Süre içinde boşaltılmazsa zorla tahliye yapılır ve taşınmaz alıcıya teslim edilir.
 - Taşınmazın ihale alıcısı adına tescilinden sonra, henüz tahliye yapılmadan taşınmazı ihale alıcısından satın alan da bu fıkra uyarınca tahliye isteme hakkına sahiptir (7343 sayılı Kanunla eklenen cümle).
 
-M. 118'deki teslim yasağı nedeniyle tahliye emri ihale kesinleştikten sonra çıkarılır. Öğretide, tapuda tescilin tamamlanmasının ayrıca beklenmesine gerek olmadığı, ihalenin kesinleşmesinin yeterli olduğu savunulmuştur (Dönmez, TBB Dergisi, S. 71, 2007). Uygulamada emir alıcının icra dairesine başvurusu üzerine çıkarılır; aynı çalışmada icra dairesinin talep olmaksızın da emir gönderebileceği görüşü yer alır.
+M. 118'deki teslim yasağı nedeniyle tahliye emri ihale kesinleştikten sonra çıkarılır. Öğretide, tahliye emri için tapudaki tescilin tamamlanmasının beklenmesine gerek olmadığı, tescil işlemlerine başlanmasının yeterli olduğu savunulmuştur (Dönmez, TBB Dergisi, S. 71, 2007). Uygulamada emir, alıcının icra dairesine başvurusu üzerine çıkarılır.
 
 Zorla tahliye aşamasında direnmeyle karşılaşılırsa icra memuru zor kullanma yetkisine sahiptir ve zabıta memurları icra memurunun yazılı müracaatı üzerine yardımla yükümlüdür (m. 81). Bu nedenle tahliye günü belirlenirken kolluğa yazı yazılmasının talep edilmesi, taşınmaz kilitli ise çilingir, eşya varsa nakliye ve muhafaza imkânının önceden ayarlanması gerekir. Taşınmazdan çıkan eşyanın ayrıntılı tutanağa geçirilmesi, sonradan doğabilecek zarar iddialarına karşı alıcıyı korur.
 
 ## Kiracı ve diğer üçüncü kişilerin durumu
 
-Kiracı bakımından belirleyici soru, kira ilişkisinin hacizden önceki bir tarihte resmî bir belgeyle belgelenip belgelenmediğidir. Öğretide aktarıldığına göre Yargıtay adi kira sözleşmesini, vergi kaydını, elektrik veya telefon aboneliğini bu bakımdan yeterli görmemektedir. Noterce düzenlenmiş veya onaylanmış kira sözleşmesi, tapuya şerh edilmiş kira ilişkisi ya da kiracılığı belirleyen bir mahkeme kararı ise resmî belge niteliğindedir (Dönmez). Rehnin paraya çevrilmesi yoluyla yapılan satışlarda hangi tarihin esas alınacağı tartışmalıdır; aynı yazar ipoteğin tesis tarihinin esas alınması gerektiğini savunur.
+Kiracı bakımından belirleyici soru, kira ilişkisinin hacizden önceki bir tarihte resmî bir belgeyle belgelenip belgelenmediğidir. Adi yazılı kira sözleşmesi bu bakımdan kural olarak yeterli görülmez. Noterce düzenlenmiş veya onaylanmış kira sözleşmesi, tapuya şerh edilmiş kira ilişkisi ya da kiracılığı belirleyen bir mahkeme kararı ise resmî belge niteliğindedir (Dönmez). Rehnin paraya çevrilmesi yoluyla yapılan satışlarda haciz bulunmadığından hangi tarihin esas alınacağı öğretide tartışılmıştır.
 
 Şart gerçekleşmişse alıcı tahliye emri yoluna başvuramaz. Kiralanan, kira sözleşmesinin kurulmasından sonra herhangi bir sebeple el değiştirirse yeni malik kira sözleşmesinin tarafı olur (TBK m. 310). İhale alıcısı da bu durumda kiraya veren sıfatını kazanır ve sözleşmeyi ancak kira hukukunun tahliye sebepleriyle sona erdirebilir. Bunların başında yeni malikin gereksinimi gelir (TBK m. 351): alıcı, edinme tarihinden başlayarak bir ay içinde ihtiyacını kiracıya yazılı olarak bildirirse altı ay sonra açacağı davayla sözleşmeyi sona erdirebilir. Şartlar ve süreler [ihtiyaç nedeniyle tahliye davası](/yazilar/ihtiyac-nedeniyle-tahliye-davasi/) yazısında anlatılmıştır. Kiracı kirayı ödemezse [kiralanan taşınmazın icra yoluyla tahliyesi](/yazilar/kiralanan-tasinmazin-icra-yoluyla-tahliyesi/) yolu da açıktır.
 
-Resmî belge şartı tahliye emri yönünden aranır; kira ilişkisinin varlığı başka yollarla da ileri sürülebilir. Öğretide aktarılan bir Yargıtay kararında, alıcının kiracılığı baştan bildiği ve kabul ettiği iddiasının genel mahkemede açılacak menfi tespit davasında tanık dahil her türlü delille ispat edilebileceği kabul edilmiştir (Türker, 2024). Dönmez de alıcının işgalciyi açıkça kiracı olarak kabul etmesi, örneğin ondan yazılı olarak kira istemesi hâlinde m. 135/2'den yararlanamayacağını kabul eden kararları aktarır. Alıcı vekilinin ihaleden sonra işgalciyle yazışırken bu riski göz önünde tutması gerekir.
+Resmî belge şartı tahliye emri yönünden aranır; kira ilişkisinin varlığı başka yollarla da ileri sürülebilir. Öğretide aktarılan bir Yargıtay kararında, alıcının kiracılığı baştan bildiği ve kabul ettiği iddiasının genel mahkemede açılacak menfi tespit davasında tanık dahil her türlü delille ispat edilebileceği kabul edilmiştir (Türker, 2024). Alıcı vekilinin ihaleden sonra işgalciyle yazışırken, kiracılığın kabulü olarak yorumlanabilecek ifadelerden kaçınması bu nedenle önemlidir.
 
-Tahliye emrinin kapsamı dışında kalan başka kişiler de vardır. Öğretide aktarıldığına göre taşınmazda payı satılan paydaş dışındaki diğer paydaşlar üçüncü kişi sayılmaz ve m. 135/2'ye göre tahliye edilemez; intifa hakkı sahibi de bu yolla çıkarılamaz (Dönmez). Payın satışında alıcı, diğer paydaşlarla ilişkisini paylı mülkiyet hükümlerine göre çözmek zorundadır.
+Tahliye emrinin kapsamı dışında kalan başka kişiler de vardır. Yargıtay uygulamasında, taşınmazda paylı mülkiyete sahip diğer paydaşların üçüncü kişi sayılmadığı ve m. 135/2'ye göre tahliyelerinin istenemeyeceği kabul edilmektedir; bu kişiler hakkında çıkarılan tahliye emrine karşı şikâyet de süreye bağlı tutulmamıştır. Öğretide, taşınmaz intifa hakkıyla yükümlü olarak satılmışsa intifa hakkı sahibinin de bu yolla çıkarılamayacağı belirtilmiştir (Dönmez). Payın satışında alıcı, diğer paydaşlarla ilişkisini paylı mülkiyet hükümlerine göre çözmek zorundadır.
 
 Aile konutu şerhi tek başına haciz ve cebrî satışa engel değildir. TMK m. 194 malik eşin iradi tasarruflarını sınırlar, cebrî icrayı sınırlamaz; öğretide Yargıtay'ın şerhi cebrî satışa engel saymadığı aktarılmaktadır (Güman, İYYÜHFD, C. 3, S. 2, 2025). Aynı çalışmaya göre diğer eşin rızası olmadan kurulan ipotek tartışılabilir, ancak satış kesinleştikten sonra alıcının konumu fiilen korunur. Bu nedenle diğer eşin itirazı tahliye aşamasında değil, ihalenin feshi veya ipoteğe karşı dava aşamasında önem taşır. Borçlunun haline münasip ev savunması ise satıştan önce [tek evin haczi ve meskeniyet şikâyeti](/yazilar/tek-evin-haczi-ve-meskeniyet-sikayeti/) yoluyla ileri sürülmelidir; ihale kesinleştikten sonra tahliye emrine karşı bu iddia ile sonuç alınması beklenmemelidir.
 
@@ -103,17 +103,17 @@ Aile konutu şerhi tek başına haciz ve cebrî satışa engel değildir. TMK m.
 
 İhale kesinleşinceye kadarki dönem için alıcının başvuracağı yol, yukarıda anlatılan m. 134/1'deki kira veya kullanım bedelinin dosyaya yatırılmasıdır. Kesinleşmeden sonra taşınmazı boşaltmayan kişiye karşı ise genel hükümlere göre ecrimisil istenir. Haksız işgal tazminatının kapsamı, iyiniyet ve kötüniyet ayrımı ile zamanaşımı [ecrimisil](/yazilar/ecrimisil-haksiz-isgal-tazminati/) yazısında anlatılmıştır.
 
-Ecrimisilin başlangıç tarihi tartışmalıdır. Mülkiyet ihaleyle geçtiği için alıcının ihale tarihinden itibaren tazminat isteyebileceği ileri sürülür. Buna karşılık Dönmez, aktardığı bir Hukuk Genel Kurulu kararıyla uyumlu olarak, işgalcinin tahliye emrindeki on beş günlük sürenin bitiminden sonraki dönemden sorumlu tutulması gerektiğini savunur. Bu belirsizlik karşısında alıcı açısından en güvenli yol, kesinleşme öncesi dönem için m. 134/1 talebini yapmak, kesinleşmeden sonra da tahliye emrini gecikmeden tebliğ ettirmektir. Böylece hem bedelin dosyada birikmesi sağlanır hem de işgalcinin kötüniyetinin başlangıcı belgelenmiş olur.
+Ecrimisilin başlangıç tarihi tartışmalıdır. Mülkiyet ihaleyle geçtiği için alıcının, özellikle taşınmazda oturmaya devam eden borçluya karşı, ihale tarihinden itibaren tazminat isteyebileceği ileri sürülür. Üçüncü kişi işgalciler bakımından ise öğretide, işgalcinin tahliye emrindeki on beş günlük sürenin bitiminden sonraki dönemden sorumlu tutulması gerektiği savunulmuştur (Dönmez). Bu belirsizlik karşısında alıcı açısından en güvenli yol, kesinleşme öncesi dönem için m. 134/1 talebini yapmak, kesinleşmeden sonra da tahliye emrini gecikmeden tebliğ ettirmektir. Böylece hem bedelin dosyada birikmesi sağlanır hem de işgalcinin kötüniyetinin başlangıcı belgelenmiş olur.
 
 ## Usul
 
-- Görev: Tahliye emri icra dairesinin işlemidir; buna karşı icra mahkemesine şikâyet yoluna gidilir. İnceleme basit yargılama usulüne tabidir (m. 18). Öğretide, ortaklığın giderilmesi yoluyla satışta şikâyet merciinin satışı yürüten sulh hukuk mahkemesi olduğu belirtilmiştir (Dönmez).
-- Süre: Şikâyet, tahliye emrinin tebliğinden itibaren yedi gün içinde yapılır (m. 16). İhalenin kesinleşmesinden önce çıkarılmış bir emre karşı şikâyette de aynı süre işler.
+- Görev: Tahliye emri icra dairesinin işlemidir; buna karşı icra mahkemesine şikâyet yoluna gidilir. İnceleme basit yargılama usulüne tabidir (m. 18).
+- Süre: Şikâyet, tahliye emrinin tebliğinden itibaren yedi gün içinde yapılır (m. 16).
 - Dava şartı: İcra mahkemesine şikâyette arabuluculuk aranmaz. Resmî belgeye dayanan kiracıya karşı alıcının açacağı tahliye davasında ise kira uyuşmazlığı olarak arabulucuya başvurulması dava şartıdır (6325 sayılı Kanun m. 18/B).
 - İspat: Kiracı, hacizden önceki tarihli resmî belgeyi sunmakla yükümlüdür. Alıcının kiracılığı bildiği ve kabul ettiği iddiası şikâyet yolunda değil, genel mahkemede ileri sürülür.
 - Tedbir: Şikâyet tahliyeyi kendiliğinden durdurmaz. İşgalci vekili, on beş günlük süre dolmadan icra mahkemesinden tahliye işleminin durdurulmasını talep etmelidir.
 - Harç: Şikâyet maktu harca tabidir. Ecrimisil davası ise talep edilen tutar üzerinden nispi harca bağlıdır. Tapu tescil harcı ve satış giderlerinin kime ait olduğu satış şartnamesinde gösterilir; ihaleye girmeden önce şartname bu açıdan okunmalıdır. Tutarlar her yıl yeniden belirlendiği için burada yer verilmemiştir.
-- Kanun yolu: İcra mahkemesi kararlarına karşı istinaf süresi tebliğden itibaren iki haftadır; istinaf, kanunda her yıl güncellenen parasal sınıra bağlıdır (m. 363).
+- Kanun yolu: İcra mahkemesi kararlarına karşı istinaf süresi tebliğden itibaren iki haftadır; kanunda sayılan kesin kararlar ve her yıl güncellenen parasal sınır saklıdır (m. 363).
 
 İhale bedelinin sıra cetveline göre dağıtımına ilişkin uyuşmazlıklar alıcıyı doğrudan ilgilendirmez; bu konuda [sıra cetveline itiraz](/yazilar/sira-cetveline-itiraz/) yazısına bakılabilir. Kıymet takdirine yönelik itirazlar satıştan önceki aşamaya aittir ve ihale kesinleştikten sonra tahliyeyi etkilemez ([kıymet takdirine itiraz](/yazilar/kiymet-takdirine-itiraz/)).
 
@@ -124,13 +124,13 @@ Alıcı vekili açısından:
 - İhale tutanağından hemen sonra m. 134/1 uyarınca kira veya kullanım bedelinin icra dairesine yatırılmasının emredilmesini talep edin; kullanım bedeli için bilirkişi giderini yatırın.
 - Tahliye talebinde ihalenin kesinleştiğini gösteren şerhi veya yazıyı, taşınmazın tapu bilgilerini ve işgalcinin kimliğini açıkça belirtin; işgalci bilinmiyorsa tahliye emrinin "taşınmazda oturanlara" tebliğini isteyin.
 - Talep sonucu şu şekilde kurulabilir: "İhalesi kesinleşen taşınmazın İİK m. 135/2 uyarınca on beş gün içinde tahliyesi için borçluya ve taşınmazı işgal edenlere tahliye emri tebliğine, süresinde tahliye edilmezse zorla tahliye ile müvekkile teslimine, bu amaçla İİK m. 81 uyarınca kolluk yardımı istenmesine karar verilmesi."
-- İhaleden sonra işgalciyle "kira" sözcüğünü içeren yazışmalardan ve kira bedeli talebinden kaçının; bu yazışmalar kiracılığın kabulü olarak yorumlanabilir.
+- İhaleden sonra, m. 134/1 uyarınca icra dairesi aracılığıyla yapılan talep dışında, işgalciyle doğrudan "kira" sözcüğünü içeren yazışmalardan ve kira bedeli istemekten kaçının; bu yazışmalar kiracılığın kabulü olarak yorumlanabilir.
 - Taşınmazı ihale alıcısından satın alan müvekkil adına talepte bulunuyorsanız, ihale alıcısı adına tescil yapıldığını ve tahliyenin henüz gerçekleşmediğini belgeleyin.
 
 İşgalci vekili açısından:
 
 - Yedi günlük şikâyet süresini tebliğ tarihinden hesaplayın; tebligat usulsüzse bunu da ayrıca ileri sürün.
-- Hacizden, rehinli satışlarda ise tartışmalı olduğu için hem haciz hem ipotek tarihinden önceki resmî belgeleri dosyaya sunun: noter onaylı kira sözleşmesi, tapudaki kira şerhi veya kiracılığı belirleyen mahkeme kararı.
+- Hacizden, rehinli satışlarda ise esas alınacak tarih tartışmalı olduğundan ipotek tarihinden önceki resmî belgeleri dosyaya sunun: noter onaylı kira sözleşmesi, tapudaki kira şerhi veya kiracılığı belirleyen mahkeme kararı.
 - Adi sözleşmeyle yetinmek zorundaysanız, alıcının kiracılığı bildiği ve kabul ettiği olguları ayrı bir davada ileri sürmeyi değerlendirin; şikâyet dilekçesinde tahliye işleminin durdurulmasını mutlaka talep edin.
 
 Karşı tarafın muhtemel savunmaları şunlardır: alıcı, sunulan belgenin hacizden sonraki tarihli ya da adi nitelikte olduğunu, ihalenin kesinleştiğini ve işgalcinin borçlunun yakını olarak onunla birlikte oturduğunu ileri sürer. İşgalci ise ihalenin henüz kesinleşmediğini, paydaş veya intifa hakkı sahibi olduğunu ya da alıcının kendisini kiracı olarak kabul ettiğini savunur. Kesinleşme şerhi, tapu kaydı ve tebligat parçaları bu savunmaların hepsinde ilk bakılacak belgelerdir.
