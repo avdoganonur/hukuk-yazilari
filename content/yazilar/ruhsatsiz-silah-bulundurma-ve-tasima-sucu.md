@@ -70,12 +70,12 @@ m. 13/1'e göre bu Kanun hükümlerine aykırı olarak ateşli silahları, bunla
 |---|---|---|
 | m. 13/1 | Temel hâl: satın alma, taşıma, bulundurma | İki yıldan dört yıla kadar hapis ve yüz günden beş yüz güne kadar adli para cezası |
 | m. 13/2 | Silahın m. 12/4'te sayılanlardan olması ya da silah, mermi veya parçaların sayı veya nitelik bakımından vahim olması | Beş yıldan sekiz yıla kadar hapis ve beş yüz günden beş bin güne kadar adli para cezası |
-| m. 13/3 | m. 12/4 dışındaki tek ateşli silah ve mutat sayıdaki mermilerinin ev veya işyerinde bulundurulması | Bir yıldan üç yıla kadar hapis ve yüz günden beş yüz güne kadar adli para cezası |
+| m. 13/3 | m. 12/4 dışındaki tek ateşli silah ile mutat sayıdaki mermilerinin veya ana parçalarının ev veya işyerinde bulundurulması | Bir yıldan üç yıla kadar hapis ve yüz günden beş yüz güne kadar adli para cezası |
 | m. 13/4 | Mermi veya parçaların pek az sayıda bulundurulması veya taşınması ve mahkemece vahim bulunmaması | Altı aya kadar hapis ve otuz günden beş yüz güne kadar adli para cezası |
 
 Hapis ve adli para cezası birlikte öngörülmüştür; biri diğerinin seçeneği değildir. Kanun "vahim", "mutat sayı" ve "pek az sayı" için rakam vermez. Uygulamada sayı eşiklerine ilişkin tablolar dolaşsa da bunlar kanun hükmü değildir. Fıkra tercihi gerekçede silah ve mermi sayısı, silahın türü ve ele geçirildiği yer gösterilerek yapılmalıdır.
 
-7533 öncesinde m. 13/1'in cezası bir yıldan üç yıla kadar hapis ve otuz günden yüz güne kadar adli para cezası idi. m. 13/3 için öngörülen ceza da daha düşüktü. Bu nedenle 30.11.2024'ten önce işlenen fiillerde TCK m. 7/2 uyarınca lehe kanun karşılaştırması zorunludur. Ana parçalar ve dönüştürülen silahlar bakımından ayrıca suçun konusu genişlemiştir. Bu tarihten önce yalnız parça bulundurma fiili kanaatimizce m. 13 kapsamında değildir (TCK m. 7/1).
+7533 öncesinde m. 13/1'in cezası bir yıldan üç yıla kadar hapis ve otuz günden yüz güne kadar adli para cezası idi. m. 13/3 için öngörülen ceza da daha düşüktü. Bu nedenle 30.11.2024'ten önce işlenen fiillerde TCK m. 7/2 uyarınca lehe kanun karşılaştırması zorunludur. Ana parçalar bakımından ayrıca suçun konusu genişlemiş, dönüştürülen silahlar da fıkrada açıkça sayılmıştır. Bu tarihten önce yalnız parça bulundurma fiili kanaatimizce m. 13 kapsamında değildir (TCK m. 7/1).
 
 ## Bulundurma, taşıma ve ruhsat türleri
 
@@ -92,7 +92,7 @@ Suç tipi bakımından bu ayrım şu sonuçları doğurur:
 
 m. 6'ya göre ruhsatlar yenileme harcı alınmak şartıyla beş yıl için geçerlidir. Süresi dolduğu hâlde altı ay içinde yenilenmeyen ruhsat iptal edilir. İptal edilen ruhsatın sahibine, şartları taşıması ve idari para cezasını ödemesi kaydıyla yeniden ruhsat verilebilir. Ruhsatın iptalinden sonra silahın elde tutulması ruhsatsız bulundurma tartışmasını doğurur. Bu nedenle ruhsatın iptal tarihi, iptalin ilgiliye tebliğ edilip edilmediği ve yenileme başvurusu yapılıp yapılmadığı dosyaya getirtilmelidir.
 
-7533 sayılı Kanunla yeniden yazılan m. 13/5, vefat, sağlık durumu, mahkûmiyet, müsadere, satın alma veya devir nedeniyle yapılan ruhsatlandırma ya da ruhsat yenileme işlemlerinde bu Kanundaki yükümlülüklere aykırı davranılarak fiilin işlenmesi hâlinde idari para cezası öngörür. Bulundurma izni verilen silahın mesken veya işyeri değişikliği nedeniyle nakil izni alınmadan nakledilmesi de m. 13/6 uyarınca idari para cezasını gerektirir. Bu cezaları mülki idare amiri verir (m. 13/7). Mirasçının elinde kalan ruhsatlı silah veya yenileme sürecindeki silah gibi durumlarda kanaatimizce bu fıkralar özel hüküm niteliğindedir. Fiilin önce bu fıkralar bakımından değerlendirilmesi istenmelidir.
+7533 sayılı Kanunla yeniden yazılan m. 13/5, vefat, sağlık durumu, mahkûmiyet, müsadere, satın alma veya devir nedeniyle yapılan ruhsatlandırma ya da ruhsat yenileme işlemlerinde bu Kanundaki yükümlülüklere aykırı davranılarak madde kapsamındaki bulundurma ve taşıma fiilinin işlenmesi hâlinde idari para cezası öngörür. Bulundurma izni verilen silahın mesken veya işyeri değişikliği nedeniyle nakil izni alınmadan nakledilmesi de m. 13/6 uyarınca idari para cezasını gerektirir. Bu cezaları mülki idare amiri verir (m. 13/7). Mirasçının elinde kalan ruhsatlı silah veya yenileme sürecindeki silah gibi durumlarda kanaatimizce bu fıkralar özel hüküm niteliğindedir. Fiilin önce bu fıkralar bakımından değerlendirilmesi istenmelidir.
 
 7593 sayılı Kanunla eklenen m. 13/A ise farklı bir tiptir. Ateşli silahın dikkat ve özen yükümlülüğüne aykırı şekilde muhafaza edilmesi suretiyle çocuk tarafından ele geçirilmesine neden olan kişi, fiil daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde bir yıldan üç yıla kadar hapis cezası ile cezalandırılır. Hüküm, silahın ruhsatlı olup olmamasını aramaz. Yürürlük tarihi 18.08.2026 olduğundan bundan önceki fiillere uygulanamaz.
 
@@ -100,7 +100,7 @@ m. 6'ya göre ruhsatlar yenileme harcı alınmak şartıyla beş yıl için geç
 
 m. 12, ateşli silahların, mermilerin veya ana parçaların ülkeye sokulmasını, üretimini, satışını ve bu amaçla bulundurulmasını düzenler; temel hâlin cezası beş yıldan on iki yıla kadar hapis ve adli para cezasıdır. Ayrımın ölçütü amaçtır: kendi kullanımı için edinilen silah m. 13'e, satış veya devir amacıyla tutulan silah m. 12'ye girer. Ses veya gaz fişeği atabilen silahın dönüştürülmesi de m. 12'de üretim olarak ayrıca düzenlenmiştir. Ticaret kastının sayı, ambalaj, yazışma veya ödeme kayıtları gibi somut delillerle gösterilmesi gerekir; yalnız silah sayısından ticaret sonucuna varılması savunmada tartışılmalıdır.
 
-m. 15/1, m. 4'te sayılan bıçak ve diğer aletleri satan, satışına aracılık eden, satın alan, taşıyan veya bulunduranlar için altı aydan bir yıla kadar hapis ve adli para cezası öngörür. Eşya sayı veya nitelik bakımından vahim ise ceza artırılır (m. 15/2). m. 15'e 5728 sayılı Kanunla eklenen fıkra, m. 4/3'te sayılan silah ve bıçakları duruma göre doğrudan saldırı amacıyla taşıyanlar için üç aya kadar hapis veya adli para cezası öngörür. Yani m. 15 kapsamındaki fiiller kabahat değil, suçtur. 6136 kapsamı dışındaki bıçakların satışına ve çocuklara satışına ilişkin olarak ise 7593 sayılı Kanunla 5326 sayılı Kabahatler Kanununa m. 43/C eklenmiştir.
+m. 15/1, m. 4'te sayılan bıçak ve diğer aletleri satan, satışına aracılık eden, satın alan, taşıyan veya bulunduranlar için altı aydan bir yıla kadar hapis ve adli para cezası öngörür. Eşya sayı veya nitelik bakımından vahim ise ceza artırılır (m. 15/2). m. 15'e 5728 sayılı Kanunla eklenen fıkra, m. 4/3'te yazılı yivli ve yivsiz silahlarla bıçak ve diğer aletleri hâl ve şartlara göre sırf saldırıda kullanmak amacıyla taşıyanlar için üç aya kadar hapis veya adli para cezası öngörür. Yani m. 15 kapsamındaki fiiller kabahat değil, suçtur. 6136 kapsamı dışındaki bıçakların satışına ve çocuklara satışına ilişkin olarak ise 7593 sayılı Kanunla 5326 sayılı Kabahatler Kanununa m. 43/C eklenmiştir.
 
 ## Arama, el koyma ve delil incelemesi
 
@@ -119,21 +119,21 @@ Kararsız veya yetkisiz yapılan bir konut aramasında ele geçirilen silah, CMK
 
 ## Usul
 
-Görevli ve yetkili mahkeme: m. 13'ün hiçbir fıkrası on yıldan fazla hapis öngörmediğinden dava asliye ceza mahkemesinde görülür. m. 12 ise üst sınırı on iki yıl olduğundan ağır ceza mahkemesinin görevindedir. Yetki CMK m. 12 uyarınca suç yerine göre belirlenir; bulundurma ve taşımada bu, silahın ele geçirildiği yerdir. Fiili on sekiz yaşından önce işleyenler için dava çocuk mahkemesinde görülür; ayrıntı [suça sürüklenen çocuğun ceza sorumluluğu](/yazilar/suca-suruklenen-cocugun-ceza-sorumlulugu/) yazısındadır.
+Görevli ve yetkili mahkeme: m. 13'ün hiçbir fıkrası on yıldan fazla hapis öngörmediğinden dava asliye ceza mahkemesinde görülür. m. 12 ise üst sınırı on iki yıl olduğundan ağır ceza mahkemesinin görevindedir. Yetki CMK m. 12 uyarınca suç yerine göre belirlenir; kesintisiz suçlarda kesintinin gerçekleştiği yer mahkemesi yetkilidir (m. 12/2). Bulundurma ve taşımada bu, kural olarak silahın ele geçirildiği yerdir. Fiili on sekiz yaşından önce işleyenler için dava çocuk mahkemesinde görülür; ayrıntı [suça sürüklenen çocuğun ceza sorumluluğu](/yazilar/suca-suruklenen-cocugun-ceza-sorumlulugu/) yazısındadır.
 
-Soruşturma şartı ve uzlaştırma: Suç re'sen soruşturulur ve CMK m. 253/1 kapsamında değildir. Savcı, üst sınırı üç yıl veya daha az hapis olan m. 13/3, m. 13/A ve m. 15/1 fiillerinde CMK m. 171/2'deki şartlar varsa kamu davasının açılmasının ertelenmesine karar verebilir. Önödeme kapsamındaki suçlar bu kurumun dışında kalır; üst sınırı altı ay olan m. 13/4 bakımından önce TCK m. 75 değerlendirilmelidir.
+Soruşturma şartı ve uzlaştırma: Suç re'sen soruşturulur ve CMK m. 253/1 kapsamında değildir. Savcı, üst sınırı üç yıl veya daha az hapis olan m. 13/3, m. 13/A ve m. 15/1 fiillerinde CMK m. 171/2'deki şartlar varsa kamu davasının açılmasının ertelenmesine karar verebilir. Önödeme kapsamındaki suçlar bu kurumun dışında kalır; üst sınırı altı ay olan m. 13/4, Adalet Bakanlığı önödeme istatistiklerinde de önödeme kapsamındaki suçlar arasında yer aldığından, bu fıkrada önce TCK m. 75 değerlendirilmelidir.
 
 Tutuklama: CMK m. 100/4, hapis cezasının üst sınırı iki yılı geçmeyen suçlarda tutuklamayı yasaklar. Bu yasak m. 13/4 ve m. 15/1 fiillerinde uygulanır.
 
 Zamanaşımı: m. 13/1, 13/3, 13/4 ve 13/A için dava zamanaşımı sekiz yıl (TCK m. 66/1-e), m. 13/2 için on beş yıldır (TCK m. 66/1-d).
 
-Hüküm seçenekleri: Hükmolunan ceza iki yıl veya daha az hapis ise CMK m. 231'deki diğer şartlarla birlikte HAGB, iki yıl veya daha az hapis ise TCK m. 51 uyarınca erteleme, bir yıl veya daha az hapis ise TCK m. 50 uyarınca seçenek yaptırım tartışılır. HAGB'nin 7589 sayılı Kanunla 31.07.2026'dan itibaren yürürlükte olan şartları için [hükmün açıklanmasının geri bırakılması](/yazilar/hukmun-aciklanmasinin-geri-birakilmasi/), ertelemenin denetim süresi için [hapis cezasının ertelenmesi](/yazilar/hapis-cezasinin-ertelenmesi/) yazısına bakılabilir. Bu suçlarda belirli bir kişinin zararı olmadığından zararın giderilmesi şartı çoğu dosyada konusuz kalır.
+Hüküm seçenekleri: Hükmolunan ceza iki yıl veya daha az hapis ise CMK m. 231'deki diğer şartlarla birlikte HAGB, iki yıl veya daha az hapis ise TCK m. 51 uyarınca erteleme, bir yıl veya daha az hapis ise TCK m. 50 uyarınca seçenek yaptırım tartışılır. HAGB'nin 7589 sayılı Kanunla 31.07.2026'dan itibaren yürürlükte olan şartları için [hükmün açıklanmasının geri bırakılması](/yazilar/hukmun-aciklanmasinin-geri-birakilmasi/), ertelemenin denetim süresi için [hapis cezasının ertelenmesi](/yazilar/hapis-cezasinin-ertelenmesi/) yazısına bakılabilir. Bu suçlarda somut bir zarar doğmadığından, uygulamada zararın giderilmesi şartı çoğu dosyada konusuz kalır.
 
 Müsadere: Bulundurulması, taşınması ve alım satımı suç oluşturan eşya TCK m. 54/4 uyarınca müsadere edilir. HAGB kararı müsadereye engel değildir. Zoralımına karar verilen silahlar m. 10 uyarınca tutanakla Millî Savunma Bakanlığı emrine verilir. Ayrıntı [suç eşyasının müsaderesi](/yazilar/suc-esyasinin-musaderesi/) yazısındadır. Kanunda m. 13 için yürürlükte bir etkin pişmanlık hükmü yoktur. Geçici maddelerdeki teslim imkânları belirli dönemlerle sınırlıydı ve sona ermiştir.
 
 Kanun yolu: Hükme karşı istinaf yoluna gidilir. CMK m. 286/2 uyarınca beş yıl veya daha az hapis cezasına ilişkin istinaf başvurusunu esastan reddeden kararlar temyiz edilemez. Bu nedenle m. 13 dosyalarının çoğu bölge adliye mahkemesinde kesinleşir.
 
-Diğer sonuçlar: Mahkûmiyet adli sicile kaydedilir. Kasıtlı suçtan hapis cezası TCK m. 53'teki hak yoksunluklarını doğurur. m. 7'nin son fıkraları da belirli suçlardan hüküm giyenlere ruhsat verilmesini engeller. Kaydın silinmesi için [adli sicil kaydının silinmesi](/yazilar/adli-sicil-kaydinin-silinmesi/) yazısına bakılabilir.
+Diğer sonuçlar: Mahkûmiyet adli sicile kaydedilir. Kasıtlı suçtan hapis cezası TCK m. 53'teki hak yoksunluklarını doğurur. m. 7 ayrıca belirli suçlardan ve taksirli suçlar dışında bir yıldan fazla hapis cezasına mahkûm olanlara, kanunda öngörülen süre geçmedikçe ruhsat verilmesini engeller. Kaydın silinmesi için [adli sicil kaydının silinmesi](/yazilar/adli-sicil-kaydinin-silinmesi/) yazısına bakılabilir.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
@@ -150,7 +150,7 @@ Sık yapılan hatalar şunlardır:
 
 - Arama kararının dosyaya getirtilmemesi ve aramanın kapsamının tartışılmaması.
 - Ekspertiz raporu alınmadan fıkra tercihi yapılması.
-- Araçta ele geçirilen silah için m. 13/3 talep edilmesi.
+- Araçta ele geçirilen silah için savunmanın yalnız m. 13/3 talebine dayandırılması.
 - Ruhsat iptal tarihinin ve tebliğinin araştırılmaması.
 - Fiil tarihi 7533 öncesine düştüğü hâlde yeni ceza aralıklarının uygulanması.
 - m. 12'ye göre açılan davada ticaret kastının delille gösterilmediğinin ileri sürülmemesi.
