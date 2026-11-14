@@ -45,7 +45,7 @@ sss:
   - soru: "İdare rücu alacağını idari yargıda dava açarak isteyebilir mi?"
     cevap: "Hayır. Rücu, 657 sayılı Kanun m. 13'teki ifadeyle genel hükümlere göre yapılır ve bir alacağın tahsiline yöneliktir. Öğretide aktarıldığına göre Uyuşmazlık Mahkemesi de bu tür davaları Borçlar Kanunu hükümlerine dayandıkları için adli yargıda görülecek davalar olarak nitelendirmiştir. Dava genel görevli asliye hukuk mahkemesinde açılır; hâkimlere rücu gibi özel düzenlemeler saklıdır."
   - soru: "657 sayılı Kanun'da rücu için bir yıllık süre var mı?"
-    cevap: "Yoktur. 657 sayılı Kanun m. 13 rücu için ayrı bir süre öngörmez; Anayasa Mahkemesi de rücu davasında TBK m. 73'teki iki ve on yıllık sürelerin uygulanacağını belirtmiştir. Ödeme tarihinden itibaren bir yıllık rücu süresi, hâkimlere ilişkin HMK m. 46/3 ile koruma tedbirlerine ilişkin CMK m. 141 gibi özel hükümlerde yer alır."
+    cevap: "Yoktur. 657 sayılı Kanun m. 13 rücu için ayrı bir süre öngörmez; Anayasa Mahkemesi de 2330 sayılı Kanun'a ilişkin bir kararında rücu davasında TBK m. 73'teki iki ve on yıllık sürelerin uygulanacağını belirtmiştir. Bir yıllık rücu süresi, hâkimlere ilişkin HMK m. 46/3 ile koruma tedbirlerine ilişkin CMK m. 141 gibi özel hükümlerde yer alır."
   - soru: "Görevli, katılmadığı tam yargı davasındaki kusur tespitini rücu davasında tartışabilir mi?"
     cevap: "Kural olarak tartışabilir; çünkü tam yargı davasının tarafı değildir. Bu nedenle idarenin, tam yargı davasını görevliye ihbar ettirmesi önem taşır. İhbar edilen kişi, sonraki rücu davasında asıl davanın yanlış karara bağlandığını, HMK m. 69/2'deki istisnalar dışında, ileri süremez."
   - soru: "Görevlinin ceza davasında beraat etmesi rücuyu engeller mi?"
@@ -53,7 +53,7 @@ sss:
 ---
 Kamu görevlisinin görevini yaparken üçüncü kişiye verdiği zarar, iki aşamalı bir sorumluluk ilişkisi doğurur. İlk aşamada zarar gören görevliye değil idareye karşı dava açar ve tazminatı idare öder. İkinci aşamada idare, ödediği tutarı kusurlu görevliden geri ister. Bu yazı ikinci aşamayı, yani idarenin rücu davasını ele alır. Zarar görenin idareye karşı açacağı dava için [tam yargı davası](/yazilar/tam-yargi-davasi/) yazısına bakılabilir.
 
-Kısa cevap şudur: rücunun dayanağı Anayasa m. 129/5 ile 657 sayılı Devlet Memurları Kanunu m. 13'tür. Rücu genel hükümlere göre yapılır, dava adli yargıda görülür ve görevlinin sorumluluğu kendi kusuru ve neden olduğu zararla sınırlıdır. Zamanaşımı bakımından Türk Borçlar Kanunu m. 73 uygulanır. 657 sayılı Kanun rücu için ayrı bir süre öngörmez; bir yıllık rücu süreleri yalnızca hâkim ve savcılara ilişkin özel hükümlerde bulunur.
+Kısa cevap şudur: rücunun dayanağı Anayasa m. 129/5 ile 657 sayılı Devlet Memurları Kanunu m. 13'tür. Rücu genel hükümlere göre yapılır, dava adli yargıda görülür ve görevlinin sorumluluğu kendi kusuru ve neden olduğu zararla sınırlıdır. Zamanaşımı bakımından Türk Borçlar Kanunu m. 73 uygulanır. 657 sayılı Kanun rücu için ayrı bir süre öngörmez; bir yıllık rücu süresi ise hâkim ve savcılara ilişkin HMK m. 46/3 ve CMK m. 141 gibi özel hükümlerde yer alır.
 
 ## Anayasal ve yasal dayanak
 
@@ -68,7 +68,7 @@ Anayasa m. 129/5 şöyledir: "Memurlar ve diğer kamu görevlilerinin yetkilerin
 
 Bu hükmü aynı Kanunun 12. maddesiyle karıştırmamak gerekir. Madde 12, memurun kasıt, kusur, ihmal veya tedbirsizliği sonucu idarenin kendi malvarlığında doğan zararı, yani doğrudan zararı düzenler. Rücu ise idarenin üçüncü kişiye ödediği tazminattan doğan dolaylı zarara ilişkindir. Dilekçede dayanılan hükmün doğru seçilmesi, ispat edilecek vakıaları da belirler.
 
-Kanunun "genel hükümlere göre" ifadesi, rücuun Türk Borçlar Kanunu çerçevesinde yürüyeceğini gösterir. Anayasa Mahkemesi, 2330 sayılı Kanun kapsamında ödenen nakdi tazminatın rücuuna ilişkin bir itiraz başvurusunda bu noktayı açıkça vurgulamıştır (AYM, E. 2025/4, K. 2025/101, 22.4.2025, RG 23.6.2025, 32935): "idarenin ödediği tazminatı, tazminat ödenmesine eylemleriyle neden olan kişilere genel hükümlere göre rücu etmesi mümkündür."
+Kanunun "genel hükümlere göre" ifadesi, rücuun Türk Borçlar Kanunu çerçevesinde yürüyeceğini gösterir. Anayasa Mahkemesi, 2330 sayılı Kanun'un nakdi tazminata ilişkin 3. maddesini incelediği bir itiraz başvurusunda rücu bakımından bu noktayı açıkça vurgulamıştır (AYM, E. 2025/4, K. 2025/101, 22.4.2025, RG 23.6.2025, 32935): "idarenin ödediği tazminatı, tazminat ödenmesine eylemleriyle neden olan kişilere genel hükümlere göre rücu etmesi mümkündür."
 
 Yargı kararlarının uygulanmamasında da sistem aynıdır. 2577 sayılı İdari Yargılama Usulü Kanunu m. 28/4, 6526 sayılı Kanunla yapılan değişiklikten sonra, kararı süresinde yerine getirmeyen kamu görevlisi yönünden tazminat davasının ancak ilgili idare aleyhine açılabileceğini öngörür.
 
@@ -98,7 +98,7 @@ Rücuun idare için zorunlu olup olmadığı da tartışılır. Öğretide, Anay
 4. Görevlinin kusuru ile idarenin ödediği tazminata konu zarar arasında uygun illiyet bağı,
 5. Rücu edilen tutarın görevlinin kusur payıyla sınırlandırılması.
 
-Son şart, uygulamada en çok bozma sebebi doğuran noktadır. İdarenin ödediği tutarın tamamını, örgütsel kusur payını ayırmadan görevliden istemesi doğru değildir. Anayasa Mahkemesi yukarıda anılan kararında rücuun sınırını da şöyle belirlemiştir: "kişinin sorumluluğu ve bu kişiye rücu edilecek bedel kişinin neden olduğu zararla sınırlıdır."
+Son şart, uygulamada en sık tartışılan noktalardan biridir. İdarenin ödediği tutarın tamamını, örgütsel kusur payını ayırmadan görevliden istemesi doğru değildir. Anayasa Mahkemesi yukarıda anılan kararında rücuun sınırını da şöyle belirlemiştir: "kişinin sorumluluğu ve bu kişiye rücu edilecek bedel kişinin neden olduğu zararla sınırlıdır."
 
 Kusur payları rücu davasında yeniden belirlenir. Mahkeme, hizmetin işleyişini ve görevlinin mevzuattan doğan yükümlülüklerini değerlendirecek uzman bilirkişiden idare ile görevli arasında ve birden fazla görevli varsa onlar arasında kusur oranlarını tespit etmesini ister. Birden fazla görevlinin bulunduğu dosyalarda her birinin kendi payından sorumlu olup olmadığı ayrıca tartışılmalıdır; birlikte sorumlular arasındaki iç ilişki için [müteselsil borçluluk ve rücu](/yazilar/muteselsil-borcluluk-ve-rucu/) yazısı yol gösterir.
 
@@ -112,17 +112,17 @@ Bununla birlikte Yargıtay uygulamasına göre kesinleşmiş mahkûmiyet kararı
 
 - Görevi kötüye kullanma gibi bir suçtan kesinleşmiş mahkûmiyet, fiilin gerçekleştiğini ve hukuka aykırılığını ispat yükünü büyük ölçüde hafifletir.
 - Beraat kararı, özellikle delil yetersizliğine dayanıyorsa, hukuki kusurun yokluğunu kendiliğinden göstermez.
-- Soruşturma izni verilmemesi ceza sorumluluğuna ilişkin bir karardır; hukuki kusur değerlendirmesini TBK m. 74 karşısında bağlamaz.
+- Soruşturma izni verilmemesi ceza kovuşturmasına ilişkin bir karardır; kanaatimizce TBK m. 74 karşısında hukuki kusur değerlendirmesini de bağlamaz.
 
 ## Özel rejimler: hâkimler, sağlık personeli, sözleşmeli personel ve işçiler
 
-Hâkimler için 6100 sayılı Hukuk Muhakemeleri Kanunu (HMK) m. 46 ayrı bir sistem kurar. Hâkimlerin yargılama faaliyetinden doğan zararlar için dava, kanunda sınırlı olarak sayılan sebeplerle Devlet aleyhine açılır. Bu sebepler arasında kayırma, taraf tutma, kin veya düşmanlık nedeniyle hukuka aykırı karar verilmesi, sağlanan veya vaat edilen menfaat nedeniyle kanuna aykırı karar verilmesi, başka anlam verilemeyecek kadar açık ve kesin bir kanun hükmüne aykırı karar verilmesi ve hakkın yerine getirilmesinden kaçınılması bulunur. Devlet, ödediği tazminat nedeniyle sorumlu hâkime ödeme tarihinden itibaren bir yıl içinde rücu eder (m. 46/3).
+Hâkimler için 6100 sayılı Hukuk Muhakemeleri Kanunu (HMK) m. 46 ayrı bir sistem kurar. Hâkimlerin yargılama faaliyetinden doğan zararlar için dava, kanunda sınırlı olarak sayılan sebeplerle Devlet aleyhine açılır. Bu sebepler arasında kayırma, taraf tutma, kin veya düşmanlık nedeniyle hukuka aykırı karar verilmesi, sağlanan veya vaat edilen menfaat nedeniyle kanuna aykırı karar verilmesi, farklı bir anlam yüklenemeyecek kadar açık ve kesin bir kanun hükmüne aykırı karar verilmesi ve hakkın yerine getirilmesinden kaçınılması bulunur. Devlet, ödediği tazminat nedeniyle sorumlu hâkime ödeme tarihinden itibaren bir yıl içinde rücu eder (m. 46/3).
 
 Koruma tedbirlerinden doğan tazminatta da benzer bir kural vardır. Ceza Muhakemesi Kanunu m. 141'e göre bu tazminat Devlet aleyhine istenir; Devlet, ödediği tazminat nedeniyle görevinin gereklerine aykırı hareket ederek görevini kötüye kullanan hâkim ve Cumhuriyet savcılarına bir yıl içinde rücu eder. Ayrıntı için [haksız tutuklama tazminatı](/yazilar/haksiz-tutuklama-tazminati/) yazısına bakılabilir.
 
 Kamuda görev yapan sağlık meslek mensupları için 7406 sayılı Kanunla Sağlık Hizmetleri Temel Kanunu'na eklenen ek m. 18 özel bir usul öngörür. Kamu kurum ve kuruluşları ile devlet üniversitelerinde görev yapan hekim, diş hekimi ve diğer sağlık meslek mensuplarının tıbbi işlemleri nedeniyle idarece ödenen tazminatın rücuu konusunda, ilgilinin görevinin gereklerine aykırı hareket ederek görevini kötüye kullanıp kullanmadığı ve kusur durumu gözetilerek Mesleki Sorumluluk Kurulu tarafından bir yıl içinde karar verilir. Öğretide, uygulama yönetmeliğinin bu rücuu görevi kötüye kullanma suçundan kesinleşmiş mahkûmiyete bağladığı, bu nedenle taksire dayanan tıbbi hataların büyük bölümünün rücu dışında kalabileceği belirtilmektedir. Zarar görenin hastaneye karşı izleyeceği yol için [hekim hatası (malpraktis)](/yazilar/hekim-hatasi-malpraktis-tazminat/) yazısına bakılabilir.
 
-Öğretmen, mühendis, kurum avukatı ya da zabıta gibi diğer görevlilerde, kendi meslek kanunlarında özel bir rücu hükmü yoksa genel rejim uygulanır. Anayasa m. 129/5 "memurlar ve diğer kamu görevlileri" ifadesini kullandığından, 657 sayılı Kanun m. 4/B'ye göre çalışan sözleşmeli personel de bu kapsamda değerlendirilir.
+Öğretmen, mühendis, kurum avukatı ya da zabıta gibi diğer görevlilerde, kendi meslek kanunlarında özel bir rücu hükmü yoksa genel rejim uygulanır. Anayasa m. 129/5 "memurlar ve diğer kamu görevlileri" ifadesini kullandığından, kanaatimizce 657 sayılı Kanun m. 4/B'ye göre çalışan sözleşmeli personel de bu kapsamda değerlendirilmelidir.
 
 Kamu işçileri bakımından durum daha karmaşıktır. Zarar, kamu hizmetinin yürütülmesi sırasında idarenin eylemi olarak doğmuşsa idarenin sorumluluğu gündeme gelir; işçiye rücu ise genel hükümlere ve iş ilişkisine göre yürür. Rücu talebinin iş mahkemesinde mi genel mahkemede mi görüleceği ve arabuluculuğun dava şartı olup olmadığı, talebin iş sözleşmesine dayanıp dayanmadığına göre ayrıca değerlendirilmelidir.
 
@@ -133,7 +133,7 @@ Görevli yargı yeri adli yargıdır. Rücu, bir kamu hukuku işleminin denetimi
 Usulün diğer unsurları şunlardır:
 
 - Yetki: genel yetki kuralı uyarınca davalı görevlinin yerleşim yeri mahkemesi yetkilidir (HMK m. 6). Somut olayda başka bir yetki kuralı bulunup bulunmadığı ayrıca değerlendirilir.
-- Dava şartı: 657 sayılı Kanun rücu davası için ayrı bir idari başvuru ya da ön inceleme şartı öngörmez. Talep, kanunda sayılan zorunlu arabuluculuk alanlarına girmez; kamu işçilerine ilişkin istisna yukarıda belirtilmiştir. Sağlık personelinde ise ek m. 18'deki Kurul süreci gözetilmelidir.
+- Dava şartı: 657 sayılı Kanun rücu davası için ayrı bir idari başvuru ya da ön inceleme şartı öngörmez. Talep, kural olarak kanunda sayılan zorunlu arabuluculuk alanlarından birine girmez; kamu işçilerine ilişkin istisna yukarıda belirtilmiştir. Sağlık personelinde ise ek m. 18'deki Kurul süreci gözetilmelidir.
 - Zamanaşımı: TBK m. 73'e göre rücu istemi, tazminatın tamamının ödendiği ve birlikte sorumlu olan diğer kişinin öğrenildiği tarihten başlayarak iki yılın ve her hâlde tazminatın tamamının ödendiği tarihten başlayarak on yılın geçmesiyle zamanaşımına uğrar. Anayasa Mahkemesi, yukarıda anılan kararında rücu davasında bu sürelerin uygulanacağını belirtmiştir. Taksitli ödemede sürenin başlangıcı için "tamamının ödendiği" tarih esas alınır. Zamanaşımını hâkim kendiliğinden dikkate almaz; ayrıntı için [haksız fiil tazminatında zamanaşımı](/yazilar/haksiz-fiil-tazminatinda-zamanasimi/) yazısına bakılabilir.
 - Harç: rücu davası bir para alacağına ilişkin olduğundan nispi harca tabidir. Davacı idarenin harçtan muaf olup olmadığı Harçlar Kanunu hükümlerine göre ayrıca belirlenir.
 - İspat: ödemenin yapıldığını, görevlinin fiilini, kişisel kusurunu, illiyet bağını ve kusur oranını davacı idare ispat eder. Ödeme belgeleri, tam yargı dosyası, varsa ceza dosyası ve idari inceleme raporları temel delillerdir.
@@ -158,7 +158,7 @@ Sık yapılan hatalar şunlardır:
 
 - 657 sayılı Kanun m. 12 ile m. 13'ü karıştırmak ve dolaylı zararı doğrudan zarar gibi talep etmek,
 - Ödenen tutarın tamamını, hizmet kusuru payını ayırmadan istemek,
-- Davayı idari yargıda açmak ya da hâkime rücuda genel mahkemeye gitmek,
+- Davayı idari yargıda açmak,
 - Zamanaşımını son ödeme tarihinden değil ilk karar tarihinden hesaplayıp süreyi yanlış değerlendirmek ya da tersine süre geçtikten sonra dava açmak,
 - Tam yargı davasında ihbarın yapılıp yapılmadığını takip etmemek,
 - Sağlık personelinde ek m. 18'deki Kurul sürecini atlamak.
