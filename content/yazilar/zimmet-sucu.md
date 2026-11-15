@@ -30,7 +30,7 @@ dayanak:
     not: "Zimmet suçunda 4483 sayılı Kanun'un uygulanmaması"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3628&MevzuatTur=1&MevzuatTertip=5"
   - ad: "3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu m. 18"
-    not: "İhbar, kurumun katılması ve müfettişin bildirim yükümlülüğü"
+    not: "Müfettiş ve muhakkiklerin ihbar yükümlülüğü; Hazine avukatının başvurusuyla Bakanlığın müdahil sıfatı"
   - ad: "5271 sayılı Ceza Muhakemesi Kanunu m. 100"
     not: "Tutuklama nedenleri ve katalog suçlar"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5"
@@ -49,7 +49,7 @@ dayanak:
     not: "Zimmet miktarının Hazinece ödenmesi ve rücu"
 sss:
   - soru: "Zimmet suçunda soruşturma izni gerekir mi?"
-    cevap: "Hayır. 3628 sayılı Kanun m. 17/1, zimmet suçundan sanık olanlar hakkında 4483 sayılı Kanun'un uygulanmayacağını öngörür; soruşturma Cumhuriyet başsavcılığınca genel hükümlere göre yürütülür. Valiler ve kaymakamlar ile kendi kanunlarında özel soruşturma usulüne tabi görevliler bu kuralın dışındadır."
+    cevap: "Hayır. 3628 sayılı Kanun m. 17/1, zimmet suçundan sanık olanlar hakkında 4483 sayılı Kanun'un uygulanmayacağını öngörür; soruşturma Cumhuriyet başsavcılığınca genel hükümlere göre yürütülür. Kanun bu kuralı müsteşarlar, valiler ve kaymakamlar bakımından uygulamaz; görevleri veya sıfatları nedeniyle özel soruşturma ve kovuşturma usulüne tabi olanlara ilişkin hükümler de saklıdır."
   - soru: "Zimmet suçunda uzlaştırma ya da HAGB mümkün mü?"
     cevap: "Suç şikâyete bağlı değildir ve CMK m. 253'teki listede yer almadığından uzlaştırma yapılmaz. HAGB ise sonuç cezanın iki yıl veya daha az olmasına bağlıdır; etkin pişmanlık ve takdiri indirimle bu sınıra inilebilir, ancak zararın tamamen giderilmiş olması da ayrıca aranır."
   - soru: "Zimmet suçu tutuklama katalogunda yer alıyor mu?"
@@ -86,7 +86,7 @@ Görevle bağlantısı bulunmayan bir mal kurum içinde alınmışsa olay zimmet
 
 ## Hareket, hileli zimmet ve kullanma zimmeti
 
-Seçimlik hareket, malı kendisinin veya başkasının zimmetine geçirmektir. Fail mal üzerinde zilyet gibi değil, malik gibi tasarruf eder: parayı kendi hesabına aktarır, harcar, eşyayı satar ya da başkasının kullanımına bırakır. Suçun tamamlanması için zararın gerçekleşmesi ayrıca aranmaz. Öğretide, zararın bulunmamasının unsuru ortadan kaldırmadığı, ancak temel cezanın belirlenmesinde dikkate alınabileceği belirtilmektedir.
+Seçimlik hareket, malı kendisinin veya başkasının zimmetine geçirmektir. Fail mal üzerinde zilyet gibi değil, malik gibi tasarruf eder: parayı kendi hesabına aktarır, harcar, eşyayı satar ya da başkasının kullanımına bırakır. Kanun zararın gerçekleşmesini suçun ayrı bir unsuru olarak saymaz. Öğretide ağırlıklı görüş, zararın bulunmamasının unsuru ortadan kaldırmadığı, ancak temel cezanın belirlenmesinde dikkate alınabileceği belirtilmektedir.
 
 Hileli (nitelikli) zimmette artırım nedeni, hilenin zimmeti gerçekleştirmeye değil, açığa çıkmamasını sağlamaya yönelik olmasıdır. Sahte tahsilat makbuzu, kayıtların değiştirilmesi, sayım tutanağının gerçeğe aykırı düzenlenmesi tipik örneklerdir. Hilenin denetimi yanıltmaya elverişli olması gerekir. Kolayca fark edilebilecek bir kayıt oynaması bu niteliği taşımayabilir; bu nedenle uygulamada hilenin elverişliliği bilirkişi incelemesine konu edilebilmektedir.
 
@@ -106,7 +106,7 @@ TCK m. 248 etkin pişmanlık indirimini, iade ya da tazminin yapıldığı aşam
 
 İndirim oranları kanunda belirlenmiştir; mahkemenin takdiri yoktur. Bu yüzden zamanlama belirleyicidir. Soruşturma, kanuna göre yetkili mercilerce suç şüphesinin öğrenilmesinden iddianamenin kabulüne kadar geçen evredir; kovuşturma iddianamenin kabulüyle başlar. Müfettiş incelemesi idari bir süreç olduğundan, olayın adli mercilere intikal ettiği tarih ile iade ya da tazmin tarihi dosyada ayrı ayrı tespit edilmelidir.
 
-İade ya da tazminin tam olması gerekir. Kısmi ödeme kanundaki şartı karşılamaz; ancak takdiri indirim ve m. 249 değerlendirmesinde dikkate alınabilir. Etkin pişmanlık şahsi bir cezasızlık ya da indirim sebebi olduğundan iştirak hâlinde yalnızca iadeyi yapan ya da zararı gideren şerik yararlanır.
+İade ya da tazminin tam olması gerekir. Kısmi ödeme kanundaki şartı karşılamaz; ancak takdiri indirimde (TCK m. 62) dikkate alınabilir. Etkin pişmanlık öğretide şahsi bir indirim sebebi olarak değerlendirildiğinden, kanaatimizce iştirak hâlinde bundan kural olarak iadeyi yapan ya da zararı gideren şerik yararlanır.
 
 TCK m. 249'a göre suçun konusunu oluşturan malın değerinin azlığı nedeniyle verilecek ceza üçte birden yarıya kadar indirilir. Kanun bir tutar sınırı koymamıştır; değerin azlığı somut olayın koşullarına göre mahkemece belirlenir.
 
@@ -114,15 +114,15 @@ TCK m. 249'a göre suçun konusunu oluşturan malın değerinin azlığı nedeni
 
 ## Güveni kötüye kullanma ve görevi kötüye kullanmayla ayrım
 
-Zimmet, yapısı itibarıyla güveni kötüye kullanmanın kamu görevine özgü ağırlaştırılmış bir biçimidir. Ayrımın ölçütü failin sıfatı ve zilyetliğin kaynağıdır. Fail kamu görevlisi değilse ya da mal kendisine görevi nedeniyle değil kişisel güvene dayanarak teslim edilmişse TCK m. 155 uygulanır. Hizmet ilişkisi gereği teslim edilen mallar bakımından m. 155/2'deki nitelikli hâl ayrıca değerlendirilir; ayrıntı için [güveni kötüye kullanma](/yazilar/guveni-kotuye-kullanma-sucu/) yazısına bakılabilir. Banka mensuplarının banka mallarını zimmete geçirmesi ise Bankacılık Kanunu'ndaki özel zimmet hükmüne tabidir.
+Zimmet, yapısı itibarıyla güveni kötüye kullanmaya yakın, kamu görevine özgü bir suçtur. Ayrımın ölçütü failin sıfatı ve zilyetliğin kaynağıdır. Fail kamu görevlisi değilse ya da mal kendisine görevi nedeniyle değil kişisel güvene dayanarak teslim edilmişse TCK m. 155 uygulanır. Hizmet ilişkisi gereği teslim edilen mallar bakımından m. 155/2'deki nitelikli hâl ayrıca değerlendirilir; ayrıntı için [güveni kötüye kullanma](/yazilar/guveni-kotuye-kullanma-sucu/) yazısına bakılabilir. Banka mensuplarının banka mallarını zimmete geçirmesi ise Bankacılık Kanunu'ndaki özel zimmet hükmüne tabidir.
 
-Görevi kötüye kullanma (TCK m. 257) "kanunda ayrıca suç olarak tanımlanan hâller dışında" uygulanan tamamlayıcı bir hükümdür. Kamu görevlisinin fiili zimmetin unsurlarını taşıyorsa m. 257'ye başvurulmaz. Tersine, mal üzerinde malik gibi tasarruf bulunmayan, örneğin kurum imkânlarının mevzuata aykırı biçimde kullandırıldığı hâllerde zimmet değil, görevi kötüye kullanma gündeme gelebilir. Nitelendirmenin usule etkisi büyüktür: görevi kötüye kullanmada 4483 sayılı Kanun'a göre soruşturma izni aranırken zimmette aranmaz. Ayrıntı için [görevi kötüye kullanma suçu](/yazilar/gorevi-kotuye-kullanma-sucu/) yazısına bakılabilir.
+Görevi kötüye kullanma (TCK m. 257) "kanunda ayrıca suç olarak tanımlanan hâller dışında" uygulanan tamamlayıcı bir hükümdür. Kamu görevlisinin fiili zimmetin unsurlarını taşıyorsa m. 257'ye başvurulmaz. Tersine, mal üzerinde malik gibi tasarruf bulunmayan, örneğin kurum imkânlarının mevzuata aykırı biçimde kullandırıldığı hâllerde zimmet değil, görevi kötüye kullanma gündeme gelebilir. Nitelendirmenin usule etkisi büyüktür: görevi kötüye kullanmada kural olarak 4483 sayılı Kanun'a göre soruşturma izni aranırken zimmette aranmaz. Ayrıntı için [görevi kötüye kullanma suçu](/yazilar/gorevi-kotuye-kullanma-sucu/) yazısına bakılabilir.
 
 ## Usul
 
-Soruşturma bakımından 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu m. 17/1 belirleyicidir. Hükme göre zimmet suçundan sanık olanlar hakkında 4483 sayılı Kanun uygulanmaz. Soruşturmayı Cumhuriyet başsavcılığı genel hükümlere göre doğrudan yürütür. Aynı maddenin ikinci fıkrası bu kuralı valiler ve kaymakamlar bakımından uygulamaz; üçüncü fıkrası görevi veya sıfatı nedeniyle özel soruşturma usulüne tabi olanlara ilişkin hükümleri saklı tutar. İzin sistemi için [memurların yargılanması izni](/yazilar/memurlarin-yargilanmasi-izni/) yazısına bakılabilir.
+Soruşturma bakımından 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu m. 17/1 belirleyicidir. Hükme göre zimmet suçundan sanık olanlar hakkında 4483 sayılı Kanun uygulanmaz. Soruşturmayı Cumhuriyet başsavcılığı genel hükümlere göre doğrudan yürütür. Aynı madde bu kuralı müsteşarlar, valiler ve kaymakamlar bakımından uygulamaz; görevleri veya sıfatları nedeniyle özel soruşturma ve kovuşturma usulüne tabi olanlara ilişkin hükümleri de saklı tutar. İzin sistemi için [memurların yargılanması izni](/yazilar/memurlarin-yargilanmasi-izni/) yazısına bakılabilir.
 
-3628 sayılı Kanun m. 18 ihbarın doğrudan Cumhuriyet başsavcılığına yapılacağını düzenler. Aynı madde, müfettiş ve muhakkiklere inceleme sırasında suç delili ya da emaresi bulduklarında bunu yetkili başsavcılığa bildirme ve evrakı devretme yükümlülüğü getirir. Zarar gören kamu kurumu yazılı başvuruda bulunursa başvuru tarihinde katılan sıfatını kazanır.
+3628 sayılı Kanun m. 18, müfettiş ve muhakkiklere inceleme sırasında bu suçlara ilişkin delil ya da emare elde ettiklerinde işi yetkili ve görevli Cumhuriyet başsavcılığına ihbar etme ve evrakı tevdi etme yükümlülüğü getirir. Aynı maddeye 5020 sayılı Kanunla eklenen fıkraya göre ihbar, takipsizlik kararı ve iddianame başsavcılıkça Bakanlığın ilgili birimlerine ve varsa diğer ilgili kamu kurumlarına bildirilir; Hazine avukatının yazılı başvurusu hâlinde Bakanlık başvuru tarihinde müdahil (katılan) sıfatını kazanır.
 
 Usulün diğer başlıkları şunlardır:
 
@@ -131,7 +131,7 @@ Usulün diğer başlıkları şunlardır:
 - Tutuklama: TCK m. 247, CMK m. 100/3'teki katalogda yer almaz; katalogdaki zimmet atfı banka zimmetine ilişkindir. Tutuklama için kaçma ya da delil karartma şüphesinin somut olgularla gösterilmesi gerekir. Ayrıntı için [tutuklama ve adli kontrol](/yazilar/tutuklama-ve-adli-kontrol/) yazısına bakılabilir.
 - Görevden uzaklaştırma: ceza soruşturması süresince idare tedbir olarak görevden uzaklaştırmaya başvurabilir; bu süreç için [kamu görevlisinin görevden uzaklaştırılması](/yazilar/kamu-gorevlisinin-gorevden-uzaklastirilmasi/) yazısına bakılabilir.
 - Uzlaştırma: suç şikâyete bağlı değildir ve CMK m. 253'te sayılmadığından uzlaştırma yapılmaz.
-- HAGB: 7589 sayılı Kanunla değişik CMK m. 231 uyarınca sonuç cezanın iki yıl veya daha az olması ve mağdurun ya da kamunun zararının aynen iade, suçtan önceki hâle getirme ya da tazmin yoluyla tamamen giderilmesi gerekir; ayrıntı için [hükmün açıklanmasının geri bırakılması](/yazilar/hukmun-aciklanmasinin-geri-birakilmasi/) yazısına bakılabilir.
+- HAGB: 7589 sayılı Kanunla değişik CMK m. 231 uyarınca diğer şartların yanında sonuç cezanın iki yıl veya daha az olması ve mağdurun ya da kamunun zararının aynen iade, suçtan önceki hâle getirme ya da tazmin yoluyla tamamen giderilmesi gerekir; ayrıntı için [hükmün açıklanmasının geri bırakılması](/yazilar/hukmun-aciklanmasinin-geri-birakilmasi/) yazısına bakılabilir.
 - Zamanaşımı: üst sınırı beş yıldan fazla ve yirmi yıldan az hapis gerektirdiğinden dava zamanaşımı TCK m. 66/1-d uyarınca on beş yıldır. Kesilme hâlinde süre en fazla yarısı kadar uzar ve yirmi iki buçuk yılı geçemez (TCK m. 67/4). Zincirleme suçta süre son eylemden itibaren işler; hesap için [ceza davasında zamanaşımı](/yazilar/ceza-davasi-zamanasimi/) yazısına bakılabilir.
 - Kanun yolu: ilk derece hükmüne karşı istinaf süresi iki haftadır. Bölge adliye mahkemesi kararlarının temyiz edilebilirliği CMK m. 286'ya göre belirlenir.
 
@@ -143,7 +143,7 @@ Zimmetten verilen mahkûmiyetin en ağır sonuçlarından biri memuriyete ilişk
 
 HAGB kararının bu bakımdan durumu farklıdır. Öğretide, HAGB kararının m. 48 anlamında mahkûmiyet sayılmayacağı, ancak aynı fiil nedeniyle disiplin yoluyla memurluktan çıkarmanın yine mümkün olduğu belirtilmektedir. Bu nedenle ceza dosyasında HAGB'nin sağladığı koruma, disiplin dosyasının ayrıca takip edilmesi gereğini ortadan kaldırmaz.
 
-TCK m. 53 uyarınca kasıtlı suçtan hapis cezasına mahkûmiyet, kamu görevini üstlenme dâhil belli hakların kullanılmasından yoksunluk sonucunu doğurur. Görevin sağladığı yetkinin kötüye kullanılmasıyla işlenen suçlarda m. 53/5'e göre, hükmolunan cezanın yarısından bir katına kadar sürede bu hak ve yetkinin kullanılması ayrıca yasaklanır.
+TCK m. 53 uyarınca kasıtlı suçtan hapis cezasına mahkûmiyet, kamu görevini üstlenme dâhil belli hakların kullanılmasından yoksunluk sonucunu doğurur. m. 53/5'e göre birinci fıkrada sayılan ve kamu görevini üstlenmeyi de kapsayan hak ve yetkilerden birinin kötüye kullanılması suretiyle işlenen suçtan mahkûmiyette, hükmolunan cezanın yarısından bir katına kadar bu hak ve yetkinin kullanılmasının ayrıca yasaklanmasına karar verilir.
 
 Hukuki sorumluluk yönünden 657 sayılı Kanun m. 13, devlet dairelerine teslim edilen ya da bu dairelerce tahsil veya muhafaza edilen para ve değerli kâğıtların zimmete geçirilmesi hâlinde zimmet miktarının ceza takibatının sonucu beklenmeden Hazine tarafından hak sahibine ödenmesini ve sorumlu personele rücu edilmesini öngörür. Rücu davası için [idarenin kamu görevlisine rücu davası](/yazilar/idarenin-kamu-gorevlisine-rucu-davasi/) yazısına bakılabilir.
 
@@ -169,6 +169,6 @@ Sık yapılan hatalar şunlardır:
 - Zimmet iddiasında 4483 sayılı Kanun'a göre izin bulunmadığını savunma olarak ileri sürmek,
 - Disiplin dosyasını ceza dosyasının sonucuna bağlı sanarak takipsiz bırakmak.
 
-Kurum vekili ya da katılan bakımından talep sonucunda, sanığın TCK m. 247'ye göre cezalandırılması, hileli davranış varsa m. 247/2'nin uygulanması ve zimmet miktarının bilirkişi incelemesiyle tespiti istenmelidir. Kurumun 3628 sayılı Kanun m. 18'e göre yazılı başvuruyla katılan sıfatını kazandığı dosyaya açıkça yansıtılmalıdır.
+Kurum vekili ya da katılan bakımından talep sonucunda, sanığın TCK m. 247'ye göre cezalandırılması, hileli davranış varsa m. 247/2'nin uygulanması ve zimmet miktarının bilirkişi incelemesiyle tespiti istenmelidir. Katılma talebi ve dayanağı dosyaya açıkça yansıtılmalıdır.
 
 Savunmanın muhtemel argümanları önceden öngörülmelidir: açığın kayıt hatasından doğduğu, malın faile görev nedeniyle teslim edilmediği, paranın kurum işleri için kullanıldığı ya da geçici kullanım kastıyla alınıp iade edildiği. Bunlara karşı dosyaya teslim ve zimmet tutanakları, kasa ve banka hareketleri, görev tanımı ile yetki belgeleri tarih sırasıyla konulmalıdır.
