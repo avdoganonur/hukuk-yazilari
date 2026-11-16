@@ -28,3 +28,5 @@ Son planlanan pin: 15.11.2026 11:00 (garanti-sozlesmesi-ve-teminat-mektubu). Met
 - sozlesme-gorusmelerinde-kusur-sorumlulugu (14.11)
 - zimmet-sucu (15.11)
 - ucretsiz-izin-uygulamasi-ve-iscinin-haklari (15.11)
+- markanin-hukumsuzlugu-ve-iptali (16.11)
+- vergi-incelemesinde-izaha-davet (16.11)
