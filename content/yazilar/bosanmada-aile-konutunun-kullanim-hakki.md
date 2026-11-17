@@ -46,23 +46,27 @@ dayanak:
     not: "Tedbirin süresi, kişisel eşyanın kolluk aracılığıyla teslimi"
   - ad: "6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun m. 9"
     not: "İtiraz süresi, mercii ve kesinlik"
+  - ad: "6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun m. 20"
+    not: "Harç ve masraf alınmaması"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 389"
     not: "İhtiyati tedbir şartları"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
   - ad: "6100 sayılı Hukuk Muhakemeleri Kanunu m. 394"
     not: "İhtiyati tedbire itiraz"
+  - ad: "4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanun m. 2"
+    not: "Aile mahkemesi kurulmayan yerlerde görevli asliye hukuk mahkemesi"
+    baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4787&MevzuatTur=1&MevzuatTertip=5"
   - ad: "4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanun m. 4"
     not: "Aile mahkemesinin görevi"
-    baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4787&MevzuatTur=1&MevzuatTertip=5"
 sss:
   - soru: "Edinilmiş mallara katılma rejimindeki eşler bakımından TMK m. 254 uygulanabilir mi?"
-    cevap: "Hüküm paylaşmalı mal ayrılığı rejiminin içinde yer alır. Öğretide kıyasen katılma rejimine de uygulanması önerilmekle birlikte, akademik çalışmalarda aktarıldığına göre Yargıtay kararlarının önemli bir kısmı bu kıyası, özellikle kira sözleşmesine ilişkin dördüncü fıkra yönünden reddetmektedir. Talep, ancak bu tartışma açıkça gösterilerek ve terditli kurulmalıdır."
+    cevap: "Hüküm paylaşmalı mal ayrılığı rejiminin içinde yer alır. Öğretide kıyasen katılma rejimine de uygulanması önerilmekle birlikte, akademik çalışmalarda aktarıldığına göre Yargıtay kararlarında bu kıyas, özellikle kira sözleşmesine ilişkin dördüncü fıkra yönünden kabul görmemiştir. Talep, ancak bu tartışma açıkça gösterilerek ve terditli kurulmalıdır."
   - soru: "Boşanma davası sürerken malik eş, konutta kalan diğer eşten ecrimisil isteyebilir mi?"
     cevap: "Dava süresince konut aile konutu niteliğini korur ve eşlerin barınması TMK m. 169 kapsamındadır. Konut hâkim kararıyla bir eşe bırakılmışsa bu kullanım kanaatimizce haksız işgal sayılamaz. Uyuşmazlık kullanım bedeline ilişkinse doğru yer, geçici önlemlerin ve tedbir nafakasının düzenlenmesidir."
   - soru: "6284 sayılı Kanun'a göre konut tahsisi mülkiyeti ya da kira sözleşmesini değiştirir mi?"
     cevap: "Hayır. Tahsis, tedbir süresiyle sınırlı bir kullanım düzenlemesidir; tedbir ilk defasında en çok altı ay için verilebilir. Mülkiyet, kira sözleşmesinin tarafları ve mal rejimi tasfiyesi bu karardan etkilenmez."
   - soru: "TMK m. 169 kapsamında verilen konut kararına HMK m. 394'e göre itiraz edilebilir mi?"
-    cevap: "TMK m. 169 önlemleri öğretide HMK'daki ihtiyati tedbirden ayrı, özel hükümle düzenlenmiş geçici hukuki koruma olarak nitelendirilir. Bu nedenle HMK m. 394 itirazının uygulanması tartışmalıdır. Kanaatimizce güvenli yol, koşulların değiştiğini ya da önlemin yanlış kurulduğunu gösteren gerekçeli bir değiştirme talebiyle aynı mahkemeye başvurmak ve itirazı hükme karşı kanun yolunda da sürdürmektir."
+    cevap: "TMK m. 169 önlemleri öğretide HMK'daki ihtiyati tedbirden ayrı, özel hükümle düzenlenmiş geçici hukuki koruma olarak nitelendirilir. Bu nedenle HMK m. 394 itirazının bu önlemlere uygulanması kanaatimizce tartışmaya açıktır. Kanaatimizce güvenli yol, koşulların değiştiğini ya da önlemin yanlış kurulduğunu gösteren gerekçeli bir değiştirme talebiyle aynı mahkemeye başvurmak ve itirazı hükme karşı kanun yolunda da sürdürmektir."
 ---
 Aile konutunun kullanımı, boşanma uyuşmazlığının en erken başlayan ve çoğu zaman en geç biten kısmıdır. Eşlerden birinin evden çıkması, dava açılmadan önce, dava süresince ve hüküm kesinleştikten sonra farklı hükümlere bağlanır. Her dönemin dayanağı, hâkimin yetkisi ve kararın niteliği ayrıdır. Uygulamadaki hataların önemli bir kısmı da bu dönemlerin birbirine karıştırılmasından doğar.
 
@@ -112,7 +116,7 @@ Aile konutu olarak kiralanan taşınmazda kiracı eş, eşinin açık rızası o
 
 Dava süresince hâkim, TMK m. 169 uyarınca kiralık konutun kiracı olmayan eşe bırakılmasına da karar verebilir. Bu karar kiraya verenle kurulmuş sözleşmeyi değiştirmez; kira borcunun muhatabı sözleşmenin tarafı olan eş, bildirimle katılma varsa her iki eştir. Konutta kalan eşin kira yükünü kimin taşıyacağı kanaatimizce tedbir nafakasının hesabında açıkça ele alınmalıdır. Aksi hâlde konuttan çıkarılan kiracı eş hem kirayı hem nafakayı ödemek zorunda kalır.
 
-Boşanma kesinleştiğinde konut aile konutu niteliğini kaybeder ve TMK m. 194 ile TBK m. 349'daki koruma da sona erer. Türk hukukunda katılma rejimi bakımından hâkimin kira sözleşmesini boşanma kararıyla diğer eşe devretmesine imkân veren açık bir hüküm yoktur. İsviçre hukukunda bulunan bu tür bir yetki Türk hukukuna alınmamıştır. Paylaşmalı mal ayrılığına ilişkin TMK m. 254/4, konut kirada ise hâkimin kiracı olmayan eşin konutta kalmasına karar verebileceğini ve kiraya verenin haklarını güvenceye alacak düzenlemeyi yapacağını öngörür. Akademik çalışmalarda aktarıldığına göre Yargıtay kararlarının önemli bir kısmı bu fıkranın katılma rejimine kıyasen uygulanmasını reddetmektedir.
+Öğretide belirtildiği üzere boşanma kesinleştiğinde konut aile konutu niteliğini kaybeder; bu andan itibaren TMK m. 194 ile TBK m. 349'daki koruma da uygulanmaz. Türk hukukunda katılma rejimi bakımından hâkimin kira sözleşmesini boşanma kararıyla diğer eşe devretmesine imkân veren açık bir hüküm yoktur. İsviçre hukukunda bulunan bu tür bir yetki Türk hukukuna alınmamıştır. Paylaşmalı mal ayrılığına ilişkin TMK m. 254/4, konut kirada ise hâkimin kiracı olmayan eşin konutta kalmasına karar verebileceğini ve kiraya verenin haklarını güvenceye alacak düzenlemeyi yapacağını öngörür. Akademik çalışmalarda aktarıldığına göre Yargıtay kararlarında bu fıkranın katılma rejimine kıyasen uygulanması kabul görmemiştir.
 
 Uygulamada güvenli yol, sözleşmenin devrini kiraya verenle birlikte çözmektir. Kiracı, kiraya verenin yazılı rızasını almadıkça kira ilişkisini başkasına devredemez (TBK m. 323). Anlaşmalı boşanmada protokole konan devir hükmü de kiraya verenin yazılı rızası alınmadıkça onu bağlamaz.
 
@@ -124,7 +128,7 @@ Boşanmaya özgü hüküm TMK m. 254'tür ve paylaşmalı mal ayrılığı rejim
 
 - Evlilik iptal veya boşanmayla sona ererse eşler, ortak kullanımlarına ayrılmış konutta kalmaya ve ev eşyasını kullanmaya hangisinin devam edeceği konusunda anlaşabilir; hakkı elde eden eş bunun tapu kütüğüne şerhini isteyebilir.
 - Anlaşma olmazsa hâkim, hakkaniyet gerektiriyorsa, eşlerin ekonomik ve sosyal durumlarını ve çocukların menfaatlerini gözeterek iptal veya boşanma kararıyla birlikte süre belirterek karar verir ve şerh için tapu müdürlüğüne bildirir.
-- Hak, belirlenen sürenin bitiminde kendiliğinden sona erer; süre dolmadan yararlanan tarafın durumunda değişiklik olursa diğer taraf kararın gözden geçirilmesini isteyebilir.
+- Hâkim aksine karar vermedikçe hak, belirlenen sürenin bitiminde kendiliğinden sona erer; süre dolmadan yararlanan tarafın durumunda değişiklik olursa diğer taraf kararın gözden geçirilmesini isteyebilir.
 - Konut kirada ise hâkim, kiracı olmayan eşin konutta kalmasına karar verebilir ve kiraya verenin haklarını güvenceye alacak düzenlemeyi yapar.
 
 Eşler yasal rejime tabi ise boşanma sonrası için kullanılabilecek kanuni araç TMK m. 226/2'dir. Eşlerden biri, paylı mülkiyette bulunan bir mal üzerinde daha üstün bir yararı bulunduğunu ispat ederek, payın bedelini ödemek suretiyle o malın bölünmeden kendisine verilmesini isteyebilir. Bu bir kullanım hakkı değil, mülkiyetin özgülenmesidir ve bedel ödemeyi gerektirir. Konut tamamen diğer eşe aitse bu hüküm de uygulanmaz; malik olmayan eşin talebi katılma alacağı ya da değer artış payı gibi alacak haklarıyla sınırlı kalır. Konutun çocukların ihtiyacı için kullanılması gerekiyorsa, bunun karşılığı kanaatimizce iştirak nafakasının belirlenmesinde gözetilmelidir.
@@ -141,12 +145,12 @@ Konut üçüncü bir kişiye, örneğin eşlerden birinin ana babasına aitse ve
 
 ## Usul
 
-- Görevli mahkeme: TMK m. 169 ve m. 197 önlemleri, TMK m. 254 ve m. 226/2 talepleri ile 6284 sayılı Kanun kararları aile mahkemesinin görevindedir (4787 sayılı Kanun m. 4). Aile mahkemesi bulunmayan yerlerde bu davalara asliye hukuk mahkemesi aile mahkemesi sıfatıyla bakar. Boşanmanın kesinleşmesinden sonra açılan elatmanın önlenmesi ve ecrimisil davaları kanaatimizce aile hukukundan doğmadığından genel hükümlere göre asliye hukuk mahkemesinde, ortaklığın giderilmesi davası sulh hukuk mahkemesinde görülür.
-- Yetki: TMK m. 197 önlemlerinde m. 201; mal rejimi tasfiyesinde boşanma davasına bakan mahkeme (TMK m. 214). TMK m. 254 kararı iptal veya boşanma kararıyla birlikte verilir.
+- Görevli mahkeme: TMK m. 169 ve m. 197 önlemleri, TMK m. 254 ve m. 226/2 talepleri ile 6284 sayılı Kanun kararları aile mahkemesinin görevindedir (4787 sayılı Kanun m. 4). Aile mahkemesi kurulmayan yerlerde bu dava ve işlere Hâkimler ve Savcılar Kurulunca belirlenen asliye hukuk mahkemesi bakar (4787 sayılı Kanun m. 2). 6284 sayılı Kanun'daki koruyucu ve önleyici tedbirlerden m. 4 ve m. 5'tekilere aile mahkemesi hâkimi karar verir. Boşanmanın kesinleşmesinden sonra açılan elatmanın önlenmesi ve ecrimisil davaları kanaatimizce aile hukukundan doğmadığından genel hükümlere göre asliye hukuk mahkemesinde, ortaklığın giderilmesi davası sulh hukuk mahkemesinde görülür.
+- Yetki: TMK m. 197 önlemlerinde m. 201; mal rejimi tasfiyesinde boşanma davasına bakmaya yetkili mahkeme (TMK m. 214). TMK m. 254 kararı iptal veya boşanma kararıyla birlikte verilir.
 - Dava şartı: aile hukukundan doğan bu talepler için arabuluculuk dava şartı yoktur; ortaklığın giderilmesinde ise arabuluculuk zorunludur.
 - Süreler: TMK m. 169 önlemleri dava süresince her zaman istenebilir ve değiştirilmesi talep edilebilir. 6284 sayılı Kanun'a göre verilen kararlara karşı tefhim veya tebliğden itibaren iki hafta içinde aile mahkemesine itiraz edilir; dosya, o yerde birden fazla aile mahkemesi varsa numara olarak izleyen daireye, tek daire varsa asliye hukuk mahkemesine gönderilir. İtiraz mercii bir hafta içinde karar verir ve bu karar kesindir (6284 m. 9). Kesin karar ile tedbirin m. 8/2 uyarınca uzatılması, değiştirilmesi veya kaldırılması talebi karıştırılmamalıdır.
-- Kanun yolu: HMK m. 389 vd. uyarınca verilmiş ihtiyati tedbire, kendisi dinlenmeden karar verilen taraf bir hafta içinde itiraz edebilir (HMK m. 394). TMK m. 169 önlemlerine bu itirazın uygulanması tartışmalıdır; koşullar değiştiğinde değiştirme talebi her zaman mümkündür ve önlemin hatalı kurulduğu iddiası hükme karşı kanun yolunda da ileri sürülmelidir.
-- Harç: 6284 sayılı Kanun kapsamındaki başvurular harçsızdır (m. 20). Ecrimisil talebi para alacağı olduğundan nispi harca tabidir; tutar yazılmamıştır.
+- Kanun yolu: HMK m. 389 vd. uyarınca verilmiş ihtiyati tedbire, kendisi dinlenmeden karar verilen taraf bir hafta içinde itiraz edebilir (HMK m. 394). TMK m. 169 önlemlerine bu itirazın uygulanması kanaatimizce tartışmaya açıktır; koşullar değiştiğinde değiştirme talebi her zaman mümkündür ve önlemin hatalı kurulduğu iddiası hükme karşı kanun yolunda da ileri sürülmelidir.
+- Harç: 6284 sayılı Kanun kapsamındaki başvurular harçsızdır (m. 20). Ecrimisil talebi para alacağı olduğundan nispi harca tabidir; harç tarifesi her yıl yeniden belirlenir.
 - İspat: barınma ihtiyacı, çocukların fiilî düzeni ve eşlerin ekonomik durumu sosyal inceleme raporu, SGK ve banka kayıtları ile tanıkla ispatlanır. Paylı konutta intifadan men bildirimi her türlü delille ispat edilebilir; noter ihtarnamesi en güvenli yoldur.
 
 ## Dilekçede ve dosyada dikkat edilecekler
