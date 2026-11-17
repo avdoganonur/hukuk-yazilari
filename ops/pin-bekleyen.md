@@ -30,3 +30,5 @@ Son planlanan pin: 15.11.2026 11:00 (garanti-sozlesmesi-ve-teminat-mektubu). Met
 - ucretsiz-izin-uygulamasi-ve-iscinin-haklari (15.11)
 - markanin-hukumsuzlugu-ve-iptali (16.11)
 - vergi-incelemesinde-izaha-davet (16.11)
+- tapu-siciline-guven-ve-iyiniyetli-ucuncu-kisi (17.11)
+- bosanmada-aile-konutunun-kullanim-hakki (17.11)
