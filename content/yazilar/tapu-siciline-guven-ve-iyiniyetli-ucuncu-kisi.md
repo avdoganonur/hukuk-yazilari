@@ -73,7 +73,7 @@ TMK m. 1023'e göre tapu kütüğündeki tescile iyiniyetle dayanarak mülkiyet 
 Korumanın unsurları şöyle sıralanabilir:
 
 - Yolsuz bir tescil bulunmalıdır. Kayıt doğruysa güven ilkesine başvurmaya gerek yoktur; edinen zaten hak sahibinden edinmiştir.
-- Edinen, yolsuz işlemin tarafı değil üçüncü kişi olmalıdır. Muvazaalı satışta alıcı, sahte vekâletnameyle yapılan devirde ilk devralan bu sıfatı taşımaz.
+- Edinen, yolsuz işlemin tarafı değil üçüncü kişi olmalıdır. Muvazaalı satışta alıcı bu sıfatı taşımaz; sahte vekâletnameyle yapılan devirde ilk devralanın durumu aşağıda ayrıca ele alınmıştır.
 - Edinim, tescile dayanan hukuki işlemle gerçekleşmelidir. Miras, mahkeme kararı veya kamulaştırma gibi tescilden bağımsız kazanımlar sicile güvene dayanmaz.
 - Edinen, kazanım anında iyiniyetli olmalıdır.
 
@@ -85,7 +85,7 @@ Kanunun iyiniyete hukuki sonuç bağladığı durumlarda asıl olan iyiniyetin v
 
 Tapu sicili herkese açıktır ve kimse sicildeki bir kaydı bilmediğini ileri süremez (m. 1020). Bu nedenle kütükteki şerhler, beyanlar ve kısıtlamalar alıcı yönünden bilinmiş sayılır. Öğretide, iyiniyetin konusunun ana sicil ve ona bağlı tamamlayıcı kayıtlar olduğu, alıcının tescilin dayanağı belgeleri kural olarak incelemek zorunda olmadığı, ancak tescilin belgelerle çeliştiğinden şüphelenmesi gerekirken incelemekten kaçınmasının iyiniyeti ortadan kaldıracağı ifade edilir (Kırca, a.g.e.).
 
-Kötüniyet çoğu zaman doğrudan bir delille değil, olayın bütününden çıkarılır. Dosyada sıkça ileri sürülen olgular şunlardır:
+Kötüniyet çoğu zaman doğrudan bir delille değil, olayın bütününden çıkarılır. Kanaatimizce kötüniyet iddiasını desteklemek üzere şu olgular ileri sürülebilir:
 
 - Satış bedelinin taşınmazın gerçek değerinin çok altında kalması ya da bedelin hiç ödenmemesi,
 - Alıcının yolsuz işlemin taraflarıyla akrabalık, ortaklık veya yakın iş ilişkisi içinde olması,
@@ -109,7 +109,7 @@ Ehliyetsizlik: Ayırt etme gücü bulunmayan kişinin yaptığı satış hukuki 
 
 Muris muvazaası: Mirasbırakandan satış görünümlü bağışla edinen kişi muvazaalı işlemin tarafıdır ve m. 1023'ten yararlanamaz. Ondan satın alan kişi ise üçüncü kişidir; iyiniyetliyse kazanımı korunur, muvazaayı biliyor ya da bilmesi gerekiyorsa korunmaz. Dava bu nedenle taşınmazın kimde olduğuna ve nasıl edinildiğine göre kurulur ([muris muvazaası](/yazilar/muris-muvazaasi-mirasci-mal-kacirma/)).
 
-Sahtecilik: Sahte vekâletname ya da sahte kimlikle yapılan devirde ilk devralan, sicile değil sicil dışındaki sahte belgeye güvenmiştir; işlem anında kütükte gerçek malik kayıtlıdır. Öğretide sahte vekâletname veya sahte mirasçılık belgesi gibi sicil dışı unsurlara güvenilmesinde iyiniyetin etkili olmayacağı belirtilir. İlk devralanın m. 1023'ten yararlanamayacağı bu nedenle açıktır. Sahte işlemle edinenden satın alan sonraki iyiniyetli alıcının durumu ise tartışmalıdır. Kanun metni sahtecilik için ayrık bir hüküm koymaz; uygulamaya ilişkin aktarımlar farklı yönde kararlar bulunduğunu gösterdiğinden, bu tür dosyalarda güncel içtihat ayrıca kontrol edilmeli ve son malikin kötüniyetine ilişkin olgular her durumda ayrıntılı biçimde ileri sürülmelidir.
+Sahtecilik: Sahte vekâletname ya da sahte kimlikle yapılan devirde ilk devralan, sicile değil sicil dışındaki sahte belgeye güvenmiştir; işlem anında kütükte gerçek malik kayıtlıdır. Öğretide sahte vekâletname veya sahte mirasçılık belgesi gibi sicil dışı unsurlara güvenilmesinde iyiniyetin etkili olmayacağı belirtilir. Bu görüşe göre ilk devralan m. 1023'ten yararlanamaz. Sahte işlemle edinenden satın alan sonraki iyiniyetli alıcının durumu ise tartışmalıdır. Kanun metni sahtecilik için ayrık bir hüküm koymaz; uygulamaya ilişkin aktarımlar farklı yönde kararlar bulunduğunu gösterdiğinden, bu tür dosyalarda güncel içtihat ayrıca kontrol edilmeli ve son malikin kötüniyetine ilişkin olgular her durumda ayrıntılı biçimde ileri sürülmelidir.
 
 Korumanın uygulamada en çok tartışıldığı alanlardan biri arsa payı karşılığı inşaat sözleşmesinden dönmedir. Öğretide aktarıldığına göre, Resmî Gazete'de 18.07.2025 tarihinde yayımlanan Yargıtay İçtihadı Birleştirme Büyük Genel Kurulu kararıyla, yükleniciden pay ya da bağımsız bölüm edinen üçüncü kişilere tapuya güven ilkesinin uygulanacağı ve bu ilkeden ancak üçüncü kişinin kötüniyetli olduğunun ispatlanması hâlinde vazgeçilebileceği kabul edilmiştir. Dönmenin sonuçları [kat karşılığı inşaatta yüklenicinin temerrüdü](/yazilar/kat-karsiligi-insaatta-yuklenicinin-temerrudu/) yazısında ele alınmıştır. Aile konutu niteliğindeki taşınmazın eşin rızası olmadan devrinde de üçüncü kişinin iyiniyeti ayrı ölçütlerle tartışılır; bu konu [aile konutu şerhi ve eşin rızası](/yazilar/aile-konutu-serhi-ve-esin-rizasi/) yazısında anlatılmıştır.
 
@@ -127,11 +127,11 @@ Zincirleme devirde iyiniyet her halka için ayrı ayrı değerlendirilir. Zincir
 
 ## Hazinenin sorumluluğu
 
-Tapu sicilinin tutulmasından doğan bütün zararlardan Devlet sorumludur; Devlet, zararın doğmasında kusuru bulunan görevlilere rücu eder ve Devletin sorumluluğuna ilişkin davalar tapu sicilinin bulunduğu yer mahkemesinde görülür (TMK m. 1007). Sorumluluk kusursuz sorumluluk olarak kabul edilir; tapu görevlisinin kusuru Devletin sorumluluğu için değil, rücu için önem taşır. TBB Dergisi'nde yayımlanan çalışmaya göre dava Hazineye karşı açılır, başka bir idareye husumet yöneltilmesi davanın husumet yokluğundan reddine yol açabilir; dava adli yargıda, asliye hukuk mahkemesinde görülür (D. Sarıaslan, TBB Dergisi, sayı 133, 2017).
+Tapu sicilinin tutulmasından doğan bütün zararlardan Devlet sorumludur; Devlet, zararın doğmasında kusuru bulunan görevlilere rücu eder ve Devletin sorumluluğuna ilişkin davalar tapu sicilinin bulunduğu yer mahkemesinde görülür (TMK m. 1007). Öğretide bu sorumluluk kusursuz sorumluluk olarak nitelendirilir; tapu görevlisinin kusuru Devletin sorumluluğu için değil, rücu için önem taşır. TBB Dergisi'nde yayımlanan çalışmaya göre dava Hazineye karşı açılır, başka bir idareye husumet yöneltilmesi davanın husumet yokluğundan reddine yol açabilir; dava adli yargıda, asliye hukuk mahkemesinde görülür (D. Sarıaslan, TBB Dergisi, sayı 133, 2017).
 
 Hazinenin sorumluluğu için iyiniyetli kazanımın gerçekleşmesi tek başına yeterli değildir; zararın sicilin tutulmasından doğması gerekir. Öğretide aktarılan bir değerlendirmeye göre muvazaalı satışa dayalı tescilde iyiniyetli üçüncü kişinin kazanımı nedeniyle uğranılan zarar sicilin tutulmasından doğmadığından Devletten istenemez. Sahte vekâletname dosyalarında da Hazinenin, zararın sicilden değil sahte belgeden kaynaklandığını, dolayısıyla illiyet bağının kesildiğini savunması beklenir. Bu nedenle dilekçede tapu görevlisinin işlem sırasında yapması gereken kimlik ve belge kontrolündeki eksiklik somut olarak gösterilmelidir.
 
-Zamanaşımı bakımından TMK m. 1007 ayrı bir süre öngörmez. Öğretide daha önce haksız fiil sürelerinin uygulanması savunulmuş olsa da, aktarıldığına göre Yargıtay bu davalarda genel on yıllık zamanaşımını (TBK m. 146) uygulamaktadır (Sarıaslan, a.g.e.; T. Akıncı, BÜHFD, 2023). Sürenin başlangıcı tartışmalıdır; zararın kesin olarak doğduğu ve öğrenildiği an, örneğin sicilin düzeltilmesi davasının reddine ilişkin kararın kesinleşmesi esas alınması gerektiği görüşü ağırlıktadır. Süre riski bulunan dosyalarda Hazine davasının iptal davasıyla aynı dönemde açılması kanaatimizce daha güvenlidir.
+Zamanaşımı bakımından TMK m. 1007 ayrı bir süre öngörmez. Öğretide daha önce haksız fiil sürelerinin uygulanması savunulmuş olsa da, aktarıldığına göre Yargıtay bu davalarda genel on yıllık zamanaşımını (TBK m. 146) uygulamaktadır (Sarıaslan, a.g.e.; T. Akıncı, BÜHFD, 2023). Sürenin başlangıcı tartışmalıdır; zararın kesin olarak doğduğu ve öğrenildiği an, örneğin sicilin düzeltilmesi davasının reddine ilişkin kararın kesinleşmesi esas alınması gerektiği görüşü savunulmaktadır. Süre riski bulunan dosyalarda Hazine davasının iptal davasıyla aynı dönemde açılması kanaatimizce daha güvenlidir.
 
 ## Usul
 
