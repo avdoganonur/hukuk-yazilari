@@ -56,7 +56,7 @@ Usul şartlarının hangisinin uygulanacağı, geçerli nedenin hangi kaynaktan 
 
 ## Fesih bildiriminin şekli ve sebebin açık ve kesin gösterilmesi
 
-19. madde uyarınca işveren fesih bildirimini yazılı olarak yapmak ve fesih sebebini açık ve kesin bir şekilde belirtmek zorundadır. Bu, ispat kolaylığı için konmuş bir kural değil, feshin geçerliliğine ilişkin bir şekil şartıdır. Çalışma ve Toplum dergisinde yayımlanan bir bölge adliye mahkemesi kararında da işverenin önce feshin şekil şartlarına uyulduğunu, ardından fesih sebebinin geçerliliğini ispat etmesi gerektiği belirtilmiştir.
+19. madde uyarınca işveren fesih bildirimini yazılı olarak yapmak ve fesih sebebini açık ve kesin bir şekilde belirtmek zorundadır. Bu, ispat kolaylığı için konmuş bir kural değil, feshin geçerliliğine ilişkin bir şekil şartıdır. Bu nedenle işveren davada önce feshin şekil şartlarına uyulduğunu, ardından fesih sebebinin geçerliliğini ispat etmek durumundadır.
 
 "Performans düşüklüğü", "işyeri ihtiyaçları", "yeniden yapılanma" gibi soyut ifadeler, hangi olaya veya hangi işletmesel karara dayanıldığını göstermediği sürece açık ve kesin sebep sayılmayabilir. Bildirimde olayın tarihi, niteliği ve gerekiyorsa savunmaya ve önceki uyarılara yapılan atıf yer almalıdır. İşletme gerekçesinde ise kararın ne olduğu, hangi pozisyonu etkilediği ve işçinin neden bu kapsamda değerlendirildiği yazılmalıdır.
 
@@ -71,7 +71,7 @@ Kanun savunmanın şeklini ve süresini düzenlemez. Uygulamada ve öğretide ak
 - Savunmaya davet yazılı yapılmalı ve isnat edilen olay açık ve kesin biçimde gösterilmelidir; işçi neye karşı savunma vereceğini bilmelidir.
 - İşçiye makul bir süre önceden savunmanın alınacağı yer, gün ve saat bildirilmelidir. Konya Barosu Dergisindeki incelemede makul sürenin işçinin durumu ve işin özelliğine göre değerlendirileceği belirtilir.
 - Belirlenen zamanda hazır bulunmayan ve yazılı savunma da vermeyen işçinin savunma vermekten vazgeçmiş sayılacağı davette hatırlatılmalıdır.
-- Savunma yazılı alınabileceği gibi sözlü de alınabilir; sözlü savunma, işçinin imzası veya imzadan kaçınma şerhiyle tutanağa bağlanmalıdır.
+- Kanun savunmanın yazılı olmasını açıkça aramaz; savunma sözlü alınırsa, ispat bakımından işçinin imzası veya imzadan kaçınma şerhiyle tutanağa bağlanması yerinde olur.
 - Savunma fesihten önce alınmalıdır. Fesih bildiriminden sonra ya da ihbar süresi içinde istenen savunma feshi geçersiz kılar.
 
 Kanaatimizce savunma ile fesih arasında makul bir zaman bağı da bulunmalıdır; savunması alınan olaya dayanılarak çok uzun süre sonra yapılan fesih, işverenin o olayı iş ilişkisinin sürdürülmesine engel görmediği yorumuna açıktır. Savunmada ileri sürülen mazeretin değerlendirildiğinin fesih bildiriminde kısaca gösterilmesi, işveren dosyasını güçlendirir.
@@ -80,9 +80,9 @@ Kanaatimizce savunma ile fesih arasında makul bir zaman bağı da bulunmalıdı
 
 Savunma kuralının tek istisnası 19. maddenin ikinci fıkrasının son cümlesindedir: işverenin 25. maddenin (II) numaralı bendi şartlarına uygun fesih hakkı saklıdır. Ahlak ve iyiniyet kurallarına uymayan hâllerde yapılan derhal fesihte savunma aranmaz. Bu fesih hakkı, işverenin olayı öğrendiği günden başlayarak altı iş günü içinde ve her hâlde olayın gerçekleşmesinden itibaren bir yıl içinde kullanılmalıdır; işçinin olayda maddi çıkar sağlaması hâlinde bir yıllık süre uygulanmaz (m. 26). Derhal fesih hâlleri ve süreler [işverenin haklı nedenle derhal feshi](/yazilar/isverenin-hakli-nedenle-derhal-feshi/) ile [devamsızlık nedeniyle fesih](/yazilar/devamsizlik-nedeniyle-isten-cikarma/) yazılarında anlatılmıştır.
 
-İstisna, fesih gerçekten 25/II şartlarını taşıdığı ölçüde koruma sağlar. İşveren 25/II'ye dayanıp savunma almadan fesih yapar, mahkeme ise davranışı haklı neden ağırlığında görmez ya da olay kesin olarak ispat edilemezse, fesih davranışa dayalı süreli bir fesih olarak değerlendirilir ve savunma alınmadığı için geçersiz sayılır. Yukarıda anılan bölge adliye mahkemesi kararı tam olarak bu sonuca varmıştır: iddia edilen davranışın somutlaştırılmadığı ve kesin olarak kanıtlanamadığı, fesih sebebinin geçerli neden olarak değerlendirildiği ve savunma alınmadığı için feshin geçersiz olduğu kabul edilmiştir.
+İstisna, fesih gerçekten 25/II şartlarını taşıdığı ölçüde koruma sağlar. İşveren 25/II'ye dayanıp savunma almadan fesih yapar, mahkeme ise davranışı haklı neden ağırlığında görmez ya da olay kesin olarak ispat edilemezse, fesih davranışa dayalı geçerli nedenle fesih olarak değerlendirilebilir ve savunma alınmadığı için geçersiz sayılabilir. Yukarıda anılan bölge adliye mahkemesi kararı tam olarak bu sonuca varmıştır: iddia edilen davranışın somutlaştırılmadığı ve kesin olarak kanıtlanamadığı, fesih sebebinin geçerli neden olarak değerlendirildiği ve savunma alınmadığı için feshin geçersiz olduğu kabul edilmiştir.
 
-Bu nedenle işveren tarafında ihtiyatlı yol bellidir. Olay 25/II'ye girse bile, altı iş günlük süre içinde kalmak kaydıyla işçiden savunma istenmesi, haklı neden ispat edilemediğinde feshin geçerli nedenle süreli fesih olarak ayakta kalabilmesini sağlar. Savunma süreci, altı iş günlük süre gözetilerek planlanmalıdır.
+Bu nedenle kanaatimizce işveren tarafında ihtiyatlı yol, olay 25/II'ye girse bile altı iş günlük süre içinde kalmak kaydıyla işçiden savunma istenmesidir; bu, haklı neden ispat edilemediğinde feshin geçerli nedenle fesih olarak ayakta kalabilmesine imkân verir. Savunma süreci, altı iş günlük süre gözetilerek planlanmalıdır.
 
 ## Son çare ilkesi, uyarı ve performans değerlendirmesi
 
@@ -103,11 +103,11 @@ Verim düşüklüğüne dayanan fesihte objektif ölçüt aranır. Konya Barosu 
 - Dava süresi: Arabuluculukta anlaşma sağlanamazsa son tutanağın düzenlendiği tarihten itibaren iki hafta içinde iş mahkemesinde dava açılabilir. Taraflar anlaşırsa uyuşmazlık aynı süre içinde özel hakeme götürülebilir. Öğretide bir aylık başvuru süresinin hak düşürücü olduğu ve hâkimin bunu kendiliğinden gözeteceği savunulmaktadır.
 - Görev ve yetki: Görevli mahkeme iş mahkemesidir. Yetki, 7036 m. 6 uyarınca davalının yerleşim yeri veya işin ya da işlemin yapıldığı yer mahkemesine aittir.
 - İlk toplantı: Arabuluculuk ilk toplantısına geçerli mazereti olmadan katılmayan taraf, sonra açılan davada haklı çıksa bile karşı tarafın yargılama giderlerinin yarısından sorumlu tutulur ve karşı taraf lehine vekâlet ücretinin yarısına hükmedilir; iki taraf da katılmazsa giderler kendi üzerlerinde kalır (7036 m. 3/12).
-- Harç: İşe iade talebi konusu para olmayan bir talep olarak maktu harca tabidir; tutar her yıl yeniden belirlenir.
+- Harç: Harcın türü ve tutarı, dava tarihinde yürürlükte olan Harçlar Kanunu tarifesine göre belirlenir; tarifedeki tutarlar her yıl yeniden belirlenir.
 - İspat yükü: Feshin geçerli bir sebebe dayandığını ispat yükü işverendedir. İşçi feshin başka bir sebebe dayandığını ileri sürerse bu iddiasını ispatla yükümlüdür (m. 20/2). İşveren önce şekil şartlarını (yazılı bildirim, açık sebep, savunma), sonra nedenin geçerliliğini ispat eder.
 - Tedbir: Kanun, feshin geçersizliğinin sonuçlarını kesinleşmiş karara bağlamıştır (m. 21); dava sırasında işe başlatmaya yönelik özel bir düzenleme yoktur.
 - Kanun yolu: Dava ivedilikle sonuçlandırılır. İlk derece kararına karşı istinaf yoluna gidilebilir; bölge adliye mahkemesi ivedilikle ve kesin olarak karar verir.
-- Sonuçlar: Fesih geçersiz bulunursa işçi kesinleşen kararın tebliğinden itibaren on iş günü içinde işverene başvurmalıdır. İşe başlatılmazsa en az dört, en çok sekiz aylık ücret tutarında tazminat ve en çok dört aya kadar boşta geçen süre ücreti ve diğer hakları gündeme gelir; tutarlar dava tarihindeki ücret esas alınarak belirlenir (m. 21).
+- Sonuçlar: Fesih geçersiz bulunursa işçi kesinleşen kararın tebliğinden itibaren on iş günü içinde işverene başvurmalıdır. İşveren işçiyi bir ay içinde işe başlatmazsa en az dört, en çok sekiz aylık ücret tutarında tazminat öder; ayrıca kararın kesinleşmesine kadar çalıştırılmadığı süre için en çok dört aya kadar ücret ve diğer hakları ödenir. Mahkeme bu tutarları dava tarihindeki ücreti esas alarak belirler (m. 21).
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
