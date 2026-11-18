@@ -5,7 +5,7 @@ kisaca:
   - "İş sahibi eser tamamlanmadan önce, yapılan kısmın karşılığını ödemek ve yüklenicinin bütün zararını gidermek koşuluyla sözleşmeyi feshedebilir."
   - "Yüklenici işe zamanında başlamaz ya da işi bitiremeyeceği açıkça anlaşılacak ölçüde geciktirirse iş sahibi teslim gününü beklemeden dönebilir."
   - "Yaklaşık bedel iş sahibinin kusuru olmadan aşırı ölçüde aşılacaksa iş sahibi dönebilir; kendi arsasındaki yapıda indirim ya da fesih yolu da vardır."
-  - "Eser sözleşmesinden doğan alacaklar, yüklenicinin ağır ihmali hâli dışında beş yıllık zamanaşımına tabidir."
+  - "Eser sözleşmesinden doğan alacaklar, yüklenicinin ağır kusuru hâli dışında beş yıllık zamanaşımına tabidir."
 tarih: 2026-11-18
 alan: borclar-hukuku
 dayanak:
@@ -18,6 +18,8 @@ dayanak:
     not: "Seçimlik haklar ve dönmenin sonuçları"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 126"
     not: "İfasına başlanmış sürekli edimli sözleşmelerde fesih"
+  - ad: "6098 sayılı Türk Borçlar Kanunu m. 146"
+    not: "Genel on yıllık zamanaşımı"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 147"
     not: "Eser sözleşmesinden doğan alacaklarda beş yıllık zamanaşımı"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 473"
@@ -93,9 +95,9 @@ Bu ayrım yalnızca teorik değildir. M. 484'e dayanan iş sahibi yüklenicinin 
 
 TBK m. 484'e göre iş sahibi, eserin tamamlanmasından önce yapılmış olan kısmın karşılığını ödemek ve yüklenicinin bütün zararlarını gidermek koşuluyla sözleşmeyi feshedebilir. Hakkın kullanılması bir sebebe ya da yüklenicinin borca aykırılığına bağlı değildir. Öğretide bu hakkın iş sahibine teslimden önceki her aşamada tanındığı ve m. 473'ten farklı olarak sözleşme ihlali aranmadığı vurgulanır (Fatma Hızır, TAAD, Sayı 33, 2018).
 
-Hakkın iki sınırı lafızdan çıkar. Birincisi zamandır: eser tamamlandıktan sonra m. 484 kullanılamaz; bu aşamada iş sahibinin elinde yalnız ayıp hükümleri ve genel hükümler kalır. İkincisi bedeldir: fesih beyanı tek başına sözleşmeyi sona erdirir, ama tazminat borcunu da doğurur. Tazminatın ödenmesi feshin geçerlilik şartı değildir; yüklenici fesihten sonra bu alacağını dava edebilir.
+Hakkın iki sınırı lafızdan çıkar. Birincisi zamandır: eser tamamlandıktan sonra m. 484 kullanılamaz; bu aşamada iş sahibinin elinde yalnız ayıp hükümleri ve genel hükümler kalır. İkincisi bedeldir: fesih beyanı tazminat borcunu da doğurur. Kanaatimizce tazminatın önceden ödenmesi feshin geçerlilik şartı değildir; fesih beyanıyla sözleşme sona erer ve yüklenici fesihten sonra bu alacağını dava edebilir.
 
-Tazminatın kapsamı uygulamanın asıl tartışma alanıdır. "Bütün zarar" ifadesi öğretide genellikle olumlu zarar olarak anlaşılır. Yüklenici, sözleşme ifa edilseydi elde edeceği net kazanca göre konumlandırılır. Bu hesapta şu kalemler dikkate alınır:
+Tazminatın kapsamı uygulamanın asıl tartışma alanıdır. Öğretide kabul edilen görüşe göre "bütün zarar" ifadesi olumlu zararı karşılar; yüklenici, sözleşme ifa edilseydi elde edeceği net kazanca göre konumlandırılır. Bu görüşe göre hesapta şu kalemler dikkate alınır:
 
 - Yapılan kısmın sözleşme düzenindeki karşılığı (m. 484'teki birinci kalem).
 - Yüklenicinin işin geri kalanından elde edeceği kâr.
@@ -104,7 +106,7 @@ Tazminatın kapsamı uygulamanın asıl tartışma alanıdır. "Bütün zarar" i
 
 Kanaatimizce indirim kalemlerinin ispat yükü, bunlardan yararlanmak isteyen iş sahibindedir; yüklenici ise kalan işin kâr marjını ve yaptığı giderleri belgelendirmelidir. Kâr kaybının sözleşme bedelinden götürü bir oranla hesaplanması değil, yüklenicinin keşif, maliyet ve hakediş belgelerine dayanan somut hesap esas alınmalıdır.
 
-Fesih ileriye etkilidir. Yapılan kısım iş sahibinde kalır, karşılığı ödenir; taraflar arasında geriye dönük bir iade tasfiyesi yapılmaz. Kat karşılığı inşaatta m. 484'ün mali yükü özellikle ağırdır. Sitedeki [kat karşılığı inşaat sözleşmesi](/yazilar/kat-karsiligi-insaat-sozlesmesi/) yazısında da belirtildiği gibi bu yol, gecikme olmasa bile kullanılabilir ama dikkatle değerlendirilmelidir.
+Öğretide kabul edilen görüşe göre fesih ileriye etkilidir: yapılan kısım iş sahibinde kalır, karşılığı ödenir; taraflar arasında geriye dönük bir iade tasfiyesi yapılmaz. Kat karşılığı inşaatta m. 484'ün mali yükü özellikle ağırdır. Sitedeki [kat karşılığı inşaat sözleşmesi](/yazilar/kat-karsiligi-insaat-sozlesmesi/) yazısında da belirtildiği gibi bu yol, gecikme olmasa bile kullanılabilir ama dikkatle değerlendirilmelidir.
 
 ## Yüklenicinin gecikmesi, ayıp ve yaklaşık bedelin aşılması
 
@@ -112,7 +114,7 @@ Fesih ileriye etkilidir. Yapılan kısım iş sahibinde kalır, karşılığı �
 
 M. 473/1'e göre yüklenici işe zamanında başlamaz, sözleşme hükümlerine aykırı olarak işi geciktirir ya da iş sahibine yüklenemeyen bir sebeple işi o derece geciktirir ki kararlaştırılan zamanda bitiremeyeceği bütün tahminlere göre açıkça anlaşılırsa, iş sahibi teslim gününü beklemeden sözleşmeden dönebilir. Bu hükmün değeri, teslim günü gelmeden ve dolayısıyla temerrüt doğmadan iş sahibine çıkış imkânı vermesidir. Gecikmenin boyutu teknik olarak gösterilmelidir; iş programı, hakediş tarihleri ve dava öncesi delil tespiti bu noktada belirleyicidir.
 
-M. 473/1'e dayanan dönmede de m. 123'teki uygun sürenin verilmesi gerekip gerekmediği tartışmalıdır. İhtiyatlı yol, noter ihtarıyla süre verip sonuç alınamazsa dönme beyanında bulunmaktır. Öğretide m. 473/1 veya m. 125'e dayanan dönmenin kural olarak geriye etkili olduğu belirtilir (Hızır, s. 602–603).
+M. 473/1 lafzı ayrıca süre verilmesinden söz etmez. Kanaatimizce ihtiyatlı yol, noter ihtarıyla süre verip sonuç alınamazsa dönme beyanında bulunmaktır. Öğretide m. 473/1 veya m. 125'e dayanan dönmenin kural olarak geriye etkili olduğu belirtilir (Hızır, s. 602–603).
 
 M. 473/2 ise ayıp tehlikesine ilişkindir. Eserin yapılması sırasında yüklenicinin kusuru yüzünden ayıplı veya sözleşmeye aykırı yapılacağı açıkça anlaşılırsa, iş sahibi ayıp veya aykırılığın giderilmesi için uygun bir süre verir. Süre içinde giderilmezse hasar ve masrafları yükleniciye ait olmak üzere onarımın veya işin devamının üçüncü kişiye verileceğini ihtar edebilir. Bu yol sözleşmeyi sona erdirmez; iş sahibi sözleşmeyi ayakta tutup ikame masrafını yükleniciye yükler.
 
@@ -126,9 +128,9 @@ Teslimden sonra ayıp ortaya çıkarsa iş sahibi gözden geçirme ve bildirim k
 
 ### Götürü bedel ve yaklaşık bedel (TBK m. 480–482)
 
-Götürü bedelde kural, yüklenicinin eseri o bedelle tamamlamasıdır; eser öngörülenden fazla emek ve gider gerektirse bile bedelin artırılmasını isteyemez. Buna karşılık eser daha az emek ve gider gerektirse bile iş sahibi bedelin tamamını öder (m. 480/3). M. 480/2 öngörülemeyen ya da göz önünde tutulmayan durumlar eserin götürü bedelle yapılmasını engeller veya aşırı ölçüde güçleştirirse yükleniciye uyarlama, bu mümkün değilse dönme hakkı verir; dürüstlük kurallarının gerektirdiği durumlarda yüklenici yalnız fesih hakkını kullanabilir. Bu hak iş sahibine değil yükleniciye aittir. Genel uyarlama kuralları için [aşırı ifa güçlüğü ve sözleşmenin uyarlanması](/yazilar/asiri-ifa-guclugu-ve-sozlesmenin-uyarlanmasi/) yazısına bakılabilir.
+Götürü bedelde kural, yüklenicinin eseri o bedelle tamamlamasıdır; eser öngörülenden fazla emek ve gider gerektirse bile bedelin artırılmasını isteyemez. Buna karşılık eser daha az emek ve gider gerektirse bile iş sahibi bedelin tamamını öder (m. 480/3). M. 480/2'ye göre başlangıçta öngörülemeyen ya da göz önünde tutulmayan durumlar eserin götürü bedelle yapılmasını engeller veya aşırı ölçüde güçleştirirse hâkim sözleşmeyi yeni koşullara uyarlar; uyarlama mümkün değilse veya karşı taraftan beklenemezse yüklenici sözleşmeden dönebilir; dürüstlük kurallarının gerektirdiği durumlarda yüklenici yalnız fesih hakkını kullanabilir. Bu hak iş sahibine değil yükleniciye aittir. Genel uyarlama kuralları için [aşırı ifa güçlüğü ve sözleşmenin uyarlanması](/yazilar/asiri-ifa-guclugu-ve-sozlesmenin-uyarlanmasi/) yazısına bakılabilir.
 
-Bedel hiç ya da yalnız yaklaşık olarak belirlenmişse m. 481 uygulanır ve bedel eserin değeri ile yüklenicinin giderleri esas alınarak belirlenir. Başlangıçta yaklaşık olarak belirlenen bedelin iş sahibinin kusuru olmadan aşırı ölçüde aşılacağı anlaşılırsa iş sahibi, eser tamamlanmadan veya tamamlandıktan sonra sözleşmeden dönebilir (m. 482/1). Eser iş sahibinin arsası üzerine yapılıyorsa iş sahibi bedelden uygun bir indirim isteyebilir; eser henüz tamamlanmamışsa yükleniciyi işten el çektirip tamamlanan kısım için hakkaniyete uygun bir bedel ödeyerek sözleşmeyi feshedebilir (m. 482/2). Burada m. 484'ten farklı olarak yüklenicinin kâr kaybı ödenmez. "Aşırı ölçü" kanunda oranla belirlenmemiştir; somut işte keşif ile gerçekleşen maliyet arasındaki fark bilirkişiye hesaplatılmalıdır.
+Bedel hiç ya da yalnız yaklaşık olarak belirlenmişse m. 481 uygulanır ve bedel eserin değeri ile yüklenicinin giderleri esas alınarak belirlenir. Başlangıçta yaklaşık olarak belirlenen bedelin iş sahibinin kusuru olmadan aşırı ölçüde aşılacağı anlaşılırsa iş sahibi, eser tamamlanmadan veya tamamlandıktan sonra sözleşmeden dönebilir (m. 482/1). Eser iş sahibinin arsası üzerine yapılıyorsa iş sahibi bedelden uygun bir indirim isteyebilir; eser henüz tamamlanmamışsa yükleniciyi işten el çektirip tamamlanan kısım için hakkaniyete uygun bir bedel ödeyerek sözleşmeyi feshedebilir (m. 482/2). Lafız yalnız tamamlanan kısım için hakkaniyete uygun bedelden söz ettiğinden, m. 484'ten farklı olarak yüklenicinin kâr kaybının ödenmesi öngörülmemiştir. "Aşırı ölçü" kanunda oranla belirlenmemiştir; somut işte keşif ile gerçekleşen maliyet arasındaki fark bilirkişiye hesaplatılmalıdır.
 
 ## Kanundan doğan sona erme ve hasarın dağılımı
 
@@ -142,9 +144,9 @@ M. 485'teki tazminat kusura bağlıdır; m. 484'teki tazminat ise kusurdan bağ�
 
 ## Yapılan iş bedelinin tespiti ve yüklenicinin güvenceleri
 
-Kısmi ifa hâlinde tasfiyenin merkezinde yapılan iş bedeli vardır. Bilirkişi incelemesinde önce tamamlanma oranı ve imalat kalemleri metraj üzerinden tespit edilir, ardından fiyat esası belirlenir. Sözleşmede birim fiyat veya götürü bedel varsa yapılan kısım kural olarak sözleşme fiyatlarıyla ve toplam bedele oranlanarak değerlendirilir. Bedel belirlenmemişse m. 481'deki değer ve gider ölçütü, yani mahalli piyasa rayiçleri gündeme gelir. Dönme ile ileriye etkili fesih arasındaki seçim bu esası da etkiler; dönmede sözleşme düzeni ortadan kalktığı için yüklenicinin talebi sebepsiz zenginleşme ölçüsünde değerlendirilir.
+Kısmi ifa hâlinde tasfiyenin merkezinde yapılan iş bedeli vardır. Bilirkişi incelemesinde önce tamamlanma oranı ve imalat kalemleri metraj üzerinden tespit edilir, ardından fiyat esası belirlenir. Sözleşmede birim fiyat veya götürü bedel varsa yapılan kısım kural olarak sözleşme fiyatlarıyla ve toplam bedele oranlanarak değerlendirilir. Bedel belirlenmemişse m. 481'deki eserin değeri ve yüklenicinin giderleri ölçütü gündeme gelir. Dönme ile ileriye etkili fesih arasındaki seçim bu esası da etkiler; kanaatimizce geriye etkili dönmede sözleşme düzeni ortadan kalktığından yüklenicinin yaptığı iş için talebi sözleşme fiyatlarıyla değil, iş sahibinin zenginleşmesi ölçüsünde değerlendirilmelidir.
 
-İnşaat sözleşmelerinde dönmenin geriye etkisi, işin büyük bölümünün bitirildiği dosyalarda yumuşatılır. Öğretide aktarıldığına göre 1984 tarihli bir içtihadı birleştirme kararından bu yana inşaat seviyesi yüzde doksanı aştığında ileriye etkili fesih gündeme gelebilmektedir (Beyza Devran, Ankara Barosu Dergisi, 2026/1, s. 427–428). Oranın sınırda kaldığı dosyalarda raporun iş kalemlerini ve fiyat esasını ayrıntılı denetlemek gerekir.
+İnşaat sözleşmelerinde dönmenin geriye etkisi, işin büyük bölümünün bitirildiği dosyalarda yumuşatılır. Öğretide aktarıldığına göre Yargıtay, 1984 tarihli bir içtihadı birleştirme kararından bu yana inşaat seviyesi yüzde doksanı aştığında sözleşmenin ileriye etkili olarak feshedildiğini kabul etmektedir (Beyza Devran, Ankara Barosu Dergisi, 2026/1, s. 427–428). Oranın sınırda kaldığı dosyalarda raporun iş kalemlerini ve fiyat esasını ayrıntılı denetlemek gerekir.
 
 Yüklenicinin güvenceleri şunlardır:
 
@@ -158,7 +160,7 @@ Sözleşme m. 484 ile feshedilmişse "işin tamamlanması" yerine işin fiilen b
 - Görevli mahkeme: Genel kural asliye hukuk mahkemesidir. İş sahibi işi kişisel ihtiyacı için yaptırmışsa ve yüklenici ticari veya mesleki amaçla hareket ediyorsa sözleşme tüketici işlemidir; görevli mahkeme tüketici mahkemesidir (6502 m. 73). Her iki taraf tacir ve iş ticari işletmeleriyle ilgiliyse asliye ticaret mahkemesi görevlidir.
 - Dava şartı arabuluculuk: Ticari davada konusu bir miktar para olan alacak ve tazminat talepleri için TTK m. 5/A, tüketici uyuşmazlıklarında 6502 m. 73/A uyarınca dava açılmadan önce arabulucuya başvurulmalıdır. Tüketici işlemlerinde parasal sınırın altında kalan uyuşmazlıklar hakem heyetine aittir; sınır her yıl yeniden belirlenir.
 - Yetki: Genel yetkili mahkeme davalının yerleşim yeri mahkemesidir; sözleşmeden doğan davada ifa yeri mahkemesi de yetkilidir. İnşaat işlerinde ifa yeri çoğunlukla taşınmazın bulunduğu yerdir. Kanuni ipoteğin tesciline ilişkin talep bakımından taşınmazın bulunduğu yer mahkemesinde dava açmak kesin yetki tartışmasını baştan önler.
-- Zamanaşımı: Eser sözleşmesinden doğan alacaklar, yüklenicinin ağır ihmali sonucu işi hiç veya gereği gibi ifa etmemesinden doğan davalar hariç beş yılda zamanaşımına uğrar (TBK m. 147/6). Bu istisnada genel on yıllık süre uygulanır. Ayıba dayalı davalarda m. 478'deki özel süreler geçerlidir.
+- Zamanaşımı: Eser sözleşmesinden doğan alacaklar, yüklenicinin yükümlülüklerini ağır kusuruyla hiç ya da gereği gibi ifa etmemesi hâli dışında beş yılda zamanaşımına uğrar (TBK m. 147/6). Bu istisnada TBK m. 146'daki genel on yıllık süre uygulanır. Ayıba dayalı davalarda m. 478'deki özel süreler geçerlidir.
 - Harç: Yapılan iş bedeli, tazminat ve iade talepleri nispi harca tabidir; tutar dava değeri üzerinden hesaplanır.
 - Dava türü: 7589 sayılı Kanunla HMK m. 107 yürürlükten kalktığından yeni davalarda belirsiz alacak davası yoktur. Bilirkişi incelemesine bağlı alacaklarda kısmi dava açılıp HMK m. 109/4 uyarınca bir defaya mahsus tahkikat sonuna kadar artırım yapılabilir; zamanaşımı artırılan kısım için de dava tarihinde kesilmiş sayılır.
 - İspat ve deliller: Sözleşme, keşif ve iş programı, hakedişler, şantiye defteri, yazışmalar ve ihtarnameler temel delillerdir. Tamamlanma oranı ve bedel bilirkişiyle belirlenir. İş sahibi işi üçüncü kişiye tamamlatmadan önce HMK m. 400 uyarınca delil tespiti yaptırmalıdır; aksi hâlde yüklenicinin yaptığı kısım sonradan tespit edilemez. Ayrıntı için [delil tespiti](/yazilar/delil-tespiti-ve-kaybolabilecek-deliller/) yazısına bakılabilir.
