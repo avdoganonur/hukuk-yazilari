@@ -34,3 +34,5 @@ Son planlanan pin: 15.11.2026 11:00 (garanti-sozlesmesi-ve-teminat-mektubu). Met
 - bosanmada-aile-konutunun-kullanim-hakki (17.11)
 - fesihte-savunma-alinmasi-ve-gecerli-neden (18.11)
 - eser-sozlesmesinde-is-sahibinin-fesih-hakki (18.11)
+- satim-sozlesmesinde-saticinin-zapttan-sorumlulugu (19.11)
+- iddianamenin-iadesi-ve-kovusturma-evresine-gecis (19.11)
