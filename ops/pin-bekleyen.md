@@ -36,3 +36,5 @@ Son planlanan pin: 15.11.2026 11:00 (garanti-sozlesmesi-ve-teminat-mektubu). Met
 - eser-sozlesmesinde-is-sahibinin-fesih-hakki (18.11)
 - satim-sozlesmesinde-saticinin-zapttan-sorumlulugu (19.11)
 - iddianamenin-iadesi-ve-kovusturma-evresine-gecis (19.11)
+- hacizde-yediemin-ve-muhafaza-tedbirleri (20.11)
+- idari-yargida-istinaf-ve-temyiz (20.11)
