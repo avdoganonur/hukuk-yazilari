@@ -69,7 +69,7 @@ M. 88 muhafaza tedbirlerini malın türüne göre ayırır. Birinci fıkra (6352
 
 Fıkranın 7343 sayılı Kanunla değiştirilen son cümlesine göre haczedilmiş ancak muhafaza altına alınmamış mallar satış talebi üzerine muhafaza altına alınır veya ihale alıcısına teslime hazır hâle getirilir; aksi takdirde satış yapılamaz. Aynı Kanunla eklenen cümle, sicile kayıtlı motorlu kara araçları bakımından m. 106 hükmünü saklı tutar. Satışın hacizden itibaren bir yıl içinde istenmesi gerektiği (m. 106/1) dikkate alındığında, muhafaza talebi ile satış talebinin birlikte planlanması gerekir.
 
-Dördüncü fıkraya göre icra dairesi üçüncü kişiye rehnedilmiş malları da muhafaza altına alabilir. Ticari işletme rehni kapsamındaki taşınırlar ise ancak satış kararı verildikten sonra muhafaza altına alınabilir ve paraya çevrilmezse geri verilir. Haczin hangi mallara ve hangi sırayla uygulanacağı ise m. 85'te düzenlenmiştir. Buna göre alacağın tamamını karşılayacak miktarı aşan haciz yapılamaz; üzerinde üçüncü kişinin mülkiyet veya rehin gibi bir hakkı bulunduğu bildirilen malların haczi en sona bırakılır.
+Dördüncü fıkraya göre icra dairesi üçüncü kişiye rehnedilmiş malları da muhafaza altına alabilir. Ticari işletme rehni kapsamındaki taşınırlar ise ancak satış kararı verildikten sonra muhafaza altına alınabilir ve paraya çevrilmezse geri verilir. Haczin hangi mallara ve hangi sırayla uygulanacağı ise m. 85'te düzenlenmiştir. Buna göre haciz, alacaklının ana para, faiz ve masraflar dahil bütün alacaklarına yetecek miktarda yapılır; üzerinde üçüncü kişinin mülkiyet veya rehin gibi bir hakkı bulunduğu bildirilen malların haczi en sona bırakılır.
 
 ## Yediemin: borçlu, üçüncü kişi ve lisanslı depo
 
@@ -77,7 +77,7 @@ Dördüncü fıkraya göre icra dairesi üçüncü kişiye rehnedilmiş malları
 
 M. 88/2'ye göre alacaklı muvafakat ederse diğer taşınırlar, istenildiği zaman verilmek şartıyla geçici olarak borçlu veya üçüncü kişi yedinde bırakılabilir. Kural muhafazadır; borçluda bırakma, alacaklının iradesine bağlı bir istisnadır. Memurun alacaklının muvafakati bulunmadan malı borçluda bırakması, alacaklı bakımından şikâyet sebebidir.
 
-Borçluya yediemin olarak bırakılan mal borçlunun mülkiyetinde kalır; ancak hacizle birlikte borçlunun bu mal üzerindeki tasarruf yetkisi kalkar. M. 86 uyarınca borçlu, alacaklının muvafakati ve icra memurunun müsaadesi alınmaksızın haczedilmiş taşınır mallarda tasarruf edemez. Haczi koyan memur, buna aykırı hareketin cezai sorumluluk doğuracağını borçluya ihtar eder. Bu ihtarın haciz tutanağına geçirilmiş olması, sonraki ceza soruşturmasında kastın tartışılması bakımından önem taşır.
+Borçluya yediemin olarak bırakılan mal borçlunun mülkiyetinde kalır; ancak hacizle birlikte borçlunun bu mal üzerindeki tasarruf yetkisi kalkar. M. 86 uyarınca borçlu, alacaklının muvafakati ve icra memurunun müsaadesi alınmaksızın haczedilmiş taşınır mallarda tasarruf edemez. Haczi koyan memur, buna aykırı hareketin cezai sorumluluk doğuracağını borçluya ihtar eder. Kanaatimizce bu ihtarın haciz tutanağına geçirilmiş olması, sonraki ceza soruşturmasında kastın tartışılması bakımından önem taşır.
 
 ### Üçüncü kişinin elinde haczedilen mal
 
@@ -89,7 +89,7 @@ Borçluya yediemin olarak bırakılan mal borçlunun mülkiyetinde kalır; ancak
 
 M. 88/5'e göre haczedilen mallar, Adalet Bakanlığınca yetki verilen gerçek veya tüzel kişilere ait lisanslı yediemin depolarında muhafaza edilir. Yetkili kişilerin Bakanlık onayıyla alt işleticilere devri, sorumluluklarını ortadan kaldırmaz. Depoların kuruluşu, teminat, sigorta, işletici lisansı ve denetim gibi konular Bakanlıkça çıkarılan yönetmelikle düzenlenir. Bu yetkiye dayanan düzenleme, 23.8.2016 tarihli ve 29810 sayılı Resmî Gazete'de yayımlanan Lisanslı Yediemin Depoları Yönetmeliği'dir.
 
-Muhafaza aşamasındaki ücretler, aynı fıkra uyarınca Bakanlıkça düzenlenen tarifeyle belirlenir. Lisanslı Yediemin Depoları Yönetmeliği Ücret Tarifesi her yıl yeniden yayımlandığından tutar, muhafaza dönemine ilişkin tarifeden hesaplanmalıdır.
+Muhafaza aşamasındaki ücretler, aynı fıkra uyarınca Bakanlıkça düzenlenen tarifeyle belirlenir. Lisanslı Yediemin Depoları Yönetmeliği Ücret Tarifesi dönemsel olarak yeniden belirlendiğinden tutar, muhafaza dönemine ilişkin tarifeden hesaplanmalıdır.
 
 ## Yediemin sıfatının sonuçları ve hacizli mal üzerinde tasarruf
 
@@ -105,7 +105,7 @@ TCK m. 289/1'e göre muhafaza edilmek üzere kendisine resmen teslim olunan rehi
 
 Maddenin diğer fıkraları şu sonuçları öngörür:
 
-- Suç konusu eşyayı kovuşturma başlamadan önce geri veren veya bedelini ödeyen kişinin cezası beşte dört oranında indirilir (m. 289/2).
+- Suç konusu eşyayı kovuşturma başlamadan önce geri veren veya geri vermek mümkün değilse bedelini ödeyen kişinin cezası beşte dört oranında indirilir (m. 289/2).
 - Dikkat ve özen yükümlülüğüne aykırı davranarak malın kaybolmasına veya bozulmasına neden olan kişi adli para cezası ile cezalandırılır (m. 289/3).
 - Bir suça ilişkin soruşturma veya kovuşturma kapsamında elkonulan eşyayı amacı dışında kullanan kişi bir yıla kadar hapis cezası ile cezalandırılır (m. 289/4).
 
@@ -117,7 +117,7 @@ Satış aşamasında veya ihale alıcısına teslim sırasında malın yediemind
 
 Birincisi m. 358'deki resen tazmindir. Kendisine bırakılan malların kendisine yüklenemeyen bir sebeple telef veya zayi olduğunu ispat edemeyen üçüncü kişiye, ceza takibinden ayrı olarak, önceden tespit edilmiş değerler hükme gerek kalmaksızın icra dairesince resen tazmin ettirilir. Kanaatimizce önceden tespit edilmiş değer, esas olarak haciz sırasında m. 87 uyarınca yapılan kıymet takdiridir; bu nedenle haciz tutanağındaki değerlendirmenin malı tanımlayacak ayrıntıda olması gerekir. Tazminle yükümlü tutulan kişi, icra dairesinin bu konudaki talep ve kararlarına karşı m. 16'da belirlenen süre içinde icra mahkemesine şikâyette bulunabilir.
 
-İkincisi ceza yoludur. Yediemin hakkında TCK m. 289 kapsamında suç duyurusunda bulunulabilir. M. 358'deki tazmin, ceza takibinden bağımsız işlediğinden iki yol birlikte yürütülebilir. Malın kovuşturma başlamadan önce geri verilmesi veya bedelinin ödenmesi m. 289/2'deki indirime yol açtığından, ceza yolu uygulamada malın iadesini de hızlandırır.
+İkincisi ceza yoludur. Yediemin hakkında TCK m. 289 kapsamında suç duyurusunda bulunulabilir. M. 358'deki tazmin, ceza takibinden bağımsız işlediğinden iki yol birlikte yürütülebilir. Malın kovuşturma başlamadan önce geri verilmesi veya bedelinin ödenmesi m. 289/2'deki indirime yol açtığından, kanaatimizce ceza yolu malın iadesini teşvik eden bir etki de taşır.
 
 Üçüncüsü, genel hükümlere göre tazminat ve sorumluluk davalarıdır. İhtiyati tedbirle atanan yediemin bakımından öğretide, yediemine karşı genel hükümlere göre tazminat davası açılabileceği belirtilmektedir (Arslan, s. 20–21); kanaatimizce aynı yol icra takibindeki yediemin için de açıktır. M. 358'in lafzı "üçüncü şahıs"tan söz ettiğinden, borçlunun kendisine yediemin olarak bırakılan malı teslim etmemesi hâlinde bu hükmün uygulanıp uygulanamayacağı tartışmaya açıktır; kanaatimizce bu durumda TCK m. 289 ile m. 86'daki tasarruf yasağı ön plana çıkar. Zarar icra görevlilerinin kusurundan doğmuşsa, örneğin alacaklının peşin yatırdığı muhafaza masrafına rağmen mal muhafaza altına alınmamışsa, m. 5 uyarınca tazminat davası ancak idare aleyhine açılabilir. Bu davalara adliye mahkemelerinde bakılır; Devletin kusurlu görevlilere rücu hakkı saklıdır.
 
@@ -131,12 +131,12 @@ Haciz kalktığı hâlde yedieminde kalan mallar için ise m. 88/a'daki tasfiye 
 - Tedbir: Şikâyet, icra mahkemesince karar verilmedikçe icrayı durdurmaz (m. 22). Muhafaza altındaki malın satışı yaklaşıyorsa durdurma kararı ayrıca istenmelidir.
 - Harç ve gider: Şikâyet dilekçesinde başvuru tarihindeki tarifeye göre harç ve tebligat gideri yatırılır. Muhafaza ve yedieminlik giderleri ise icra dosyasına alacaklı tarafından peşin yatırılır (m. 88/2, m. 95).
 - İspat: Temel deliller haciz tutanağı, kıymet takdiri, yediemin teslim tutanağı, muhafaza masrafının yatırıldığını gösteren makbuz ve yedieminden malın istendiğini gösteren tebligattır.
-- Kanun yolu: İcra mahkemesi kararlarına karşı istinaf süresi tebliğden itibaren iki haftadır ve istinaf kanundaki parasal sınıra bağlıdır. Yediemin ücreti, yediemin değiştirilmesi ve hacizli taşınır malların muhafaza şekli hakkındaki kararlar ise istinaf yolunun dışındadır (m. 363/1).
+- Kanun yolu: İcra mahkemesi kararlarına karşı istinaf süresi tefhim veya tebliğden itibaren iki haftadır ve istinaf kanundaki parasal sınıra bağlıdır. Yediemin ücreti, yediemin değiştirilmesi ve hacizli taşınır malların muhafaza şekli hakkındaki kararlar ise istinaf yolunun dışındadır (m. 363/1).
 - Ceza yolu: TCK m. 289 kapsamındaki fiil için Cumhuriyet başsavcılığına suç duyurusunda bulunulur; m. 358'deki tazmin bu yoldan bağımsızdır.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
-Alacaklı vekili için muhafaza meselesi haciz anında başlar. Haciz talebinde muhafaza da açıkça istenmeli ve masraf peşin yatırılmalıdır; aksi hâlde memurun malı borçluda bırakması alacaklının muvafakati gibi okunabilir. Borçluda bırakmaya muvafakat edilecekse bu muvafakat yazılı ve sınırlı verilmelidir. Haciz tutanağında malın marka, model, seri numarası ve durumu ile m. 86'daki ihtarın yapıldığı yazılı olmalıdır.
+Alacaklı vekili için muhafaza meselesi haciz anında başlar. Haciz talebinde muhafaza da açıkça istenmeli ve masraf peşin yatırılmalıdır; kanaatimizce aksi hâlde memurun malı borçluda bırakması alacaklının muvafakati gibi okunabilir. Borçluda bırakmaya muvafakat edilecekse bu muvafakat yazılı ve sınırlı verilmelidir. Haciz tutanağında malın marka, model, seri numarası ve durumu ile m. 86'daki ihtarın yapıldığı yazılı olmalıdır.
 
 Şikâyet dilekçesinde talep sonucu işlemin niteliğine göre kurulmalıdır. Muhafaza şekline itirazda işlemin bozulması ve malın muhafaza altına alınmasına karar verilmesi, yediemin değişikliğinde mevcut yedieminin görevden alınarak malın lisanslı yediemin deposuna teslimi, yediemin ücretine itirazda ise ücretin ilgili dönemin tarifesine göre yeniden hesaplanması istenmelidir. Malı teslim etmeyen yediemin bakımından icra dairesine, önceden tespit edilmiş değerin m. 358 uyarınca resen tazmin ettirilmesi talebiyle başvurulmalı; talep reddedilirse bu ret kararı m. 16 süresinde şikâyet konusu yapılmalıdır.
 
