@@ -13,7 +13,7 @@ dayanak:
     not: "Ayıplı malda seçimlik haklar"
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6502&MevzuatTur=1&MevzuatTertip=5"
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 12"
-    not: "Ayıplı maldan sorumluluk süresi"
+    not: "Ayıplı malda zamanaşımı"
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 15"
     not: "Ayıplı hizmette seçimlik haklar"
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 24"
@@ -64,10 +64,10 @@ M. 30/1'e göre bağlı kredi sözleşmesi, tüketici kredisinin münhasıran be
 Ekonomik birliğin varlığı m. 30/2'de üç hâle bağlanmıştır. Bunlardan en az birinin bulunması yeterlidir:
 
 - Satıcı veya sağlayıcının tüketici için krediyi finanse etmesi.
-- Kredinin üçüncü bir kişi tarafından finanse edilmesi hâlinde, kredi verenin satıcı veya sağlayıcının hizmetlerinden yararlanması.
+- Kredinin üçüncü bir kişi tarafından finanse edilmesi hâlinde, kredi verenin kredi sözleşmesinin imzalanması veya hazırlanmasında satıcı veya sağlayıcının hizmetlerinden yararlanması.
 - Belirli bir mal veya hizmetin verilmesinin kredi sözleşmesinde açıkça belirtilmesi.
 
-İkinci hâl uygulamada en sık rastlanan görünümdür. Kanaatimizce kredi başvurusunun bayide veya satış ofisinde alınması, satıcının tüketiciyi belirli bir bankaya yönlendirmesi ve kredi evrakının satıcı eliyle doldurulması bu hâlin tipik olgularıdır. Öğretide, kredi talep formuna malın ve satıcı firmanın yazılmasının ve kredinin o firmadan o malın alımı için kullanılabileceğinin belirtilmesinin ekonomik birliğin göstergesi olduğu; buna karşılık kredinin amacının yalnızca "taşıt kredisi" gibi genel bir ifadeyle yazılmasının tek başına ekonomik birliğe işaret etmediği belirtilmektedir (Berna Dönek, "Bağlı Kredi Sözleşmesi", Selçuk Üniversitesi Adalet MYO Dergisi, C. 3, S. 1, 2020, s. 52–53).
+İkinci hâl uygulamada en sık rastlanan görünümdür. Kanaatimizce kredi başvurusunun bayide veya satış ofisinde alınması, satıcının tüketiciyi belirli bir bankaya yönlendirmesi ve kredi evrakının satıcı eliyle doldurulması bu hâlin tipik olgularıdır. Öğretide, kredi talep formuna malın ve satıcı firmanın yazılmasının ve kredinin o firmadan o malın alımı için kullanılabileceğinin belirtilmesinin ekonomik birliğin göstergesi olduğu; buna karşılık kredinin amacının yalnızca "taşıt kredisi" gibi genel bir ifadeyle yazılmasının tek başına ekonomik birliğe işaret etmediği belirtilmektedir (Berna Dönek, "Bağlı Kredi Sözleşmesi", Selçuk Üniversitesi Adalet MYO Dergisi, C. 3, S. 1, 2020, s. 37–82, s. 53).
 
 Tüketici Kredisi Sözleşmeleri Yönetmeliği m. 19, kanundaki tanımı ve ekonomik birlik hâllerini aynen tekrarlar. Yönetmelik ayrıca bağlı kredide sözleşme öncesi bilgi formunda sözleşme konusu mal ve hizmet ile satıcı veya sağlayıcıya ilişkin bilgilerin (m. 6/1-d), sözleşmenin kendisinde ise sözleşme konusu mal veya hizmete ilişkin bilgi ile m. 19'daki tüketici haklarına dair açıklayıcı bilginin (m. 11/1-d ve m) yer almasını ister. Bu bilgilerin sözleşmede bulunması, ekonomik birliğin ispatında doğrudan delil niteliği taşır.
 
@@ -77,7 +77,7 @@ M. 30/5'e göre kredi veren ile satıcı veya sağlayıcı arasında mal veya hi
 
 Hüküm, öğretide aynı maddenin ilk iki fıkrasıyla çelişmekle eleştirilir. İlk iki fıkra ekonomik birliği somut göstergelere bağlarken beşinci fıkra satıcı ile kredi veren arasında bir sözleşmenin varlığını aramaktadır. Dönek, satış ile kredi sözleşmesi arasında ilişki bulunan hâllerde yazılı bir çerçeve sözleşme aranmamasının kanunun amacına daha uygun olduğu görüşündedir (s. 55–56). Kanaatimizce m. 30/5'teki iki koşul birlikte okunmalıdır. Hükmün dışlayıcı etkisi, hem kredi veren ile satıcı arasında tedarik ilişkisinin bulunmadığı hem de malın tüketicinin kendi seçimiyle edinildiği durumlarla sınırlıdır.
 
-Yönetmeliğin 2/3 hükmü uyarınca kredi kartı ve kredili mevduat hesabı sözleşmelerine yönetmeliğin 14 ilâ 19. maddeleri uygulanmaz. Bu nedenle kredi kartıyla taksitli yapılan alışverişlerde bağlı kredi iddiası, yönetmelik hükmüne değil doğrudan kanunun lafzına ve somut ilişkiye dayandırılmalıdır.
+Yönetmeliğin 2/3 hükmü uyarınca kredi kartı ve kredili mevduat hesabı sözleşmelerine yönetmeliğin 14 ilâ 19. maddeleri uygulanmaz. Bu nedenle kanaatimizce kredi kartıyla taksitli yapılan alışverişlerde bağlı kredi iddiası, yönetmelik hükmüne değil doğrudan kanunun lafzına ve somut ilişkiye dayandırılmalıdır.
 
 ## Kredi verenin müteselsil sorumluluğu
 
@@ -88,9 +88,9 @@ Sorumluluğun içeriği kullanılan hakka göre değişir:
 - Bedelden indirim hâlinde bağlı kredi de aynı oranda indirilir ve ödeme planı buna göre değiştirilir.
 - Sözleşmeden dönme hâlinde satıcı veya sağlayıcı ile kredi veren, tüketicinin o güne kadar yaptığı ödemelerin iadesinden müteselsilen sorumludur.
 
-Kredi verenin sorumluluğu, m. 11'deki dört seçimlik haktan yalnızca ikisine bağlanmıştır. Ücretsiz onarım ve ayıpsız misliyle değiştirme talepleri hükümde sayılmaz; bunlar m. 11/2 uyarınca satıcı, üretici ve ithalatçıya karşı ileri sürülür. Öğretide de malın teslimi gibi aynen ifa yükümlülüklerinin yalnızca satıcı veya sağlayıcıya ait olduğu, kredi verenin bunlardan sorumlu tutulamayacağı belirtilmektedir (Davut Gürses/Ecem Deveci, "Bağlı Tüketici Kredilerinde Kredi Verenlerin Sorumluluğu Bakımından Kredi Miktarı Sınırlaması", SAÜHFD C. 12, S. 2, 2024, s. 692, dn. 47).
+Kredi verenin sorumluluğu, m. 11'deki dört seçimlik haktan yalnızca ikisine bağlanmıştır. Ücretsiz onarım ve ayıpsız misliyle değiştirme talepleri hükümde sayılmaz; bunlar m. 11/2 uyarınca satıcı, üretici ve ithalatçıya karşı ileri sürülür. Öğretide de malın teslimi gibi aynen ifa yükümlülüklerinin yalnızca satıcı veya sağlayıcıya ait olduğu, kredi verenin bunlardan sorumlu tutulamayacağı belirtilmektedir (Davut Gürses/Ecem Deveci, "Bağlı Tüketici Kredilerinde Kredi Verenlerin Sorumluluğu Bakımından Kredi Miktarı Sınırlaması", SAÜHFD C. 12, S. 2, 2024, s. 683–695, s. 692, dn. 47'de aktarılan görüş).
 
-Dönme hâlinde kalan taksitlerin akıbeti kanunda açıkça düzenlenmemiştir. Öğretide bir görüş, tüketicinin dönme beyanına kadar işlemiş faizi ödemesi gerektiğini savunur. Gürses/Deveci ise ödenmemiş bakiyenin sona erdiğini, tüketicinin bu kısım için kredi verene borçlu olmadığını kabul eder (s. 691–692). Kanaatimizce dönmeyle birlikte kredi verenin de iade borcu altına girmesi, kalan taksitlerin tahsilinin sürdürülmesiyle bağdaşmaz.
+Dönme hâlinde kalan taksitlerin akıbeti kanunda açıkça düzenlenmemiştir. Öğretide bir görüş, tüketicinin dönme beyanına kadar işlemiş faizi ödemesi gerektiğini savunur (Gürses/Deveci, s. 691, dn. 43'te aktarılan görüş). Gürses/Deveci ise ödenmemiş bakiyenin sona erdiğini, tüketicinin bu kısım için kredi verene borçlu olmadığını kabul eder (s. 692). Kanaatimizce dönmeyle birlikte kredi verenin de iade borcu altına girmesi, kalan taksitlerin tahsilinin sürdürülmesiyle bağdaşmaz.
 
 Kanun, tüketicinin kredi verene başvurmadan önce satıcıya karşı hukuki yolları tüketmiş olmasını şart koşmaz. Gürses/Deveci, 2008/48/AT sayılı AB Tüketici Kredisi Direktifinin bu yönde bir koşul öngördüğünü aktarmaktadır (s. 688, dn. 22). M. 30/4'ün lafzında böyle bir koşul bulunmadığından, kanaatimizce tüketici satıcı ve kredi vereni birlikte veya ayrı ayrı sorumlu tutabilir.
 
@@ -105,7 +105,7 @@ Sürenin başlangıcı malın teslim edilip edilmediğine göre ayrılır:
 
 Kanun bir yıllık sürenin zamanaşımı mı hak düşürücü süre mi olduğunu belirtmemiştir. Kanaatimizce bu belirsizlik karşısında güvenli yol, hakkın bir yıl dolmadan kredi verene yazılı olarak bildirilmesi ve gerekiyorsa uyuşmazlık sürecinin de bu süre içinde başlatılmasıdır.
 
-"Kullanılan kredi miktarı" ifadesinin kapsamı tartışmalıdır. Öğretideki ağırlıklı görüş ve aktarılan Yargıtay ile bölge adliye mahkemesi kararlarına göre bu kavram yalnızca tüketiciye kullandırılan anaparayı ifade eder, faizi içermez (Gürses/Deveci, s. 688–690; Dönek, s. 72–73). Karşı görüş, tüketici lehine yorum ilkesine dayanarak faiz ve masrafları da kapsama alır. Gürses/Deveci de kredi miktarını tüketicinin kredi sözleşmesinden doğan toplam asli edim borcu olarak anlamak gerektiği sonucuna varır (s. 691). Talep hesaplanırken uygulamadaki ağırlıklı yaklaşım dikkate alınmalı, faiz kısmı ayrıca gerekçelendirilmelidir.
+"Kullanılan kredi miktarı" ifadesinin kapsamı tartışmalıdır. Öğretideki ağırlıklı görüş ve aktarılan Yargıtay ile bölge adliye mahkemesi kararlarına göre bu kavram yalnızca tüketiciye kullandırılan anaparayı ifade eder, faizi içermez (Gürses/Deveci, s. 689–690; Dönek, s. 75–76). Karşı görüş, tüketici lehine yorum ilkesine dayanarak faiz ve masrafları da kapsama alır. Gürses/Deveci de kredi miktarını tüketicinin kredi sözleşmesinden doğan toplam asli edim borcu olarak anlamak gerektiği sonucuna varır (s. 690, 692). Talep hesaplanırken uygulamadaki ağırlıklı yaklaşım dikkate alınmalı, faiz kısmı ayrıca gerekçelendirilmelidir.
 
 ## Cayma hakkının bağlı krediye etkisi
 
@@ -127,7 +127,7 @@ Projeden konut satışında ayrıca m. 43/2 uygulanır. Taşınmaz kısmen veya 
 
 Araç alımlarında konut hükümleri değil m. 30 uygulanır. Bayinin anlaşmalı bankası aracılığıyla, kredi başvurusu bayide alınarak ve kredi sözleşmesine aracın marka, model ve satıcı bilgileri yazılarak kullandırılan taşıt kredileri m. 30/2'deki hâllere girer. Araç teslim edilmezse ya da ayıplı çıkarsa tüketici dönme veya bedelden indirim hakkını kullandığında banka da kredi miktarı ve bir yıllık süre sınırı içinde sorumlu olur. Araçtaki ayıba özgü konular [sıfır araçta ayıp ve değişim](/yazilar/sifir-aracta-ayip-ve-degisim/) yazısında ele alındı.
 
-Malın bir e-ticaret platformundan alındığı durumlarda satıcı ve kredi verenin yanında aracı hizmet sağlayıcının sorumluluğu da gündeme gelir. M. 48/6-(d), bedeli satıcı adına tahsil eden aracı hizmet sağlayıcının teslim ve cayma yükümlülüklerinden satıcıyla birlikte sorumluluğunu düzenler ve m. 11 ile m. 15'teki hakların kullanımını bu sorumluluğun dışında tutar. Anayasa Mahkemesi 12.2.2026 tarihli, E.2024/187, K.2026/42 sayılı kararıyla bu bentteki "ile 11 inci" ibaresini iptal etmiştir. Karar 2.6.2026 tarihli ve 33268 sayılı Resmî Gazete'de yayımlanmış, iptal hükmünün yayımdan dokuz ay sonra, yani 2.3.2027'de yürürlüğe girmesine karar verilmiştir. Bu tarihten sonra platform üzerinden yapılan alımlarda ayıplı mal talepleri bakımından aracı hizmet sağlayıcının konumu yeniden değerlendirilmelidir.
+Malın bir e-ticaret platformundan alındığı durumlarda satıcı ve kredi verenin yanında aracı hizmet sağlayıcının sorumluluğu da gündeme gelir. M. 48/6-(d), bedeli satıcı adına tahsil eden aracı hizmet sağlayıcının teslim veya ifa ile cayma hakkına ilişkin yükümlülüklerden satıcıyla birlikte müteselsilen sorumluluğunu düzenler; teslim veya ifadan sonra bedelin satıcıya aktarıldığı durumları ve m. 11 ile m. 15'teki hakların kullanımını bu sorumluluğun dışında tutar. Anayasa Mahkemesi 12.2.2026 tarihli, E.2024/187, K.2026/42 sayılı kararıyla bu bentteki "ile 11 inci" ibaresini iptal etmiştir. Karar 2.6.2026 tarihli ve 33268 sayılı Resmî Gazete'de yayımlanmış, iptal hükmünün yayımdan dokuz ay sonra, yani 2.3.2027'de yürürlüğe girmesine karar verilmiştir. Bu tarihten sonra platform üzerinden yapılan alımlarda ayıplı mal talepleri bakımından aracı hizmet sağlayıcının konumu yeniden değerlendirilmelidir.
 
 ## Usul
 
