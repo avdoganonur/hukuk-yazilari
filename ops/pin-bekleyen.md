@@ -40,3 +40,5 @@ Son planlanan pin: 15.11.2026 11:00 (garanti-sozlesmesi-ve-teminat-mektubu). Met
 - idari-yargida-istinaf-ve-temyiz (20.11)
 - bagli-kredi-sozlesmesinde-kredi-verenin-sorumlulugu (21.11)
 - bosanmada-ortak-velayet (21.11)
+- kat-malikinin-mulkiyetin-devrine-zorlanmasi (22.11)
+- performans-dusuklugu-nedeniyle-fesih (22.11)
