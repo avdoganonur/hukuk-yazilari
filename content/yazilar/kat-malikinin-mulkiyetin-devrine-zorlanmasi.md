@@ -38,7 +38,7 @@ dayanak:
     not: "Temyiz süresi"
 sss:
   - soru: "Davalı kat maliki birikmiş aidat borcunu dava sırasında öderse dava reddedilir mi?"
-    cevap: "Kanun, m. 25/3-a'daki hâli geçmişe dönük bir olguya, iki takvim yılı içinde üç defa icra veya dava takibine sebep olunmasına bağlamıştır; sonradan ödeme bu olguyu ortadan kaldırmaz. Buna karşılık m. 25/4 dava sebebinin ortadan kalkmasını düşme sebebi saymaktadır. Kanaatimizce ödeme tek başına yeterli değildir; ihlalin sürekli bir davranış biçimine dönüşüp dönüşmediği ve ödemenin bunu sona erdirip erdirmediği somut olayda tartışılacaktır."
+    cevap: "Kanun, m. 25/3-a'daki hâli geçmişe dönük bir olguya, iki takvim yılı içinde üç defa icra veya dava takibine sebep olunmasına bağlamıştır; kanaatimizce sonradan ödeme bu olguyu ortadan kaldırmaz. Buna karşılık m. 25/4 dava sebebinin ortadan kalkmasını düşme sebebi saymaktadır. Ödeme tek başına yeterli değildir; ihlalin sürekli bir davranış biçimine dönüşüp dönüşmediği ve ödemenin bunu sona erdirip erdirmediği somut olayda tartışılacaktır."
   - soru: "Kurul kararına katılmayan ya da davaya katılmak istemeyen kat malikleri ne olur?"
     cevap: "M. 25/2'ye göre karara rağmen kat maliklerinden bir kısmı davayı açmak istemezse dava öteki kat malikleri tarafından açılır. Hükümde bölümün mülkiyeti yalnızca davayı açmış olan kat maliklerine, arsa payları oranında devredilir; davaya katılmayanlar devralan ve bedel ödeyen konumuna girmez."
   - soru: "Arabuluculuk süreci altı aylık dava süresini etkiler mi?"
@@ -48,13 +48,13 @@ sss:
 ---
 634 sayılı Kat Mülkiyeti Kanunu (KMK) m. 25, kat mülkiyeti hukukunun en ağır yaptırımını düzenler. Kanuni borçlarını yerine getirmeyerek diğer kat maliklerinin haklarını onlar için çekilmez hâle gelecek derecede ihlal eden kat malikinin bağımsız bölümü, bedeli ödenmek kaydıyla, mahkeme kararıyla diğer kat maliklerine devrettirilebilir. Hüküm mülkiyet hakkına doğrudan müdahale ettiğinden, şartları dar yorumlanır ve usul hataları davanın kaderini belirler.
 
-Kısa cevap şudur: Davacı tarafın sırasıyla geçerli bir kat malikleri kurulu kararı, m. 25'te aranan çekilmezlik, dava şartı arabuluculuk, süresinde açılmış bir dava ve hâkimin vereceği sürede depo edilmiş bir devir bedeli göstermesi gerekir. Bu yazıda maddi şartlar, kurul kararı ve davacı sıfatı, bedelin tespiti ve depo, düşme süreleri ile usul ele alınmaktadır. Hâkimin müdahalesi, aidat alacağının takibi ve kurul kararlarının iptali ayrı yazılarda incelendi.
+Kısa cevap şudur: Davacı tarafın sırasıyla geçerli bir kat malikleri kurulu kararı, m. 25'te aranan çekilmezlik, dava şartı arabuluculuk, süresinde açılmış bir dava ve hâkimin vereceği sürede depo edilmiş bir devir bedeli göstermesi gerekir. Bu yazıda maddi şartlar, kurul kararı ve davacı sıfatı, bedelin tespiti ve depo, düşme süreleri ile usul ele alınmaktadır. Aidat alacağının takibi ve kurul kararlarının iptali ayrı yazılarda incelendi.
 
 ## Devir mecburiyetinin yeri ve hukuki niteliği
 
 KMK m. 25'in başlığı "Kat mülkiyetinin devri mecburiyeti"dir. Madde, kat maliklerinin m. 18 vd. hükümlerindeki borçlarına karşı öngörülen yaptırımların son halkasıdır. Kanun sistematiğinde ilk araç m. 33'teki hâkimin müdahalesidir; m. 33'ün son cümlesi "25 inci madde hükmü saklıdır" diyerek iki yolun birbirinden bağımsız olduğunu, ancak devrin daha ağır bir yaptırım olarak ayrıca düzenlendiğini gösterir. Aidat alacağı için kanuni ipotek ve icra yolları ise [apartman aidatı ödenmezse ne olur](/yazilar/apartman-aidati-odenmezse-ne-olur/) yazısında anlatıldı.
 
-Davanın sonucu, davalının bağımsız bölümünün mülkiyetinin davayı açan kat maliklerine arsa payları oranında devredilmesidir. Davacılar bölümün üçüncü kişiye satılmasını isteyemez; öğretide bu husus açıkça vurgulanmaktadır (Levent Demir, Kat Malikinin Bağımsız Bölümü Devir Mecburiyeti, Marmara Üniversitesi, yüksek lisans tezi, 2011, özet). Devir sonucunda davacılar arasında, arsa paylarıyla orantılı bir paylı mülkiyet doğar. Bu yönüyle dava, bir tazminat ya da tahliye davası değil, mülkiyetin hâkim kararıyla el değiştirmesini sağlayan bir davadır.
+Davanın sonucu, davalının bağımsız bölümünün mülkiyetinin davayı açan kat maliklerine arsa payları oranında devredilmesidir. Davacılar bölümün üçüncü kişiye satılmasını isteyemez; öğretide bu husus açıkça vurgulanmaktadır (Levent Demir, Kat Malikinin Bağımsız Bölümü Devir Mecburiyeti, Marmara Üniversitesi, tez, 2011, özet). Devir sonucunda davacılar arasında, arsa paylarıyla orantılı bir paylı mülkiyet doğar. Bu yönüyle dava, bir tazminat ya da tahliye davası değil, mülkiyetin hâkim kararıyla el değiştirmesini sağlayan bir davadır.
 
 Aynı tezin özetinde, hükmün Yargıtay tarafından yalnızca istisnai ve son derece zorunlu hâllerde uygulanabilir görüldüğü aktarılmaktadır. Uygulamada davanın kabulü için ihlalin ağırlığının ve sürekliliğinin somut delillerle ortaya konulması bu nedenle belirleyicidir.
 
@@ -74,7 +74,7 @@ M. 25/3, çekilmezliğin "her halde mevcut farz" edildiği üç durumu sayar:
 - b) Anagayrimenkulün bulunduğu yerin sulh hâkimi tarafından m. 33 gereğince verilen emre rağmen, kanundaki borç ve yükümleri yerine getirmemek suretiyle öteki kat maliklerinin haklarını ihlal etmekte devamlı olarak bir yıl ısrar edilmesi.
 - c) Kendi bağımsız bölümünü randevu evi veya kumarhane veya benzeri yer olarak kullanmak suretiyle ahlak ve adaba aykırı harekette bulunulması.
 
-Bu üç hâlden birinin ispatı, çekilmezliğin ayrıca ispatını gereksiz kılar. Sayılan hâllerin dışında kalan ağır ihlaller de m. 25/1 kapsamına girebilir; ancak bu durumda çekilmezliği davacılar ispat eder ve takdir hâkime aittir. Öğretide kanun koyucunun "belli başlı" çekilmezlik hâllerini saydığı, öngörülemeyen diğer durumlar için hâkime takdir yetkisi tanıdığı belirtilmektedir (Tuğçe Tuzcuoğlu, "Kat Mülkiyetinin Devri Mecburiyeti", On İki Levha Yayıncılık, 2018).
+Bu üç hâlden birinin ispatı, çekilmezliğin ayrıca ispatını gereksiz kılar. Sayılan hâllerin dışında kalan ağır ihlaller de m. 25/1 kapsamına girebilir; ancak bu durumda çekilmezliği davacılar ispat eder ve takdir hâkime aittir. Öğretide kanun koyucunun "belli başlı" çekilmezlik hâllerini saydığı, öngörülemeyen diğer durumlar için hâkime takdir yetkisi tanıdığı belirtilmektedir (Tuğçe Tuzcuoğlu, "Kat Mülkiyetinin Devri Mecburiyeti", Yargıtay Kararları Işığında Güncel Medeni Hukuk Problemleri Sempozyumu Bildiri Özetleri, On İki Levha Yayıncılık, 2018).
 
 ## Uygulamada tartışmalı noktalar
 
@@ -84,11 +84,11 @@ Bu üç hâlden birinin ispatı, çekilmezliğin ayrıca ispatını gereksiz kı
 
 Üçüncü tartışma, ihlalin kiracıdan kaynaklandığı durumlardır. M. 18/2 kiracıyı malikle birlikte müteselsil sorumlu tutar; ancak devir davasında devri istenen şey malikin mülkiyetidir ve davalı kat malikidir. Kanaatimizce malikin bilgisi dışında ve kısa süreli kalan bir kiracı davranışı tek başına çekilmezlik kurmaz. Malikin uyarılara ve m. 33 kararına rağmen kayıtsız kalması ise ihlali malike isnat etmeye elverişlidir.
 
-Son olarak davalı sıfatının sınırı belirtilmelidir. Öğretide hükmün sınırlı ayni hak sahiplerine karşı uygulanamayacağı görüşü savunulmaktadır (Demir, özet). Bağımsız bölümde oturma hakkı veya intifa hakkı sahibi olan kişinin davranışı bakımından m. 25'in doğrudan bu kişiye yöneltilmesi mümkün değildir.
+Son olarak davalı sıfatının sınırı belirtilmelidir. Aynı tezin özetinde, Yargıtay'ın m. 25'in sınırlı ayni hak sahiplerine karşı uygulanamayacağı görüşünde olduğu aktarılmaktadır (Demir, özet). Bu görüşe göre bağımsız bölümde oturma hakkı veya intifa hakkı sahibi olan kişinin davranışı bakımından m. 25 doğrudan bu kişiye yöneltilemez.
 
 ## Kat malikleri kurulu kararı, çoğunluk ve davacı sıfatı
 
-M. 25/2'ye göre davanın açılması, aksi kararlaştırılmış olmadıkça, diğer kat maliklerinin sayı ve arsa payı çoğunluğuyla karar vermesine bağlıdır. Öğretide bu kararın, hâkimin kendiliğinden araştırması gereken bir ön koşul olduğu belirtilmektedir (Tuzcuoğlu). Kararın iki çoğunluğu birlikte sağlaması gerekir; yalnız sayı ya da yalnız arsa payı çoğunluğu yeterli değildir.
+M. 25/2'ye göre davanın açılması, aksi kararlaştırılmış olmadıkça, diğer kat maliklerinin sayı ve arsa payı çoğunluğuyla karar vermesine bağlıdır. Öğretide bu kararın usulüne uygun alınıp alınmadığının hâkimce araştırılması gereken bir ön koşul olduğu belirtilmektedir (Tuzcuoğlu). Kararın iki çoğunluğu birlikte sağlaması gerekir; yalnız sayı ya da yalnız arsa payı çoğunluğu yeterli değildir.
 
 Lafızdaki "diğer kat maliklerinin" ibaresi, çoğunluğun davalı dışındaki kat malikleri arasında hesaplanacağını gösterir. M. 31/4 de alınacak karar doğrudan doğruya kendini ilgilendiren kat malikinin görüşmelerde hazır bulunabileceğini, fakat oya katılamayacağını öngörür. Kararın m. 32 uyarınca noter tasdikli karar defterine yazılması ve imzalanması, ispat bakımından ayrıca önemlidir.
 
@@ -117,7 +117,7 @@ M. 25/4'e göre dava hakkı, devir konusunda kat maliklerince alınan dava açma
 Sürelerin işleyişinde şu noktalar önemlidir:
 
 - Altı aylık süre, kurul kararının öğrenilmesiyle başlar. Kanaatimizce toplantıya katılıp karara oy veren davacılar bakımından öğrenme tarihi karar tarihidir.
-- Beş yıllık süre, dava hakkının doğumundan, yani çekilmezliği oluşturan olgunun tamamlandığı tarihten işler.
+- Beş yıllık süre, dava hakkının doğumundan işler; kanaatimizce bu, çekilmezliği oluşturan olgunun tamamlandığı tarihtir.
 - Dava sebebinin ortadan kalkması ayrı bir düşme sebebidir. Davalının bölümü elden çıkarması ya da ihlal edici kullanımın kesin olarak sona ermesi bu kapsamda tartışılır.
 - 6325 sayılı Kanun m. 18/A/15 uyarınca arabuluculuk bürosuna başvurulmasından son tutanağın düzenlendiği tarihe kadar geçen sürede hak düşürücü süre işlemez.
 
@@ -125,15 +125,15 @@ Hak düşürücü süre, mahkemece kendiliğinden gözetilir. Davacı vekili bu 
 
 ## Usul
 
-Görev: KMK Ek m. 1 uyarınca Kanunun uygulanmasından doğacak her türlü anlaşmazlık sulh mahkemelerinde çözümlenir. HMK m. 4/1-ç de diğer kanunların sulh hukuk mahkemesini görevlendirdiği davaların sulh hukuk mahkemesinde görüleceğini düzenler. Devir davasında görevli mahkeme, dava değerine bakılmaksızın sulh hukuk mahkemesidir; öğretide de bu husus kabul edilmektedir (Tuzcuoğlu).
+Görev: KMK Ek m. 1 uyarınca Kanunun uygulanmasından doğacak her türlü anlaşmazlık sulh mahkemelerinde çözümlenir. HMK m. 4/1-ç de diğer kanunların sulh hukuk mahkemesini görevlendirdiği davaların sulh hukuk mahkemesinde görüleceğini düzenler. Devir davasında görevli mahkeme, dava değerine bakılmaksızın sulh hukuk mahkemesidir; öğretide de görevli mahkemenin Ek m. 1 uyarınca sulh hukuk mahkemesi olduğu belirtilmektedir (Tuzcuoğlu).
 
 Yetki: Talep, taşınmaz mülkiyetinin değişmesine yöneliktir. HMK m. 12/1'e göre ayni hak sahipliğinde değişikliğe yol açabilecek davalarda taşınmazın bulunduğu yer mahkemesi kesin yetkilidir. Dava, anagayrimenkulün bulunduğu yer sulh hukuk mahkemesinde açılmalıdır.
 
-Dava şartı arabuluculuk: 7445 sayılı Kanunun 37. maddesiyle 6325 sayılı Kanuna eklenen m. 18/B/1-c, Kat Mülkiyeti Kanunundan kaynaklanan uyuşmazlıklarda dava açılmadan önce arabulucuya başvurulmasını dava şartı yapmıştır. Hüküm 1 Eylül 2023'te yürürlüğe girmiştir. Usul m. 18/A'ya tabidir:
+Dava şartı arabuluculuk: 7445 sayılı Kanunun 37. maddesiyle 6325 sayılı Kanuna eklenen m. 18/B/1-c, Kat Mülkiyeti Kanunundan kaynaklanan uyuşmazlıklarda dava açılmadan önce arabulucuya başvurulmasını dava şartı yapmıştır. Hüküm 1 Eylül 2023'te yürürlüğe girmiş olup 7445 sayılı Kanunun geçici 3. maddesi uyarınca o tarihte görülmekte olan davalara uygulanmaz. Anayasa Mahkemesi, m. 18/B'nin (1) ve (3) numaralı fıkralarına yönelik itiraz başvurusunu E.2024/161, K.2025/69 sayılı ve 6.3.2025 tarihli kararıyla reddetmiş; (1)-c bendini, bakılan davada uygulanacak kural olmadığı için incelememiştir. Usul m. 18/A'ya tabidir:
 
 - Son tutanağın aslı veya arabulucu tarafından onaylanmış örneği dava dilekçesine eklenir. Eklenmezse bir haftalık kesin süre verilir; ihtarın gereği yerine getirilmezse dava usulden reddedilir (m. 18/A/2).
 - Arabulucuya hiç başvurulmadan dava açıldığı anlaşılırsa dava, dava şartı yokluğu sebebiyle usulden reddedilir (m. 18/A/2).
-- Arabulucu başvuruyu görevlendirildiği tarihten itibaren üç hafta içinde sonuçlandırır; bu süre en çok bir hafta uzatılabilir (m. 18/A/9).
+- Arabulucu başvuruyu görevlendirildiği tarihten itibaren üç hafta içinde sonuçlandırır; bu süre zorunlu hâllerde arabulucu tarafından en fazla bir hafta uzatılabilir (m. 18/A/9).
 
 Arabuluculukta tarafların bölümün devri konusunda anlaşması hâlinde m. 18/B/2 ve 3 ayrıca uygulanır. Anlaşma belgesi taşınmazla ilgili kanuni sınırlamalar ile usul ve esaslar gözetilerek düzenlenir. Belgenin icra edilebilirliğine ilişkin şerhin alınması zorunludur ve şerh taşınmazın bulunduğu yer sulh hukuk mahkemesinden alınır.
 
