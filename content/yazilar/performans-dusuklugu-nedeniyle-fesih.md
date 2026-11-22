@@ -46,7 +46,7 @@ Bu yazı, yetersizlik ve verim gerekçesinin maddi şartlarına ve dosyanın nas
 
 Kanaatimizce yeterlilik, işçinin işin gerektirdiği bilgi, beceri ve iş görme kapasitesine sahip olup olmadığına ilişkindir. Davranış ise işçinin iradi tutumunu, iş sözleşmesinden doğan borçlara aykırı hareketini ifade eder. Bu ayrım pratik bir sonuç doğurur: yetersizlik gerekçesinde tartışma işçinin kusuru üzerinden değil, ölçülebilir sonuçlar ve işverenin sunduğu imkânlar üzerinden yürür. İşçinin kendi yetersizliğini fark edemeyebileceği, bu yüzden işverenin önce bildirme ve geliştirme yükü altında olduğu öğretide de vurgulanmaktadır.
 
-Yeterlilik gerekçesi sağlık nedeniyle düşen verime dayanıyorsa m. 18/3'e ayrıca bakılmalıdır. Hastalık veya kaza nedeniyle 25. maddenin (I) numaralı bendinin (b) alt bendinde öngörülen bekleme süresinde işe geçici devamsızlık, geçerli sebep oluşturmaz (m. 18/3-f). Bekleme süresi içindeki rapor dönemleri bu yüzden performans hesabına "düşük sonuç" olarak katılmamalıdır.
+Yeterlilik gerekçesi sağlık nedeniyle düşen verime dayanıyorsa m. 18/3'e ayrıca bakılmalıdır. Hastalık veya kaza nedeniyle 25. maddenin (I) numaralı bendinin (b) alt bendinde öngörülen bekleme süresinde işe geçici devamsızlık, geçerli sebep oluşturmaz (m. 18/3-f). Kanaatimizce bekleme süresi içindeki rapor dönemleri bu yüzden performans hesabına "düşük sonuç" olarak katılmamalıdır.
 
 ## Performans düşüklüğü ile 25/II arasındaki sınır
 
