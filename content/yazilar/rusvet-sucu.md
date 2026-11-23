@@ -57,7 +57,7 @@ sss:
   - soru: "Rüşvet soruşturmasında iletişimin dinlenmesi ve teknik takip mümkün mü?"
     cevap: "Evet. Rüşvet, CMK m. 135'teki iletişimin tespiti, dinlenmesi ve kayda alınması tedbiri ile m. 140'taki teknik araçlarla izleme tedbirinin katalogunda yer alır. Taşınmazlara, hak ve alacaklara el koymayı düzenleyen m. 128'deki listede de sayılmıştır. Tedbirin hukuka uygunluğu için katalogda yer almak yetmez; maddelerdeki diğer şartların ve karar usulünün de denetlenmesi gerekir."
   - soru: "Rüşvet suçunda HAGB veya erteleme mümkün mü?"
-    cevap: "Temel hâlde alt sınır dört yıl olduğundan, takdiri indirimle bile sonuç ceza iki yılın üzerinde kalır ve HAGB ile erteleme kural olarak gündeme gelmez. TCK m. 252/4'teki yarı oranında indirim uygulandığında ise sonuç ceza iki yılın altına inebilir; bu durumda CMK m. 231 ve TCK m. 51'deki diğer şartlar ayrıca değerlendirilir."
+    cevap: "Temel hâlde alt sınır dört yıl olduğundan, takdiri indirimle bile sonuç ceza iki yılın üzerinde kalır ve HAGB ile erteleme kural olarak gündeme gelmez. TCK m. 252/4'teki yarı oranında indirim uygulandığında ise alt sınırdan belirlenen ceza iki yıla iner ve iki yıl veya daha az hapis cezası eşiği içinde kalır; bu durumda CMK m. 231 ve TCK m. 51'deki diğer şartlar ayrıca değerlendirilir."
 ---
 Rüşvet dosyalarının çoğu, bir ihbar, bir iletişim tespiti ya da bir müfettiş incelemesiyle başlar ve ilk ifade alınmadan önce el koyma, dinleme ve teknik takip kararları dosyada birikmiş olur. Türk Ceza Kanunu'nun 252. maddesi 6352 sayılı Kanunla 2012'de baştan yazılmıştır ve bugünkü metin, rüşvet veren ile alanı aynı ceza aralığına bağlayan, anlaşmayı tamamlanmış suç gibi cezalandıran ve kamu görevlisi olmayan kişileri de belirli kuruluşlar bakımından kapsama alan geniş bir düzenlemedir.
 
@@ -80,7 +80,7 @@ Rüşvet öğretide çok failli bir suç olarak değerlendirilir. Rüşvet veren
 
 Dördüncü fıkra, karşı tarafın kabul etmediği girişimleri ayrıca düzenler. Kamu görevlisinin rüşvet talebinde bulunması ve fakat bunun kişi tarafından kabul edilmemesi ya da kişinin kamu görevlisine menfaat temini konusunda teklif veya vaatte bulunması ve fakat bunun kamu görevlisi tarafından kabul edilmemesi hâllerinde fail hakkında, birinci ve ikinci fıkra hükümlerine göre verilecek ceza yarı oranında indirilir.
 
-Bu fıkranın niteliği öğretide tartışmalıdır. Bir görüş hükmü teşebbüse ilişkin özel bir düzenleme olarak görür, diğer görüş bağımsız bir suç tipi olarak değerlendirir (Poyraz, 2021). Tartışmanın uygulamaya etkisi, ayrıca TCK m. 35'e göre teşebbüs indirimi yapılıp yapılamayacağı sorusunda ortaya çıkar. Kanaatimizce lafız, yarı oranındaki indirimi bu hâl için öngörülmüş sabit bir sonuç olarak kurduğundan, aynı fiile ayrıca teşebbüs indirimi uygulanması savunulamaz.
+Bu fıkranın niteliği öğretide tartışmalıdır. Bir görüş hükmü teşebbüse ilişkin özel bir düzenleme olarak görür, diğer görüş bağımsız bir suç tipi olarak değerlendirir (Poyraz, 2021). Tartışmanın uygulamaya etkisi, ayrıca TCK m. 35'e göre teşebbüs indirimi yapılıp yapılamayacağı sorusunda ortaya çıkar. Kanaatimizce lafız, yarı oranındaki indirimi bu hâl için öngörülmüş sabit bir sonuç olarak kurduğundan, aynı fiile ayrıca teşebbüs indirimi uygulanmamalıdır; öğretide de hükmün bu hâlde TCK m. 35'in uygulanmasını dışladığı belirtilmektedir (Poyraz, 2021, s. 247).
 
 Teklif ile anlaşma arasındaki sınır, dosyanın en önemli tartışmasıdır. Teklifin reddedilmesi m. 252/4'e, kabulü m. 252/3'e götürür. Ceza bakımından fark yarı oranındadır ve bu fark, aşağıda görüleceği gibi HAGB ve erteleme imkânını doğrudan belirler.
 
@@ -89,7 +89,7 @@ Beşinci ve altıncı fıkralar suça katılan diğer kişileri müşterek fail 
 - Rüşvet teklif veya talebinin karşı tarafa iletilmesi, rüşvet anlaşmasının sağlanması veya rüşvetin temini hususlarında aracılık eden kişi, kamu görevlisi sıfatını taşıyıp taşımadığına bakılmaksızın, müşterek fail olarak cezalandırılır.
 - Rüşvet ilişkisinde dolaylı olarak kendisine menfaat sağlanan üçüncü kişi veya tüzel kişinin menfaati kabul eden yetkilisi de, kamu görevlisi sıfatını taşıyıp taşımadığına bakılmaksızın, müşterek fail olarak cezalandırılır.
 
-Aracının sorumluluğu bakımından kanun kamu görevlisi sıfatı aramaz. Bu nedenle özgü suçlarda iştiraki düzenleyen TCK m. 40/2'deki sınırlama, yani sıfatı taşımayanın yalnızca azmettiren veya yardım eden olabilmesi, aracı bakımından uygulanmaz. Altıncı fıkrada ise "dolaylı olarak" ve "menfaati kabul eden" unsurları birlikte aranır; menfaatin üçüncü kişiye ulaştığını bilmeyen ya da kabul etmeyen kişi bu hükümle sorumlu tutulamaz.
+Aracının sorumluluğu bakımından kanun kamu görevlisi sıfatı aramaz. Bu nedenle özgü suçlarda iştiraki düzenleyen TCK m. 40/2'deki sınırlama, yani sıfatı taşımayanın yalnızca azmettiren veya yardım eden olabilmesi, aracı bakımından uygulanmaz. Altıncı fıkrada "menfaati kabul eden" unsuru lafız gereği tüzel kişinin yetkilisi bakımından aranır; üçüncü kişi bakımından ise rüşvet ilişkisinde dolaylı olarak kendisine menfaat sağlanmış olması yeterli görünmektedir. Kanaatimizce menfaatin rüşvet ilişkisi dolayısıyla kendisine sağlandığını bilmeyen üçüncü kişi, kast yokluğu nedeniyle bu hükümle sorumlu tutulamaz.
 
 ## Nitelikli hâl ve kamu görevlisi dışındaki kişiler
 
@@ -123,11 +123,11 @@ TCK m. 254, aşamalı indirim değil, cezasızlık sonucu doğuran bir etkin pi�
 
 Belirleyici olan, resmî makamların durumu öğrendiği andır. İhbar tarihi, kolluk tutanağı, iletişim tespiti kararının tarihi ve kişinin başvuru tarihi dosyada saat düzeyinde karşılaştırılmalıdır. Kişinin başvurusundan önce hakkında dinleme kararı verilmişse durum artık öğrenilmiş sayılabileceğinden, etkin pişmanlık savunmasının bu kronolojiye dayanması gerekir.
 
-Nitelendirme bakımından iki komşu hükümle ayrım sık yapılır. Nüfuz ticaretinde (TCK m. 255) menfaat, kamu görevlisinin kendisine değil, kamu görevlisi üzerinde nüfuz sahibi olduğundan bahisle haksız bir işin gördürülmesi amacıyla girişimde bulunacak kişiye sağlanır. İrtikapta (TCK m. 250) ise kamu görevlisi, görevinin sağladığı nüfuzu kötüye kullanarak kişiyi yarar sağlamaya icbar eder; iradeler arasında serbest bir anlaşma değil, baskı vardır. Kanun irtikapta yalnızca icbar eden kamu görevlisini fail olarak tanımlar. Bu yüzden menfaat verenin savunmasında baskı unsurunun somut olgularla ortaya konulması, nitelendirmeyi baştan değiştirebilir. Görevi kötüye kullanma ile ilişki için [görevi kötüye kullanma suçu](/yazilar/gorevi-kotuye-kullanma-sucu/) yazısına bakılabilir.
+Nitelendirme bakımından iki komşu hükümle ayrım sık yapılır. Nüfuz ticaretinde (TCK m. 255) menfaat, kamu görevlisinin kendisine değil, kamu görevlisi üzerinde nüfuz sahibi olduğundan bahisle haksız bir işin gördürülmesi amacıyla girişimde bulunacak kişiye sağlanır. İrtikapta (TCK m. 250) ise kamu görevlisi, görevinin sağladığı nüfuzu kötüye kullanarak kişiyi yarar sağlamaya icbar eder; iradeler arasında serbest bir anlaşma değil, baskı vardır. Kanun irtikapta yalnızca kamu görevlisini fail olarak tanımlar; yarar sağlamaya icbar edilen kişi fail değildir. Bu yüzden menfaat verenin savunmasında baskı unsurunun somut olgularla ortaya konulması, nitelendirmeyi baştan değiştirebilir. Görevi kötüye kullanma ile ilişki için [görevi kötüye kullanma suçu](/yazilar/gorevi-kotuye-kullanma-sucu/) yazısına bakılabilir.
 
 ## Müsadere ve tüzel kişiler
 
-Rüşvet konusu menfaat kazanç müsaderesine tabidir. TCK m. 55/1'e göre suçun işlenmesi ile elde edilen veya suçun konusunu oluşturan ya da suçun işlenmesi için sağlanan maddi menfaatler ile bunların değerlendirilmesi veya dönüştürülmesi sonucu ortaya çıkan ekonomik kazançların müsaderesine karar verilir. Öğretide rüşvet veren tarafından sağlanan paranın "suçun işlenmesi için sağlanan maddi menfaat" niteliğiyle müsadere edildiği, bu yönde Yargıtay kararlarının da bulunduğu aktarılmaktadır (Öndeş, SÜHFD C. 34 S. 2, 2026).
+Rüşvet konusu menfaatin müsaderesi TCK m. 54 ve 55 çerçevesinde değerlendirilir. TCK m. 55/1'e göre suçun işlenmesi ile elde edilen veya suçun konusunu oluşturan ya da suçun işlenmesi için sağlanan maddi menfaatler ile bunların değerlendirilmesi veya dönüştürülmesi sonucu ortaya çıkan ekonomik kazançların müsaderesine karar verilir. Öğretide rüşvet veren tarafından sağlanan paranın "suçun işlenmesi için sağlanan maddi menfaat" niteliğiyle müsadere edileceği savunulmaktadır; aynı çalışmada aktarılan Yargıtay kararlarında ise bu nitelikteki rüşvet parasının müsaderesine TCK m. 54/1 uyarınca hükmedildiği görülmektedir (Öndeş, SÜHFD C. 34 S. 2, 2026, s. 605). Müsadere talebine karşı savunmada dayanılan hükmün açıkça tartışılması bu nedenle önemlidir.
 
 Rüşvetin konusu olmayan ama suçta kullanılan eşya bakımından ise TCK m. 54 uygulanır; iyiniyetli üçüncü kişilere ait eşya müsadere edilemez. Eşya ve kazanç müsaderesinin ayrıntıları ile ayrı müsadere usulü için [ceza hukukunda eşya ve kazanç müsaderesi](/yazilar/suc-esyasinin-musaderesi/) yazısına bakılabilir.
 
@@ -155,13 +155,13 @@ HAGB, 7589 sayılı Kanunla değişik CMK m. 231 uyarınca diğer şartların ya
 
 Eşik hesabı nitelendirmeyle doğrudan bağlantılıdır. Örnek (gerçek bir dosyaya dayanmayan hesap):
 
-| Nitelendirme | Temel ceza | TCK m. 62 indirimi (altıda bir) sonrası |
+| Nitelendirme | Temel ceza (alt sınırdan) | TCK m. 62 indirimi altıda bir oranında uygulandığında |
 |---|---|---|
 | m. 252/1 veya 252/3 (anlaşma) | 4 yıl | 3 yıl 4 ay |
 | m. 252/4 (kabul edilmeyen teklif) | 4 yıl, yarı indirimle 2 yıl | 1 yıl 8 ay |
 | m. 252/7 (noter, bilirkişi vb.) | 4 yıl, üçte bir artırımla 5 yıl 4 ay | 4 yıl 5 ay 10 gün |
 
-Tablodan görüldüğü gibi alt sınırdan ceza belirlense bile temel hâlde HAGB ve erteleme eşiğine inilemez. Kabul edilmeyen teklif hâlinde ise eşiğin altına inilebilir. Mahkûmiyetin memuriyete etkisi de ayrıca ağırdır: 657 sayılı Kanun m. 48/A-5, TCK m. 53'teki süreler geçmiş olsa bile rüşvet suçundan mahkûm olmamayı memurluğa alınmanın genel şartları arasında sayar ve bu sayımda ceza miktarı aranmaz.
+Artırım ve indirimler TCK m. 61'deki sıraya göre yapılır; m. 62'deki takdiri indirim en son uygulanır ve oranı kanunda "altıda birine kadar" olarak belirlenmiştir. Tablodan görüldüğü gibi alt sınırdan ceza belirlense bile temel hâlde HAGB ve erteleme eşiğine inilemez. Kabul edilmeyen teklif veya talep hâlinde ise alt sınırdan belirlenen ceza yarı indirimle iki yıla iner; bu sonuç iki yıl veya daha az hapis cezası eşiği içinde kaldığından HAGB ve erteleme takdiri indirim uygulanmasa da değerlendirilebilir. Mahkûmiyetin memuriyete etkisi de ayrıca ağırdır: 657 sayılı Kanun m. 48/A-5, TCK m. 53'teki süreler geçmiş olsa bile rüşvet suçundan mahkûm olmamayı memurluğa alınmanın genel şartları arasında sayar ve bu sayımda ceza miktarı aranmaz.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
@@ -172,7 +172,7 @@ Savunma ve itiraz dilekçelerinde şu noktalar ele alınmalıdır:
 - Menfaat ile görevin ifasıyla ilgili iş arasındaki bağlantının somut olarak kurulup kurulmadığı,
 - Anlaşmanın varlığı; kayıtların anlaşmayı mı yoksa kabul edilmemiş bir teklif veya talebi mi gösterdiği (m. 252/3 – 252/4 ayrımı),
 - Aracı olduğu ileri sürülen kişinin teklifi iletme, anlaşmayı sağlama ya da rüşveti temin etme hareketlerinden birini gerçekleştirip gerçekleştirmediği,
-- Dolaylı menfaat iddiasında üçüncü kişinin veya tüzel kişi yetkilisinin menfaati kabul edip etmediği,
+- Dolaylı menfaat iddiasında üçüncü kişinin menfaatin rüşvet ilişkisinden kaynaklandığını bilip bilmediği, tüzel kişi yetkilisinin ise menfaati kabul edip etmediği,
 - Kamu görevlisi olmayan fail bakımından kuruluşun m. 252/8'deki sınırlı sayıma girip girmediği,
 - Fiilin nüfuz ticareti ya da irtikap olarak nitelendirilmesi gerekip gerekmediği ve icbar unsurunun varlığı,
 - İletişim tespiti ve teknik takip kararlarının kapsamı, süresi ve tarihleri,
