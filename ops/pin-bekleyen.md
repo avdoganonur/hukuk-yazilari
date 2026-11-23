@@ -42,3 +42,5 @@ Son planlanan pin: 15.11.2026 11:00 (garanti-sozlesmesi-ve-teminat-mektubu). Met
 - bosanmada-ortak-velayet (21.11)
 - kat-malikinin-mulkiyetin-devrine-zorlanmasi (22.11)
 - performans-dusuklugu-nedeniyle-fesih (22.11)
+- rusvet-sucu (23.11)
+- ifa-imkansizligi-ve-borcun-sona-ermesi (23.11)
