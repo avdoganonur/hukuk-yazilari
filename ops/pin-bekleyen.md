@@ -44,3 +44,5 @@ Son planlanan pin: 15.11.2026 11:00 (garanti-sozlesmesi-ve-teminat-mektubu). Met
 - performans-dusuklugu-nedeniyle-fesih (22.11)
 - rusvet-sucu (23.11)
 - ifa-imkansizligi-ve-borcun-sona-ermesi (23.11)
+- vergi-kacakciligi-suclari (24.11)
+- hukuk-davasinda-tanik-delili (24.11)
