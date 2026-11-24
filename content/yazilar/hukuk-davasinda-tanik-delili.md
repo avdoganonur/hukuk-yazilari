@@ -74,7 +74,7 @@ dayanak:
     not: "Delil ikamesi için avans"
 sss:
   - soru: "Dilekçede yalnız tanık deliline dayanılmışsa, isimler hangi aşamada bildirilir?"
-    cevap: "Kanunda tanık listesinin verileceği aşamayı açıkça gösteren bir hüküm yoktur. Öğretide ağırlıklı görüş, dilekçede tanık deliline dayanmanın yeterli olduğunu, listenin çekişmeli vakıalar belirlendikten sonra mahkemenin verdiği kesin sürede sunulacağını kabul eder. HMK m. 139 uyarınca ön inceleme davetiyesiyle verilen iki haftalık kesin sürenin tanık listesini de kapsayıp kapsamadığı tartışmalı olduğundan, davetiyedeki ihtarın lafzı mutlaka okunmalı ve şüphe varsa liste o süre içinde verilmelidir."
+    cevap: "Kanunda tanık listesinin verileceği aşamayı açıkça gösteren bir hüküm yoktur. Tanık deliline dilekçeler aşamasında açıkça dayanılması gerekir; liste ise mahkemenin verdiği kesin sürede sunulur. Öğretide bu sürenin en erken ön inceleme aşamasında verilmesi gerektiğini savunan görüşler yanında, sürenin ön inceleme davetiyesiyle verilmesinin daha doğru olacağı da savunulmaktadır. HMK m. 139 uyarınca ön inceleme davetiyesiyle verilen iki haftalık kesin sürenin tanık listesini de kapsayıp kapsamadığı tartışmalı olduğundan, davetiyedeki ihtarın lafzı mutlaka okunmalı ve şüphe varsa liste o süre içinde verilmelidir."
   - soru: "Listede adı olmayan tanık duruşmada hazır edilirse dinlenir mi?"
     cevap: "Kural olarak hayır; HMK m. 240/2 listede gösterilmeyen kişilerin tanık olarak dinlenemeyeceğini öngörür. HMK m. 243/1 ise tanık listesi için kesin süre verilip dinlenme günü belirlenmişse, liste verilmemiş olsa bile o duruşmada hazır bulundurulan tanıkların dinleneceğini düzenler. Öğretide bu imkânın ikinci liste yasağının istisnası olmadığı, yalnız hiç liste verilmemiş hâlde kullanılabileceği belirtilmektedir."
   - soru: "Davacının kardeşi tanıklıktan çekinebilir mi, çekinirse ne olur?"
@@ -147,11 +147,11 @@ Hâkim, tanığın yalan söylediği veya menfaat temin ederek tanıklık ettiğ
 
 ## Dinleme yeri, istinabe ve ses-görüntü aktarımı
 
-Tanıklar kural olarak davaya bakan mahkemede dinlenir (m. 259/1). Gerçeğin ortaya çıkması için gerekliyse mahkeme tanığın olayın gerçekleştiği veya şeyin bulunduğu yerde dinlenmesine karar verebilir; hasta veya engelli olduğu için gelemeyen tanık bulunduğu yerde dinlenir (m. 259/2-3). Yargı çevresi dışındaki tanık, bulunduğu yer mahkemesince istinabe yoluyla dinlenebilir. Tanığın nerede, hangi gün ve saatte dinleneceği talepleri hâlinde taraflara tebliğ edilir; tanığa hangi hususların sorulacağını davaya bakan hâkim belirler (m. 259/4; ayrıca m. 197/2).
+Tanıklar kural olarak davaya bakan mahkemede dinlenir (m. 259/1). Gerçeğin ortaya çıkması için gerekliyse mahkeme tanığın olayın gerçekleştiği veya şeyin bulunduğu yerde dinlenmesine karar verebilir; hasta veya engelli olduğu için gelemeyen tanık bulunduğu yerde dinlenir (m. 259/2-3). Yargı çevresi dışındaki tanık, bulunduğu yer mahkemesince istinabe yoluyla dinlenebilir. Tanığın nerede, hangi gün ve saatte dinleneceği talepleri hâlinde taraflara tebliğ edilir; tanığa hangi hususların sorulacağını davaya bakan hâkim belirler (m. 259/4; ayrıca m. 197/2-3).
 
-İstinabede beyanı alan hâkim tanığı görmüş, hükmü kuracak hâkim görmemiş olur. Çelişkili tanık beyanlarının esas olduğu dosyalarda bu ciddi bir dezavantajdır. 7251 sayılı Kanunla değişik HMK m. 149/2, mahkemeye resen veya taraflardan birinin talebi üzerine tanığın, bilirkişinin veya uzmanın ses ve görüntü nakli yoluyla bulundukları yerden dinlenmesine karar verme yetkisi tanır. Öğretide, değişiklikten önceki metinde aranan tarafların rızası şartının yeni metinde bulunmadığı belirtilmektedir. 7589 sayılı Kanunla m. 149'a eklenen yeni fıkra, ses ve görüntü nakli yoluyla katılanlar hakkında elle atılan imzaya ilişkin hükümlerin, kanunda sayılan istisnalar dışında uygulanmayacağını düzenler.
+İstinabede beyanı alan hâkim tanığı görmüş, hükmü kuracak hâkim görmemiş olur. Çelişkili tanık beyanlarının esas olduğu dosyalarda bu ciddi bir dezavantajdır. 7251 sayılı Kanunla değişik HMK m. 149/2, mahkemeye resen veya taraflardan birinin talebi üzerine tanığın, bilirkişinin veya uzmanın ses ve görüntü nakli yoluyla bulundukları yerden dinlenmesine karar verme yetkisi tanır. Değişiklikten önceki metinde aranan tarafların rızası şartı yeni metinde yer almamaktadır. 7589 sayılı Kanunla m. 149'a eklenen yeni fıkra, ses ve görüntü nakli yoluyla katılanlar hakkında elle atılan imzaya ilişkin hükümlerin, kanunda sayılan istisnalar dışında uygulanmayacağını düzenler.
 
-Kanaatimizce istinabe talimatında soruların vakıa bazında ve açıkça yazılması, istinabe mahkemesinin tanığa yalnız "bildiklerini anlat" demesiyle yetinmesini önler. Taraflar istinabe yoluyla dinlemenin gün ve saatinin kendilerine tebliğini açıkça talep etmezse, dinlemede hazır bulunma imkânını kaybedebilir.
+Kanaatimizce istinabe talimatında soruların vakıa bazında ve açıkça yazılması, istinabe mahkemesinin tanığa yalnız "bildiklerini anlat" demesiyle yetinmesini önler. m. 197/3 taraflara inceleme tarih ve yerinin bildirileceğini genel olarak öngörse de m. 259/4 tanık bakımından tebliği talebe bağladığından, gün ve saatin tebliğinin açıkça talep edilmesi kanaatimizce yerinde olur.
 
 ## Tanık beyanının değerlendirilmesi ve senetle ispat sınırı
 
@@ -187,7 +187,7 @@ Sık yapılan hatalar şunlardır:
 
 - Listeye tanığın dinleneceği vakıanın yazılmaması veya bütün tanıkların "davanın tüm vakıaları" için gösterilmesi,
 - Adresin eksik ya da eski yazılması ve m. 240/3 uyarınca verilen kesin sürenin kaçırılması,
-- Dilekçede isim bildirilip sonra kesin süre içinde verilen listede yeni isim eklenmesi; ikinci liste itirazına açıktır,
+- Dilekçede isim bildirilip sonra kesin süre içinde verilen listede yeni isim eklenmesi; öğretide bunun ikinci liste sayılmayacağı savunulsa da itiraz riski taşır,
 - Ön inceleme davetiyesindeki ihtarın yalnız belgeleri kapsadığı varsayımıyla tanık listesinin geciktirilmesi,
 - Tanık avansının kesin sürede yatırılmaması,
 - Senetle ispat sınırını aşan işlemde, karşı tarafın tanık dinlenmesine açıkça itiraz etmesine rağmen delil başlangıcı veya m. 203 istisnası gösterilmeden tanık deliline dayanılması,
