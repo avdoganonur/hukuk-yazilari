@@ -15,13 +15,13 @@ dayanak:
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 62"
     not: "Haksız ticari uygulama yasağı, genel ölçüt, ispat yükü, reklam yoluyla yapılan uygulama"
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 63"
-    not: "Reklam Kurulu: inceleme, denetim ve yaptırım yetkisi; kararların Bakanlıkça uygulanması ve açıklanması"
+    not: "Reklam Kurulu: inceleme, denetim ve yaptırım yetkisi; içeriğin çıkarılması ve erişimin engellenmesi (7511); Kurul yapısı (7587)"
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 73"
     not: "Tüketici mahkemesinin görevi, harç muafiyeti, yargılama usulü ve yetki"
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 73/A"
     not: "Dava şartı olarak arabuluculuk"
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 77"
-    not: "İdari yaptırımlar; 12. fıkra reklam, 13. fıkra haksız ticari uygulama"
+    not: "Yaptırım hükümleri; 12. fıkra reklam ve internette içerik çıkarma/erişim engeli, 13. fıkra haksız ticari uygulama"
   - ad: "6502 sayılı Tüketicinin Korunması Hakkında Kanun m. 78"
     not: "Cezalarda yetki ve itiraz: idari yargı, otuz günlük dava süresi, ödeme süresi"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 36"
@@ -31,9 +31,11 @@ dayanak:
     not: "Korkutma"
   - ad: "6098 sayılı Türk Borçlar Kanunu m. 39"
     not: "İrade bozukluğunun giderilmesi: bir yıllık süre, tazminat hakkının saklılığı"
+  - ad: "6102 sayılı Türk Ticaret Kanunu m. 54"
+    not: "Haksız rekabetin genel ilkesi"
+    baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5"
   - ad: "6102 sayılı Türk Ticaret Kanunu m. 55"
     not: "Dürüstlük kuralına aykırı davranış ve uygulamalar"
-    baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5"
   - ad: "6102 sayılı Türk Ticaret Kanunu m. 56"
     not: "Haksız rekabet davaları; müşterilerin dava hakkı"
   - ad: "6102 sayılı Türk Ticaret Kanunu m. 60"
@@ -75,7 +77,7 @@ Yönetmelik m. 4'teki tanımlar uygulamada sık başvurulan kavramlardır. Haks�
 
 M. 61/2'ye göre ticari reklamlar Reklam Kurulunca belirlenen ilkelere, genel ahlaka, kamu düzenine ve kişilik haklarına uygun, doğru ve dürüst olmalıdır. M. 61/3 tüketiciyi aldatıcı veya onun tecrübe ve bilgi noksanlıklarını istismar edici reklamları yasaklar. Can ve mal güvenliğini tehlikeye düşüren, şiddeti ve suç işlemeyi özendiren, kamu sağlığını bozan, hasta, yaşlı, çocuk ve engellileri istismar eden reklamlar da aynı yasağın kapsamındadır.
 
-Örtülü reklam m. 61/4 ile yasaktır. Yönetmelik m. 4'e göre örtülü reklam, reklam olduğu açıkça belirtilmeden yazı, haber, yayın ve programlarda mal veya hizmete ait isim, marka, logo veya ticaret unvanı gibi unsurların reklam amacıyla ve tanıtıcı nitelikte yer almasıdır. Karşılaştırmalı reklam ise aynı ihtiyacı karşılayan rakip mal ve hizmetler için m. 61/5 uyarınca serbesttir.
+Örtülü reklam m. 61/4 ile yasaktır. Yönetmelik m. 4'e göre örtülü reklam, reklam olduğu açıkça belirtilmeden yazı, haber, yayın ve programlarda mal veya hizmete ait isim, marka, logo veya ticaret unvanı gibi unsurların reklam amacıyla ve tanıtıcı nitelikte yer almasıdır. Aynı ihtiyacı karşılayan rakip mal veya hizmetlerin karşılaştırmalı reklamı ise m. 61/5 uyarınca yapılabilir.
 
 Usul bakımından en önemli hüküm m. 61/6'dır: reklam verenler, ticari reklamlarında yer alan iddiaların doğruluğunu ispatla yükümlüdür. M. 61/7, reklam verenler, reklam ajansları ve mecra kuruluşlarını bu kurallara uymakla yükümlü tutar.
 
@@ -89,7 +91,7 @@ Yönetmelik m. 28 genel ölçütü üç noktada somutlaştırır:
 - Ortalama tüketicinin bilinçli karar verme yeteneği azaltılarak normalde taraf olmayacağı bir işleme girmesi sağlanıyorsa ekonomik davranışı önemli ölçüde bozulmuş sayılır (m. 28/2).
 - Zihinsel veya fiziksel zayıflık, yaş ya da tecrübesizlik nedeniyle özel koruma gerektiren gruplarda değerlendirme o grubun ortalama üyesi esas alınarak yapılır (m. 28/3).
 
-Genel ölçütün iki unsuru birlikte aranır. Öğretide ortalama tüketicinin bilgili, dikkatli ve ihtiyatlı bir kişi olarak varsayıldığı ve mesleki özen kavramının dürüstlük kuralını da kapsayan daha geniş bir kavram olduğu belirtilmektedir (Mehmet Ali Aksoy, "2005/29/AT Haksız Ticari Uygulamalar Direktifinde Düzenlenen Haksız Rekabet Halleri ve Uygulama Örnekleri", İÜHFM C. LXXIII, S. 1, 2015, s. 279–318, s. 287–297).
+Genel ölçütün iki unsuru birlikte aranır. Öğretide ortalama tüketicinin bilgili, dikkatli ve ihtiyatlı bir kişi olarak varsayıldığı ve mesleki özen kavramının dürüstlük kuralını da kapsayan daha geniş bir kavram olduğu belirtilmektedir (Mehmet Ali Aksoy, "2005/29/AT Haksız Ticari Uygulamalar Direktifinde Düzenlenen Haksız Rekabet Halleri ve Uygulama Örnekleri", İÜHFM C. LXXIII, S. 1, 2015, s. 279–318, s. 289, 296).
 
 M. 62/2 ispat yükünü uygulamacıya yükler: bir uygulamanın haksız olduğu ileri sürüldüğünde, uygulamayı yapan haksız olmadığını ispatlamalıdır. Öğretide bu kuralın tüketici lehine bir ispat yükü düzenlemesi olduğu vurgulanmaktadır (Ebru Ceylan, "Tüketici Hukukunda Haksız Ticari Uygulamalar ve Uygulama Örnekleri", Uyuşmazlık Mahkemesi Dergisi, Y. 8, S. 15, 2020, s. 123–147, s. 142). Uygulama reklam yoluyla yapılmışsa m. 62/3 uyarınca m. 61 hükümleri uygulanır.
 
@@ -99,7 +101,7 @@ Yönetmelik m. 29 aldatıcı eylemleri düzenler. Bilgi yanlış olabileceği gi
 
 M. 30 aldatıcı ihmali düzenler. Önemli bilginin gizlenmesi, anlaşılmaz ya da uygunsuz zamanda sunulması veya ticari amacın belirtilmemesi bu kapsamdadır. İletişim aracının zaman ve mekân sınırları varsa değerlendirme bu sınırlar ve bilginin başka araçlarla sunulması için alınan önlemler dikkate alınarak yapılır (m. 30/2).
 
-M. 31'e göre taciz, fiziksel şiddet, cebir veya haksız tesir yoluyla ortalama tüketicinin seçim ve davranış özgürlüğünü önemli ölçüde bozan uygulama saldırgandır. Değerlendirmede uygulamanın zamanı, yeri, niteliği ve sürekliliği, tehdit veya hakaret içeren söz ya da davranışlar, tüketicinin muhakemesini bozan bir felaketin kötüye kullanılması, sözleşmeyi feshetme veya başka bir sağlayıcıya yönelme hakkına karşı konulan ağır ve orantısız sözleşme dışı engeller ile hukuka aykırı bir eylem tehdidi gözetilir (m. 31/2).
+M. 31'e göre taciz, fiziksel şiddet dâhil cebir veya haksız tesir yoluyla ortalama tüketicinin seçim ve davranış özgürlüğünü önemli ölçüde bozan uygulama saldırgandır. Değerlendirmede uygulamanın zamanı, yeri, niteliği ve sürekliliği, tehdit veya hakaret içeren söz ya da davranışlar, tüketicinin muhakemesini bozan bir felaketin kötüye kullanılması, sözleşmeyi feshetme veya başka bir sağlayıcıya yönelme hakkına karşı konulan ağır ve orantısız sözleşme dışı engeller ile hukuka aykırı bir eylem tehdidi gözetilir (m. 31/2).
 
 Yönetmelik m. 28/4'e göre m. 29–31'deki uygulamalar ile Ek'teki uygulamalar her hâlde haksız sayılır. Ekin başlığı "Haksız Ticari Uygulama Olarak Kabul Edilen Örnek Uygulamalar"dır ve aldatıcı ile saldırgan uygulamalar olarak iki bölüme ayrılır. Listede yer alan uygulamalara örnek olarak şunlar gösterilebilir (Ceylan, s. 137–142):
 
@@ -111,17 +113,19 @@ Yönetmelik m. 28/4'e göre m. 29–31'deki uygulamalar ile Ek'teki uygulamalar 
 - Tüketicinin işyerinden ayrılamayacağı izlenimini vermek veya tüketicinin uyarısına rağmen evine yapılan ziyaretleri sürdürmek.
 - Mal veya hizmet alınmazsa satıcının işinin ya da geçiminin tehlikeye gireceğini söylemek.
 
-2022 değişikliğiyle otomatik yazılım kullanılarak etkinlik biletlerinin belirlenen limitler dışında satın alınıp tüketiciye yeniden satışa sunulması ile internet arayüz tasarımı, seçenekler veya ifadelerle tüketicinin karar verme iradesini olumsuz etkileyen uygulamalar da listeye eklenmiştir. Liste birden fazla değişiklik geçirdiğinden bent numarasıyla atıf yapılacaksa fiil tarihindeki metin ayrıca kontrol edilmelidir.
+2022 değişikliğiyle otomatik yazılım kullanılarak etkinlik biletlerinin belirlenen limitler dışında satın alınıp tüketiciye yeniden satışa sunulması ile internet arayüz tasarımı, seçenekler veya ifadelerle tüketicinin karar verme iradesini olumsuz etkileyen uygulamalar da listeye eklenmiştir.
 
 İnternet ticaretine özgü hükümler de bu bölümle ilişkilidir. Fiyat veya nitelik karşılaştırmasına dayalı sıralamalarda sıralama ölçütleri kolayca görülebilmeli, ücretli sıralamalar "reklam" ibaresi taşımalıdır (m. 28/A). Tüketici değerlendirmeleri en az bir yıl yayımda tutulmalı, satışı artırmak için sahte değerlendirme anlaşması yapılmamalıdır (m. 28/B). Şikâyet platformları ise 2026 değişikliğinden sonra satıcıya yayımdan önce kırk sekiz saatlik cevap süresi tanımak zorundadır (m. 28/C).
 
 ## Reklam Kurulu, idari yaptırımlar ve şikâyet
 
-M. 63/1'e göre Reklam Kurulu, ticari reklamlarda uyulacak ilkeleri belirler, haksız ticari uygulamalara karşı tüketiciyi koruyucu düzenlemeler yapar ve bu çerçevede inceleme ve denetim yapar. İnceleme sonucuna göre durdurma, aynı yöntemle düzeltme, idari para cezası veya gerekli görülen hâllerde üç aya kadar tedbiren durdurma cezası verir. Kurul kararları Bakanlıkça uygulanır ve tüketicilerin bilgilendirilmesi amacıyla Bakanlıkça açıklanır.
+M. 63/1'e göre Reklam Kurulu, ticari reklamlarda uyulacak ilkeleri belirler, haksız ticari uygulamalara karşı tüketiciyi koruyucu düzenlemeler yapar ve bu çerçevede inceleme ve denetim yapar. İnceleme sonucuna göre durdurma, aynı yöntemle düzeltme, idari para cezası veya gerekli görülen hâllerde üç aya kadar tedbiren durdurma cezası ya da içeriğin çıkarılması ve/veya erişimin engellenmesi kararı verir; bu son yaptırım 7511 sayılı Kanunla (RG 29.5.2024, S. 32560) eklenmiştir. Kurul kararları Bakanlıkça uygulanır; kararların Bakanlıkça açıklanması da m. 63'te ayrıca düzenlenmiştir. Kurulun üye yapısı 7587 sayılı Kanunla (RG 1.7.2026, S. 33297) değiştirilmiş, Kurulun inceleme ve yaptırım yetkilerine ilişkin hükümlere ise dokunulmamıştır.
 
-Yaptırımların dayanağı m. 77'dir. M. 77/12, m. 61'e aykırı davranan reklam verenler, reklam ajansları ve mecra kuruluşları hakkındadır. M. 77/13 ise m. 62'ye aykırı haksız ticari uygulamalar için üç aya kadar tedbiren durdurma, durdurma veya idari para cezası öngörür; aykırılık reklam yoluyla gerçekleşmişse 12. fıkra uygulanır. Kurul bu yaptırımları ihlalin niteliğine göre birlikte veya ayrı ayrı verebilir. Para cezası tutarları değişken olduğundan burada rakam verilmemiştir.
+Yaptırımların dayanağı m. 77'dir. M. 77/12, m. 61'e aykırı davranan reklam verenler, reklam ajansları ve mecra kuruluşları hakkındadır. M. 77/13 ise m. 62'ye aykırı haksız ticari uygulamalar için üç aya kadar tedbiren durdurma, durdurma veya idari para cezası öngörür; aykırılık reklam yoluyla gerçekleşmişse 12. fıkra uygulanır. Kurul bu yaptırımları ihlalin niteliğine göre birlikte veya ayrı ayrı verebilir.
 
-7529 sayılı Kanun (RG 30.10.2024, S. 32707) m. 77'deki ceza sınırlarını yeniden düzenlemiş ve Reklam Kurulunun cezayı belirlerken aykırılığın haksızlık içeriği, elde edilen menfaat veya neden olunan zarar, kusur ve ekonomik durum gibi hususları gözeteceğini hükme bağlamıştır. M. 77/12'ye 7392 sayılı Kanunla eklenen ve internet ortamındaki ihlallerde erişimin engellenmesini öngören cümleler ise Anayasa Mahkemesinin 13.9.2023 tarihli, E.2022/70, K.2023/152 sayılı kararıyla iptal edilmiş; karar 27.10.2023 tarihli ve 32352 sayılı Resmî Gazete'de yayımlanmış ve iptal yayımdan dokuz ay sonra yürürlüğe girmiştir. Sonraki dönemde bu konuda yeni bir düzenleme yapılıp yapılmadığı, dosyanın tarihindeki konsolide metinden kontrol edilmelidir.
+7529 sayılı Kanun (RG 30.10.2024, S. 32707) m. 77/12 ve 13'teki para cezalarını alt ve üst sınırlı biçimde yeniden düzenlemiş ve Reklam Kurulunun bu sınırlar arasında cezayı belirlerken aykırılığın haksızlık içeriği, elde edilen menfaatin veya neden olunan zararın büyüklüğü ile aykırılığı gerçekleştirenin kusuru ve ekonomik durumu gibi hususları dikkate alacağını hükme bağlamıştır.
+
+İnternet ortamındaki ihlaller bakımından m. 77/12'ye 7392 sayılı Kanunla eklenen erişim engeli cümleleri, Anayasa Mahkemesinin 13.9.2023 tarihli, E.2022/70, K.2023/152 sayılı kararıyla iptal edilmiştir; karar 27.10.2023 tarihli ve 32352 sayılı Resmî Gazete'de yayımlanmış, iptal yayımdan dokuz ay sonra yürürlüğe girmiştir. İptal hükmü yürürlüğe girmeden 7511 sayılı Kanun, m. 77/12'nin beşinci ila dokuzuncu cümlelerini yeniden yazmıştır. Buna göre Kurul önce internet sayfasındaki iletişim araçları, alan adı, IP adresi gibi bilgiler üzerinden muhataba içeriğin çıkarılması için bildirimde bulunur; bildirime rağmen içerik yirmi dört saat içinde çıkarılmazsa, bildirim yapılamıyorsa doğrudan, erişimin engellenmesine karar verebilir. Erişim engeli esas olarak ihlalin gerçekleştiği içerikle sınırlıdır; bu teknik olarak mümkün değilse veya ihlal bu yolla önlenemiyorsa sitenin tümüne yönelik karar verilebilir ve karar Erişim Sağlayıcıları Birliğine gönderilir.
 
 Şikâyet yolu Ticaret Bakanlığı Reklam Kurulu Başkanlığına yazılı olarak veya e-Devlet üzerindeki "Reklam ve Haksız Ticari Uygulama Şikayeti" hizmetiyle işler. Bakanlığın açıklamasına göre tüketiciler, kurum ve kuruluşlar ve rakip firmalar başvurabilir; Başkanlık re'sen de inceleme başlatabilir. Başvuruda gerçek kişiler için ad, soyad, T.C. kimlik numarası ve adres, tüzel kişiler için unvan ve adres bulunmalıdır; bu bilgileri içermeyen başvuru değerlendirmeye alınmaz. Reklam şikâyetinde reklamın yayımlandığı mecra ve tarih, haksız ticari uygulama şikâyetinde ise ilgili bilgi ve belgeler bildirilir. Basılı reklamın aslı, mümkün değilse görüntüsü dilekçeye eklenir.
 
@@ -129,11 +133,11 @@ Yaptırımların dayanağı m. 77'dir. M. 77/12, m. 61'e aykırı davranan rekla
 
 TKHK, m. 62'ye aykırılığın sözleşmeye etkisini ayrıca düzenlememiştir (Ceylan, s. 142). Bu nedenle tüketicinin sözleşmeden kurtulma talebi genel hükümlere dayanır. TBK m. 36/1'e göre karşı tarafın aldatmasıyla sözleşme yapan taraf, yanılgısı esaslı olmasa bile sözleşmeyle bağlı değildir. Aldatma üçüncü kişiden geliyorsa karşı tarafın bunu bilmesi veya bilebilecek durumda olması aranır (m. 36/2). Saldırgan uygulamalarda TBK m. 37'deki korkutma hükümleri gündeme gelir.
 
-Öğretide TBK hükümlerine başvurulabilmesi için aldatmanın kasıtlı olması ve sözleşmenin kurulmuş olması gerektiği belirtilir (Ceylan, s. 144). Bu nokta önemlidir: m. 62 kusur aramayan bir idari yasak koyarken TBK m. 36 kasıtlı aldatmayı arar. Kanaatimizce Yönetmelik m. 29'daki aldatıcı eylem tespiti, özellikle Kurul kararıyla belgelenmişse, kastın ispatında güçlü bir karine işlevi görür; ancak tek başına TBK m. 36'nın bütün unsurlarını karşılamaz.
+Öğretide TBK hükümlerine başvurulabilmesi için aldatmanın kasıtlı olması ve sözleşmenin kurulmuş olması gerektiği belirtilir (Ceylan, s. 144). M. 62 kusur aramayan bir idari yasak koyarken TBK m. 36 kasıtlı aldatmayı arar. Kanaatimizce Yönetmelik m. 29'daki aldatıcı eylem tespiti, özellikle Kurul kararıyla belgelenmişse, kastın ispatında güçlü bir karine işlevi görür; ancak tek başına TBK m. 36'nın bütün unsurlarını karşılamaz.
 
-TBK m. 39/1 süreyi belirler. Aldatılan taraf aldatmayı öğrendiği, korkutulan taraf korkutmanın etkisinin kalktığı andan itibaren bir yıl içinde sözleşmeyle bağlı olmadığını bildirmez veya verdiğini geri istemezse sözleşmeyi onamış sayılır. Aynı hükmün ikinci fıkrasına göre onama, tazminat hakkını ortadan kaldırmaz. Asena Sinanoğlu da saldırgan uygulamalar bakımından aldatma sonucu yapılan sözleşmenin bir yıllık süre içinde iptal edilebileceğini ve aldatanın zararı tazminle yükümlü olduğunu belirtir ("Saldırgan Ticari Uygulamaların Tüketicinin Korunması Hukukunda İncelenmesi ve Konunun Haksız Rekabet Boyutu", İnÜHFD C. 13, S. 1, 2022, s. 1–15, s. 9).
+TBK m. 39/1 süreyi belirler. Aldatılan taraf aldatmayı öğrendiği, korkutulan taraf korkutmanın etkisinin kalktığı andan itibaren bir yıl içinde sözleşmeyle bağlı olmadığını bildirmez veya verdiğini geri istemezse sözleşmeyi onaylamış sayılır. Aynı hükmün ikinci fıkrasına göre aldatma veya korkutma hâlinde sözleşmenin onaylanmış sayılması, tazminat isteme hakkını ortadan kaldırmaz. Asena Sinanoğlu da saldırgan uygulamalar bakımından aldatma sonucu yapılan sözleşmenin bir yıllık süre içinde iptal edilebileceğini ve aldatanın zararı tazminle yükümlü olduğunu belirtir ("Saldırgan Ticari Uygulamaların Tüketicinin Korunması Hukukunda İncelenmesi ve Konunun Haksız Rekabet Boyutu", İnÜHFD C. 13, S. 1, 2022, s. 1–15, s. 9).
 
-İkinci dayanak TTK'daki haksız rekabet hükümleridir. TTK m. 55, kendisi, malları veya fiyatları hakkında gerçek dışı ya da yanıltıcı açıklama yapmayı ve müşterinin karar verme özgürlüğünü özellikle saldırgan satış yöntemleriyle sınırlamayı haksız rekabet hâlleri arasında sayar. M. 56/1 dava hakkını ekonomik çıkarları zarar gören veya tehlikeye düşen müşterilere de tanır. Tüketici tespit, men, maddi durumun ortadan kaldırılması ve kusur varsa tazminat isteyebilir; ancak araç ve malların imhasını isteyemez (m. 56/2; Sinanoğlu, s. 8). Davaların zamanaşımı, ilgilinin hakkın doğduğunu öğrendiği günden itibaren bir yıl ve her hâlde doğumundan itibaren üç yıldır (m. 60). Haksız rekabet davalarının ayrıntısı [haksız rekabet davası](/yazilar/haksiz-rekabet-davasi/) yazısındadır.
+İkinci dayanak TTK'daki haksız rekabet hükümleridir. TTK m. 54/2 tedarikçilerle müşteriler arasındaki ilişkileri etkileyen aldatıcı veya dürüstlük kuralına başka şekillerde aykırı davranış ve uygulamaları haksız sayar; m. 55, kendisi, malları veya fiyatları hakkında gerçek dışı ya da yanıltıcı açıklama yapmayı ve müşterinin karar verme özgürlüğünü özellikle saldırgan satış yöntemleriyle sınırlamayı haksız rekabet hâlleri arasında sayar. M. 56/1 dava hakkını ekonomik çıkarları zarar gören veya tehlikeye düşen müşterilere de tanır. Tüketici tespit, men, maddi durumun ortadan kaldırılması ve kusur varsa tazminat isteyebilir; ancak araç ve malların imhasını isteyemez (m. 56/2; Sinanoğlu, s. 7–9). Davaların zamanaşımı, ilgilinin hakkın doğduğunu öğrendiği günden itibaren bir yıl ve her hâlde doğumundan itibaren üç yıldır (m. 60). Haksız rekabet davalarının ayrıntısı [haksız rekabet davası](/yazilar/haksiz-rekabet-davasi/) yazısındadır.
 
 Öğretide haksız rekabet kurallarının sözleşme hukukunun yerini almadığı, aldatılan tüketicinin sözleşmenin geçersizliğini yalnızca haksız rekabet hükümlerine dayanarak ileri süremeyeceği belirtilmektedir (Aksoy, s. 285). Bu nedenle sözleşmeden kurtulma talebi TBK m. 36–39'a, uygulamanın durdurulması ve zararın giderilmesi talepleri TTK m. 56'ya dayandırılmalıdır. Sözleşme hükmünün kendisi haksızsa ayrıca [tüketici sözleşmesinde haksız şart](/yazilar/tuketici-sozlesmesinde-haksiz-sart/) denetimi gündeme gelir.
 
