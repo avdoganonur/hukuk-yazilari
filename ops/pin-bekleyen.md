@@ -48,3 +48,5 @@ Son planlanan pin: 15.11.2026 11:00 (garanti-sozlesmesi-ve-teminat-mektubu). Met
 - hukuk-davasinda-tanik-delili (24.11)
 - tuketicilere-yonelik-haksiz-ticari-uygulamalar (25.11)
 - edinilmis-mallara-katilmada-deger-artis-payi (25.11)
+- haczedilen-tasinmazin-satis-sureci (26.11)
+- kiracinin-sozlesmeye-aykiri-erken-tahliyesi (26.11)
