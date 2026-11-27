@@ -13,6 +13,8 @@ dayanak:
     baglanti: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5237&MevzuatTur=1&MevzuatTertip=5"
   - ad: "5237 sayılı Türk Ceza Kanunu m. 73"
     not: "Soruşturulması ve kovuşturulması şikâyete bağlı suçlar, altı aylık süre"
+  - ad: "5237 sayılı Türk Ceza Kanunu m. 116"
+    not: "Konut dokunulmazlığının ihlali"
   - ad: "5237 sayılı Türk Ceza Kanunu m. 141"
     not: "Hırsızlık"
   - ad: "5237 sayılı Türk Ceza Kanunu m. 151"
@@ -48,7 +50,7 @@ sss:
     cevap: "Birinci fıkra şikâyet hakkını suçtan zarar görene tanır. Öğretide mağdurun, taşınmaz üzerinde hakka dayanan fiilî hâkimiyeti bulunan kişi olduğu, bu nedenle malikin yanında zilyedin de mağdur olabileceği belirtilmektedir. Zilyet yardımcılarının mağdur sayılmayacağı görüşü de aynı kaynakta savunulmaktadır."
   - soru: "Uzlaştırma yapılmadan iddianame düzenlenirse ne olur?"
     cevap: "Birinci fıkradaki suç şikâyete bağlı olduğundan CMK m. 253/1-a uyarınca uzlaştırma kapsamındadır. Öğretide, uzlaştırma yapılmadan düzenlenen iddianamenin iade edilmesi gerektiği belirtilmektedir. Dava açılmışsa kovuşturma evresinde uzlaştırma CMK m. 254 uyarınca gündeme gelir."
-  - soru: "Fail eşim veya kardeşimse ne olur?"
+  - soru: "Fail mağdurun eşi veya kardeşiyse ne olur?"
     cevap: "TCK m. 154, malvarlığına karşı suçlar bölümünde yer aldığından m. 167 uygulanır. Hakkında ayrılık kararı verilmemiş eş, üstsoy, altsoy veya bu derecede kayın hısımı, evlat edinen veya evlatlık ya da aynı konutta beraber yaşayan kardeş zararına işlendiğinde cezaya hükmolunmaz. Aynı konutta yaşamayan kardeş gibi m. 167/2'de sayılan kişiler bakımından ise şikâyet üzerine verilecek ceza yarı oranında indirilir."
 ---
 Başkasının arsasına duvar örülmesi, tarlanın bir şeridinin sürülüp ekilmesi, sınır taşlarının sökülmesi ya da bahçe kapısına kilit vurulması gibi olaylarda hak sahibi çoğu zaman önce savcılığa başvurmak ister. Oysa bu fiillerin bir kısmı TCK m. 154'ün tipine girmez; girenlerde de ceza soruşturması taşınmazın geri alınmasını tek başına sağlamaz. Bu yazı, hakkı olmayan yere tecavüz suçunun güncel lafzını, şikâyet ve uzlaştırma rejimini, paydaşlar arasındaki uyuşmazlıkları, yakın suçlarla ayrımı ve hukuk yollarıyla ilişkisini ele alır.
@@ -67,19 +69,19 @@ Fıkrada üç seçimlik hareket vardır:
 
 İkinci fıkra köy ortak yerlerini korur. Köy tüzel kişiliğine ait olduğunu veya öteden beri köylünün ortak yararlanmasına terk edilmiş bulunduğunu bilerek mera, harman yeri, yol ve sulak gibi taşınmaz malları kısmen veya tamamen zapt eden, bunlar üzerinde tasarrufta bulunan veya sürüp eken kimse hakkında birinci fıkradaki cezalar uygulanır. Anayasa Mahkemesi bu fıkraya yönelik itirazı reddetmiş, köylerdeki ortak kullanımın zorunluluğunu ve bireysel müdahalelerin doğurabileceği çatışmaları gözeterek bu fiillerin cezalandırılmasını kanun koyucunun takdirinde görmüştür (AYM, E.2014/131, K.2015/11, 14.1.2015).
 
-Üçüncü fıkraya göre kamuya veya özel kişilere ait suların mecrasını değiştiren kimse hakkında da birinci fıkradaki cezalar uygulanır. Öğretide bu hâlin bir sırf hareket suçu olduğu, menfaat elde edilmesinin veya zarar doğmasının aranmadığı, ancak suyun failin kendisine ait olmadığının bilinmesi gerektiği belirtilir (Yoldaş, Hakkı Olmayan Yere Tecavüz Suçu, Hacettepe Üniversitesi SBE, 2023, s. 147-148).
+Üçüncü fıkraya göre kamuya veya özel kişilere ait suların mecrasını değiştiren kimse hakkında da birinci fıkradaki cezalar uygulanır. Öğretide bu hâlin bir sırf hareket suçu olduğu, menfaat elde edilmesinin veya zarar doğmasının aranmadığı, ancak suyun failin kendisine ait olmadığının bilinmesi gerektiği belirtilir (Yoldaş, Hakkı Olmayan Yere Tecavüz Suçu, Hacettepe Üniversitesi SBE yüksek lisans tezi, 2023).
 
 Suç kasten işlenebilir; taksirli hâli düzenlenmemiştir. Davaya asliye ceza mahkemesi bakar; üst sınır üç yıl olduğundan suç ağır ceza mahkemesinin görev alanına girmez.
 
 ## Suçun konusu ve "malikmiş gibi" işgal
 
-Birinci fıkranın konusu başkasına ait taşınmaz ve eklentileridir. 5841 sayılı Kanunun komisyon gerekçesi, kamu mallarının idarece kamu gücüyle korunabileceğini ve 6831 sayılı Orman Kanunu, 3621 sayılı Kıyı Kanunu gibi özel düzenlemelerin bulunduğunu belirterek fıkrayı özel mülkiyete konu taşınmazlara yönelik müdahaleye özgülemiştir. Öğretide de bu değişiklikle kamuya ait taşınmazların birinci fıkranın konusu olmaktan çıktığı kabul edilir (Yoldaş, 2023, s. 5). Bu nedenle Hazine veya belediye taşınmazına yönelik bir fiilde önce hangi özel hükmün uygulanacağı araştırılmalıdır.
+Birinci fıkranın konusu başkasına ait taşınmaz ve eklentileridir. 5841 sayılı Kanuna esas kanun teklifinin gerekçesi, kamu mallarının idarece kamu gücüyle korunabileceğini ve 6831 sayılı Orman Kanunu, 3621 sayılı Kıyı Kanunu gibi özel düzenlemelerin bulunduğunu belirterek fıkrayı özel mülkiyete konu taşınmazlara yönelik müdahaleye özgülemiştir. Öğretide de bu değişiklikle kamuya ait taşınmazların birinci fıkranın konusu olmaktan çıktığı kabul edilir (Yoldaş, 2023). Bu nedenle Hazine veya belediye taşınmazına yönelik bir fiilde önce hangi özel hükmün uygulanacağı araştırılmalıdır.
 
 Öğretide mağdurun, taşınmaz üzerinde hakka dayanan fiilî hâkimiyeti bulunan kişi olduğu, malikin yanında zilyedin de mağdur olabileceği belirtilir. Tüzel kişilerin mağdur değil, suçtan zarar gören sıfatıyla yer alacağı da aynı kaynakta savunulur (Yoldaş, 2023). Şikâyet hakkı lafız gereği suçtan zarar görene ait olduğundan, şikâyetçinin sıfatı dosyanın başında tartışılmalıdır.
 
 "Malikmiş gibi" ibaresi uygulamada en çok tartışılan unsurdur. Kanaatimizce ibare, failin taşınmaz üzerinde kendini hak sahibi gibi konumlandıran ve belli bir süreklilik taşıyan bir hâkimiyet kurmasını anlatır. Taşınmazdan geçici olarak geçmek veya bir defalık kullanım çoğu zaman bu eşiğe ulaşmaz. Öğretide de tecavüzün süreklilik içermesi gerektiği vurgulanır. Sınırları değiştirme veya bozma hareketi için ise sabit ve belirgin bir sınırın bulunması aranır; sınırı belirsiz, kadastrosu tartışmalı bir arazide bu hareket kolay kurulamaz.
 
-Suç, yapısı gereği kesintisiz (mütemadi) niteliktedir. Öğretide iddianamenin kabulünün hukuki kesinti oluşturduğu, bundan sonra devam eden işgalin yeni bir suç sayılabileceği belirtilir (Yoldaş, 2023, s. 87-88). Bu tespit, aynı taşınmaz için ikinci bir şikâyetin mümkün olup olmadığı sorusunda önem taşır.
+Suç, yapısı gereği kesintisiz (mütemadi) niteliktedir. Öğretide iddianamenin kabulünün hukuki kesinti oluşturduğu, bundan sonra devam eden işgalin yeni bir suç sayılabileceği belirtilir (Yoldaş, 2023). Bu tespit, aynı taşınmaz için ikinci bir şikâyetin mümkün olup olmadığı sorusunda önem taşır.
 
 ## Paydaşlar ve hukuki uyuşmazlık sınırı
 
@@ -91,21 +93,21 @@ Paydaşlar arasında suçun oluşup oluşmayacağı en sık karşılaşılan sor
 
 Bu yön künyesiz olarak öğretide aktarılmaktadır (Yoldaş, 2023). Pratik sonucu açıktır: paydaşlar arası şikâyette fiilî taksimin veya kullanım anlaşmasının varlığı, varsa krokisi ve tanık beyanlarıyla dosyaya konmalıdır. Aksi hâlde uyuşmazlık ortaklığın giderilmesi ya da kullanım düzenlemesi gibi hukuk yollarına itilir.
 
-Daha genel bir sınır da vardır. Taraflar arasında hukuken geçerli bir sözleşme veya rıza varsa suç oluşmaz. Kira ilişkisinden doğan uyuşmazlıkların hukuki nitelikte olduğu ve beraat gerektirebileceği yönündeki uygulama öğretide aktarılmaktadır (Yoldaş, 2023, s. 108, 113). Süresi biten kiracının taşınmazı boşaltmaması bu nedenle kural olarak tahliye davasının konusudur.
+Daha genel bir sınır da vardır. Taraflar arasında hukuken geçerli bir sözleşme veya rıza varsa suç oluşmaz. Bir kira sözleşmesine dayanılarak kullanılan taşınmazda failin meşru bir hakka dayandığı kastıyla hareket ettiği gerekçesiyle beraat verildiğine ilişkin uygulama öğretide aktarılmaktadır (Yoldaş, 2023). Kanaatimizce süresi biten kiracının taşınmazı boşaltmaması da kural olarak tahliye davasının konusudur.
 
 ## Mala zarar verme, hırsızlık ve diğer suçlarla ayrım
 
-TCK m. 151 başkasının taşınır veya taşınmaz malını kısmen veya tamamen yıkan, tahrip eden, yok eden, bozan, kullanılamaz hâle getiren veya kirleten kişiyi cezalandırır. Ayrıntısı [mala zarar verme suçu](/yazilar/mala-zarar-verme-sucu/) yazısındadır. m. 154 ise taşınmaz üzerindeki hâkimiyeti ve yararlanmayı korur; zararı aramaz. İşgal sırasında duvar yıkılmış, ağaç kesilmişse iki suç birlikte gündeme gelir. Öğretide tek fiille iki suç oluşmuşsa farklı neviden fikri içtima kurallarının uygulanacağı, farklı zamanlarda gerçekleşen fiillerin ise ayrı ayrı cezalandırıldığı belirtilir (Yoldaş, 2023, s. 169-170).
+TCK m. 151 başkasının taşınır veya taşınmaz malını kısmen veya tamamen yıkan, tahrip eden, yok eden, bozan, kullanılamaz hâle getiren veya kirleten kişiyi cezalandırır. Ayrıntısı [mala zarar verme suçu](/yazilar/mala-zarar-verme-sucu/) yazısındadır. m. 154 ise taşınmaz üzerindeki hâkimiyeti ve yararlanmayı korur; zararı aramaz. İşgal sırasında duvar yıkılmış, ağaç kesilmişse iki suç birlikte gündeme gelir. Öğretide tek fiille iki suç oluşmuşsa farklı neviden fikri içtima kurallarının uygulanacağı, farklı zamanlarda gerçekleşen fiillerin ise ayrı ayrı cezalandırıldığı belirtilir (Yoldaş, 2023).
 
-Hırsızlığın konusu taşınır maldır (TCK m. 141/1). Taşınmazın kendisi çalınamaz; ancak taşınmazdan ayrılan taş, toprak, ağaç veya ürün taşınır hâle gelir. Öğretide bu tür alımların hırsızlık oluşturabileceği örnekleri verilir (Yoldaş, 2023, s. 170-171). Konutta veya eklentisinde gerçekleşen bir müdahalede konut dokunulmazlığının ihlali (m. 116) de değerlendirilmeli, aynı kaynağa göre fikri içtima hükümleri uygulanmalıdır.
+Hırsızlığın konusu taşınır maldır (TCK m. 141/1). Taşınmazın kendisi çalınamaz; ancak taşınmazdan ayrılan taş, toprak, ağaç veya ürün taşınır hâle gelir. Öğretide bu tür alımların hırsızlık oluşturabileceği örnekleri verilir (Yoldaş, 2023). Konutta veya eklentisinde gerçekleşen bir müdahalede konut dokunulmazlığının ihlali (m. 116) de değerlendirilmeli, aynı kaynağa göre fikri içtima hükümleri uygulanmalıdır.
 
-3091 sayılı Kanun m. 15 ise mülki amirin men kararından sonra yeniden tecavüzü ayrıca cezalandırır. Öğretide bu hükmün m. 154 karşısında tali norm niteliğinde olduğu belirtilir (Yoldaş, 2023, s. 163-164).
+3091 sayılı Kanun m. 15 ise mülki amirin men kararından sonra yeniden tecavüzü ayrıca cezalandırır. Öğretide bu hükmün m. 154 karşısında kural olarak tali norm niteliğinde olduğu belirtilir; aksi yöndeki görüşler de aynı kaynakta aktarılır (Yoldaş, 2023).
 
 TCK m. 154 malvarlığına karşı suçlar bölümünde yer aldığından m. 167'deki şahsi cezasızlık ve indirim hâlleri bu suçta da uygulanır.
 
 ## Usul
 
-Şikâyet ve süre. Birinci fıkradaki suç şikâyete bağlıdır. Şikâyet, TCK m. 73 uyarınca fiil ve failin öğrenildiği günden itibaren altı ay içinde yapılmalıdır. Suçun kesintisiz niteliği karşısında sürenin başlangıcı somut olayda tartışılabilir; kanaatimizce öğrenme tarihini gösteren belgeyi dosyaya koymak bu tartışmayı baştan sınırlar. Ayrıntı için [şikâyet süresi](/yazilar/sikayet-suresi/) yazısına bakılabilir. İkinci ve üçüncü fıkralarda şikâyet şartı yer almaz; bu fiiller kanaatimizce re'sen soruşturulur. Öğretide köy yoluna tecavüzün herhangi bir şikâyet ve başvuru şartına bağlı olmaksızın yaptırım altına alındığına ilişkin uygulama aktarılmaktadır (Yoldaş, 2023, s. 119).
+Şikâyet ve süre. Birinci fıkradaki suç şikâyete bağlıdır. Şikâyet, TCK m. 73 uyarınca fiil ve failin öğrenildiği günden itibaren altı ay içinde yapılmalıdır. Suçun kesintisiz niteliği karşısında sürenin başlangıcı somut olayda tartışılabilir; kanaatimizce öğrenme tarihini gösteren belgeyi dosyaya koymak bu tartışmayı baştan sınırlar. Ayrıntı için [şikâyet süresi](/yazilar/sikayet-suresi/) yazısına bakılabilir. İkinci ve üçüncü fıkralarda şikâyet şartı yer almaz; bu fiiller kanaatimizce re'sen soruşturulur. Öğretide köy yoluna tecavüzün herhangi bir şikâyet ve başvuru şartına bağlı olmaksızın yaptırım altına alındığına ilişkin uygulama aktarılmaktadır (Yoldaş, 2023).
 
 Uzlaştırma. CMK m. 253/1-a, soruşturulması ve kovuşturulması şikâyete bağlı suçları uzlaştırma kapsamına alır. Birinci fıkradaki suç bu nedenle uzlaştırmaya tabidir. 7571 sayılı Kanun m. 253'te değişiklik yapmış, ancak m. 154'e ilişkin bir düzenleme getirmemiştir. İkinci ve üçüncü fıkralar şikâyete bağlı olmadığından ve m. 253/1-b listesinde sayılmadığından uzlaştırma kapsamı dışındadır. Süreç için [uzlaştırma nedir](/yazilar/uzlastirma-nedir/) yazısına bakılabilir.
 
@@ -113,7 +115,7 @@ Görev ve deliller. Görevli mahkeme asliye ceza mahkemesidir (5235 sayılı Kan
 
 Hukuk yolları. Ceza soruşturması taşınmazın iadesini kendiliğinden sağlamaz. Malik, TMK m. 683'e dayanan [el atmanın önlenmesi davası](/yazilar/el-atmanin-onlenmesi-davasi/) açabilir. Zilyet, TMK m. 982 ve 983'teki [zilyetliğin korunması davalarına](/yazilar/zilyetligin-korunmasi-davalari/) başvurabilir; 3091 sayılı Kanun'a göre mülki amire başvuru da bu yazıda anlatılmıştır. Haksız kullanım süresi için [ecrimisil](/yazilar/ecrimisil-haksiz-isgal-tazminati/) ayrıca istenebilir.
 
-HAGB ve erteleme. Alt sınır altı ay, üst sınır üç yıl olduğundan sonuç ceza çoğu dosyada iki yıl veya daha az kalır. CMK m. 231, 7589 sayılı Kanunla değişik hâliyle 31.07.2026'dan itibaren yeni metniyle uygulanır; iki yıl veya daha az hapis ya da adli para cezası, kasıtlı suçtan önceki mahkûmiyet bulunmaması, yeniden suç işlemeyeceği kanaati ve zararın tamamen giderilmesi şartları aranır. HAGB kararına karşı istinaf yoluna başvurulabilir. Kanaatimizce bu suçta zararın giderilmesi, taşınmazın boşaltılması veya sınırların eski hâline getirilmesiyle somutlaşır. TCK m. 51'deki erteleme yalnız hapis cezası için mümkündür; birlikte hükmolunan adli para cezası erteleme kapsamı dışında kalır. Uzlaştırmaya tabi birinci fıkra bakımından CMK m. 231'deki uzlaşmaya ilişkin hükümler saklıdır.
+HAGB ve erteleme. Alt sınır altı ay, üst sınır üç yıl olduğundan sonuç ceza çoğu dosyada iki yıl veya daha az kalabilir. CMK m. 231, 7589 sayılı Kanunla değişik hâliyle 31.07.2026'dan itibaren yeni metniyle uygulanır; iki yıl veya daha az hapis ya da adli para cezası, kasıtlı suçtan önceki mahkûmiyet bulunmaması, yeniden suç işlemeyeceği kanaati ve zararın tamamen giderilmesi şartları aranır. HAGB kararına karşı istinaf yoluna başvurulabilir. Kanaatimizce bu suçta zararın giderilmesi, taşınmazın boşaltılması veya sınırların eski hâline getirilmesiyle somutlaşır. TCK m. 51'deki erteleme yalnız hapis cezası için mümkündür; birlikte hükmolunan adli para cezası erteleme kapsamı dışında kalır. Uzlaştırmaya tabi birinci fıkra bakımından CMK m. 231'deki uzlaşmaya ilişkin hükümler saklıdır.
 
 ## Dilekçede ve dosyada dikkat edilecekler
 
