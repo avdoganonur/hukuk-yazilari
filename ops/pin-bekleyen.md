@@ -50,3 +50,5 @@ Son planlanan pin: 15.11.2026 11:00 (garanti-sozlesmesi-ve-teminat-mektubu). Met
 - edinilmis-mallara-katilmada-deger-artis-payi (25.11)
 - haczedilen-tasinmazin-satis-sureci (26.11)
 - kiracinin-sozlesmeye-aykiri-erken-tahliyesi (26.11)
+- hakki-olmayan-yere-tecavuz-sucu (27.11)
+- isverenin-talimat-hakki-ve-sinirlari (27.11)
